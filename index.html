@@ -32,6 +32,10 @@
       font-size: 13px;
     }
 
+    .banner-right input#saveNote {
+      min-width: 260px;
+    }
+
     .btn {
       background: #22c55e; border: none; border-radius: 999px;
       padding: 6px 14px; cursor: pointer; font-weight: bold;
@@ -162,6 +166,10 @@
   <div class="banner-right">
     <label for="displayName">Tu nombre:</label>
     <input id="displayName" type="text" placeholder="Ej: Saimus">
+
+    <label for="saveNote" style="margin-left:10px;">Nota:</label>
+    <input id="saveNote" type="text" placeholder="Ej: Revisado hasta la línea 2500">
+
     <button id="saveBtn" class="btn">💾 Guardar</button>
   </div>
 </header>
@@ -214,6 +222,7 @@
   const activityListEl = document.getElementById("activityList");
   const lastTouchedLabelEl = document.getElementById("lastTouchedLabel");
   const displayNameEl = document.getElementById("displayName");
+  const saveNoteEl = document.getElementById("saveNote");
   const saveBtnEl = document.getElementById("saveBtn");
 
   // === UTILIDADES ===
@@ -277,11 +286,23 @@
 
   // === HISTORIAL (últimos 5 guardados) ===
 
-  function extraerNombreDeMensaje(message) {
-    // Mensaje esperado: "Edición en XXX por NOMBRE"
-    const match = message.match(/por (.+)$/);
-    if (match && match[1]) return match[1].trim();
-    return null;
+  function extraerNombreYNotaDeMensaje(message) {
+    // Mensaje esperado: "Edición en XXX por NOMBRE | Nota: TEXTO"
+    let nombre = null;
+    let nota = null;
+
+    const partesNota = message.split("| Nota:");
+    const partePrincipal = partesNota[0] || "";
+    if (partesNota[1]) {
+      nota = partesNota[1].trim();
+    }
+
+    const matchNombre = partePrincipal.match(/por (.+)$/);
+    if (matchNombre && matchNombre[1]) {
+      nombre = matchNombre[1].trim();
+    }
+
+    return { nombre, nota };
   }
 
   async function loadCommits() {
@@ -300,14 +321,17 @@
 
       commits.slice(0, 5).forEach((c, i) => {
         const message = c.commit.message || "";
-        const nameFromMsg = extraerNombreDeMensaje(message);
-        const displayName = nameFromMsg || (c.commit.author && c.commit.author.name) || "Desconocido";
+        const { nombre, nota } = extraerNombreYNotaDeMensaje(message);
+
+        const displayName = nombre || (c.commit.author && c.commit.author.name) || "Desconocido";
+        const noteText = nota || "Sin nota";
 
         const date = new Date(c.commit.author.date).toLocaleString("es-ES");
 
         const li = document.createElement("li");
         li.className = "activity-item";
-        li.innerHTML = `<div>${displayName}</div>
+        li.innerHTML = `<div style="font-weight:bold;">${displayName}</div>
+                        <div style="font-size:12px;color:#cbd5e1">${noteText}</div>
                         <div style="font-size:11px;color:#9ca3af">${date}</div>`;
         activityListEl.appendChild(li);
 
@@ -354,6 +378,7 @@
 
   async function saveFile() {
     const displayName = (displayNameEl.value || "").trim() || "Anónimo";
+    const note = (saveNoteEl.value || "").trim() || "Sin nota";
     const token = getToken();
 
     if (!token) {
@@ -378,7 +403,7 @@
           "Content-Type": "application/json"
         },
         body: JSON.stringify({
-          message: `Edición en ${currentFile} por ${displayName}`,
+          message: `Edición en ${currentFile} por ${displayName} | Nota: ${note}`,
           content: encodeBase64(fileContentEl.value),
           sha: currentFileSha,
           branch: GITHUB_BRANCH
@@ -433,4 +458,5 @@
 
 </body>
 </html>
+
 
