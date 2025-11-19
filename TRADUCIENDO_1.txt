@@ -1,4 +1,4 @@
-# To localize this text for a particular language, Entra en www.SaimusGaming.es y disfruta del mejor contenido.
+# To localize this text for a particular language, Entra en www.SaimusGaming.es y disfruta del mejor contenido..
 # translate every second line of this file.
 [Map0]
 ......\wt[5] ......
@@ -3867,7 +3867,7 @@ Better get going!
 That's a TV.
 Eso es una TV.
 Mom has been cooking up some food. Smells delicious!
-Mom has been cooking up some food. Smells delicious!
+Mamá ha estado cocinando algo. ¡Huele delicioso!
 A comfortable breeze is coming from the window.
 A comfortable breeze is coming from the window.
 It's the box your running shoes came in. There are some instructions:
