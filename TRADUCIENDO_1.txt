@@ -1,4 +1,4 @@
-# To localize this text for a particular language, Saimusgaming.es
+# To localize this text for a particular language, Entra en www.SaimusGaming.es y disfruta del mejor contenido.
 # translate every second line of this file.
 [Map0]
 ......\wt[5] ......
