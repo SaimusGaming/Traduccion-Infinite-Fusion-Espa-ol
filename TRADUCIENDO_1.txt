@@ -6109,34 +6109,34 @@ No tip
 The shelves are filled with Pokemon goods!
 ¡Los estantes están llenos de productos Pokémon!
 Hello. You must be \PN.
-Hello. You must be \PN.
+Hola. Debes ser \PN.
 I've received a gift for you.\nHere you go!
-I've received a gift for you.\nHere you go!
+He recibido un regalo para ti.\n¡Aquí tienes!
 Have a nice day!
-Have a nice day!
+¡Que tengas un buen día!
 I need to stock up on potions to heal my Pokémon after battles.
-I need to stock up on potions to heal my Pokémon after battles.
+Necesito abastecerme de pociones para curar a mis Pokémon después de los combates.
 Oh, and I should get some Pokéballs too while I'm here!
-Oh, and I should get some Pokéballs too while I'm here!
+Oh, y también debería comprar unas Pokéballs mientras estoy aquí.
 Hello! How can I help you?
-Hello! How can I help you?
+¡Hola! ¿En qué puedo ayudarte?
 A parcel for Professor Oak? Yes of course, I've got it right here!
-A parcel for Professor Oak?  Yes of course, I've got it right here!
+¿Un paquete para el Profesor Oak? Ah Sí, por supuesto, lo tengo justo aquí.
 And as part of a special promotion, we're giving out free DNA Splicers with every parcel delivery. So here you go!
-And as part of a special promotion, we're giving out free DNA Splicers with every parcel delivery. So here you go!
+Y como parte de una promoción especial, estamos entregando Puntas ADN gratis con cada entrega de paquetes. ¡Así que aquí tienes!
 DNA Splicers are the hot new product, they're selling like hotcakes!
-DNA Splicers are the hot new product, they're selling like hotcakes!
+Los Punta ADN son el nuevo producto de moda, ¡se están vendiendo como pan caliente!
 Thank you, come again!
-Thank you, come again!
+¡Gracias, vuelve pronto!
 [Map82]
 TRAINER TIPS\nThe SECRET HOUSE is still ahead!
-TRAINER TIPS\nThe SECRET HOUSE is still ahead!
+CONSEJO DE ENTRENADOR\n¡La CASA SECRETA está más adelante!
 Go to the deepest part of the Safari Zone. You will win a prize!
-Go to the deepest part of the Safari Zone. You will win a prize!
+Ve a la parte más profunda de la Zona Safari. ¡Ganarás un premio!
 You can keep any item you find on the ground here. But, you'll run out of time if you try for all of them at once!
-You can keep any item you find on the ground here. But, you'll run out of time if you try for all of them at once!
+Puedes quedarte con cualquier objeto que encuentres en el suelo aquí. ¡Pero te quedarás sin tiempo si intentas recogerlos todos de una vez!
 Got a Pinsir? Want to trade it for my Heracross?
-Got a Pinsir? Want to trade it for my Heracross?
+¿Tienes un Pinsir? ¿Quieres cambiarlo por mi Heracross?
 That's too bad!
 ¡Qué mala suerte!
 OK, let's get started.
@@ -6144,7 +6144,7 @@ OK, let's get started.
 Thanks!
 ¡Gracias!
 Pinsir is great! And so strong too!
-Pinsir is great! And so strong too!
+¡Pinsir es genial! ¡Y además muy fuerte!
 Faaaaah!
 Faaaaah!
 Braaaagh!
@@ -6157,25 +6157,25 @@ No
 No
 [Map83]
 A documentary on nature is playing on the TV...
-A documentary on nature is playing on the TV...
+Un documental sobre la naturaleza está pasando en la TV...
 Better get going!
 ¡Más vale que me ponga en marcha!
 That's a TV.
 Eso es una TV.
 It's empty.
-It's empty.
+Está vacío.
 Coming up with nicknames is fun, but clever nicknames can be challenging.
-Coming up with nicknames is fun, but clever nicknames can be challenging.
+Poner apodos es divertido, pero inventar uno ingenioso puede ser desafíante.
 Such a nice plant.
-Such a nice plant.
+Qué planta tan bonita.
 Midoran: Raaaah!
-Midoran: Raaaah!
+Midoran: ¡Raaaah!
 Argh, I have a terrible headache...
-Argh, I have a terrible headache...
+Argh, tengo un dolor de cabeza terrible...
 Dad is the one who came up with Nidoran's nickname.
-Dad is the one who came up with Nidoran's nickname.
+Papá fue quien le puso el apodo de Nidoran.
 The name could be better, but it grew on me!
-The name could be better, but it grew on me!
+El nombre podría ser mejor, ¡pero al final terminó gustándome!
 Veedle: Prtt!
 Veedle: Prtt!
 [Map84]
@@ -6184,163 +6184,163 @@ Shreeeeek!
 There's nothing in here, what did you expect?
 No hay nada aquí, ¿qué esperabas?
 You want to know about the 2 kinds of caterpillar Pokémon?
-You want to know about the 2 kinds of caterpillar Pokémon?
+¿Quieres saber sobre los 2 tipos de Pokémon oruga?
 Caterpie has no poison, but Weedle does. Watch out for its Poison Sting!
-Caterpie has no poison, but Weedle does. Watch out for its Poison Sting!
+Caterpie no tiene veneno, pero Weedle sí. ¡Cuidado con su Aguijón Venenoso!
 Oh, OK then!
-Oh, OK then!
+¡Oh, de acuerdo!
 A foreign movie is playing on the TV...
-A foreign movie is playing on the TV...
+Una película extranjera está pasando en la tele...
 Better get going!
 ¡Más vale que me ponga en marcha!
 That's a TV.
 Eso es una TV.
 The Gym next door is always locked. There must be something shady going on ...
-The Gym next door is always locked. There must be something shady going on ...
+El Gimnasio de al lado siempre está cerrado. Debe haber algo sospechoso pasando...
 Yes
 Sí
 No
 No
 [Map85]
 Rrrroar! I'm working myself into a rage!
-Rrrroar! I'm working myself into a rage!
+¡Rrrroar! ¡Me estoy llenando de ira!
 Wargh!
-Wargh!
+¡Wargh!
 I'm still not worthy!
-I'm still not worthy!
+¡Aún no soy digno!
 Viridian Gym was closed for a long time, but now our Leader is back!
-Viridian Gym was closed for a long time, but now our Leader is back!
+El Gimnasio de Ciudad Verde estuvo cerrado por mucho tiempo, ¡pero ahora nuestro Líder ha vuelto!
 I was beaten?
-I was beaten?
+¿Fui derrotado?
 You can go onto Pokémon League only by defeating our Gym Leader!
-You can go onto Pokémon League only by defeating our Gym Leader!
+Solo puedes ir a la Liga Pokémon si derrotas a nuestro Líder de Gimnasio.
 Your Pokémon will cower in fear when I'm done with you!
-Your Pokémon will cower in fear when I'm done with you!
+¡Tus Pokémon temblarán de miedo cuando termine contigo!
 Yowch!
-Yowch!
+¡Auch!
 Wait! I was just careless!
-Wait! I was just careless!
+¡Espera! ¡Solo fui descuidado!
 Yo! Champ in making! Even I don't know the identity of the Gym Leader!
-Yo! Champ in making! Even I don't know the identity of the Gym Leader!
+¡Saludos, Futuro Campeón! ¡Ni yo conozco la identidad del Líder de Gimnasio!
 What? It's Giovanni?! I don't believe you!
-What? It's Giovanni?! I don't believe you!
+¿¡Qué!? ¿¡Es Giovanni!? ¡No te creo!
 Anyhow Trainers here like \V[5]-type Pokémon so you better be careful!
-Anyhow Trainers here like \V[5]-type Pokémon so you better be careful!
+Igual, a los Entrenadores de aquí les gustan los Pokémon de tipo \V[5], así que será mejor que tengas cuidado.
 Take this, you'll need it!
-Take this, you'll need it!
+¡Toma esto, lo necesitarás!
 This will be the toughest of all the Gym Leaders! I heard that the trainers here like \V[5]-type Pokémon!
-This will be the toughest of all the Gym Leaders! I heard that the trainers here like \V[5]-type Pokémon!
+¡Este será el más duro de todos los Líderes de Gimnasio! Escuché que los entrenadores de aquí usan Pokémon de tipo \V[5].
 Blow me away! Giovanni really was the Gym Leader here!
-Blow me away! Giovanni really was the Gym Leader here!
+¡No puede ser! ¡Giovanni realmente era el Líder de Gimnasio aquí!
 The Gym has been empty ever since Giovanni left. I wonder who'll take over next.
-The Gym has been empty ever since Giovanni left. I wonder who'll take over next.
+El Gimnasio ha estado vacío desde que Giovanni se fue. Me pregunto quién tomará el mando ahora.
 Karate is the ultimate form of martial arts!
-Karate is the ultimate form of martial arts!
+¡El Karate es la forma definitiva de las artes marciales!
 Atcho!
-Atcho!
+¡Atcho!
 If my Pokémon were as good at Karate as I...
-If my Pokémon were as good at Karate as I...
+Si mis Pokémon fueran tan buenos en Karate como yo...
 I'm the KARATE KING! Your fate rests with me!
-I'm the KARATE KING! Your fate rests with me!
+¡Soy el REY del KARATE! ¡Tu destino está en mis manos!
 Ayah!
-Ayah!
+¡Ayah!
 Pokémon League? You? Don't get cocky!
-Pokémon League? You? Don't get cocky!
+¿La Liga Pokémon? ¿Tú? ¡No te pongas engreído!
 Pokémon and I, we make wonderful music together!
-Pokémon and I, we make wonderful music together!
+Los Pokémon y yo hacemos una música maravillosa juntos.
 You are in perfect harmony!
-You are in perfect harmony!
+¡Están en perfecta armonía!
 Do you know the identity of our Gym Leader?
-Do you know the identity of our Gym Leader?
+¿Conoces la identidad de nuestro Líder de Gimnasio?
 That's right, our Leader was Giovanni himself!
-That's right, our Leader was Giovanni himself!
+Así es, ¡nuestro Líder era el propio Giovanni!
 Fwahahaha! This is my hideout! I planned to resurrect Team Rocket here! But, you have caught me again!
-Fwahahaha! This is my hideout! I planned to resurrect Team Rocket here! But, you have caught me again!
+¡Fwahahaha! ¡Este es mi escondite! ¡Planeaba revivir al Team Rocket aquí! ¡Pero me has atrapado otra vez!
 So be it! This time, I'm not holding back!
-So be it! This time, I'm not holding back!
+¡Así sea! ¡Esta vez no me contendré!
 Choose your five strongest Pokémon!
-Choose your five strongest Pokémon!
+¡Elige tus cinco Pokémon más fuertes!
 Once more, you shall face Giovanni the greatest trainer!
-Once more, you shall face Giovanni the greatest trainer!
+¡Una vez más, enfrentarás a Giovanni, el mejor entrenador!
 Ha! That was a truly intense fight! You have won! As proof, here is the EARTHBADGE!
-Ha! That was a truly intense fight! You have won! As proof, here is the EARTHBADGE!
+¡Ja! ¡Fue un combate realmente intenso! ¡Has ganado! Como prueba, aquí tienes la MEDALLA TIERRA!
 Having lost, I cannot face my underlings! Team Rocket is finished!
-Having lost, I cannot face my underlings! Team Rocket is finished! 
+Al perder, ¡no puedo mostrar mi rostro a mis subordinados! ¡El Team Rocket está acabado!
 The Earth Badge makes Pokémon of any level obey! It is evidence of your mastery as a Pokémon trainer!
-The Earth Badge makes Pokémon of any level obey! It is evidence of your mastery as a Pokémon trainer!
+La Medalla Tierra hace que los Pokémon de cualquier nivel obedezcan. ¡Es prueba de tu maestría como entrenador Pokémon!
 With it, you can enter the Pokémon League! It is my gift for your Pokémon League challenge!
-With it, you can enter the Pokémon League! It is my gift for your Pokémon League challenge!
+Con ella, ¡puedes entrar a la Liga Pokémon! Es mi regalo para tu desafío en la Liga Pokémon.
 Please also take this with you.
-Please also take this with you.
+Por favor, toma también esto contigo.
 TM26 is Earthquake. It will make your opponents beg for mercy.
-TM26 is Earthquake. It will make your opponents beg for mercy.
+La MT26 es Terremoto. Hará que tus oponentes rueguen por misericordia.
 I made it when I ran the Gym here, too long ago...
-I made it when I ran the Gym here, too long ago...
+La hice cuando manejaba el Gimnasio aquí, hace ya mucho tiempo...
 \C[3]\PN obtained 3 Premium Wonder Trade ticket!
-\C[3]\PN obtained 3 Premium Wonder Trade ticket!
+\C[3]\PN obtuvo 3 boletos Premium de Intercambio Sorprendente.
 Come back when you are ready for our battle.
-Come back when you are ready for our battle.
+Regresa cuando estés listo para nuestro combate.
 I will dedicate my life to the study of Pokémon!
-I will dedicate my life to the study of Pokémon!
+¡Dedicaré mi vida al estudio de los Pokémon!
 Heh! You must be running out of steam by now!
-Heh! You must be running out of steam by now!
+¡Heh! Ya debes estar quedándote sin energías.
 I ran out of gas!
-I ran out of gas!
+¡Me quedé sin combustible!
 The truly talented win with style!
-The truly talented win with style!
+Los verdaderamente talentosos ganan con estilo.
 I lost my grip!
-I lost my grip!
+¡Perdí el control!
 The Leader will scold me!
-The Leader will scold me!
+¡El Líder me va a regañar!
 [Map86]
 Viridian Forest ahead.
-Viridian Forest ahead.
+Bosque Verde más adelante.
 Trainer Tips: Is the game too slow for your liking? You can press the speed-up key in and out of battles to make it go faster!
-Trainer Tips: Is the game too slow for your liking? You can press the speed-up key in and out of battles to make it go faster!
+Consejo de Entrenador: ¿El juego es demasiado lento para tu gusto? ¡Puedes presionar la tecla de aceleración dentro y fuera de los combates para hacerlo más rápido!
 \PN!
 \PN!
 It's me, Prof. Oak's assistant!
-It's me, Prof. Oak's assistant!
+¡Soy yo, el asistente del Prof. Oak!
 I was doing some field work around here and I came across something incredible. You've really got to see this!
-I was doing some field work around here and I came across something incredible. You've really got to see this!
+Estaba haciendo trabajo de campo por aquí y me encontré con algo increíble. ¡Tienes que ver esto!
 It seems like there's an outbreak of wild Pokémon with <b>Hidden Abilities</b> on this route!
-It seems like there's an outbreak of wild Pokémon with <b>Hidden Abilities</b> on this route!
+¡Parece que hay un brote de Pokémon salvajes con <b>Habilidades Ocultas</b> en esta ruta!
 I saw one of them in this very patch of grass!
-I saw one of them in this very patch of grass!
+¡Vi uno de ellos en este mismo pedazo de hierba!
 You can tell when a route has a Hidden Ability outbreak by the way the wild Pokémon sparkle in battles.
-You can tell when a route has a Hidden Ability outbreak by the way the wild Pokémon sparkle in battles.
+Puedes darte cuenta de que una ruta tiene un brote de Habilidades Ocultas por la forma en que los Pokémon salvajes brillan en los combates.
 This is a very rare event. We're lucky to be witnessing it so close to home!
-This is a very rare event. We're lucky to be witnessing it so close to home!
+Este es un evento muy raro. ¡Somos afortunados de presenciarlo tan cerca de casa!
 But I don't expect it to last for a very long time either so you should try to catch one of these rare Pokémon while you still have the chance!
-But I don't expect it to last for a very long time either so you should try to catch one of these rare Pokémon while you still have the chance!
+Pero tampoco espero que dure mucho tiempo, así que deberías intentar atrapar uno de estos Pokémon raros mientras aún tienes la oportunidad.
 Well I better get back to the lab and tell the professor about this! Good luck with your Pokémon League challenge!
-Well I better get back to the lab and tell the professor about this! Good luck with your Pokémon League challenge!
+Bueno, será mejor que vuelva al laboratorio y le cuente al profesor sobre esto. ¡Buena suerte con tu desafío en la Liga Pokémon!
 [Map87]
 Ooh, my back hurts really bad.
-Ooh, my back hurts really bad.
+Ooh, me duele muchísimo la espalda.
 I'm lucky I have a Machoke here giving me massages!
-I'm lucky I have a Machoke here giving me massages!
+¡Qué suerte que tengo un Machoke aquí dándome masajes!
 Guuuh Guyaaauuuh!!
-Guuuh Guyaaauuuh!!
+¡Guuuh Guyaaauuuh!!
 There's a big pile of garbage in here. But it contains nothing useful.
-There's a big pile of garbage in here. But it contains nothing useful.
+Hay un gran montón de basura aquí. Pero no contiene nada útil.
 Hummmmmm... Hummmmmm...
 Hummmmmm... Hummmmmm...
 The Safari Zone makes it easy for everyone to catch lots of Pokémon.
-The Safari Zone makes it easy for everyone to catch lots of Pokémon.
+La Zona Safari facilita que todos puedan capturar muchos Pokémon.
 Because of this, almost everyone in this city keeps Pokémon as pets!
-Because of this, almost everyone in this city keeps Pokémon as pets!
+¡Por esto, casi todos en esta ciudad tienen Pokémon como mascotas!
 Grrrarah Ghagrraaaah!
-Grrrarah Ghagrraaaah!
+¡Grrrarah Ghagrraaaah!
 [Map88]
 Bug-type Pokémon are my passion.
-Bug-type Pokémon are my passion.
+Los Pokémon de tipo Bicho son mi pasión.
 \GMy favourite Bug-type move is Fury Cutter, of course.
-\GMy favourite Bug-type move is Fury Cutter, of course.
+\GMi movimiento de tipo Bicho favorito es Corte Furia, por supuesto.
 Do you know about Fury Cutter? It's a move that increases in power when you use it multiple times in a row.
-Do you know about Fury Cutter? It's a move that increases in power when you use it multiple times in a row.
+¿Conoces Corte Furia? Es un movimiento que aumenta su potencia cuando lo usas varias veces seguidas.
 \GI could teach it to your Pokémon for $\V[15] if you want... Does that sound good?
-\GI could teach it to your Pokémon for $\V[15] if you want... Does that sound good?
+\GPuedo enseñárselo a tu Pokémon por $\V[15] si quieres… ¿Te parece bien?
 Ta-da! Come back if you want me to teach it to another of your Pokémon!
 ¡Tachán! Vuelve si quieres que se lo enseñe a otro de tus Pokémon.
 That's too bad. Come back with $\V[15] if you want me to teach it to one of your Pokémon!
@@ -6348,18 +6348,18 @@ Qué lástima. Vuelve con $\V[15] si quieres que se lo enseñe a uno de tus Pok�
 You don't have enough money. Come back with $\V[15] if you want me to teach it to one of your Pokémon!
 No tienes suficiente dinero. Vuelve con $\V[15] si quieres que se lo enseñe a uno de tus Pokémon.
 Nope. There's nothing there.
-Nope. There's nothing there.
+Nope. No hay nada ahí.
 Yes
 Sí
 No
 No
 [Map89]
 Big Mushrooms are super rare and valuable.
-Big Mushrooms are super rare and valuable.
+Los Hongos Grandes son muy raros y valiosos.
 But be careful if you go hunting after them. They look exactly the same as Poison Mushrooms!
-But be careful if you go hunting after them. They look exactly the same as Poison Mushrooms!
+Pero ten cuidado si vas a buscarlos. ¡Se parecen exactamente a los Hongos Venenosos!
 Poison Mushrooms will work in a pinch if you need to heal your Pokémon, but you better have an antidote ready!
-Poison Mushrooms will work in a pinch if you need to heal your Pokémon, but you better have an antidote ready!
+Los Hongos Venenosos sirven en caso de emergencia si necesitas curar a tus Pokémon, ¡pero más vale que tengas un antídoto listo!
 There's nothing there.
 No hay nada allí.
 [Map90]
