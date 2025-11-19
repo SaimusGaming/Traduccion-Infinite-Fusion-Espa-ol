@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Traductor de archivo - SaimusGaming</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    body {
+      background: #050816;
+      color: #f5f5f5;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    header {
+      width: 100%;
+      padding: 10px 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background: linear-gradient(90deg, #5b21ff, #ec4899);
+      color: #fff;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+
+    .banner-left {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+    }
+
+    .banner-left span {
+      font-size: 14px;
+    }
+
+    .banner-left a {
+      color: #fff;
+      text-decoration: none;
+    }
+
+    .banner-left a:hover {
+      text-decoration: underline;
+    }
+
+    .banner-right {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+
+    .banner-right label {
+      font-size: 13px;
+      font-weight: 500;
+    }
+
+    .banner-right input[type="text"] {
+      padding: 5px 8px;
+      border-radius: 6px;
+      border: none;
+      min-width: 150px;
+      font-size: 13px;
+    }
+
+    .btn {
+      border: none;
+      border-radius: 999px;
+      padding: 6px 14px;
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+      background: #22c55e;
+      color: #020617;
+      transition: transform 0.08s ease, box-shadow 0.08s ease, background 0.2s ease;
+      box-shadow: 0 0 0 rgba(0,0,0,0);
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    .btn:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+      background: #16a34a;
+    }
+
+    .btn:active {
+      transform: translateY(0);
+      box-shadow: 0 1px 4px rgba(0,0,0,0.7);
+    }
+
+    main {
+      flex: 1;
+      display: flex;
+      gap: 16px;
+      padding: 16px;
+    }
+
+    .editor-container {
+      flex: 1;
+      background: #020617;
+      border-radius: 12px;
+      border: 1px solid #111827;
+      padding: 12px;
+      display: flex;
+      flex-direction: column;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+    }
+
+    .editor-header {
+      margin-bottom: 8px;
+      font-size: 13px;
+      color: #9ca3af;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .editor-header .file-name {
+      font-weight: 600;
+      color: #e5e7eb;
+    }
+
+    .editor-header small {
+      font-size: 11px;
+    }
+
+    textarea {
+      flex: 1;
+      width: 100%;
+      background: #020617;
+      color: #e5e7eb;
+      border-radius: 8px;
+      border: 1px solid #1f2933;
+      padding: 10px;
+      resize: vertical;
+      min-height: 350px;
+      font-family: "Fira Code", "JetBrains Mono", Consolas, monospace;
+      font-size: 14px;
+      line-height: 1.4;
+      outline: none;
+    }
+
+    textarea:focus {
+      border-color: #6366f1;
+      box-shadow: 0 0 0 1px rgba(99,102,241,0.5);
+    }
+
+    .sidebar {
+      width: 260px;
+      background: #020617;
+      border-radius: 12px;
+      border: 1px solid #111827;
+      padding: 12px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+    }
+
+    .sidebar-section-title {
+      font-size: 13px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #9ca3af;
+      border-bottom: 1px solid #111827;
+      padding-bottom: 4px;
+    }
+
+    .status-message {
+      font-size: 12px;
+      min-height: 16px;
+    }
+
+    .status-ok {
+      color: #4ade80;
+    }
+
+    .status-error {
+      color: #f97373;
+    }
+
+    .status-neutral {
+      color: #9ca3af;
+    }
+
+    .activity-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      margin-top: 6px;
+    }
+
+    .activity-item {
+      font-size: 12px;
+      padding: 6px 8px;
+      border-radius: 6px;
+      background: #020617;
+      border: 1px solid #111827;
+    }
+
+    .activity-item-main {
+      font-weight: 600;
+      color: #e5e7eb;
+    }
+
+    .activity-item-sub {
+      font-size: 11px;
+      color: #9ca3af;
+    }
+
+    .small-note {
+      font-size: 11px;
+      color: #6b7280;
+    }
+
+    @media (max-width: 900px) {
+      main {
+        flex-direction: column;
+      }
+      .sidebar {
+        width: 100%;
+        order: -1;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="banner-left">
+      <span>Banner SaimusGaming</span>
+      <span>Twitch: <a href="https://twitch.tv/saimusgaming" target="_blank">twitch.tv/saimusgaming</a></span>
+      <span>Web: <a href="https://saimusgaming.es" target="_blank">saimusgaming.es</a></span>
+    </div>
+    <div class="banner-right">
+      <label for="displayName">Tu nombre:</label>
+      <input id="displayName" type="text" placeholder="Ej: Saimus" />
+      <button id="saveBtn" class="btn">💾 Guardar</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="editor-container">
+      <div class="editor-header">
+        <div class="file-name" id="fileNameLabel">Archivo: RUTA/DEL/ARCHIVO.txt</div>
+        <small id="lastTouchedLabel">Última edición: cargando...</small>
+      </div>
+      <textarea id="fileContent" placeholder="Cargando archivo desde GitHub..."></textarea>
+      <div class="status-message status-neutral" id="statusMessage">
+        Para guardar cambios, escribe tu nombre arriba y pulsa “Guardar”.
+      </div>
+    </section>
+
+    <aside class="sidebar">
+      <div>
+        <div class="sidebar-section-title">Últimos movimientos</div>
+        <ul class="activity-list" id="activityList">
+          <li class="activity-item">
+            <div class="activity-item-main">Cargando historial...</div>
+          </li>
+        </ul>
+      </div>
+      <div class="small-note">
+        ⚠️ Cada persona debe usar su propio
+        <strong>GitHub Personal Access Token</strong> en su navegador.
+        No lo subas nunca al repositorio.
+      </div>
+    </aside>
+  </main>
+
+  <script>
+    // === CONFIGURACIÓN DEL REPO ===
+    const GITHUB_OWNER = "TU_USUARIO";                  // <-- tu usuario u organización
+    const GITHUB_REPO = "TU_REPO";                      // <-- nombre del repo
+    const GITHUB_BRANCH = "main";                       // <-- rama (por defecto main)
+    const GITHUB_FILE_PATH = "RUTA/DEL/ARCHIVO.txt";    // <-- ruta dentro del repo
+
+    const contentUrl =
+      `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${GITHUB_FILE_PATH}`;
+    const commitsUrl =
+      `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/commits?path=${encodeURIComponent(GITHUB_FILE_PATH)}&per_page=5`;
+
+    let currentFileSha = null;      // SHA del archivo (necesario para el PUT)
+    let githubToken = null;         // Token de GitHub que se usará sólo en el navegador
+
+    const fileContentEl = document.getElementById("fileContent");
+    const statusMessageEl = document.getElementById("statusMessage");
+    const activityListEl = document.getElementById("activityList");
+    const lastTouchedLabelEl = document.getElementById("lastTouchedLabel");
+    const displayNameEl = document.getElementById("displayName");
+    const saveBtnEl = document.getElementById("saveBtn");
+    const fileNameLabelEl = document.getElementById("fileNameLabel");
+
+    fileNameLabelEl.textContent = "Archivo: " + GITHUB_FILE_PATH;
+
+    function setStatus(message, type = "neutral") {
+      statusMessageEl.textContent = message;
+      statusMessageEl.className = "status-message status-" + type;
+    }
+
+    function decodeBase64(content) {
+      // GitHub devuelve el contenido en base64
+      try {
+        return atob(content.replace(/\n/g, ""));
+      } catch (e) {
+        console.error("Error decodificando base64:", e);
+        return "";
+      }
+    }
+
+    function encodeBase64(text) {
+      return btoa(text);
+    }
+
+    async function loadFile() {
+      setStatus("Cargando archivo desde GitHub...", "neutral");
+      try {
+        const res = await fetch(contentUrl + `?ref=${GITHUB_BRANCH}`);
+        if (!res.ok) {
+          throw new Error("Error HTTP " + res.status);
+        }
+        const data = await res.json();
+        currentFileSha = data.sha;
+        const decoded = decodeBase64(data.content);
+        fileContentEl.value = decoded;
+        setStatus("Archivo cargado. Puedes editar y luego guardar.", "ok");
+      } catch (err) {
+        console.error(err);
+        setStatus("No se pudo cargar el archivo. Revisa la configuración.", "error");
+      }
+    }
+
+    function formatDate(isoString) {
+      try {
+        const d = new Date(isoString);
+        return d.toLocaleString("es-ES", {
+          year: "numeric",
+          month: "2-digit",
+          day: "2-digit",
+          hour: "2-digit",
+          minute: "2-digit"
+        });
+      } catch {
+        return isoString;
+      }
+    }
+
+    async function loadLastCommits() {
+      try {
+        const res = await fetch(commitsUrl);
+        if (!res.ok) {
+          throw new Error("Error HTTP " + res.status);
+        }
+        const commits = await res.json();
+
+        activityListEl.innerHTML = "";
+
+        if (!Array.isArray(commits) || commits.length === 0) {
+          activityListEl.innerHTML =
+            '<li class="activity-item"><div class="activity-item-main">Sin historial todavía.</div></li>';
+          lastTouchedLabelEl.textContent = "Última edición: sin datos.";
+          return;
+        }
+
+        commits.forEach((commit, index) => {
+          const authorName =
+            (commit.commit && commit.commit.author && commit.commit.author.name) ||
+            (commit.author && commit.author.login) ||
+            "Desconocido";
+
+          const date =
+            (commit.commit && commit.commit.author && commit.commit.author.date) ||
+            "";
+
+          const li = document.createElement("li");
+          li.className = "activity-item";
+          li.innerHTML = `
+            <div class="activity-item-main">${authorName}</div>
+            <div class="activity-item-sub">${formatDate(date)}</div>
+          `;
+          activityListEl.appendChild(li);
+
+          if (index === 0) {
+            lastTouchedLabelEl.textContent =
+              "Última edición: " + authorName + " (" + formatDate(date) + ")";
+          }
+        });
+      } catch (err) {
+        console.error(err);
+        activityListEl.innerHTML =
+          '<li class="activity-item"><div class="activity-item-main">No se pudo cargar el historial.</div></li>';
+        lastTouchedLabelEl.textContent = "Última edición: error al cargar.";
+      }
+    }
+
+    function askForTokenIfNeeded() {
+      if (githubToken) return githubToken;
+
+      const stored = window.localStorage.getItem("githubTokenForTranslator");
+      if (stored) {
+        githubToken = stored;
+        return githubToken;
+      }
+
+      const token = window.prompt(
+        "Introduce tu GitHub Personal Access Token (con permiso 'repo' o 'contents'):\n" +
+        "Este token sólo se guardará en tu navegador."
+      );
+
+      if (token && token.trim() !== "") {
+        githubToken = token.trim();
+        // Si no quieres guardarlo, comenta la siguiente línea:
+        window.localStorage.setItem("githubTokenForTranslator", githubToken);
+      }
+      return githubToken;
+    }
+
+    async function saveFile() {
+      const displayName = displayNameEl.value.trim() || "Anónimo";
+
+      if (!currentFileSha) {
+        setStatus("Aún no se ha cargado el archivo. Espera un momento y vuelve a intentar.", "error");
+        return;
+      }
+
+      const token = askForTokenIfNeeded();
+      if (!token) {
+        setStatus("No se puede guardar sin token de GitHub.", "error");
+        return;
+      }
+
+      const newContent = fileContentEl.value;
+      const encoded = encodeBase64(newContent);
+
+      setStatus("Guardando cambios en GitHub...", "neutral");
+      saveBtnEl.disabled = true;
+
+      try {
+        const res = await fetch(contentUrl, {
+          method: "PUT",
+          headers: {
+            "Content-Type": "application/json",
+            "Authorization": `Bearer ${token}`,
+            "Accept": "application/vnd.github+json"
+          },
+          body: JSON.stringify({
+            message: `Edición de traducción por ${displayName}`,
+            content: encoded,
+            sha: currentFileSha,
+            branch: GITHUB_BRANCH
+          })
+        });
+
+        if (!res.ok) {
+          const errData = await res.json().catch(() => ({}));
+          console.error("Error al guardar:", errData);
+          throw new Error("Error HTTP " + res.status);
+        }
+
+        const data = await res.json();
+        currentFileSha = data.content.sha;
+
+        setStatus("Cambios guardados correctamente ✅", "ok");
+        // refrescamos el historial
+        loadLastCommits();
+      } catch (err) {
+        console.error(err);
+        setStatus("No se pudieron guardar los cambios. Revisa tu token o permisos.", "error");
+      } finally {
+        saveBtnEl.disabled = false;
+      }
+    }
+
+    // Eventos
+    saveBtnEl.addEventListener("click", saveFile);
+
+    window.addEventListener("DOMContentLoaded", () => {
+      loadFile();
+      loadLastCommits();
+
+      const storedName = window.localStorage.getItem("displayNameForTranslator");
+      if (storedName) displayNameEl.value = storedName;
+
+      displayNameEl.addEventListener("change", () => {
+        window.localStorage.setItem("displayNameForTranslator", displayNameEl.value.trim());
+      });
+    });
+  </script>
+</body>
+</html>
