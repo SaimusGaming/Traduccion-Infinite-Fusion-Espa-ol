@@ -5,510 +5,302 @@
   <title>Traductor de archivo - SaimusGaming</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <style>
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    }
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: system-ui, sans-serif; }
 
-    body {
-      background: #050816;
-      color: #f5f5f5;
-      min-height: 100vh;
-      display: flex;
-      flex-direction: column;
-    }
+    body { background: #050816; color: #f5f5f5; min-height: 100vh; display: flex; flex-direction: column; }
 
     header {
       width: 100%;
       padding: 10px 20px;
       display: flex;
-      align-items: center;
       justify-content: space-between;
       background: linear-gradient(90deg, #5b21ff, #ec4899);
       color: #fff;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.4);
       position: sticky;
       top: 0;
       z-index: 10;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.4);
     }
 
-    .banner-left {
-      display: flex;
-      flex-direction: column;
-      gap: 2px;
-      font-weight: 600;
-      letter-spacing: 0.5px;
-    }
-
-    .banner-left span {
-      font-size: 14px;
-    }
-
-    .banner-left a {
-      color: #fff;
-      text-decoration: none;
-    }
-
-    .banner-left a:hover {
-      text-decoration: underline;
-    }
-
-    .banner-right {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      flex-wrap: wrap;
-      justify-content: flex-end;
-    }
-
-    .banner-right label {
-      font-size: 13px;
-      font-weight: 500;
-    }
-
-    .banner-right input[type="text"] {
-      padding: 5px 8px;
-      border-radius: 6px;
-      border: none;
-      min-width: 150px;
-      font-size: 13px;
-    }
+    .banner-left { display: flex; flex-direction: column; }
+    .banner-right { display: flex; align-items: center; gap: 8px; }
 
     .btn {
-      border: none;
-      border-radius: 999px;
-      padding: 6px 14px;
-      font-size: 13px;
-      font-weight: 600;
-      cursor: pointer;
-      background: #22c55e;
-      color: #020617;
-      transition: transform 0.08s ease, box-shadow 0.08s ease, background 0.2s ease;
-      box-shadow: 0 0 0 rgba(0,0,0,0);
-      display: inline-flex;
-      align-items: center;
-      gap: 4px;
+      background: #22c55e; border: none; border-radius: 999px;
+      padding: 6px 14px; cursor: pointer; font-weight: bold;
     }
 
-    .btn:hover {
-      transform: translateY(-1px);
-      box-shadow: 0 4px 12px rgba(0,0,0,0.5);
-      background: #16a34a;
-    }
-
-    .btn:active {
-      transform: translateY(0);
-      box-shadow: 0 1px 4px rgba(0,0,0,0.7);
-    }
-
-    main {
-      flex: 1;
-      display: flex;
-      gap: 16px;
-      padding: 16px;
-    }
+    main { flex: 1; display: flex; padding: 16px; gap: 16px; }
 
     .editor-container {
       flex: 1;
       background: #020617;
+      padding: 12px;
       border-radius: 12px;
       border: 1px solid #111827;
-      padding: 12px;
       display: flex;
       flex-direction: column;
-      box-shadow: 0 8px 24px rgba(0,0,0,0.4);
     }
 
-    .editor-header {
-      margin-bottom: 8px;
-      font-size: 13px;
-      color: #9ca3af;
+    .file-tabs {
       display: flex;
-      justify-content: space-between;
-      align-items: center;
-      gap: 8px;
-      flex-wrap: wrap;
+      gap: 10px;
+      margin-bottom: 10px;
     }
 
-    .editor-header .file-name {
-      font-weight: 600;
+    .file-tab {
+      padding: 6px 12px;
+      border-radius: 6px;
+      cursor: pointer;
+      background: #1e1b4b;
+      border: 1px solid #4338ca;
       color: #e5e7eb;
+      font-size: 13px;
+      font-weight: 600;
     }
 
-    .editor-header small {
-      font-size: 11px;
+    .file-tab.active {
+      background: #6366f1;
+      border-color: #4f46e5;
+      color: white;
     }
 
     textarea {
       flex: 1;
-      width: 100%;
+      resize: vertical;
       background: #020617;
-      color: #e5e7eb;
       border-radius: 8px;
       border: 1px solid #1f2933;
       padding: 10px;
-      resize: vertical;
-      min-height: 350px;
-      font-family: "Fira Code", "JetBrains Mono", Consolas, monospace;
+      color: #e5e7eb;
+      font-family: "Fira Code", monospace;
       font-size: 14px;
-      line-height: 1.4;
-      outline: none;
-    }
-
-    textarea:focus {
-      border-color: #6366f1;
-      box-shadow: 0 0 0 1px rgba(99,102,241,0.5);
     }
 
     .sidebar {
       width: 260px;
       background: #020617;
+      padding: 12px;
       border-radius: 12px;
       border: 1px solid #111827;
-      padding: 12px;
-      display: flex;
-      flex-direction: column;
-      gap: 12px;
-      box-shadow: 0 8px 24px rgba(0,0,0,0.4);
     }
 
-    .sidebar-section-title {
-      font-size: 13px;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: 0.08em;
-      color: #9ca3af;
-      border-bottom: 1px solid #111827;
-      padding-bottom: 4px;
-    }
-
-    .status-message {
-      font-size: 12px;
-      min-height: 16px;
-    }
-
-    .status-ok {
-      color: #4ade80;
-    }
-
-    .status-error {
-      color: #f97373;
-    }
-
-    .status-neutral {
-      color: #9ca3af;
-    }
-
-    .activity-list {
-      list-style: none;
-      display: flex;
-      flex-direction: column;
-      gap: 8px;
-      margin-top: 6px;
-    }
+    .activity-list { list-style: none; display: flex; flex-direction: column; gap: 6px; }
 
     .activity-item {
-      font-size: 12px;
-      padding: 6px 8px;
-      border-radius: 6px;
-      background: #020617;
+      padding: 6px;
       border: 1px solid #111827;
+      border-radius: 6px;
+      background: #0f172a;
+      font-size: 12px;
     }
 
-    .activity-item-main {
-      font-weight: 600;
-      color: #e5e7eb;
-    }
-
-    .activity-item-sub {
-      font-size: 11px;
-      color: #9ca3af;
-    }
-
-    .small-note {
-      font-size: 11px;
-      color: #6b7280;
-    }
-
-    @media (max-width: 900px) {
-      main {
-        flex-direction: column;
-      }
-      .sidebar {
-        width: 100%;
-        order: -1;
-      }
-    }
+    .status-message { font-size: 12px; margin-top: 6px; }
+    .status-ok { color: #4ade80; }
+    .status-error { color: #f87171; }
+    .status-neutral { color: #9ca3af; }
   </style>
 </head>
 <body>
-  <header>
-    <div class="banner-left">
-      <span>Banner SaimusGaming</span>
-      <span>Twitch: <a href="https://twitch.tv/saimusgaming" target="_blank">twitch.tv/saimusgaming</a></span>
-      <span>Web: <a href="https://saimusgaming.es" target="_blank">saimusgaming.es</a></span>
-    </div>
-    <div class="banner-right">
-      <label for="displayName">Tu nombre:</label>
-      <input id="displayName" type="text" placeholder="Ej: Saimus" />
-      <button id="saveBtn" class="btn">💾 Guardar</button>
-    </div>
-  </header>
 
-  <main>
-    <section class="editor-container">
-      <div class="editor-header">
-        <div class="file-name" id="fileNameLabel">Archivo: TRADUCIENDO_ACTUAL.txt</div>
-        <small id="lastTouchedLabel">Última edición: cargando...</small>
-      </div>
-      <textarea id="fileContent" placeholder="Cargando archivo desde GitHub..."></textarea>
-      <div class="status-message status-neutral" id="statusMessage">
-        Para guardar cambios, escribe tu nombre arriba y pulsa “Guardar”.
-      </div>
-    </section>
+<header>
+  <div class="banner-left">
+    <span>Banner SaimusGaming</span>
+    <span>Twitch: <a href="https://twitch.tv/saimusgaming" target="_blank">twitch.tv/saimusgaming</a></span>
+    <span>Web: <a href="https://saimusgaming.es" target="_blank">saimusgaming.es</a></span>
+  </div>
 
-    <aside class="sidebar">
-      <div>
-        <div class="sidebar-section-title">Últimos movimientos</div>
-        <ul class="activity-list" id="activityList">
+  <div class="banner-right">
+    <label>Tu nombre:</label>
+    <input id="displayName" type="text" placeholder="Ej: Saimus">
+    <button id="saveBtn" class="btn">💾 Guardar</button>
+  </div>
+</header>
+
+<main>
+  <section class="editor-container">
+
+    <!-- TABS DE ARCHIVOS -->
+    <div class="file-tabs">
+      <div class="file-tab active" data-file="TRADUCIENDO_1.txt">Archivo 1</div>
+      <div class="file-tab" data-file="TRADUCIENDO_2.txt">Archivo 2</div>
+      <div class="file-tab" data-file="TRADUCIENDO_3.txt">Archivo 3</div>
+    </div>
+
+    <div class="editor-header">
+      <div class="file-name" id="fileNameLabel">Archivo: TRADUCIENDO_1.txt</div>
+      <small id="lastTouchedLabel">Última edición: cargando...</small>
+    </div>
+
+    <textarea id="fileContent" placeholder="Cargando archivo desde GitHub..."></textarea>
+    <div id="statusMessage" class="status-message status-neutral">Listo para editar.</div>
+
+  </section>
+
+  <aside class="sidebar">
+    <div class="sidebar-section-title">Últimos movimientos</div>
+    <ul id="activityList" class="activity-list">
+      <li class="activity-item">Cargando historial...</li>
+    </ul>
+  </aside>
+</main>
+
+<script>
+
+  // === CONFIGURACIÓN DEL REPO ===
+  const GITHUB_OWNER = "SaimusGaming";
+  const GITHUB_REPO = "Traduccion-Infinite-Fusion-Espa-ol";
+  const GITHUB_BRANCH = "main";
+
+  let currentFile = "TRADUCIENDO_1.txt";
+  let currentFileSha = null;
+  let githubToken = null;
+
+  const fileContentEl = document.getElementById("fileContent");
+  const fileNameLabelEl = document.getElementById("fileNameLabel");
+  const statusMessageEl = document.getElementById("statusMessage");
+  const activityListEl = document.getElementById("activityList");
+  const lastTouchedLabelEl = document.getElementById("lastTouchedLabel");
+
+  // === FUNCIONES ===
+
+  function status(msg, type="neutral") {
+    statusMessageEl.textContent = msg;
+    statusMessageEl.className = "status-message status-" + type;
+  }
+
+  function decodeBase64(content) {
+    try {
+      let cleaned = content.replace(/\r?\n/g, "").trim();
+      let decoded = atob(cleaned);
+      if (decoded.charCodeAt(0) === 0xFEFF) decoded = decoded.slice(1);
+      return decoded;
+    } catch { return ""; }
+  }
+
+  function encodeBase64(text) { return btoa(text); }
+
+  function getContentUrl(file) {
+    return `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${file}`;
+  }
+
+  function getCommitsUrl(file) {
+    return `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/commits?path=${file}&per_page=5`;
+  }
+
+  async function loadFile() {
+    status("Cargando archivo...", "neutral");
+
+    try {
+      const res = await fetch(getContentUrl(currentFile));
+      const data = await res.json();
+
+      currentFileSha = data.sha;
+      fileContentEl.value = decodeBase64(data.content);
+      status("Archivo cargado ✔", "ok");
+
+      loadCommits();
+    } 
+    catch {
+      status("Error cargando archivo.", "error");
+    }
+  }
+
+  async function loadCommits() {
+    try {
+      const res = await fetch(getCommitsUrl(currentFile));
+      const commits = await res.json();
+
+      activityListEl.innerHTML = "";
+
+      if (!Array.isArray(commits)) return;
+
+      commits.forEach((c, i) => {
+        const author = c.commit.author.name;
+        const date = new Date(c.commit.author.date)
+                       .toLocaleString("es-ES");
+
+        activityListEl.innerHTML += `
           <li class="activity-item">
-            <div class="activity-item-main">Cargando historial...</div>
+            <div>${author}</div>
+            <div style="font-size:11px;color:#9ca3af">${date}</div>
           </li>
-        </ul>
-      </div>
-      <div class="small-note">
-        ⚠️ Cada persona debe usar su propio
-        <strong>GitHub Personal Access Token</strong> en su navegador.
-        No lo subas nunca al repositorio.
-      </div>
-    </aside>
-  </main>
+        `;
 
-  <script>
-    // === CONFIGURACIÓN DEL REPO ===
-    const GITHUB_OWNER = "SaimusGaming";
-    const GITHUB_REPO = "Traduccion-Infinite-Fusion-Espa-ol";
-    const GITHUB_BRANCH = "main";
-    const GITHUB_FILE_PATH = "TRADUCIENDO_ACTUAL.txt";
-
-    const contentUrl =
-      `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${GITHUB_FILE_PATH}`;
-    const commitsUrl =
-      `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/commits?path=${encodeURIComponent(GITHUB_FILE_PATH)}&per_page=5`;
-
-    let currentFileSha = null;
-    let githubToken = null;
-
-    const fileContentEl = document.getElementById("fileContent");
-    const statusMessageEl = document.getElementById("statusMessage");
-    const activityListEl = document.getElementById("activityList");
-    const lastTouchedLabelEl = document.getElementById("lastTouchedLabel");
-    const displayNameEl = document.getElementById("displayName");
-    const saveBtnEl = document.getElementById("saveBtn");
-    const fileNameLabelEl = document.getElementById("fileNameLabel");
-
-    fileNameLabelEl.textContent = "Archivo: " + GITHUB_FILE_PATH;
-
-    function setStatus(message, type = "neutral") {
-      statusMessageEl.textContent = message;
-      statusMessageEl.className = "status-message status-" + type;
-    }
-
-    // 🔥 PARCHE DE DECODIFICACIÓN (100% anti-BOM + compatible con ñ y acentos)
-    function decodeBase64(content) {
-      try {
-        let cleaned = content.replace(/\r?\n/g, "").trim();
-        let decoded = atob(cleaned);
-
-        // Quitar BOM si existe (EF BB BF → 0xFEFF)
-        if (decoded.charCodeAt(0) === 0xFEFF) {
-          decoded = decoded.slice(1);
-        }
-
-        return decoded;
-      } catch (e) {
-        console.error("Error decodificando base64:", e);
-        return "";
-      }
-    }
-
-    function encodeBase64(text) {
-      return btoa(text);
-    }
-
-    // 🔥 PARCHE DE CARGA
-    async function loadFile() {
-      setStatus("Cargando archivo desde GitHub...", "neutral");
-      try {
-        const res = await fetch(contentUrl + `?ref=${GITHUB_BRANCH}`);
-        if (!res.ok) throw new Error("Error HTTP " + res.status);
-
-        const data = await res.json();
-        currentFileSha = data.sha;
-
-        let decoded = decodeBase64(data.content);
-
-        decoded = decoded.replace(/\r\n/g, "\n");
-
-        fileContentEl.value = decoded;
-        setStatus("Archivo cargado. Puedes editar y luego guardar.", "ok");
-      } catch (err) {
-        console.error(err);
-        setStatus("No se pudo cargar el archivo. Revisa la configuración.", "error");
-      }
-    }
-
-    function formatDate(isoString) {
-      try {
-        const d = new Date(isoString);
-        return d.toLocaleString("es-ES", {
-          year: "numeric",
-          month: "2-digit",
-          day: "2-digit",
-          hour: "2-digit",
-          minute: "2-digit",
-        });
-      } catch {
-        return isoString;
-      }
-    }
-
-    async function loadLastCommits() {
-      try {
-        const res = await fetch(commitsUrl);
-        if (!res.ok) throw new Error("Error HTTP " + res.status);
-
-        const commits = await res.json();
-        activityListEl.innerHTML = "";
-
-        if (!Array.isArray(commits) || commits.length === 0) {
-          activityListEl.innerHTML =
-            '<li class="activity-item"><div class="activity-item-main">Sin historial todavía.</div></li>';
-          lastTouchedLabelEl.textContent = "Última edición: sin datos.";
-          return;
-        }
-
-        commits.forEach((commit, index) => {
-          const authorName =
-            (commit.commit && commit.commit.author && commit.commit.author.name) ||
-            (commit.author && commit.author.login) ||
-            "Desconocido";
-
-          const date =
-            (commit.commit && commit.commit.author && commit.commit.author.date) ||
-            "";
-
-          const li = document.createElement("li");
-          li.className = "activity-item";
-          li.innerHTML = `
-            <div class="activity-item-main">${authorName}</div>
-            <div class="activity-item-sub">${formatDate(date)}</div>
-          `;
-          activityListEl.appendChild(li);
-
-          if (index === 0) {
-            lastTouchedLabelEl.textContent =
-              "Última edición: " + authorName + " (" + formatDate(date) + ")";
-          }
-        });
-      } catch (err) {
-        console.error(err);
-        activityListEl.innerHTML =
-          '<li class="activity-item"><div class="activity-item-main">No se pudo cargar el historial.</div></li>';
-        lastTouchedLabelEl.textContent = "Última edición: error al cargar.";
-      }
-    }
-
-    function askForTokenIfNeeded() {
-      if (githubToken) return githubToken;
-
-      const stored = window.localStorage.getItem("githubTokenForTranslator");
-      if (stored) {
-        githubToken = stored;
-        return githubToken;
-      }
-
-      const token = window.prompt(
-        "Introduce tu GitHub Personal Access Token (con permiso 'repo' o 'contents'):\nEste token sólo se guardará en tu navegador."
-      );
-
-      if (token && token.trim() !== "") {
-        githubToken = token.trim();
-        window.localStorage.setItem("githubTokenForTranslator", githubToken);
-      }
-      return githubToken;
-    }
-
-    async function saveFile() {
-      const displayName = displayNameEl.value.trim() || "Anónimo";
-
-      if (!currentFileSha) {
-        setStatus("Aún no se ha cargado el archivo. Espera un momento y vuelve a intentar.", "error");
-        return;
-      }
-
-      const token = askForTokenIfNeeded();
-      if (!token) {
-        setStatus("No se puede guardar sin token de GitHub.", "error");
-        return;
-      }
-
-      const newContent = fileContentEl.value;
-      const encoded = encodeBase64(newContent);
-
-      setStatus("Guardando cambios en GitHub...", "neutral");
-      saveBtnEl.disabled = true;
-
-      try {
-        const res = await fetch(contentUrl, {
-          method: "PUT",
-          headers: {
-            "Content-Type": "application/json",
-            "Authorization": `Bearer ${token}`,
-            "Accept": "application/vnd.github+json",
-          },
-          body: JSON.stringify({
-            message: `Edición de traducción por ${displayName}`,
-            content: encoded,
-            sha: currentFileSha,
-            branch: GITHUB_BRANCH,
-          }),
-        });
-
-        if (!res.ok) {
-          const errData = await res.json().catch(() => ({}));
-          console.error("Error al guardar:", errData);
-          throw new Error("Error HTTP " + res.status);
-        }
-
-        const data = await res.json();
-        currentFileSha = data.content.sha;
-
-        setStatus("Cambios guardados correctamente ✅", "ok");
-        loadLastCommits();
-      } catch (err) {
-        console.error(err);
-        setStatus("No se pudieron guardar los cambios. Revisa tu token o permisos.", "error");
-      } finally {
-        saveBtnEl.disabled = false;
-      }
-    }
-
-    saveBtnEl.addEventListener("click", saveFile);
-
-    window.addEventListener("DOMContentLoaded", () => {
-      loadFile();
-      loadLastCommits();
-
-      const storedName = window.localStorage.getItem("displayNameForTranslator");
-      if (storedName) displayNameEl.value = storedName;
-
-      displayNameEl.addEventListener("change", () => {
-        window.localStorage.setItem("displayNameForTranslator", displayNameEl.value.trim());
+        if (i === 0)
+          lastTouchedLabelEl.textContent = `Última edición: ${author} (${date})`;
       });
+
+    } catch {
+      activityListEl.innerHTML = "<li>Error cargando historial.</li>";
+    }
+  }
+
+  function askToken() {
+    if (githubToken) return githubToken;
+
+    const saved = localStorage.getItem("tokenSaimus");
+    if (saved) return githubToken = saved;
+
+    const token = prompt("Introduce tu GitHub Token:");
+    if (token) localStorage.setItem("tokenSaimus", token);
+    return githubToken = token;
+  }
+
+  async function saveFile() {
+    const token = askToken();
+    if (!token) return status("No hay token.", "error");
+
+    status("Guardando...", "neutral");
+
+    try {
+      const res = await fetch(getContentUrl(currentFile), {
+        method: "PUT",
+        headers: {
+          "Authorization": `Bearer ${token}`,
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+          message: `Edición en ${currentFile}`,
+          content: encodeBase64(fileContentEl.value),
+          sha: currentFileSha,
+          branch: GITHUB_BRANCH
+        })
+      });
+
+      const data = await res.json();
+      currentFileSha = data.content.sha;
+
+      status("Guardado correctamente ✔", "ok");
+      loadCommits();
+
+    } catch {
+      status("Error al guardar.", "error");
+    }
+  }
+
+  // === CAMBIAR ARCHIVO ===
+
+  document.querySelectorAll(".file-tab").forEach(tab => {
+    tab.addEventListener("click", () => {
+
+      document.querySelectorAll(".file-tab")
+              .forEach(t => t.classList.remove("active"));
+
+      tab.classList.add("active");
+
+      currentFile = tab.dataset.file;
+      fileNameLabelEl.textContent = "Archivo: " + currentFile;
+
+      loadFile();
     });
-  </script>
+  });
+
+  document.getElementById("saveBtn").addEventListener("click", saveFile);
+
+  loadFile();
+
+</script>
+
 </body>
 </html>
