@@ -25,6 +25,13 @@
     .banner-left { display: flex; flex-direction: column; }
     .banner-right { display: flex; align-items: center; gap: 8px; }
 
+    .banner-right input {
+      padding: 4px 8px;
+      border-radius: 6px;
+      border: none;
+      font-size: 13px;
+    }
+
     .btn {
       background: #22c55e; border: none; border-radius: 999px;
       padding: 6px 14px; cursor: pointer; font-weight: bold;
@@ -65,6 +72,15 @@
       color: white;
     }
 
+    .editor-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 13px;
+      color: #9ca3af;
+      margin-bottom: 6px;
+    }
+
     textarea {
       flex: 1;
       resize: vertical;
@@ -75,6 +91,7 @@
       color: #e5e7eb;
       font-family: "Fira Code", monospace;
       font-size: 14px;
+      white-space: pre;
     }
 
     .sidebar {
@@ -83,6 +100,12 @@
       padding: 12px;
       border-radius: 12px;
       border: 1px solid #111827;
+    }
+
+    .sidebar-section-title {
+      font-size: 13px;
+      font-weight: 700;
+      margin-bottom: 6px;
     }
 
     .activity-list { list-style: none; display: flex; flex-direction: column; gap: 6px; }
@@ -111,7 +134,7 @@
   </div>
 
   <div class="banner-right">
-    <label>Tu nombre:</label>
+    <label for="displayName">Tu nombre:</label>
     <input id="displayName" type="text" placeholder="Ej: Saimus">
     <button id="saveBtn" class="btn">💾 Guardar</button>
   </div>
@@ -146,11 +169,14 @@
 </main>
 
 <script>
-
   // === CONFIGURACIÓN DEL REPO ===
   const GITHUB_OWNER = "SaimusGaming";
   const GITHUB_REPO = "Traduccion-Infinite-Fusion-Espa-ol";
   const GITHUB_BRANCH = "main";
+
+  // ⚠️ OPCIONAL: si pones tu token aquí, NO se pedirá a los usuarios,
+  // pero CUALQUIERA podrá verlo en el código fuente (no es seguro).
+  const GITHUB_TOKEN = ""; // Pon aquí tu token solo si aceptas el riesgo.
 
   let currentFile = "TRADUCIENDO_1.txt";
   let currentFileSha = null;
@@ -161,24 +187,39 @@
   const statusMessageEl = document.getElementById("statusMessage");
   const activityListEl = document.getElementById("activityList");
   const lastTouchedLabelEl = document.getElementById("lastTouchedLabel");
+  const displayNameEl = document.getElementById("displayName");
+  const saveBtnEl = document.getElementById("saveBtn");
 
-  // === FUNCIONES ===
+  // === UTILIDADES ===
 
   function status(msg, type="neutral") {
     statusMessageEl.textContent = msg;
     statusMessageEl.className = "status-message status-" + type;
   }
 
-  function decodeBase64(content) {
+  // Decodificar base64 -> UTF-8 sin romper ñ, tildes, etc.
+  function decodeBase64(base64String) {
     try {
-      let cleaned = content.replace(/\r?\n/g, "").trim();
-      let decoded = atob(cleaned);
-      if (decoded.charCodeAt(0) === 0xFEFF) decoded = decoded.slice(1);
-      return decoded;
-    } catch { return ""; }
+      const cleaned = base64String.replace(/\s/g, "");
+      const binaryString = atob(cleaned);
+      const bytes = new Uint8Array(binaryString.length);
+      for (let i = 0; i < binaryString.length; i++) {
+        bytes[i] = binaryString.charCodeAt(i);
+      }
+      return new TextDecoder("utf-8").decode(bytes);
+    } catch (e) {
+      console.error("Error decodificando UTF-8:", e);
+      return "";
+    }
   }
 
-  function encodeBase64(text) { return btoa(text); }
+  // Codificar texto UTF-8 a base64 para GitHub
+  function encodeBase64(text) {
+    const utf8Bytes = new TextEncoder().encode(text);
+    let binary = "";
+    utf8Bytes.forEach(b => binary += String.fromCharCode(b));
+    return btoa(binary);
+  }
 
   function getContentUrl(file) {
     return `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${file}`;
@@ -188,94 +229,152 @@
     return `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/commits?path=${file}&per_page=5`;
   }
 
+  // === CARGAR ARCHIVO ===
+
   async function loadFile() {
     status("Cargando archivo...", "neutral");
-
     try {
       const res = await fetch(getContentUrl(currentFile));
+      if (!res.ok) throw new Error("Error HTTP " + res.status);
       const data = await res.json();
 
       currentFileSha = data.sha;
       fileContentEl.value = decodeBase64(data.content);
       status("Archivo cargado ✔", "ok");
 
-      loadCommits();
-    } 
-    catch {
+      await loadCommits();
+    } catch (err) {
+      console.error(err);
       status("Error cargando archivo.", "error");
     }
+  }
+
+  // === HISTORIAL (últimos 5 guardados) ===
+
+  function extraerNombreDeMensaje(message) {
+    // Mensaje esperado: "Edición en XXX por NOMBRE"
+    const match = message.match(/por (.+)$/);
+    if (match && match[1]) return match[1].trim();
+    return null;
   }
 
   async function loadCommits() {
     try {
       const res = await fetch(getCommitsUrl(currentFile));
+      if (!res.ok) throw new Error("Error HTTP " + res.status);
       const commits = await res.json();
 
       activityListEl.innerHTML = "";
 
-      if (!Array.isArray(commits)) return;
+      if (!Array.isArray(commits) || commits.length === 0) {
+        activityListEl.innerHTML = '<li class="activity-item">Sin historial todavía.</li>';
+        lastTouchedLabelEl.textContent = "Última edición: sin datos.";
+        return;
+      }
 
-      commits.forEach((c, i) => {
-        const author = c.commit.author.name;
-        const date = new Date(c.commit.author.date)
-                       .toLocaleString("es-ES");
+      commits.slice(0, 5).forEach((c, i) => {
+        const message = c.commit.message || "";
+        const nameFromMsg = extraerNombreDeMensaje(message);
+        const displayName = nameFromMsg || (c.commit.author && c.commit.author.name) || "Desconocido";
 
-        activityListEl.innerHTML += `
-          <li class="activity-item">
-            <div>${author}</div>
-            <div style="font-size:11px;color:#9ca3af">${date}</div>
-          </li>
-        `;
+        const date = new Date(c.commit.author.date).toLocaleString("es-ES");
 
-        if (i === 0)
-          lastTouchedLabelEl.textContent = `Última edición: ${author} (${date})`;
+        const li = document.createElement("li");
+        li.className = "activity-item";
+        li.innerHTML = `<div>${displayName}</div>
+                        <div style="font-size:11px;color:#9ca3af">${date}</div>`;
+        activityListEl.appendChild(li);
+
+        if (i === 0) {
+          lastTouchedLabelEl.textContent = `Última edición: ${displayName} (${date})`;
+        }
       });
 
-    } catch {
-      activityListEl.innerHTML = "<li>Error cargando historial.</li>";
+    } catch (err) {
+      console.error(err);
+      activityListEl.innerHTML = "<li class='activity-item'>Error cargando historial.</li>";
+      lastTouchedLabelEl.textContent = "Última edición: error al cargar.";
     }
   }
 
-  function askToken() {
+  // === TOKEN ===
+
+  function getToken() {
+    // Si has puesto un token global, úsalo sin preguntar
+    if (GITHUB_TOKEN && GITHUB_TOKEN.trim() !== "") {
+      return GITHUB_TOKEN.trim();
+    }
+
+    // Si ya está en memoria local, úsalo
     if (githubToken) return githubToken;
-
     const saved = localStorage.getItem("tokenSaimus");
-    if (saved) return githubToken = saved;
+    if (saved) {
+      githubToken = saved;
+      return githubToken;
+    }
 
-    const token = prompt("Introduce tu GitHub Token:");
-    if (token) localStorage.setItem("tokenSaimus", token);
-    return githubToken = token;
+    // Último recurso: preguntar
+    const token = window.prompt("Introduce tu GitHub Personal Access Token (con permiso 'repo' o 'contents'):");
+    if (token && token.trim() !== "") {
+      githubToken = token.trim();
+      localStorage.setItem("tokenSaimus", githubToken);
+      return githubToken;
+    }
+
+    return null;
   }
 
+  // === GUARDAR ===
+
   async function saveFile() {
-    const token = askToken();
-    if (!token) return status("No hay token.", "error");
+    const displayName = (displayNameEl.value || "").trim() || "Anónimo";
+    const token = getToken();
+
+    if (!token) {
+      status("No se puede guardar sin token de GitHub (lo exige GitHub).", "error");
+      return;
+    }
+
+    if (!currentFileSha) {
+      status("Aún no se ha cargado el archivo.", "error");
+      return;
+    }
 
     status("Guardando...", "neutral");
+    saveBtnEl.disabled = true;
 
     try {
       const res = await fetch(getContentUrl(currentFile), {
         method: "PUT",
         headers: {
           "Authorization": `Bearer ${token}`,
+          "Accept": "application/vnd.github+json",
           "Content-Type": "application/json"
         },
         body: JSON.stringify({
-          message: `Edición en ${currentFile}`,
+          message: `Edición en ${currentFile} por ${displayName}`,
           content: encodeBase64(fileContentEl.value),
           sha: currentFileSha,
           branch: GITHUB_BRANCH
         })
       });
 
+      if (!res.ok) {
+        const err = await res.json().catch(() => ({}));
+        console.error("Error al guardar:", err);
+        throw new Error("Error HTTP " + res.status);
+      }
+
       const data = await res.json();
       currentFileSha = data.content.sha;
 
       status("Guardado correctamente ✔", "ok");
-      loadCommits();
-
-    } catch {
+      await loadCommits();
+    } catch (err) {
+      console.error(err);
       status("Error al guardar.", "error");
+    } finally {
+      saveBtnEl.disabled = false;
     }
   }
 
@@ -283,23 +382,27 @@
 
   document.querySelectorAll(".file-tab").forEach(tab => {
     tab.addEventListener("click", () => {
-
-      document.querySelectorAll(".file-tab")
-              .forEach(t => t.classList.remove("active"));
-
+      document.querySelectorAll(".file-tab").forEach(t => t.classList.remove("active"));
       tab.classList.add("active");
 
       currentFile = tab.dataset.file;
       fileNameLabelEl.textContent = "Archivo: " + currentFile;
-
+      currentFileSha = null;
       loadFile();
     });
   });
 
-  document.getElementById("saveBtn").addEventListener("click", saveFile);
+  saveBtnEl.addEventListener("click", saveFile);
 
+  // Guardar nombre en localStorage
+  const storedName = localStorage.getItem("displayNameTraductor");
+  if (storedName) displayNameEl.value = storedName;
+  displayNameEl.addEventListener("change", () => {
+    localStorage.setItem("displayNameTraductor", displayNameEl.value.trim());
+  });
+
+  // Cargar primer archivo al iniciar
   loadFile();
-
 </script>
 
 </body>
