@@ -260,7 +260,7 @@
   <main>
     <section class="editor-container">
       <div class="editor-header">
-        <div class="file-name" id="fileNameLabel">Archivo: RUTA/DEL/ARCHIVO.txt</div>
+        <div class="file-name" id="fileNameLabel">Archivo: TRADUCIENDO_ACTUAL.txt</div>
         <small id="lastTouchedLabel">Última edición: cargando...</small>
       </div>
       <textarea id="fileContent" placeholder="Cargando archivo desde GitHub..."></textarea>
@@ -288,18 +288,18 @@
 
   <script>
     // === CONFIGURACIÓN DEL REPO ===
-    const GITHUB_OWNER = "SaimusGaming";                  // <-- tu usuario u organización
-    const GITHUB_REPO = "Traduccion-Infinite-Fusion-Espa-ol";                      // <-- nombre del repo
-    const GITHUB_BRANCH = "main";                       // <-- rama (por defecto main)
-    const GITHUB_FILE_PATH = "TRADUCIENDO_ACTUAL.txt";    // <-- ruta dentro del repo
+    const GITHUB_OWNER = "SaimusGaming";
+    const GITHUB_REPO = "Traduccion-Infinite-Fusion-Espa-ol";
+    const GITHUB_BRANCH = "main";
+    const GITHUB_FILE_PATH = "TRADUCIENDO_ACTUAL.txt";
 
     const contentUrl =
       `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${GITHUB_FILE_PATH}`;
     const commitsUrl =
       `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/commits?path=${encodeURIComponent(GITHUB_FILE_PATH)}&per_page=5`;
 
-    let currentFileSha = null;      // SHA del archivo (necesario para el PUT)
-    let githubToken = null;         // Token de GitHub que se usará sólo en el navegador
+    let currentFileSha = null;
+    let githubToken = null;
 
     const fileContentEl = document.getElementById("fileContent");
     const statusMessageEl = document.getElementById("statusMessage");
@@ -316,10 +316,18 @@
       statusMessageEl.className = "status-message status-" + type;
     }
 
+    // 🔥 PARCHE DE DECODIFICACIÓN (100% anti-BOM + compatible con ñ y acentos)
     function decodeBase64(content) {
-      // GitHub devuelve el contenido en base64
       try {
-        return atob(content.replace(/\n/g, ""));
+        let cleaned = content.replace(/\r?\n/g, "").trim();
+        let decoded = atob(cleaned);
+
+        // Quitar BOM si existe (EF BB BF → 0xFEFF)
+        if (decoded.charCodeAt(0) === 0xFEFF) {
+          decoded = decoded.slice(1);
+        }
+
+        return decoded;
       } catch (e) {
         console.error("Error decodificando base64:", e);
         return "";
@@ -330,16 +338,20 @@
       return btoa(text);
     }
 
+    // 🔥 PARCHE DE CARGA
     async function loadFile() {
       setStatus("Cargando archivo desde GitHub...", "neutral");
       try {
         const res = await fetch(contentUrl + `?ref=${GITHUB_BRANCH}`);
-        if (!res.ok) {
-          throw new Error("Error HTTP " + res.status);
-        }
+        if (!res.ok) throw new Error("Error HTTP " + res.status);
+
         const data = await res.json();
         currentFileSha = data.sha;
-        const decoded = decodeBase64(data.content);
+
+        let decoded = decodeBase64(data.content);
+
+        decoded = decoded.replace(/\r\n/g, "\n");
+
         fileContentEl.value = decoded;
         setStatus("Archivo cargado. Puedes editar y luego guardar.", "ok");
       } catch (err) {
@@ -356,7 +368,7 @@
           month: "2-digit",
           day: "2-digit",
           hour: "2-digit",
-          minute: "2-digit"
+          minute: "2-digit",
         });
       } catch {
         return isoString;
@@ -366,11 +378,9 @@
     async function loadLastCommits() {
       try {
         const res = await fetch(commitsUrl);
-        if (!res.ok) {
-          throw new Error("Error HTTP " + res.status);
-        }
-        const commits = await res.json();
+        if (!res.ok) throw new Error("Error HTTP " + res.status);
 
+        const commits = await res.json();
         activityListEl.innerHTML = "";
 
         if (!Array.isArray(commits) || commits.length === 0) {
@@ -421,13 +431,11 @@
       }
 
       const token = window.prompt(
-        "Introduce tu GitHub Personal Access Token (con permiso 'repo' o 'contents'):\n" +
-        "Este token sólo se guardará en tu navegador."
+        "Introduce tu GitHub Personal Access Token (con permiso 'repo' o 'contents'):\nEste token sólo se guardará en tu navegador."
       );
 
       if (token && token.trim() !== "") {
         githubToken = token.trim();
-        // Si no quieres guardarlo, comenta la siguiente línea:
         window.localStorage.setItem("githubTokenForTranslator", githubToken);
       }
       return githubToken;
@@ -459,14 +467,14 @@
           headers: {
             "Content-Type": "application/json",
             "Authorization": `Bearer ${token}`,
-            "Accept": "application/vnd.github+json"
+            "Accept": "application/vnd.github+json",
           },
           body: JSON.stringify({
             message: `Edición de traducción por ${displayName}`,
             content: encoded,
             sha: currentFileSha,
-            branch: GITHUB_BRANCH
-          })
+            branch: GITHUB_BRANCH,
+          }),
         });
 
         if (!res.ok) {
@@ -479,7 +487,6 @@
         currentFileSha = data.content.sha;
 
         setStatus("Cambios guardados correctamente ✅", "ok");
-        // refrescamos el historial
         loadLastCommits();
       } catch (err) {
         console.error(err);
@@ -489,7 +496,6 @@
       }
     }
 
-    // Eventos
     saveBtnEl.addEventListener("click", saveFile);
 
     window.addEventListener("DOMContentLoaded", () => {
@@ -506,4 +512,3 @@
   </script>
 </body>
 </html>
-
