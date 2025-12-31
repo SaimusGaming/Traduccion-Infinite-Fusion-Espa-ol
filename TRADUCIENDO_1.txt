@@ -812,7 +812,7 @@ Difícil
 More info
 Más info
 Single species mode
-modo de una sola especie
+Modo de una sola especie
 Turn on Single Species mode
 Activar modo de una sola especie
 Go back
