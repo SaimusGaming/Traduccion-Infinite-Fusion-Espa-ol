@@ -6340,7 +6340,7 @@ Los Pokémon de tipo Bicho son mi pasión.
 Do you know about Fury Cutter? It's a move that increases in power when you use it multiple times in a row.
 ¿Conoces Corte Furia? Es un movimiento que aumenta su potencia cuando lo usas varias veces seguidas.
 \GI could teach it to your Pokémon for $\V[15] if you want... Does that sound good?
-\GPuedo enseñárselo a tu Pokémon por $\V[15] si quieres… ¿Te parece bien?
+\GPuedo enseñárselo a tu Pokémon por $\V[15] si quieres... ¿Te parece bien?
 Ta-da! Come back if you want me to teach it to another of your Pokémon!
 ¡Tachán! Vuelve si quieres que se lo enseñe a otro de tus Pokémon.
 That's too bad. Come back with $\V[15] if you want me to teach it to one of your Pokémon!
