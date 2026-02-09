@@ -5514,7 +5514,7 @@ Se vuelve entrenadorhoy y estaba súper ilusionado.
 \PN! You look fantastic!
 \PN ¡Te ves fantástico!
 Oh \PN, It looks like your hair could use a little touch-up. I can give you a quick trim if you want!
-Oh \PN, Parece que a tu cabello le vendría bien un pequeño retoque. ¡Puedo hacerte un recorte rápido si quieres!
+Oh \PN, diría que tu cabello necesita un arreglito. ¿Quieres que te haga un recorte rápido?
 A cooking show is playing on the TV...
 En la tele están dando un programa de cocina...
 Better get going!
@@ -5534,7 +5534,7 @@ Oh, Hi \PN!
 What's that nickname you like to call my brother again?
 ¿Cuál es ese apodo con el que sueles llamar a mi hermano?
 Oh yes, I remember! \V[12], that's a good one!
-Oh yes, I remember! \V[12], that's a good one!
+¡Oh, sí, ya me acuerdo! \V[12], ¡es muy bueno!
 [Map77]
 It's a complex looking document. Better not touch it!
 Parece un documento muy complejo. Mejor no tocarlo.
@@ -5665,7 +5665,7 @@ Parece una máquina complicada. Será mejor no tocarla.
 Gramps! I'm fed up with waiting!
 ¡Abuelo! ¡Estoy harto de esperar!
 \V[12]? Let me think... Oh, that's right, I told you to come! Just wait!
-\V[12]? Déjame pensar... ¡Oh, así es, te dije que vinieras!  ¡Solo espera!
+\V[12]? Let me think... Oh, that's right, I told you to come!  Just wait!
 Here, \PN! There are 3 Pokémon here! Haha! They are inside the \C[1]Pokéballs\C[0].
 Toma, \PN! ¡Hay 3 Pokémon aquí! ¡Jaja! Los encontrarás dentro de las \C[1]Pokéballs\C[0].
 When I was young, I was a serious Pokémon trainer. In my old age, I have only 3 left, but you can have one! Choose!
@@ -5737,13 +5737,13 @@ La Pokédex guarda automáticamente los datos de los Pokémon que has visto o at
 There are now over 250,000 species of Pokémon thanks to Pokémon Fusion, so I cannot possibly expect you to complete it.
 Ahora existen más de 250.000 especies de Pokémon gracias a la fusión Pokémon, así que no puedo esperar que la completes.
 But you should still try to catch as many different species as you can!
-But you should still try to catch as many different species as you can!
+¡Aun así, intenta capturar tantas especies diferentes como puedas!
 Now go! Your journey to the Pokémon League starts now!
 ¡Ahora ve! ¡Tu viaje hacia la Liga Pokémon comienza ahora!
 Did you talk to my colleague, Professor Elm in Johto?
 ¿Hablaste con mi colega, el Profesor Elm en Johto?
 Congratulations on getting all of these Johto gym badges It isn't an easy task that you've accomplished!
-Congratulations on getting all of these Johto gym badges It isn't an easy task that you've accomplished!
+Enhorabuena por obtener todas las medallas de Johto. ¡No es algo sencillo de lograr!
 I have one more Pokémon to give you. You can have one of the starter Pokémon that are handed to new trainers in the Hoenn region.
 Tengo un Pokémon más para darte. Puedes elegir uno de los iniciales que se entregan a los nuevos entrenadores en la región Hoenn.
 No, which one did you want?
@@ -5767,9 +5767,9 @@ Es un lavabo con aspecto complejo, mejor dejarlo como está.
 Not so fast, \PN!
 ¡No tan rápido, \PN!
 Let's have a battle to see how much stronger a Pokémon gets when it's fused with another one!
-¡Vamos a combatir para ver cuánto más fuerte se vuelve un Pokémon cuando se fusiona con otro!
+¡Vamos a batallar para ver cuánto más fuerte se vuelve un Pokémon al fusionarse con otro!
 I don't believe it! How could my cool fused Pokemon lose!?
-I don't believe it! How could my cool fused Pokemon lose!?
+¡No lo puedo creer! ¿¡Cómo pudo perder mi genial Pokémon fusionado!?
 Pff... This Pokémon is completely worthless. I'll find some better ones!
 Pff... Este Pokémon no vale para nada. ¡Buscaré otros mejores!
 Ha! I always knew I was better!
@@ -5785,7 +5785,7 @@ Bueno, da igual entonces. ¡Nos olemos luego!
 Anyway, I'm off to collect gym badges.
 En fin, me voy a conseguir unas cuantas medallas de gimnasio.
 Smell ya later!
-¡Nos vemos!
+¡Huele mi polvo
 This ball contains Charmander the fire Pokemon.
 Esta Pokéball contiene a Charmander, el Pokémon de tipo fuego.
 Do you want to choose Charmander?
@@ -5860,7 +5860,7 @@ We should have our Pokémon battle each other to make them stronger!
 That's what Pokémon trainers do when they meet!
 ¡Es lo que hacemos los entrenadores cuando nos cruzamos!
 Woah! Your Pokémon looks like a total powerhouse!
-Woah! Your Pokémon looks like a total powerhouse!
+¡Guau! ¡Tu Pokémon se ve súper poderoso!
 Viridian City isn't too far uphill, don't give up!
 ¡Ciudad Verde queda un poco más arriba, sigue adelante!
 Avoid the tall grass if your Pokémon are hurt!
@@ -5885,7 +5885,7 @@ Ni modo... Tenemos que esperar a que se le pase la borrachera.
 I managed to get grandpa to go home. He's doing much better now!
 Conseguí que el abuelo regresara a su casa. ¡Ya se siente mejor!
 Pokémon Center
-Pokémon Center
+Centro Pokémon
 We'll heal your injured Pokémon for free!
 ¡Cuidaremos y sanaremos a tus Pokémon gratis!
 Pokémon Academy
@@ -5931,7 +5931,7 @@ Claro, las tengo.¡Pero no te las daré a menos que me derrotes en una batalla P
 I'll give it all I've got!
 ¡Voy con todo
 Woah! You're way better than I expected!
-Woah! You're way better than I expected!
+¡Guau! ¡Eres mucho mejor de lo que esperaba!
 You're good. Here are the wooden planks you asked for!
 Nada mal. Toma, las tablas de madera que querías.
 I'm not giving you these wooden planks unless you fight me!
@@ -5952,11 +5952,11 @@ No
 No
 [Map80]
 Hey, you know Professor Oak, don't you? I heard his assistant over there talking about you!
-Hey, you know Professor Oak, don't you? I heard his assistant over there talking about you!
+Oye, ¿conoces al Profesor Oak, verdad? Escuché a su asistente hablando de ti allá.
 I too got my starter Pokémon from Professor Oak back in the day. Oh, he was much younger back then!
-I too got my starter Pokémon from Professor Oak back in the day. Oh, he was much younger back then!
+Yo también recibí mi primer Pokémon del Profesor Oak en su momento. ¡Ah, era mucho más joven en esos tiempos!
 I learned a special move especially made for starter Pokémon. I'll teach it to you for $500 if you want!
-I learned a special move especially made for starter Pokémon. I'll teach it to you for $500 if you want!
+Aprendí un movimiento especial hecho para los Pokémon iniciales. ¡Puedo enseñártelo por $500 si quieres!
 Ta-da! Come back if you want me to teach it to another of your Pokémon!
 ¡Tachán! Vuelve si quieres que se lo enseñe a otro de tus Pokémon.
 That's too bad. Come back with $\V[15] if you want me to teach it to one of your Pokémon!
@@ -5964,35 +5964,35 @@ Qué lástima. Vuelve con $\V[15] si quieres que se lo enseñe a uno de tus Pok�
 You don't have enough money. Come back with $\V[15] if you want me to teach it to one of your Pokémon!
 No tienes suficiente dinero. Vuelve con $\V[15] si quieres que se lo enseñe a uno de tus Pokémon.
 That's too bad. Come back with $\V[15] if you want me to teach one of them to your Pokémon!
-That's too bad. Come back with $\V[15] if you want me to teach one of them to your Pokémon!
+Una pena. Regresa con $\V[15] si quieres que tu Pokémon aprenda alguno de ellos.
 My Pokémon is better with Special moves, so I'm using it as the head of my fusion!
-My Pokémon is better with Special moves, so I'm using it as the head of my fusion!
+Mi Pokémon destaca con movimientos especiales, por eso lo puse como cabeza en la fusión.
 My Pokémon is a physical attacker so I'm going to fuse it as the Body!
-My Pokémon is a physical attacker so I'm going to fuse it as the Body!
+Mi Pokémon se especializa en ataques físicos, así que será el cuerpo de la fusión.
 Head stats: HP, Sp. Def, Sp. Atk\nBody stats: Atk, Def, Spd
-Head stats: HP, Sp. Def, Sp. Atk\nBody stats: Atk, Def, Spd 
+Stats de cabeza: PS, Def. Esp., At. Esp./nStats de cuerpo: At., Def. y Vel.
 Oh, hello \PN. Remember me? I'm Prof. Oak's assistant!
-Oh, hello \PN. Remember me? I'm Prof. Oak's assistant!
+Oh, hola \PN. ¿Me recuerdas? ¡Soy el asistente del Profesor Oak!
 The professor has tasked me with giving you this item if you've fused Pokémon at least 5 times.
-The professor has tasked me with giving you this item if you've fused Pokémon at least 5 times.
+El Profesor Oak me encargó entregarte esto si has hecho al menos 5 fusiones de Pokémon.
 Let me have a look...
-Let me have a look...
+Déjame ver...
 Yes! You've used the DNA Splicers \V[126] times! Here you go!
-Yes! You've used the DNA Splicers \V[126] times! Here you go!
+¡Perfecto! ¡Usaste Punta ADN \V[126] veces! ¡Aquí tienes!
 By the way, I'm headed to Route 24 to do some field research for Professor Oak.
-By the way, I'm headed to Route 24 to do some field research for Professor Oak. 
+Por cierto, voy hacia la Ruta 24 para hacer algo de investigación de campo para el Profesor Oak.
 I could definitely use your help, so feel free to drop by!
-I could definitely use your help, so feel free to drop by!
+Me vendría bien tu ayuda, ¡así que pásate cuando quieras!
 Oh, you haven't fused any Pokémon yet!
-Oh, you haven't fused any Pokémon yet!
+¡Oh, todavía no has fusionado ningún Pokémon!
 You can buy DNA Splicers from PokéMarts and use them to fuse Pokémon together.
-You can buy DNA Splicers from PokéMarts and use them to fuse Pokémon together.
+Las Punta ADN se venden en las PokéMarts, y sirven para fusionar Pokémon.
 You've fused Pokémon a grand total of \V[126] times.
-You've fused Pokémon a grand total of \V[126] times.
+En total, has fusionado Pokémon \V[126] veces.
 Hmm... That's no good. I can't give it to you unless you've fused Pokémon at least 5 times.
-Hmm... That's no good. I can't give it to you unless you've fused Pokémon at least 5 times.
+Mmm... Nada que hacer. Solo puedo darte esto si hiciste al menos 5 fusiones de Pokémon.
 Heya buddy! Will you trade me a Grass-type Pokémon for my Squirtle? It would mean so much to me!
-Heya buddy! Will you trade me a Grass-type Pokémon for my Squirtle? It would mean so much to me!
+¡Hola, amigo! ¿Me cambiarías un Pokémon de tipo Planta por mi Squirtle? ¡Significaría mucho para mí!
 No problem. I'll find someone else to trade with.
 No pasa nada. Encontraré a otra persona para intercambiar.
 Let's get started!
@@ -6002,71 +6002,71 @@ Thanks a lot!
 Don't sweat it, I'll find someone else to trade with!
 No te preocupes, ¡buscaré a alguien más para hacer el intercambio!
 Heya buddy! Will you trade me a Fire-type Pokémon for my Bulbasaur? It would mean so much to me!
-Heya buddy! Will you trade me a Fire-type Pokémon for my Bulbasaur? It would mean so much to me!
+¡Hola, amigo! ¿Me cambiarías un Pokémon de tipo Fuego por mi Bulbasaur? ¡Significaría mucho para mí!
 Heya buddy! Will you trade me a Water-type Pokémon for my Charmander? It would mean so much to me!
-Heya buddy! Will you trade me a Water-type Pokémon for my Charmander? It would mean so much to me!
+¡Hola, amigo! ¿Me cambiarías un Pokémon de tipo Agua por mi Charmander? ¡Significaría mucho para mí!
 I'll cherish that Pokémon with all my heart. Make sure to do the same!
-I'll cherish that Pokémon with all my heart. Make sure to do the same!
+Prometo cuidar de ese Pokémon como se merece. ¡Haz tú lo mismo!
 I'm a clown! I tell jokes for a living!
-I'm a clown! I tell jokes for a living!
+¡Soy un payaso! ¡Contar chistes es mi trabajo!
 Would you like to hear a joke?
-Would you like to hear a joke?
+¿Quieres escuchar un chiste?
 Which Pokemon does Dracula like most?
-Which Pokemon does Dracula like most?
+¿Qué hace Pikachu cuando estornuda?
 Koffin'
-Koffin'
+Pika-achú.
 What did Slugma say when someone stole his car?
-What did Slugma say when someone stole his car?
+¿Por qué Magikarp va al gimnasio todos los días?
 Where did Magcargo?
-Where did Magcargo?
+Porque su plan es simple: entrenamiento constante, splash diario... hasta que un día diga Gyarados.
 What is a Pokémon fan's favorite city to go in France?
-What is a Pokémon fan's favorite city to go in France?
+¿Cuál es la meta de Eevee en la vida?
 Paras!
-Paras!
+Vivir en constante Eeve-lución.
 I taught my pokemon a new HM.
-I taught my pokemon a new HM.
+Le enseñé a mi Pokémon una nueva MO...
 It made the Cut!
-It made the Cut!
+Le quedó MO-rtal.
 What is Pichu's favorite place to visit?
-What is Pichu's favorite place to visit? 
+¿Cuál es el lugar favorito de Pichu para visitar?
 Machu Pichu!
 Machu Pichu!
 Which Pokemon do soccer players like the most?
-Which Pokemon do soccer players like the most?
+¿Cuál es el Pokémon que más les gusta a los futbolistas?
 GOALduck!
-GOALduck!
+GOLduck!
 Why can't you blindfold a Pokemon?
-Why can't you blindfold a Pokemon?
+¿Cómo te saluda Abra?
 Because it's going to Pikachu!
-Because it's going to Pikachu!
+Con un Abra-zo.
 What Pokemon did the boy catch when he was sick with a cold?
-What Pokemon did the boy catch when he was sick with a cold?
+¿Por qué Pikachu nunca gana en ajedrez?
 A Pik-ACHOO!
-A Pik-ACHOO!
+Porque siempre se queda sin movimientos.
 What do you get when Eevee is exposed to a French Stone?
-What do you get when Eevee is exposed to a French Stone?
+¿Qué ocurre si Eevee se expone a una piedra francesa?
 Napoleon!
 Napoleon!
 Which Pokémon has the least fat?
-Which Pokémon has the least fat?
+¿Qué ocurre cuando un Pokémon psíquico pierde?
 Butterfree!
-Butterfree!
+¡lo veía venir!
 So, did you like it?
-So, did you like it?
+Asi que, ¿Te gusta?
 You can leave a tip if you want...
-You can leave a tip if you want...
+Puedes dejar una propina si quieres...
 Only 1? This is an outrage!
-Only 1? This is an outrage!
+¡¿Solo 1?! ¡Que timo!
 Thank you!
 ¡Gracias!
 Come back when you want to hear another joke!
-Come back when you want to hear another joke!
+¡Regresa cuando quieras oír otro Chiste!
 Oh my, you don't have enough money.
-Oh my, you don't have enough money.
+Oh vaya, Parece que no tienes suficiente dinero.
 You know what? Keep that money. You need it more than I do!
-You know what? Keep that money. You need it more than I do!
+¿Sabes que? Quédatelo, ¡lo necesitas mas que yo!
 But they say laughter is the best medicine for your Pokémon!
-But they say laughter is the best medicine for your Pokémon!
+¡Pero siempre dicen que la risa es la mejor medicina para tu Pokémon!
 \rHello, and welcome to the Pokémon Center.
 \rHola, bienvenido al Centro Pokémon.
 \rWe restore your tired Pokémon to full health.
@@ -6090,11 +6090,11 @@ But they say laughter is the best medicine for your Pokémon!
 Graah!
 Graah!
 Fire Pledge
-Fire Pledge
+Voto Fuego
 Grass Pledge
-Grass Pledge
+Voto Planta
 Water Pledge
-Water Pledge
+Voto Agua
 Never mind
 Olvídalo
 Yes
@@ -6102,9 +6102,9 @@ Sí
 No
 No
 Leave tip
-Leave tip
+Dejar Propina
 No tip
-No tip
+Sin Propina
 [Map81]
 The shelves are filled with Pokemon goods!
 ¡Los estantes están llenos de productos Pokémon!
