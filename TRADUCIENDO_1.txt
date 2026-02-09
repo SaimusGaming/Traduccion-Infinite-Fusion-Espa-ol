@@ -11258,7 +11258,7 @@ There are still more Shellders to help out there!
 Won't you have a look at my bug Pokémon?
 ¿Quieres ver a mis Pokémon bicho?
 Woah!
-Woah!
+¡Vaya!
 So, you want a rematch?
 ¿Así que quieres una revancha?
 I'll just heal up my Pokémon and...
@@ -11266,13 +11266,13 @@ Solo voy a curar a mis Pokémon y...
 All ready, let's go!
 ¡Listo, vamos!
 Whoo! Good stuff!
-Whoo! Good stuff!
+¡Uuuh! ¡Qué bueno!
 Shame, I was really looking forward to fighting you again!
 ¡Qué lástima, realmente esperaba pelear contigo otra vez!
 You've gotta have a lot of balls to be a Pokémon trainer!
 ¡Se necesita tener muchas pokeballs para ser entrenador Pokémon!
 My balls!
-My balls!
+¡Mis Pokéballs!
 I've got Poké Balls, Great Balls, and even Ultra Balls!
 ¡Tengo Poké Balls, Super Balls y hasta Ultra Balls!
 Here! Take a look!
@@ -11282,25 +11282,25 @@ You can't be a Pokémon trainer if you don't have any balls!
 Brrr! The water is freezing here!
 ¡Brrr! ¡El agua está helada aquí!
 F-f-f-freezing!
-F-f-f-freezing!
+¡E-e-estoy helado!
 Fusion is just a cheap tactic to make weak Pokémon stronger!
 ¡La fusión es solo una táctica barata para hacer fuertes a Pokémon débiles!
 Not strong enough!
-Not strong enough!
+¡No es suficiente!
 You gotta keep moving to fight the cold water!
 ¡Tienes que moverte para pelear contra el agua fría!
 My muscles are all tense!
-My muscles are all tense!
+¡Tengo los músculos todo tensos!
 How could you?!
-How could you?!
+¡¿Cómo pudiste?!
 Swimming in cold water is great for your skin!
 ¡Nadar en agua fría es bueno para tu piel!
 Splash!
-Splash!
+¡Splash!
 What do you mean you're not familiar with this area?
-What do you mean you're not familiar with this area?
+¿Cómo que no conoces esta zona?
 You're completely insane!
-You're completely insane!
+¡Estás completamente loco!
 Yes
 Sí
 No
@@ -11308,51 +11308,51 @@ No
 [Map203]
 [Map204]
 Welcome! This is our farmhouse!
-Welcome! This is our farmhouse!
+¡Bienvenido! ¡Esta es nuestra granja!
 Would you like to have some berries? What am I saying, of course you do!
-Would you like to have some berries? What am I saying, of course you do!
+¿Te gustaría llevarte unas bayas? ¿Qué digo? ¡Claro que sí!
 Please, have some of those.
-Please, have some of those.
+Por favor, toma de estas.
 And a few of those.
-And a few of those.
+Y unas cuantas de estas.
 And a few more...
-And a few more...
+Y unas cuantas más...
 Come back tomorrow if you want some more berries!
-Come back tomorrow if you want some more berries!
+¡Vuelve mañana si quieres más bayas!
 Hello, my child. I'll buy any kind of fertilizer you have!
-Hello, my child. I'll buy any kind of fertilizer you have!
+Hola, mi niño. ¡Te compraré cualquier tipo de fertilizante que tengas!
 What do you have for me?
-What do you have for me?
+¿Qué tienes para mí?
 \ch[5,4,"Growth Mulch", "Damp Mulch", "Stable Mulch", "Gooey Mulch",Cancel]
-\ch[5,4,"Growth Mulch", "Damp Mulch", "Stable Mulch", "Gooey Mulch",Cancel]
+\ch[5,4,"Abono rápido", "Abono lento", "Abono fijador", "Abono brote",Cancelar]
 \G\PN handed over the mulch.
-\G\PN handed over the mulch.
+\G\PN entregó el abono.
 \GReceived $4000!
-\GReceived $4000!
+\G¡Recibiste $4000!
 Incredible! This will make the berries grow much faster!
-Incredible! This will make the berries grow much faster!
+¡Increíble! ¡Esto hará que las bayas crezcan mucho más rápido!
 I may be old, but I can see that you don't have any. Do not try to fool me!
-I may be old, but I can see that you don't have any. Do not try to fool me!
+Puede que sea viejo, pero veo que no tienes ninguno. ¡No intentes engañarme!
 \GReceived $1800!
-\GReceived $1800!
+\G¡Recibiste $1800!
 Incredible! This will make the berries grow to be delicious!
-Incredible! This will make the berries grow to be delicious!
+¡Increíble! ¡Esto hará que las bayas crezcan bien sabrosas!
 \GReceived $1000
-\GReceived $1000
+\G¡Recibiste $1000!
 Incredible! This will make the berries grow tall!
-Incredible! This will make the berries grow tall!
+¡Increíble! ¡Esto hará que las bayas crezcan altas!
 \GReceived $3000!
-\GReceived $3000!
+\G¡Recibiste $3000!
 Incredible! This will make the berries grow big and juicy!
-Incredible! This will make the berries grow big and juicy!
+¡Increíble! ¡Esto hará que las bayas crezcan grandes y jugosas!
 Come back anytime you want.
-Come back anytime you want.
+Vuelve cuando quieras.
 It's just trash, what did you expect?
-It's just trash, what did you expect?
+Es solamente basura, ¿qué esperabas?
 It's an picture of a man with a Pokémon.
-It's an picture of a man with a Pokémon.
+Es una foto de un hombre con un Pokémon.
 It's an old picture of a woman and several children.
-It's an old picture of a woman and several children.
+Es una foto vieja de una mujer y varios niños.
 [Map205]
 You shouldn't be looking inside your neighbour's fridge!
 No deberías andar espiando la nevera de tu vecino.
@@ -11368,39 +11368,39 @@ That's a TV.
 Eso es una TV.
 [Map206]
 <b>We know you've been doing research on the legendary birds! You better tell me where they went or this lab is done for!</b>
-<b>We know you've been doing research on the legendary birds! You better tell me where they went or this lab is done for!</b>
+<b>¡Sabemos que has estado investigando a las aves legendarias! ¡Más te vale decirme adónde fueron o acabaremos con este laboratorio!</b>
 Out of my way, chump!
-Out of my way, chump!
+¡Quítate del medio, idiota!
 The door is locked...
-The door is locked...
+La puerta está cerrada con llave...
 It appears that Eevee can evolve into different kinds of Pokémon when exposed to evolutionary stones.
-It appears that Eevee can evolve into different kinds of Pokémon when exposed to evolutionary stones.
+Parece que Eevee puede evolucionar a distintos tipos de Pokémon al exponerse a piedras evolutivas.
 Apparently, there are 8 types of stones that work.
-Apparently, there are 8 types of stones that work.
+Al parecer, hay 8 tipos de piedras que funcionan.
 \PN! I'm glad to see you again. Would you like to know the whereabouts of the Legendary bird Pokémon?
-\PN! I'm glad to see you again. Would you like to know the whereabouts of the Legendary bird Pokémon?
+¡\PN! Me alegra verte de nuevo. ¿Te gustaría saber dónde están las aves legendarias?
 Which Legendary bird would you like to know about?
-Which Legendary bird would you like to know about?
+¿Sobre cuál ave legendaria quieres saber?
 Articuno is normally found deep within the Seafoam Islands on Route 20.
-Articuno is normally found deep within the Seafoam Islands on Route 20.
+Articuno suele encontrarse en lo más profundo de las Islas Espuma, en la Ruta 20.
 You'll need to use the Ice Pick I gave you to climb the ice wall near the entrance!
-You'll need to use the Ice Pick I gave you to climb the ice wall near the entrance!
+¡Tendrás que usar la Picota de Hielo que te di para escalar la pared de hielo cerca de la entrada!
 Zapdos is typically found deep within the old Power Plant on Route 10.
-Zapdos is typically found deep within the old Power Plant on Route 10.
+Zapdos suele encontrarse en lo más profundo de la vieja Central de Energía, en la Ruta 10.
 You'll need to use the Power Plant Key I gave you to open the door!
-You'll need to use the Power Plant Key I gave you to open the door!
+¡Tendrás que usar la Llave de la Central que te di para abrir la puerta!
 Moltres is usually found deep within the Cinnabar Volcano, here in this very city.
-Moltres is usually found deep within the Cinnabar Volcano, here in this very city.
+Moltres suele encontrarse en lo más profundo del Volcán Canela, aquí mismo, en esta ciudad.
 You'll need to use the Gas Mask I gave you to be able breathe in there!
-You'll need to use the Gas Mask I gave you to be able breathe in there!
+¡Tendrás que usar la Máscara de Gas que te di para poder respirar ahí dentro!
 Very well. Feel free to come back if you need any help to track them down!
-Very well. Feel free to come back if you need any help to track them down!
+Muy bien. ¡Vuelve cuando quieras si necesitas ayuda para encontrarlos!
 Hello! Welcome to the Pokémon Lab!
-Hello! Welcome to the Pokémon Lab!
+¡Hola! ¡Bienvenido al Laboratorio Pokémon!
 We study Pokémon extensively here. People often bring us rare Pokémon for examination.
-We study Pokémon extensively here. People often bring us rare Pokémon for examination.
+Aquí estudiamos a los Pokémon a fondo. La gente suele traernos Pokémon raros para examinarlos.
 There's a catchy song playing on the radio.
-There's a catchy song playing on the radio.
+Está sonando en la radio una canción pegajosa.
 Yes
 Sí
 No
@@ -11415,138 +11415,138 @@ Never mind
 Olvídalo
 [Map207]
 Welcome, they call me the Pokémon Psychiatrist.
-Welcome, they call me the Pokémon Psychiatrist.
+Bienvenido, me llaman el Psiquiatra Pokémon.
 \gFor $3000 I can give one of your Pokémon a new nature.
-\gFor $3000 I can give one of your Pokémon a new nature.
+\gPor $3000 puedo darle una nueva naturaleza a uno de tus Pokémon.
 \gHowever, the nature it will get is random. Would you like to give it a try?
-\gHowever, the nature it will get is random. Would you like to give it a try?
+\gSin embargo, la naturaleza que obtenga será al azar. ¿Te gustaría intentarlo?
 Which Pokémon should we give a new nature?
-Which Pokémon should we give a new nature?
+¿A qué Pokémon deberíamos darle una nueva naturaleza?
 Come back anytime!
 ¡Vuelve cuando quieras!
 \G\V[2] is a bit \C[5]\v[5]\C[0]. Should we try for a new nature?
-\G\V[2] is a bit \C[5]\v[5]\C[0]. Should we try for a new nature?
+\G\V[2] es un poco \C[5]\v[5]\C[0]. ¿Deberíamos intentar una nueva naturaleza?
 \gVery well, let's begin our session!
-\gVery well, let's begin our session!
+\gMuy bien, ¡comencemos la sesión!
 All done! Here's your \V[2] back.
-All done! Here's your \V[2] back. 
+¡Listo! Aquí tienes de vuelta a tu \V[2].
 It used to be somewhat \c[5]\V[5]\c[0], but it's now quite \c[5]\v[6]!
-It used to be somewhat \c[5]\V[5]\c[0], but it's now quite \c[5]\v[6]!
+Antes era algo \c[5]\V[5]\c[0], ¡pero ahora es bastante \c[5]\v[6]!
 I must say it's made some real progress! Come back whenever you want to change your Pokémon's nature again!
-I must say it's made some real progress! Come back whenever you want to change your Pokémon's nature again!
+Debo decir que ha progresado de verdad. ¡Vuelve cuando quieras cambiar la naturaleza de tu Pokémon otra vez!
 Have a good day!
 ¡Que tenga un buen día!
 Oh, I'm sorry, but you don't have enough money.
-Oh, I'm sorry, but you don't have enough money.
+Oh, lo siento, pero no tienes suficiente dinero.
 Yes
 Sí
 No
 No
 [Map208]
 Hi! I'm professor Oak's assistant.
-Hi! I'm professor Oak's assistant.
+¡Hola! Soy el asistente del profesor Oak.
 I have a special outfit for anyone who has fused 100 kinds of Pokémon!
-I have a special outfit for anyone who has fused 100 kinds of Pokémon!
+¡Tengo un atuendo especial para cualquiera que haya fusionado 100 tipos de Pokémon!
 So, \PN! Have you fused at least 100 kinds of Pokémon?
-So, \PN! Have you fused at least 100 kinds of Pokémon?
+Entonces, \PN, ¿has fusionado al menos 100 tipos de Pokémon?
 Amazing! You have fused \V[126] kinds of Pokémon! Congratulations!
-Amazing! You have fused \V[126] kinds of Pokémon!  Congratulations!
+¡Increíble! ¡Has fusionado \V[126] tipos de Pokémon! ¡Felicidades!
 Here you go, as promised!
-Here you go, as promised!
+Aquí tienes, ¡como lo prometí!
 That's no good. You've only fused \V[126] times!
-That's no good. You've only fused \V[126] times!
+No es suficiente. ¡Solo has fusionado \V[126] veces!
 When you fuse 100 kinds, come back for a special outfit.
-When you fuse 100 kinds, come back for a special outfit.
+Cuando fusiones 100 tipos, vuelve por un atuendo especial.
 Oh. I see. When you fuse 100 kinds, come back for a special outfit.
-Oh. I see. When you fuse 100 kinds, come back for a special outfit.
+Oh, ya veo. Cuando fusiones 100 tipos, vuelve por un atuendo especial.
 This special outfit truly shows your mastery of the DNA Splicers!
-This special outfit truly shows your mastery of the DNA Splicers!
+¡Este atuendo especial realmente demuestra tu dominio de los Empalmadores de ADN!
 Ohh, what am I going to do?
-Ohh, what am I going to do?
+Ay... ¿qué voy a hacer?
 Team Rocket has gone chasing after the legendary birds again after they escaped from Silph Co.
-Team Rocket has gone chasing after the legendary birds again after they escaped from Silph Co.
+El Team Rocket volvió a ir tras las aves legendarias después de escapar de Silph S.A.
 They were being violent. I had no choice but to tell them where the legendary birds were hiding!
-They were being violent. I had no choice but to tell them where the legendary birds were hiding!
+Se pusieron violentos. ¡No tuve más remedio que decirles dónde se escondían las aves legendarias!
 Humph... You look strong enough. Please, you have to chase after them!
-Humph... You look strong enough. Please, you have to chase after them!
+Hum... Te ves lo bastante fuerte. Por favor, ¡tienes que ir tras ellos!
 Hmm... Which of the legendary birds do you think Team Rocket will be going after first?
-Hmm... Which of the legendary birds do you think Team Rocket will be going after first?
+Mmm... ¿Cuál de las aves legendarias crees que el Team Rocket irá a buscar primero?
 \V[144]? Yes, yes, it does seem likely.
-\V[144]? Yes, yes, it does seem likely.
+¿\V[144]? Sí, sí, parece bastante probable.
 In that case, you should head to the Seafoam Islands, on route 20. That's where Articuno is probably hiding.
-In that case, you should head to the Seafoam Islands, on route 20. That's where Articuno is probably hiding.
+En ese caso, deberías ir a las Islas Espuma, en la Ruta 20. Ahí es donde probablemente se esconde Articuno.
 Here, you'll need this to go deep in the islands.
-Here, you'll need this to go deep in the islands.
+Toma, necesitarás esto para adentrarte en las islas.
 In that case, you should head to the Power Plant, on route 10. That's where Zapdos is probably hiding.
-In that case, you should head to the Power Plant, on route 10. That's where Zapdos is probably hiding.
+En ese caso, deberías ir a la Central de Energía, en la Ruta 10. Ahí es donde probablemente se esconde Zapdos.
 Here, you'll need this to enter the power plant.
-Here, you'll need this to enter the power plant.
+Toma, necesitarás esto para entrar en la central.
 In that case, you should head to Mt. Ember in the Sevii Islands. That's where Moltres is probably hiding.
-In that case, you should head to Mt. Ember in the Sevii Islands. That's where Moltres is probably hiding.
+En ese caso, deberías ir al Monte Ascuas en las Islas Sete. Ahí es donde probablemente se esconde Moltres.
 You can take the ferry just across the street to get to Knot Island.
-You can take the ferry just across the street to get to Knot Island.
+Puedes tomar el ferry justo al otro lado de la calle para llegar a la Isla Nudo.
 Show them this pass and they'll let you board it for free.
-Show them this pass and they'll let you board it for free.
+Muéstrales este pase y te dejarán subir gratis.
 You'll also need this to go into the volcano.
-You'll also need this to go into the volcano.
+También necesitarás esto para entrar al volcán.
 Please, I beg you. You have to get there first and protect \V[144] from Team Rocket!
-Please, I beg you. You have to get there first and protect \V[144] from Team Rocket!
+Por favor, te lo ruego. ¡Tienes que llegar primero y proteger a \V[144] del Team Rocket!
 They were being violent. I had no choice but to tell them that Moltres went back to Mt. Ember in the Sevii Islands.
-They were being violent. I had no choice but to tell them that Moltres went back to Mt. Ember in the Sevii Islands.
+Se pusieron violentos. ¡No tuve más remedio que decirles que Moltres regresó al Monte Ascuas, en las Islas Sete!
 They were being violent. I had no choice but to tell them that Articuno went back to the Seafoam Islands, on Route 20!
-They were being violent. I had no choice but to tell them that Articuno went back to the Seafoam Islands, on Route 20!
+Se pusieron violentos. ¡No tuve más remedio que decirles que Articuno regresó a las Islas Espuma, en la Ruta 20!
 They were being violent. I had no choice but to tell them that Zapdos went back to the Power Plant, on Route 10!
-They were being violent. I had no choice but to tell them that Zapdos went back to the Power Plant, on Route 10!
+Se pusieron violentos. ¡No tuve más remedio que decirles que Zapdos regresó a la Central de Energía, en la Ruta 10!
 Woah! You saved \V[144]! I knew I could count on you!
-Woah! You saved \V[144]! I knew I could count on you!
+¡Guau! ¡Salvaste a \V[144]! ¡Sabía que podía contar contigo!
 How can I ever repay you? I hope this'll do.
-How can I ever repay you? I hope this'll do.
+¿Cómo podría pagarte? Espero que esto sirva.
 You can take the train to Johto if you show this pass at the train station in Saffron City.
-You can take the train to Johto if you show this pass at the train station in Saffron City.
+Puedes tomar el tren a Johto si muestras este pase en la estación de tren de Ciudad Azafrán.
 You can also take the ferry to the Sevii Islands if you show this pass to the man at the port, right across from here.
-You can also take the ferry to the Sevii Islands if you show this pass to the man at the port, right across from here.
+También puedes tomar el ferry a las Islas Sete si le muestras este pase al hombre del muelle, justo enfrente de aquí.
 You can take the ferry to the Sevii Islands if you show this pass to the man at the port, right across from here.
-You can take the ferry to the Sevii Islands if you show this pass to the man at the port, right across from here.
+Puedes tomar el ferry a las Islas Sete si le muestras este pase al hombre del muelle, justo enfrente de aquí.
 \PN! I'm glad to see you again. Would you like to know the whereabouts of the Legendary bird Pokémon?
-\PN! I'm glad to see you again. Would you like to know the whereabouts of the Legendary bird Pokémon?
+¡\PN! Me alegra verte de nuevo. ¿Te gustaría saber dónde están las aves legendarias?
 Which Legendary bird would you like to know about?
-Which Legendary bird would you like to know about?
+¿Sobre cuál ave legendaria quieres saber?
 Articuno is normally found deep within the Seafoam Islands on Route 20.
-Articuno is normally found deep within the Seafoam Islands on Route 20.
+Articuno suele encontrarse en lo más profundo de las Islas Espuma, en la Ruta 20.
 You'll need to use the Ice Pick I gave you to climb the ice wall near the entrance!
-You'll need to use the Ice Pick I gave you to climb the ice wall near the entrance!
+¡Tendrás que usar la Picota de Hielo que te di para escalar la pared de hielo cerca de la entrada!
 Zapdos is typically found deep within the old Power Plant on Route 10.
-Zapdos is typically found deep within the old Power Plant on Route 10.
+Zapdos suele encontrarse en lo más profundo de la vieja Central de Energía, en la Ruta 10.
 You'll need to use the Power Plant Key I gave you to open the door!
-You'll need to use the Power Plant Key I gave you to open the door!
+¡Tendrás que usar la Llave de la Central que te di para abrir la puerta!
 Moltres is usually found deep within Mt. Ember. It's a volcano located North of Knot Island.
-Moltres is usually found deep within Mt. Ember. It's a volcano located North of Knot Island.
+Moltres suele encontrarse en lo más profundo del Monte Ascuas. Es un volcán ubicado al norte de la Isla Nudo.
 A ferry from Cinnabar Island'll take you there if you show them your Seagallop Pass.
-A ferry from Cinnabar Island'll take you there if you show them your Seagallop Pass.
+Un ferry desde Isla Canela te llevará allí si les muestras tu Pase Seagallop.
 You'll need to use the Gas Mask I gave you to be able breathe in there!
-You'll need to use the Gas Mask I gave you to be able breathe in there!
+¡Tendrás que usar la Máscara de Gas que te di para poder respirar ahí dentro!
 Very well. Feel free to come back if you need any help to track them down!
-Very well. Feel free to come back if you need any help to track them down!
+Muy bien. ¡Vuelve cuando quieras si necesitas ayuda para encontrarlos!
 They were being violent. I had no choice but to tell them that \V[144] fled to Cinnabar Volcano, right here on the island.
-They were being violent. I had no choice but to tell them that \V[144] fled to Cinnabar Volcano, right here on the island.
+Se pusieron violentos. ¡No tuve más remedio que decirles que \V[144] huyó al Volcán Canela, aquí mismo en la isla!
 Here, you'll need this to go in the volcano.
-Here, you'll need this to go in the volcano.
+Toma, necesitarás esto para entrar al volcán.
 They were being violent. I had no choice but to tell them that Moltres went back to Cinnabar Volcano, right here in Cinnabar Island.
-They were being violent. I had no choice but to tell them that Moltres went back to Cinnabar Volcano, right here in Cinnabar Island.
+Se pusieron violentos. ¡No tuve más remedio que decirles que Moltres regresó al Volcán Canela, aquí mismo en Isla Canela!
 They were being violent. I had no choice but to tell them that Articuno went back to the Seafoam Islands!
-They were being violent. I had no choice but to tell them that Articuno went back to the Seafoam Islands!
+Se pusieron violentos. ¡No tuve más remedio que decirles que Articuno regresó a las Islas Espuma!
 They were being violent. I had no choice but to tell them that Zapdos went back to the Kanto Power Plant!
-They were being violent. I had no choice but to tell them that Zapdos went back to the Kanto Power Plant!
+Se pusieron violentos. ¡No tuve más remedio que decirles que Zapdos regresó a la Central de Energía de Kanto!
 They were being violent. I had no choice but to tell them that Moltres went back to Cinnabar Volcano.
-They were being violent. I had no choice but to tell them that Moltres went back to Cinnabar Volcano.
+Se pusieron violentos. ¡No tuve más remedio que decirles que Moltres regresó al Volcán Canela!
 They were being violent. I had no choice but to tell them that Zapdos went back to the Kanto Power Plant, on Route 10!
-They were being violent. I had no choice but to tell them that Zapdos went back to the Kanto Power Plant, on Route 10!
+Se pusieron violentos. ¡No tuve más remedio que decirles que Zapdos regresó a la Central de Energía de Kanto, en la Ruta 10!
 In fact, you're so amazing that I have decided to give you the title of honorary scientist
-In fact, you're so amazing that I have decided to give you the title of honorary scientist
+De hecho, eres tan increíble que he decidido darte el título de científico honorario.
 Here is the key to the burned mansion. As a scientist, you're now allowed to go in there to conduct experiments!
-Here is the key to the burned mansion. As a scientist, you're now allowed to go in there to conduct experiments!
+Aquí tienes la llave de la mansión quemada. ¡Como científico, ahora tienes permitido entrar ahí para hacer experimentos!
 Feel free to go in the burned out mansion anytime you want now that you are an honorary scientist!
-Feel free to go in the burned out mansion anytime you want now that you are an honorary scientist!
+¡Siéntete libre de entrar a la mansión quemada cuando quieras, ahora que eres un científico honorario!
 Yes
 Sí
 No
@@ -11561,9 +11561,9 @@ Never mind
 Olvídalo
 [Map209]
 I found this very strange fossil in Mt. Moon! I think it's a rare, prehistoric Pokémon!
-I found this very strange fossil in Mt. Moon! I think it's a rare, prehistoric Pokémon!
+¡Encontré este fósil muy extraño en el Mt. Moon! ¡Creo que es un Pokémon prehistórico y raro!
 \GIt has some strange powers. Your Pokémon might be able to learn them. I can teach it to them for $\V[15].
-\GIt has some strange powers. Your Pokémon might be able to learn them. I can teach it to them for $\V[15].
+\GTiene unos poderes extraños. Tus Pokémon podrían aprenderlos. Puedo enseñárselos por $\V[15].
 Ta-da! Come back if you want me to teach it to another of your Pokémon!
 ¡Tachán! Vuelve si quieres que se lo enseñe a otro de tus Pokémon.
 That's too bad. Come back with $\V[15] if you want me to teach it to one of your Pokémon!
@@ -11571,82 +11571,82 @@ Qué lástima. Vuelve con $\V[15] si quieres que se lo enseñe a uno de tus Pok�
 You don't have enough money. Come back with $\V[15] if you want me to teach it to one of your Pokémon!
 No tienes suficiente dinero. Vuelve con $\V[15] si quieres que se lo enseñe a uno de tus Pokémon.
 There's an e-mail message! ...
-There's an e-mail message! ...
+¡Hay un mensaje de correo!...
 The 3 legendary bird POKEMON are ARTICUNO, ZAPDOS, and MOLTRES. Their whereabouts are unknown.
-The 3 legendary bird POKEMON are ARTICUNO, ZAPDOS, and MOLTRES. Their whereabouts are unknown.
+Los 3 Pokémon ave legendarios son ARTICUNO, ZAPDOS, y MOLTRES. Se desconoce su paradero.
 We plan to explore the cavern close to Cerulean.
-We plan to explore the cavern close to Cerulean.
+Planeamos explorar la caverna cercana a Ciudad Celeste.
 From: POKEMON RESEARCH TEAM
-From: POKEMON RESEARCH TEAM
+De: EQUIPO DE INVESTIGACIÓN POKÉMON
 Hiya! I am important doctor! I study here rare Pokémon fossils!
-Hiya! I am important doctor! I study here rare Pokémon fossils!
+¡Holi! ¡Yo ser doctor importante! ¡Aquí estudio fósiles raros de Pokémon!
 This fossil-reviving machine is the best of its kind. It can even revive Pokémon with their DNA extracted from amber!
-This fossil-reviving machine is the best of its kind. It can even revive Pokémon with their DNA extracted from amber!
+Esta máquina para revivir fósiles es la mejor de su clase. ¡Incluso puede revivir Pokémon con su ADN extraído de ámbar!
 Let me know when you change your mind!
-Let me know when you change your mind!
+¡Avísame cuando cambies de idea!
 Let me know if you ever find one and I'll revive it for you! Free of charge, of course!
-Let me know if you ever find one and I'll revive it for you!  Free of charge, of course!
+¡Avísame si algún día encuentras uno y lo reviviré por ti! Gratis, por supuesto.
 Okay. I'll revive your \v[3].
-Okay. I'll revive your \v[3].
+De acuerdo. Reviviré tu \v[3].
 It worked perfectly. Here's your living fossil Pokémon!
-It worked perfectly. Here's your living fossil Pokémon!
+¡Funcionó a la perfección! ¡Aquí tienes a tu fósil Pokémon con vida!
 I'm looking for a Clefable! Wanna trade one for a Chansey?
-I'm looking for a Clefable! Wanna trade one for a Chansey?
+¡Estoy buscando un Clefable! ¿Quieres cambiar uno por un Chansey?
 What? That's not Clefable! If you get one, trade it with me!
-What? That's not Clefable! If you get one, trade it with me!
+¿Qué? ¡Eso no es un Clefable! ¡Si consigues uno, cámbialo conmigo!
 Okay, connect the cable like so!
-Okay, connect the cable like so!
+Bien, conecta el cable así.
 Thanks pal!
-Thanks pal!
+¡Gracias, amigo!
 That's too bad.
-That's too bad.
+Qué mal.
 How is my old Chansey? Clefable is doing great!
-How is my old Chansey? Clefable is doing great!
+¿Qué tal mi antiguo Chansey? ¡Clefable está de maravilla!
 Hello there! Do you want to trade your Raichu for Electrode?
-Hello there! Do you want to trade your Raichu for Electrode?
+¡Hola! ¿Quieres cambiar tu Raichu por un Electrode?
 Hmmm? This isn't Raichu. Think of me when you get one.
-Hmmm? This isn't Raichu. Think of me when you get one.
+¿Mmm? Esto no es un Raichu. Acuérdate de mí cuando consigas uno.
 Hey thanks!
-Hey thanks!
+¡Eh, gracias!
 Well, if you don't want to...
-Well, if you don't want to...
+Bueno, si no quieres...
 The Raichu you traded to me went and evolved! How did this happen!?
-The Raichu you traded to me went and evolved! How did this happen!?
+¡El Raichu que me cambiaste evolucionó! ¿¡Cómo pasó esto!?
 I'm looking for Ponyta! Wanna trade one for Seel?
-I'm looking for Ponyta! Wanna trade one for Seel?
+¡Estoy buscando un Ponyta! ¿Quieres cambiar uno por un Seel?
 What? That's not Ponyta! If you get one, come back here!
-What? That's not Ponyta! If you get one, come back here!
+¿Qué? ¡Eso no es un Ponyta! ¡Si consigues uno, vuelve aquí!
 Awww! Oh well...
-Awww! Oh well...
+Ayyy... bueno...
 Isn't my old Seel great?
-Isn't my old Seel great?
+¿No es genial mi antiguo Seel?
 Yes
 Sí
 No
 No
 [Map210]
 Hah! I am Blaine, the red-hot Leader of Cinnabar Gym! My fiery Pokémon are all ready with intense heat! They incinerate all challengers!
-Hah! I am Blaine, the red-hot Leader of Cinnabar Gym!  My fiery Pokémon are all ready with intense heat!  They incinerate all challengers!
+¡Ja! ¡Soy Blaine, el ardiente Líder del Gimnasio de Isla Canela! ¡Mis Pokémon de fuego están listos con un calor intenso! ¡Incinero a todos los retadores!
 Hah! You better have Burn Heal!
-Hah! You better have Burn Heal!
+¡Ja! ¡Más te vale traer un Antídoto para quemaduras!
 I have burned down to nothing! Not even ashes remain! You have earned the Volcano Badge.
-I have burned down to nothing! Not even ashes remain! You have earned the Volcano Badge.
+¡Me he consumido hasta no quedar nada! ¡Ni cenizas quedan! Has ganado la Medalla Volcán.
 Fire Blast is the ultimate fire technique. Don't waste it on Water Pokémon.
-Fire Blast is the ultimate fire technique. Don't waste it on Water Pokémon.
+Llamarada es la técnica de fuego definitiva. No la desperdicies en Pokémon de tipo Agua.
 Hello \PN! Would you like to have a rematch?
-Hello \PN! Would you like to have a rematch?
+Hola, \PN. ¿Te gustaría una revancha?
 Let's go!
 ¡Vamos!
 Foiled again! I thought I would beat you this time, \PN!
-Foiled again! I thought I would beat you this time, \PN!
+¡Otra vez me arruinaste el plan! Creí que esta vez te vencería, \PN.
 My Pokemon will be waiting!
-My Pokemon will be waiting!
+¡Mis Pokémon te estarán esperando!
 Yes, this is the Cinnabar Island gym! Pretty unusual, wouldn't you say?
-Yes, this is the Cinnabar Island gym! Pretty unusual, wouldn't you say?
+Sí, este es el Gimnasio de Isla Canela. Bastante inusual, ¿no crees?
 Oh, you're looking for Blaine? I'm afraid he's unavailable at the moment.
-Oh, you're looking for Blaine? I'm afraid he's unavailable at the moment.
+Oh, ¿buscas a Blaine? Me temo que ahora mismo no está disponible.
 He went to the burned out mansion to conduct some experiments.
-He went to the burned out mansion to conduct some experiments.
+Fue a la mansión quemada para hacer unos experimentos.
 Yes
 Sí
 No
