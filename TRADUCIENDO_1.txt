@@ -967,7 +967,7 @@ Ciudad Celeste: La ciudad floreciente de agua
 Cerulean City Gym
 Gimnasio de Ciudad Celeste
 Gym Leader: Misty\nSpecializing in \V[5]-type Pokémon
-Líder del gimnasio: Misty\nSpecializing in \V[5]-type Pokémon
+Líder del gimnasio: Misty\nEspecialista en Pokémon tipo \V[5]
 Meoow!
 ¡Meow!
 Hmm... A Pokémon trainer... We have met before. I remember you.
