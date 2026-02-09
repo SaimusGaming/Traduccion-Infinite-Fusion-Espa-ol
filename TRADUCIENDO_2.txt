@@ -12860,7 +12860,7 @@ You're looking for some wooden planks?
 Sure, I've got them. But I'm not handing them to you unless you beat me in a Pokémon battle! What do you say?
 Claro, las tengo.¡Pero no te las daré a menos que me derrotes en una batalla Pokémon! ¿Qué dices?
 I'll give it all I've got!
-¡Voy con todo
+¡Voy con todo!
 Woah! You're way better than I expected!
 Woah! You're way better than I expected!
 You're good. Here are the wooden planks you asked for!
@@ -12870,7 +12870,7 @@ I'm not giving you these wooden planks unless you fight me!
 So, what were those wooden planks for anyway?
 Oye, ¿y al final para qué necesitabas esos tablones?
 You're a trainer, right?
-¿Eres un entrenador, verda
+¿Eres un entrenador, verdad?
 You should go to the Pokémon League to test your abilities!
 ¡Deberías ir a la Liga Pokémon para poner a prueba tus habilidades!
 Uugh.!... Hic... Hold it right there!
