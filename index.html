@@ -13,7 +13,9 @@
       width: 100%;
       padding: 10px 20px;
       display: flex;
+      gap: 16px;
       justify-content: space-between;
+      align-items: center;
       background: linear-gradient(90deg, #5b21ff, #ec4899);
       color: #fff;
       position: sticky;
@@ -23,13 +25,14 @@
     }
 
     .banner-left { display: flex; flex-direction: column; }
-    .banner-right { display: flex; align-items: center; gap: 8px; }
+    .banner-right { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
 
     .banner-right input {
       padding: 4px 8px;
       border-radius: 6px;
       border: none;
       font-size: 13px;
+      max-width: 100%;
     }
 
     .banner-right input#saveNote {
@@ -41,7 +44,83 @@
       padding: 6px 14px; cursor: pointer; font-weight: bold;
     }
 
+    .btn.secondary {
+      background: #111827;
+      border: 1px solid rgba(255,255,255,0.35);
+      color: #fff;
+    }
+
+    .auth-fields {
+      display: none;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .auth-fields.active {
+      display: flex;
+    }
+
+    .session-label {
+      color: #fff;
+      font-size: 13px;
+      font-weight: 700;
+    }
+
+    .login-screen {
+      align-items: center;
+      background: #050816;
+      display: none;
+      flex: 1;
+      justify-content: center;
+      padding: 24px;
+    }
+
+    .login-screen.active {
+      display: flex;
+    }
+
+    .login-panel {
+      background: #020617;
+      border: 1px solid #1f2937;
+      border-radius: 8px;
+      box-shadow: 0 18px 45px rgba(0,0,0,0.35);
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      max-width: 420px;
+      padding: 22px;
+      width: 100%;
+    }
+
+    .login-panel h1 {
+      font-size: 22px;
+    }
+
+    .login-panel input {
+      border: 1px solid #334155;
+      border-radius: 6px;
+      font-size: 15px;
+      padding: 10px 12px;
+    }
+
+    .login-panel .btn {
+      border-radius: 6px;
+      padding: 10px 14px;
+    }
+
+    .login-hint {
+      color: #9ca3af;
+      font-size: 13px;
+      line-height: 1.4;
+    }
+
     main { flex: 1; display: flex; padding: 16px; gap: 16px; }
+
+    body.login-required main,
+    body.login-required header {
+      display: none;
+    }
 
     .editor-container {
       flex: 1;
@@ -96,6 +175,7 @@
       font-family: "Fira Code", monospace;
       font-size: 14px;
       white-space: pre;
+      min-height: 65vh;
     }
 
     .sidebar {
@@ -129,7 +209,7 @@
 
 
     /* ============================================================
-       🔥 GLOW GAMER NEÓN — MÁS LEGIBLE, ESTÉTICO Y BRILLANTE 🔥
+       ðŸ”¥ GLOW GAMER NEÃ“N â€” MÃS LEGIBLE, ESTÃ‰TICO Y BRILLANTE ðŸ”¥
        ============================================================ */
     header .banner-left span,
     header .banner-left a {
@@ -152,25 +232,108 @@
       transform: scale(1.03);
     }
 
+    .activity-name {
+      font-weight: bold;
+    }
+
+    .activity-note {
+      color: #cbd5e1;
+      font-size: 12px;
+      overflow-wrap: anywhere;
+    }
+
+    .activity-date {
+      color: #9ca3af;
+      font-size: 11px;
+    }
+
+    @media (max-width: 900px) {
+      header,
+      main {
+        flex-direction: column;
+      }
+
+      header {
+        align-items: stretch;
+      }
+
+      .banner-right {
+        align-items: flex-start;
+      }
+
+      .auth-fields,
+      .auth-fields.active {
+        align-items: flex-start;
+        flex-direction: column;
+        width: 100%;
+      }
+
+      .banner-right input,
+      .banner-right input#saveNote {
+        min-width: 0;
+        width: 100%;
+      }
+
+      main {
+        padding: 12px;
+      }
+
+      .editor-header {
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 4px;
+      }
+
+      .sidebar {
+        width: 100%;
+      }
+
+      textarea {
+        min-height: 58vh;
+      }
+    }
+
   </style>
 </head>
 <body>
 
+<section id="loginScreen" class="login-screen">
+  <form id="loginForm" class="login-panel">
+    <h1>Traductor SaimusGaming</h1>
+    <p class="login-hint">Inicia sesiÃ³n para editar y guardar cambios en la traducciÃ³n.</p>
+
+    <label for="loginUser">Usuario</label>
+    <input id="loginUser" type="text" autocomplete="username" placeholder="Usuario">
+
+    <label for="loginPassword">ContraseÃ±a</label>
+    <input id="loginPassword" type="password" autocomplete="current-password" placeholder="ContraseÃ±a">
+
+    <button id="loginBtn" class="btn" type="submit">Entrar</button>
+    <div id="loginStatus" class="status-message status-neutral"></div>
+  </form>
+</section>
+
 <header>
   <div class="banner-left">
     <span>Banner SaimusGaming</span>
-    <span>Twitch: <a href="https://twitch.tv/saimusgaming" target="_blank">twitch.tv/saimusgaming</a></span>
-    <span>Web: <a href="https://saimusgaming.es" target="_blank">saimusgaming.es</a></span>
+    <span>Twitch: <a href="https://twitch.tv/saimusgaming" target="_blank" rel="noopener noreferrer">twitch.tv/saimusgaming</a></span>
+    <span>Web: <a href="https://saimusgaming.es" target="_blank" rel="noopener noreferrer">saimusgaming.es</a></span>
   </div>
 
   <div class="banner-right">
+    <div id="sessionFields" class="auth-fields">
+      <span id="sessionLabel" class="session-label"></span>
+      <button id="logoutBtn" class="btn secondary" type="button">Salir</button>
+    </div>
+
     <label for="displayName">Tu nombre:</label>
     <input id="displayName" type="text" placeholder="Ej: Saimus">
 
     <label for="saveNote" style="margin-left:10px;">Nota:</label>
-    <input id="saveNote" type="text" placeholder="Ej: Revisado hasta la línea 2500">
+    <input id="saveNote" type="text" placeholder="Ej: Revisado hasta la lÃ­nea 2500">
 
-    <button id="saveBtn" class="btn">💾 Guardar</button>
+    <button id="saveBtn" class="btn">ðŸ’¾ Guardar</button>
+    <button id="clearTokenBtn" class="btn secondary" type="button">Cambiar token</button>
   </div>
 </header>
 
@@ -186,16 +349,16 @@
 
     <div class="editor-header">
       <div class="file-name" id="fileNameLabel">Archivo: TRADUCIENDO_1.txt</div>
-      <small id="lastTouchedLabel">Última edición: cargando...</small>
+      <small id="lastTouchedLabel">Ãšltima ediciÃ³n: cargando...</small>
     </div>
 
-    <textarea id="fileContent" placeholder="Cargando archivo desde GitHub..."></textarea>
+    <textarea id="fileContent" placeholder="Cargando archivo desde GitHub..." spellcheck="false"></textarea>
     <div id="statusMessage" class="status-message status-neutral">Listo para editar.</div>
 
   </section>
 
   <aside class="sidebar">
-    <div class="sidebar-section-title">Últimos movimientos</div>
+    <div class="sidebar-section-title">Ãšltimos movimientos</div>
     <ul id="activityList" class="activity-list">
       <li class="activity-item">Cargando historial...</li>
     </ul>
@@ -203,18 +366,21 @@
 </main>
 
 <script>
-  // === CONFIGURACIÓN DEL REPO ===
+  // === CONFIGURACIÃ“N DEL REPO ===
   const GITHUB_OWNER = "SaimusGaming";
   const GITHUB_REPO = "Traduccion-Infinite-Fusion-Espa-ol";
   const GITHUB_BRANCH = "main";
+  const REQUIRE_LOGIN = false;
+  const API_BASE_URL = ""; // Ejemplo: "https://traductor-api.tu-subdominio.workers.dev"
 
-  // ⚠️ OPCIONAL: si pones tu token aquí, NO se pedirá a los usuarios,
-  // pero CUALQUIERA podrá verlo en el código fuente (no es seguro).
-  const GITHUB_TOKEN = ""; // Pon aquí tu token solo si aceptas el riesgo.
+  // âš ï¸ OPCIONAL: si pones tu token aquÃ­, NO se pedirÃ¡ a los usuarios,
+  // pero CUALQUIERA podrÃ¡ verlo en el cÃ³digo fuente (no es seguro).
+  const GITHUB_TOKEN = ""; // Pon aquÃ­ tu token solo si aceptas el riesgo.
 
   let currentFile = "TRADUCIENDO_1.txt";
   let currentFileSha = null;
   let githubToken = null;
+  let appSession = null;
 
   const fileContentEl = document.getElementById("fileContent");
   const fileNameLabelEl = document.getElementById("fileNameLabel");
@@ -224,6 +390,16 @@
   const displayNameEl = document.getElementById("displayName");
   const saveNoteEl = document.getElementById("saveNote");
   const saveBtnEl = document.getElementById("saveBtn");
+  const loginScreenEl = document.getElementById("loginScreen");
+  const loginFormEl = document.getElementById("loginForm");
+  const loginStatusEl = document.getElementById("loginStatus");
+  const sessionFieldsEl = document.getElementById("sessionFields");
+  const loginUserEl = document.getElementById("loginUser");
+  const loginPasswordEl = document.getElementById("loginPassword");
+  const loginBtnEl = document.getElementById("loginBtn");
+  const logoutBtnEl = document.getElementById("logoutBtn");
+  const sessionLabelEl = document.getElementById("sessionLabel");
+  const clearTokenBtnEl = document.getElementById("clearTokenBtn");
 
   // === UTILIDADES ===
 
@@ -232,7 +408,19 @@
     statusMessageEl.className = "status-message status-" + type;
   }
 
-  // Decodificar base64 -> UTF-8 sin romper ñ, tildes, etc.
+  function apiEnabled() {
+    return REQUIRE_LOGIN || API_BASE_URL.trim() !== "";
+  }
+
+  function backendConfigured() {
+    return API_BASE_URL.trim() !== "";
+  }
+
+  function apiUrl(path) {
+    return API_BASE_URL.replace(/\/$/, "") + path;
+  }
+
+  // Decodificar base64 -> UTF-8 sin romper Ã±, tildes, etc.
   function decodeBase64(base64String) {
     try {
       const cleaned = base64String.replace(/\s/g, "");
@@ -275,7 +463,7 @@
 
       currentFileSha = data.sha;
       fileContentEl.value = decodeBase64(data.content);
-      status("Archivo cargado ✔", "ok");
+      status("Archivo cargado âœ”", "ok");
 
       await loadCommits();
     } catch (err) {
@@ -284,10 +472,10 @@
     }
   }
 
-  // === HISTORIAL (últimos 5 guardados) ===
+  // === HISTORIAL (Ãºltimos 5 guardados) ===
 
   function extraerNombreYNotaDeMensaje(message) {
-    // Mensaje esperado: "Edición en XXX por NOMBRE | Nota: TEXTO"
+    // Mensaje esperado: "EdiciÃ³n en XXX por NOMBRE | Nota: TEXTO"
     let nombre = null;
     let nota = null;
 
@@ -311,11 +499,11 @@
       if (!res.ok) throw new Error("Error HTTP " + res.status);
       const commits = await res.json();
 
-      activityListEl.innerHTML = "";
+      activityListEl.replaceChildren();
 
       if (!Array.isArray(commits) || commits.length === 0) {
-        activityListEl.innerHTML = '<li class="activity-item">Sin historial todavía.</li>';
-        lastTouchedLabelEl.textContent = "Última edición: sin datos.";
+        activityListEl.appendChild(createActivityMessage("Sin historial todavÃ­a."));
+        lastTouchedLabelEl.textContent = "Ãšltima ediciÃ³n: sin datos.";
         return;
       }
 
@@ -328,66 +516,231 @@
 
         const date = new Date(c.commit.author.date).toLocaleString("es-ES");
 
-        const li = document.createElement("li");
-        li.className = "activity-item";
-        li.innerHTML = `<div style="font-weight:bold;">${displayName}</div>
-                        <div style="font-size:12px;color:#cbd5e1">${noteText}</div>
-                        <div style="font-size:11px;color:#9ca3af">${date}</div>`;
+        const li = createActivityItem(displayName, noteText, date);
         activityListEl.appendChild(li);
 
         if (i === 0) {
-          lastTouchedLabelEl.textContent = `Última edición: ${displayName} (${date})`;
+          lastTouchedLabelEl.textContent = `Ãšltima ediciÃ³n: ${displayName} (${date})`;
         }
       });
 
     } catch (err) {
       console.error(err);
-      activityListEl.innerHTML = "<li class='activity-item'>Error cargando historial.</li>";
-      lastTouchedLabelEl.textContent = "Última edición: error al cargar.";
+      activityListEl.replaceChildren(createActivityMessage("Error cargando historial."));
+      lastTouchedLabelEl.textContent = "Ãšltima ediciÃ³n: error al cargar.";
+    }
+  }
+
+  function createActivityMessage(message) {
+    const li = document.createElement("li");
+    li.className = "activity-item";
+    li.textContent = message;
+    return li;
+  }
+
+  function createActivityItem(displayName, noteText, date) {
+    const li = document.createElement("li");
+    const nameEl = document.createElement("div");
+    const noteEl = document.createElement("div");
+    const dateEl = document.createElement("div");
+
+    li.className = "activity-item";
+    nameEl.className = "activity-name";
+    noteEl.className = "activity-note";
+    dateEl.className = "activity-date";
+
+    nameEl.textContent = displayName;
+    noteEl.textContent = noteText;
+    dateEl.textContent = date;
+
+    li.append(nameEl, noteEl, dateEl);
+    return li;
+  }
+
+  function getGitHubSaveErrorMessage(statusCode, errorData) {
+    const githubMessage = errorData && errorData.message ? errorData.message : "";
+
+    if (statusCode === 401) {
+      return "Token de GitHub invÃ¡lido o caducado. Recarga la pÃ¡gina e introduce un token nuevo.";
+    }
+
+    if (statusCode === 403) {
+      return "GitHub no permite guardar: el token no tiene permiso de escritura en este repositorio o la rama estÃ¡ protegida.";
+    }
+
+    if (statusCode === 404) {
+      return "GitHub no encuentra el archivo o el token no tiene acceso a este repositorio.";
+    }
+
+    if (statusCode === 409 || githubMessage.toLowerCase().includes("sha")) {
+      return "El archivo cambiÃ³ en GitHub mientras editabas. Recarga el archivo y vuelve a guardar.";
+    }
+
+    if (githubMessage) {
+      return `GitHub respondiÃ³: ${githubMessage}`;
+    }
+
+    return `Error HTTP ${statusCode} al guardar en GitHub.`;
+  }
+
+  function loadStoredSession() {
+    const saved = sessionStorage.getItem("traductorSession");
+    if (!saved) return null;
+
+    try {
+      const session = JSON.parse(saved);
+      if (session && session.token && session.username) {
+        return session;
+      }
+    } catch (err) {
+      console.warn("SesiÃ³n guardada invÃ¡lida:", err);
+    }
+
+    sessionStorage.removeItem("traductorSession");
+    return null;
+  }
+
+  function saveStoredSession(session) {
+    appSession = session;
+    sessionStorage.setItem("traductorSession", JSON.stringify(session));
+    setAuthUi();
+  }
+
+  function clearStoredSession() {
+    appSession = null;
+    sessionStorage.removeItem("traductorSession");
+    setAuthUi();
+  }
+
+  function setAuthUi() {
+    if (!apiEnabled()) {
+      document.body.classList.remove("login-required");
+      loginScreenEl.classList.remove("active");
+      sessionFieldsEl.classList.remove("active");
+      return;
+    }
+
+    const isLoggedIn = Boolean(appSession && appSession.token);
+    document.body.classList.toggle("login-required", !isLoggedIn);
+    loginScreenEl.classList.toggle("active", !isLoggedIn);
+    sessionFieldsEl.classList.toggle("active", isLoggedIn);
+    sessionLabelEl.textContent = isLoggedIn ? `Conectado: ${appSession.username}` : "";
+
+    if (!isLoggedIn && !backendConfigured()) {
+      loginStatusEl.textContent = "Falta configurar API_BASE_URL con la URL del Worker antes de poder iniciar sesiÃ³n.";
+      loginStatusEl.className = "status-message status-error";
+      loginBtnEl.disabled = true;
+    } else if (!isLoggedIn) {
+      loginStatusEl.textContent = "";
+      loginStatusEl.className = "status-message status-neutral";
+      loginBtnEl.disabled = false;
+    }
+
+    if (isLoggedIn) {
+      displayNameEl.value = appSession.username;
+    }
+  }
+
+  async function login() {
+    if (!backendConfigured()) {
+      loginStatusEl.textContent = "Falta configurar API_BASE_URL con la URL del Worker.";
+      loginStatusEl.className = "status-message status-error";
+      return;
+    }
+
+    const username = loginUserEl.value.trim();
+    const password = loginPasswordEl.value;
+
+    if (!username || !password) {
+      loginStatusEl.textContent = "Introduce usuario y contraseÃ±a.";
+      loginStatusEl.className = "status-message status-error";
+      return;
+    }
+
+    loginStatusEl.textContent = "Iniciando sesiÃ³n...";
+    loginStatusEl.className = "status-message status-neutral";
+    loginBtnEl.disabled = true;
+
+    try {
+      const res = await fetch(apiUrl("/login"), {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ username, password })
+      });
+      const data = await res.json().catch(() => ({}));
+
+      if (!res.ok) {
+        throw new Error(data.error || "No se pudo iniciar sesiÃ³n.");
+      }
+
+      saveStoredSession({ username: data.username, token: data.token });
+      loginPasswordEl.value = "";
+      status("SesiÃ³n iniciada.", "ok");
+      loadFile();
+    } catch (err) {
+      console.error(err);
+      loginStatusEl.textContent = err.message || "No se pudo iniciar sesiÃ³n.";
+      loginStatusEl.className = "status-message status-error";
+    } finally {
+      loginBtnEl.disabled = !backendConfigured();
     }
   }
 
   // === TOKEN ===
 
   function getToken() {
-    // Si has puesto un token global, úsalo sin preguntar
+    // Si has puesto un token global, Ãºsalo sin preguntar
     if (GITHUB_TOKEN && GITHUB_TOKEN.trim() !== "") {
       return GITHUB_TOKEN.trim();
     }
 
-    // Si ya está en memoria local, úsalo
+    // Si ya estÃ¡ en memoria de esta sesiÃ³n, Ãºsalo
     if (githubToken) return githubToken;
-    const saved = localStorage.getItem("tokenSaimus");
+    localStorage.removeItem("tokenSaimus");
+    const saved = sessionStorage.getItem("tokenSaimus");
     if (saved) {
       githubToken = saved;
       return githubToken;
     }
 
-    // Último recurso: preguntar
+    // Ãšltimo recurso: preguntar
     const token = window.prompt("Introduce tu GitHub Personal Access Token (con permiso 'repo' o 'contents'):");
     if (token && token.trim() !== "") {
       githubToken = token.trim();
-      localStorage.setItem("tokenSaimus", githubToken);
+      sessionStorage.setItem("tokenSaimus", githubToken);
       return githubToken;
     }
 
     return null;
   }
 
+  function clearGitHubToken() {
+    githubToken = null;
+    localStorage.removeItem("tokenSaimus");
+    sessionStorage.removeItem("tokenSaimus");
+    status("Token olvidado. Al guardar se pedirá uno nuevo.", "neutral");
+  }
+
   // === GUARDAR ===
 
   async function saveFile() {
-    const displayName = (displayNameEl.value || "").trim() || "Anónimo";
+    const displayName = (displayNameEl.value || "").trim() || "AnÃ³nimo";
     const note = (saveNoteEl.value || "").trim() || "Sin nota";
+
+    if (!currentFileSha) {
+      status("AÃºn no se ha cargado el archivo.", "error");
+      return;
+    }
+
+    if (apiEnabled()) {
+      await saveFileWithBackend(displayName, note);
+      return;
+    }
+
     const token = getToken();
 
     if (!token) {
       status("No se puede guardar sin token de GitHub (lo exige GitHub).", "error");
-      return;
-    }
-
-    if (!currentFileSha) {
-      status("Aún no se ha cargado el archivo.", "error");
       return;
     }
 
@@ -403,7 +756,7 @@
           "Content-Type": "application/json"
         },
         body: JSON.stringify({
-          message: `Edición en ${currentFile} por ${displayName} | Nota: ${note}`,
+          message: `EdiciÃ³n en ${currentFile} por ${displayName} | Nota: ${note}`,
           content: encodeBase64(fileContentEl.value),
           sha: currentFileSha,
           branch: GITHUB_BRANCH
@@ -413,17 +766,68 @@
       if (!res.ok) {
         const err = await res.json().catch(() => ({}));
         console.error("Error al guardar:", err);
-        throw new Error("Error HTTP " + res.status);
+        throw new Error(getGitHubSaveErrorMessage(res.status, err));
       }
 
       const data = await res.json();
       currentFileSha = data.content.sha;
 
-      status("Guardado correctamente ✔", "ok");
+      status("Guardado correctamente âœ”", "ok");
       await loadCommits();
     } catch (err) {
       console.error(err);
-      status("Error al guardar.", "error");
+      status(err.message || "Error al guardar.", "error");
+    } finally {
+      saveBtnEl.disabled = false;
+    }
+  }
+
+  async function saveFileWithBackend(displayName, note) {
+    if (!backendConfigured()) {
+      status("Falta configurar API_BASE_URL con la URL del Worker.", "error");
+      setAuthUi();
+      return;
+    }
+
+    if (!appSession || !appSession.token) {
+      status("Inicia sesiÃ³n antes de guardar.", "error");
+      setAuthUi();
+      return;
+    }
+
+    status("Guardando...", "neutral");
+    saveBtnEl.disabled = true;
+
+    try {
+      const res = await fetch(apiUrl("/save"), {
+        method: "POST",
+        headers: {
+          "Authorization": `Bearer ${appSession.token}`,
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+          file: currentFile,
+          content: fileContentEl.value,
+          sha: currentFileSha,
+          displayName,
+          note
+        })
+      });
+      const data = await res.json().catch(() => ({}));
+
+      if (!res.ok) {
+        if (res.status === 401) {
+          clearStoredSession();
+        }
+        throw new Error(data.error || "Error al guardar.");
+      }
+
+      currentFileSha = data.sha;
+      status("Guardado correctamente âœ”", "ok");
+      await loadCommits();
+    } catch (err) {
+      console.error(err);
+      status(err.message || "Error al guardar.", "error");
     } finally {
       saveBtnEl.disabled = false;
     }
@@ -444,6 +848,15 @@
   });
 
   saveBtnEl.addEventListener("click", saveFile);
+  clearTokenBtnEl.addEventListener("click", clearGitHubToken);
+  loginFormEl.addEventListener("submit", event => {
+    event.preventDefault();
+    login();
+  });
+  logoutBtnEl.addEventListener("click", () => {
+    clearStoredSession();
+    status("SesiÃ³n cerrada.", "neutral");
+  });
 
   // Guardar nombre en localStorage
   const storedName = localStorage.getItem("displayNameTraductor");
@@ -452,8 +865,13 @@
     localStorage.setItem("displayNameTraductor", displayNameEl.value.trim());
   });
 
+  appSession = loadStoredSession();
+  setAuthUi();
+
   // Cargar primer archivo al iniciar
-  loadFile();
+  if (!apiEnabled() || appSession) {
+    loadFile();
+  }
 </script>
 
 </body>
