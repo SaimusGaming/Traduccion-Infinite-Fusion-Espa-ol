@@ -472,6 +472,14 @@
     }
   }
 
+  async function refreshCurrentFileSha() {
+    const res = await fetch(getContentUrl(currentFile));
+    if (!res.ok) throw new Error("No se pudo actualizar la referencia del archivo.");
+    const data = await res.json();
+    currentFileSha = data.sha;
+    return currentFileSha;
+  }
+
   // === HISTORIAL (Ãºltimos 5 guardados) ===
 
   function extraerNombreYNotaDeMensaje(message) {
@@ -694,10 +702,9 @@
       return GITHUB_TOKEN.trim();
     }
 
-    // Si ya estÃ¡ en memoria de esta sesiÃ³n, Ãºsalo
+    // Si ya estÃ¡ guardado en este navegador, Ãºsalo
     if (githubToken) return githubToken;
-    localStorage.removeItem("tokenSaimus");
-    const saved = sessionStorage.getItem("tokenSaimus");
+    const saved = localStorage.getItem("tokenSaimus") || sessionStorage.getItem("tokenSaimus");
     if (saved) {
       githubToken = saved;
       return githubToken;
@@ -707,7 +714,7 @@
     const token = window.prompt("Introduce tu GitHub Personal Access Token (con permiso 'repo' o 'contents'):");
     if (token && token.trim() !== "") {
       githubToken = token.trim();
-      sessionStorage.setItem("tokenSaimus", githubToken);
+      localStorage.setItem("tokenSaimus", githubToken);
       return githubToken;
     }
 
@@ -748,20 +755,17 @@
     saveBtnEl.disabled = true;
 
     try {
-      const res = await fetch(getContentUrl(currentFile), {
-        method: "PUT",
-        headers: {
-          "Authorization": `Bearer ${token}`,
-          "Accept": "application/vnd.github+json",
-          "Content-Type": "application/json"
-        },
-        body: JSON.stringify({
-          message: `EdiciÃ³n en ${currentFile} por ${displayName} | Nota: ${note}`,
-          content: encodeBase64(fileContentEl.value),
-          sha: currentFileSha,
-          branch: GITHUB_BRANCH
-        })
-      });
+      let res = await putCurrentFile(token, displayName, note);
+
+      if (!res.ok) {
+        const err = await res.json().catch(() => ({}));
+
+        if (res.status === 409 || (err.message || "").toLowerCase().includes("sha")) {
+          status("El archivo cambió en GitHub. Actualizando referencia y reintentando...", "neutral");
+          await refreshCurrentFileSha();
+          res = await putCurrentFile(token, displayName, note);
+        }
+      }
 
       if (!res.ok) {
         const err = await res.json().catch(() => ({}));
@@ -772,7 +776,7 @@
       const data = await res.json();
       currentFileSha = data.content.sha;
 
-      status("Guardado correctamente âœ”", "ok");
+      status("Guardado correctamente âœ”. GitHub Pages puede tardar un poco en reflejar el cambio.", "ok");
       await loadCommits();
     } catch (err) {
       console.error(err);
@@ -780,6 +784,23 @@
     } finally {
       saveBtnEl.disabled = false;
     }
+  }
+
+  function putCurrentFile(token, displayName, note) {
+    return fetch(getContentUrl(currentFile), {
+      method: "PUT",
+      headers: {
+        "Authorization": `Bearer ${token}`,
+        "Accept": "application/vnd.github+json",
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({
+        message: `EdiciÃ³n en ${currentFile} por ${displayName} | Nota: ${note}`,
+        content: encodeBase64(fileContentEl.value),
+        sha: currentFileSha,
+        branch: GITHUB_BRANCH
+      })
+    });
   }
 
   async function saveFileWithBackend(displayName, note) {
