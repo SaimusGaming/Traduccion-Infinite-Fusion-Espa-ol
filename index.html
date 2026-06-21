@@ -452,13 +452,43 @@
     return `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/commits?path=${file}&per_page=5`;
   }
 
+  function getSavedToken() {
+    if (GITHUB_TOKEN && GITHUB_TOKEN.trim() !== "") return GITHUB_TOKEN.trim();
+    if (githubToken) return githubToken;
+
+    const saved = localStorage.getItem("tokenSaimus") || sessionStorage.getItem("tokenSaimus");
+    if (saved) {
+      githubToken = saved;
+      return githubToken;
+    }
+
+    return null;
+  }
+
+  function fetchGitHub(url, options = {}) {
+    const token = getSavedToken();
+    const headers = new Headers(options.headers || {});
+    headers.set("Accept", "application/vnd.github+json");
+
+    if (token) {
+      headers.set("Authorization", `Bearer ${token}`);
+    }
+
+    return fetch(url, { ...options, headers });
+  }
+
+  async function getGitHubResponseError(res) {
+    const data = await res.json().catch(() => ({}));
+    return data.message ? `GitHub respondió ${res.status}: ${data.message}` : `Error HTTP ${res.status}`;
+  }
+
   // === CARGAR ARCHIVO ===
 
   async function loadFile() {
     status("Cargando archivo...", "neutral");
     try {
-      const res = await fetch(getContentUrl(currentFile));
-      if (!res.ok) throw new Error("Error HTTP " + res.status);
+      const res = await fetchGitHub(getContentUrl(currentFile));
+      if (!res.ok) throw new Error(await getGitHubResponseError(res));
       const data = await res.json();
 
       currentFileSha = data.sha;
@@ -468,12 +498,12 @@
       await loadCommits();
     } catch (err) {
       console.error(err);
-      status("Error cargando archivo.", "error");
+      status(err.message || "Error cargando archivo.", "error");
     }
   }
 
   async function refreshCurrentFileSha() {
-    const res = await fetch(getContentUrl(currentFile));
+    const res = await fetchGitHub(getContentUrl(currentFile));
     if (!res.ok) throw new Error("No se pudo actualizar la referencia del archivo.");
     const data = await res.json();
     currentFileSha = data.sha;
@@ -503,8 +533,8 @@
 
   async function loadCommits() {
     try {
-      const res = await fetch(getCommitsUrl(currentFile));
-      if (!res.ok) throw new Error("Error HTTP " + res.status);
+      const res = await fetchGitHub(getCommitsUrl(currentFile));
+      if (!res.ok) throw new Error(await getGitHubResponseError(res));
       const commits = await res.json();
 
       activityListEl.replaceChildren();
@@ -697,18 +727,8 @@
   // === TOKEN ===
 
   function getToken() {
-    // Si has puesto un token global, Ãºsalo sin preguntar
-    if (GITHUB_TOKEN && GITHUB_TOKEN.trim() !== "") {
-      return GITHUB_TOKEN.trim();
-    }
-
-    // Si ya estÃ¡ guardado en este navegador, Ãºsalo
-    if (githubToken) return githubToken;
-    const saved = localStorage.getItem("tokenSaimus") || sessionStorage.getItem("tokenSaimus");
-    if (saved) {
-      githubToken = saved;
-      return githubToken;
-    }
+    const saved = getSavedToken();
+    if (saved) return saved;
 
     // Ãšltimo recurso: preguntar
     const token = window.prompt("Introduce tu GitHub Personal Access Token (con permiso 'repo' o 'contents'):");
