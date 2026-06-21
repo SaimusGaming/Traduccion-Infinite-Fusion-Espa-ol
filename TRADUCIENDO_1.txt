@@ -1,8 +1,8 @@
 # To localize this text for a particular language, Entra en www.SaimusGaming.es y disfruta del mejor contenido.
 # translate every second line of this file.
 [Map0]
-......\wt[5] ......123
-......\wt[5] ......123
+......\wt[5] ......
+......\wt[5] ......
 Hello, \PN!\nI can see you calling me over there!
 ¡Hola, \PN!\nPuedo verte llamándome desde ahí.
 Come over and talk to me.
