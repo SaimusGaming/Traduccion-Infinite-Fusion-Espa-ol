@@ -333,6 +333,7 @@
     <input id="saveNote" type="text" placeholder="Ej: Revisado hasta la lÃ­nea 2500">
 
     <button id="saveBtn" class="btn">ðŸ’¾ Guardar</button>
+    <button id="setTokenBtn" class="btn secondary" type="button">Poner token</button>
     <button id="clearTokenBtn" class="btn secondary" type="button">Cambiar token</button>
   </div>
 </header>
@@ -399,6 +400,7 @@
   const loginBtnEl = document.getElementById("loginBtn");
   const logoutBtnEl = document.getElementById("logoutBtn");
   const sessionLabelEl = document.getElementById("sessionLabel");
+  const setTokenBtnEl = document.getElementById("setTokenBtn");
   const clearTokenBtnEl = document.getElementById("clearTokenBtn");
 
   // === UTILIDADES ===
@@ -482,13 +484,27 @@
     return data.message ? `GitHub respondió ${res.status}: ${data.message}` : `Error HTTP ${res.status}`;
   }
 
+  function isRateLimitError(message) {
+    return message.toLowerCase().includes("rate limit");
+  }
+
   // === CARGAR ARCHIVO ===
 
   async function loadFile() {
     status("Cargando archivo...", "neutral");
     try {
       const res = await fetchGitHub(getContentUrl(currentFile));
-      if (!res.ok) throw new Error(await getGitHubResponseError(res));
+      if (!res.ok) {
+        const message = await getGitHubResponseError(res);
+        if (res.status === 403 && isRateLimitError(message) && !getSavedToken()) {
+          status("GitHub pide token para seguir cargando. Introduce tu token y reintentamos...", "neutral");
+          const token = getToken();
+          if (token) {
+            return loadFile();
+          }
+        }
+        throw new Error(message);
+      }
       const data = await res.json();
 
       currentFileSha = data.sha;
@@ -748,6 +764,15 @@
     status("Token olvidado. Al guardar se pedirá uno nuevo.", "neutral");
   }
 
+  function setGitHubToken() {
+    clearGitHubToken();
+    const token = getToken();
+    if (token) {
+      status("Token guardado en este navegador. Recargando archivo...", "ok");
+      loadFile();
+    }
+  }
+
   // === GUARDAR ===
 
   async function saveFile() {
@@ -889,6 +914,7 @@
   });
 
   saveBtnEl.addEventListener("click", saveFile);
+  setTokenBtnEl.addEventListener("click", setGitHubToken);
   clearTokenBtnEl.addEventListener("click", clearGitHubToken);
   loginFormEl.addEventListener("submit", event => {
     event.preventDefault();
