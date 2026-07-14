@@ -28804,3 +28804,2300 @@ Pokémon World Championships National Champion Ribbon.
 80
 Pokémon World Championships World Champion Ribbon.
 Pokémon World Championships World Champion Ribbon.
+[27]
+[28]
+Blue Activewear (F)
+Blue Activewear (F)
+A feminine, blue, sporty outfit that's easy to move in. The perfect outfit for an athlete.
+A feminine, blue, sporty outfit that's easy to move in. The perfect outfit for an athlete.
+Blue Activewear (M)
+Blue Activewear (M)
+A masculine, blue, sporty outfit that's easy to move in. The perfect outfit for an athlete.
+A masculine, blue, sporty outfit that's easy to move in. The perfect outfit for an athlete.
+Green Activewear (F)
+Green Activewear (F)
+A feminine, green, sporty outfit that's easy to move in. The perfect outfit for an athlete.
+A feminine, green, sporty outfit that's easy to move in. The perfect outfit for an athlete.
+Green Activewear (M)
+Green Activewear (M)
+A masculine, green, sporty outfit that's easy to move in. The perfect outfit for an athlete.
+A masculine, green, sporty outfit that's easy to move in. The perfect outfit for an athlete.
+Red Activewear (F)
+Red Activewear (F)
+A feminine, red, sporty outfit that's easy to move in. The perfect outfit for an athlete.
+A feminine, red, sporty outfit that's easy to move in. The perfect outfit for an athlete.
+Red Activewear (M)
+Red Activewear (M)
+A masculine, red, sporty outfit that's easy to move in. The perfect outfit for an athlete.
+A masculine, red, sporty outfit that's easy to move in. The perfect outfit for an athlete.
+Adventurer Gear (F)
+Adventurer Gear (F)
+A rugged feminine outfit, perfect for adventuring out into the wilderness.
+A rugged feminine outfit, perfect for adventuring out into the wilderness.
+Adventurer Gear (M)
+Adventurer Gear (M)
+A rugged masculine outfit, perfect for adventuring out into the wilderness.
+A rugged masculine outfit, perfect for adventuring out into the wilderness.
+Bug Shirt
+Bug Shirt
+A lime green shirt with a bug head logo
+A lime green shirt with a bug head logo 
+Dark Shirt
+Dark Shirt
+A black shirt with a new moon logo
+A black shirt with a new moon logo
+Dragon Shirt
+Dragon Shirt
+A royal blue shirt with a dragon head logo
+A royal blue shirt with a dragon head logo
+Electric Shirt
+Electric Shirt
+A yellow shirt with a lighting logo
+A yellow shirt with a lighting logo
+Fairy Shirt
+Fairy Shirt
+A light pink shirt with a pixie shirt
+A light pink shirt with a pixie shirt
+Fight Shirt
+Fight Shirt
+A orange shirt with a fist logo
+A orange shirt with a fist logo
+Fire Shirt
+Fire Shirt
+A red shirt with a flame logo
+A red shirt with a flame logo
+Flying Shirt
+Flying Shirt
+A ligth blue shirt with a wing logo
+A ligth blue shirt with a wing logo
+Ghost Shirt
+Ghost Shirt
+A purple shirt with a spirit logo
+A purple shirt with a spirit logo
+Grass Shirt
+Grass Shirt
+A green shirt with a leaf logo
+A green shirt with a leaf logo 
+Ground Shirt
+Ground Shirt
+A brown shirt with a plate logo
+A brown shirt with a plate logo
+Ice Shirt
+Ice Shirt
+A cyan shirt with a snowflake logo
+A cyan shirt with a snowflake logo
+Normal Shirt
+Normal Shirt
+A grey shirt with a rather plain logo
+A grey shirt with a rather plain logo
+Poison Shirt
+Poison Shirt
+A violet shirt with a skull and bones logo
+A violet shirt with a skull and bones logo 
+Psychic Shirt
+Psychic Shirt
+A pink shirt with a third eye logo
+A pink shirt with a third eye logo
+Rock Shirt
+Rock Shirt
+A light brown shirt with a cragy rock logo
+A light brown shirt with a cragy rock logo
+Steel Shirt
+Steel Shirt
+A silver shirt with a industrial logo
+A silver shirt with a industrial logo
+Water Shirt
+Water Shirt
+A blue shirt with a water drop logo
+A blue shirt with a water drop logo
+Biker Outfit
+Biker Outfit
+A rugged outfit made of leather and jeans. It's often worn by bikers.
+A rugged outfit made of leather and jeans. It's often worn by bikers. 
+Black Jacket
+Black Jacket
+A black jacket imported from Kalos, ideal for biking.
+A black jacket imported from Kalos, ideal for biking.
+Ruby Runner
+Ruby Runner
+A sporty, travel-ready outfit that evokes the spirit of a fledgling Hoenn Trainer.
+A sporty, travel-ready outfit that evokes the spirit of a fledgling Hoenn Trainer.
+Bug Hakama Dress
+Bug Hakama Dress
+A traditional looking hakama dress, that captures the essence of bug-type Pokémon, complete with a bug-catching net!
+A traditional looking hakama dress, that captures the essence of bug-type Pokémon, complete with a bug-catching net!
+Bug Hakama Pants
+Bug Hakama Pants
+A traditinnal looking pair of hakama pants that capture the essence of bug-type Pokémon, complete with a bug-catching net!
+A traditinnal looking pair of hakama pants that capture the essence of bug-type Pokémon, complete with a bug-catching net!
+Business Suit
+Business Suit
+A classy, professional-looking business suit.
+A classy, professional-looking business suit.
+Butler Uniform
+Butler Uniform
+A classy, practical uniform suitable for any butler out there.
+A classy, practical uniform suitable for any butler out there.
+Cardigan Dress
+Cardigan Dress
+A brown cardigan worn over a white shirt with a skirt for a clean and professional appearance.
+A brown cardigan worn over a white shirt with a skirt for a clean and professional appearance.
+Black Cloak Dress
+Black Cloak Dress
+A mysterious long black cloak or dress, worn over black leggings.
+A mysterious long black cloak or dress, worn over black leggings.
+Corrosive Suit
+Corrosive Suit
+This menacing suit is literally dripping with style. It seems it was handmade in Kalos.
+This menacing suit is literally dripping with style. It seems it was handmade in Kalos.
+Lunar Dress
+Lunar Dress
+A whimsical dress that is inspired by the legendary Pokémon Cresselia.
+A whimsical dress that is inspired by the legendary Pokémon Cresselia.
+Dark Outfit
+Dark Outfit
+A sinister outfit for those who thrive in the darkness. It captures the essence of Dark-type Pokémon.
+A sinister outfit for those who thrive in the darkness. It captures the essence of Dark-type Pokémon.
+Poison Outfit
+Poison Outfit
+A noxious-looking outfit for those who handle deadly poisons. It captures the essence of Poison-type Pokémon.
+A noxious-looking outfit for those who handle deadly poisons. It captures the essence of Poison-type Pokémon.
+Delinquent Outfit
+Delinquent Outfit
+A school uniform turned rebellious, perfect for anyone who wants to show off their wild side.
+A school uniform turned rebellious, perfect for anyone who wants to show off their wild side.
+Dragon Outfit
+Dragon Outfit
+The extravagant outfit of a conquerer. It captures the essence of Dragon-type Pokémon.
+The extravagant outfit of a conquerer. It captures the essence of Dragon-type Pokémon.
+Electric Outfit
+Electric Outfit
+A casual outfit themed around the Electric type.
+A casual outfit themed around the Electric type.
+Emerald Gear
+Emerald Gear
+A floaty jacket inspired by the color scheme of Spinarak.
+A floaty jacket inspired by the color scheme of Spinarak.
+Caph Squad Captain
+Caph Squad Captain
+A fierce-looking outfit worn by the captain of the Caph Squad, otherwise known as Team Star.
+A fierce-looking outfit worn by the captain of the Caph Squad, otherwise known as Team Star.
+Traveller Outfit
+Traveller Outfit
+The outfit of a traveler who came from a far-away land.
+The outfit of a traveler who came from a far-away land.
+Faux Wrap Dress
+Faux Wrap Dress
+An elegant, lightweight dress perfect for a day on the beach or a walk through flower fields.
+An elegant, lightweight dress perfect for a day on the beach or a walk through flower fields.
+Fighting Outfit
+Fighting Outfit
+A sportsy outfit that is liked by those who practice martial arts. It captures the essence of Fighting-type Pokémon.
+A sportsy outfit that is liked by those who practice martial arts. It captures the essence of Fighting-type Pokémon.
+Fire Outfit
+Fire Outfit
+A fire-proof outfit that captures the essence of fire-type Pokémon.
+A fire-proof outfit that captures the essence of fire-type Pokémon.
+Floral Dress
+Floral Dress
+A sleeveless dress adorned with a vibrant floral pattern.
+A sleeveless dress adorned with a vibrant floral pattern.
+Flower Jumper
+Flower Jumper
+A jumper suit with a beautiful floral pattern.
+A jumper suit with a beautiful floral pattern.
+Flying Outfit
+Flying Outfit
+An aerodynamic outfit for gliding through the air. It captures the essence of Flying-type Pokémon.
+An aerodynamic outfit for gliding through the air.  It captures the essence of Flying-type Pokémon.
+Frosted ski outfit
+Frosted ski outfit
+A comfortable and well insulated ski outfit reminiscent of an ice type moth.
+A comfortable and well insulated ski outfit reminiscent of an ice type moth.
+Fusion Outfit
+Fusion Outfit
+A cool, scientific outfit inspired by Pokémon fusion.
+A cool, scientific outfit inspired by Pokémon fusion.
+Ghost Outfit
+Ghost Outfit
+A tattered, disheveled ensemble. It captures the essence of Ghost-type Pokémon.
+A tattered, disheveled ensemble. It captures the essence of Ghost-type Pokémon.
+Bad Egg Outfit
+Bad Egg Outfit
+You shouldn't have this.
+You shouldn't have this.
+Goth Hoodie
+Goth Hoodie
+A dark, oversized hoodie with a skull emblem, paired with ripped leggings for expressing your inner rebel.
+A dark, oversized hoodie with a skull emblem, paired with ripped leggings for expressing your inner rebel.
+Grass Outfit
+Grass Outfit
+A charming outfit that resembles a beautiful flower found deep in the forest. It captures the essence of Grass-Type Pokémon.
+A charming outfit that resembles a beautiful flower found deep in the forest. It captures the essence of Grass-Type Pokémon.
+Ground Outfit
+Ground Outfit
+A rugged cowboy outfit with earthy tones that captures the essence of the Ground type.
+A rugged cowboy outfit with earthy tones that captures the essence of the Ground type.
+Gymwear
+Gymwear
+Form fitting gym clothes that accentuate a trainer's rippling musculature.
+Form fitting gym clothes that accentuate a trainer's rippling musculature.
+Happiny Costume
+Happiny Costume
+A pink outfit with white eggs, made to ressemble a Happiny costume.
+A pink outfit with white eggs, made to ressemble a Happiny costume.
+Royale Outfit A
+Royale Outfit A
+A stylish outfit from Kalos. It has a vibrant logo on the back associated with the Z-A Royale.
+A stylish outfit from Kalos. It has a vibrant logo on the back associated with the Z-A Royale.
+Hex Maniac Dress
+Hex Maniac Dress
+A dark purple vintage dress. It's often worn by Hex Maniacs.
+A dark purple vintage dress. It's often worn by Hex Maniacs.
+Rainbow Outfit
+Rainbow Outfit
+A vibrant, colorfoul outfit inspired by the legendary Pokémon Ho-Oh.
+A vibrant, colorfoul outfit inspired by the legendary Pokémon Ho-Oh.
+Hoodie
+Hoodie
+A cozy hoodie, perfect for a laid-back trainer who likes to keep things casual.
+A cozy hoodie, perfect for a laid-back trainer who likes to keep things casual.
+Ice Outfit
+Ice Outfit
+A cool winter gear with a chill vibe that captures the essence of ice-type Pokemon.
+A cool winter gear with a chill vibe that captures the essence of ice-type Pokemon.
+Idol Dress
+Idol Dress
+A cute, poofy, and sparkly dress typically worn on-stage by idols.
+A cute, poofy, and sparkly dress typically worn on-stage by idols.
+Hockey Jersey
+Hockey Jersey
+An outfit themed around the Indigo Ice Beams hockey team. Go Indigos!
+An outfit themed around the Indigo Ice Beams hockey team. Go Indigos!
+Quirky Turtleneck Dress
+Quirky Turtleneck Dress
+A white turtleneck dress paired with unique turquoise bottoms that are a pair of pants and a pair of shoes at the same time. How quirky!
+A white turtleneck dress paired with unique turquoise bottoms that are a pair of pants and a pair of shoes at the same time. How quirky!
+Toxic Idol Coat
+Toxic Idol Coat
+A stylish puffy coat that was popularized by a poison-type Gym leader from Galar.
+A stylish puffy coat that was popularized by a poison-type Gym leader from Galar.
+Crystal Classic
+Crystal Classic
+A popular Johtonian outfit worn by aspiring female trainers.
+A popular Johtonian outfit worn by aspiring female trainers.
+Elegant Dress
+Elegant Dress
+An elegant summer dress with a ribbon at the waist, radiating a sense of grace and sophistication.
+An elegant summer dress with a ribbon at the waist, radiating a sense of grace and sophistication.
+Yellow School Dress
+Yellow School Dress
+A yellow blouse with puffed sleeves and a black skirt, styled as a traditional school uniform.
+A yellow blouse with puffed sleeves and a black skirt, styled as a traditional school uniform.
+Blue School Dress
+Blue School Dress
+A white blouse with puffed sleeves and a blue skirt, styled as a traditional school uniform.
+A white blouse with puffed sleeves and a blue skirt, styled as a traditional school uniform.
+Tank Top & Skirt
+Tank Top & Skirt
+Your favourite blue tank and red skirt that you always wear on adventures!
+Your favourite blue tank and red skirt that you always wear on adventures!
+Long Shirt & Skirt
+Long Shirt & Skirt
+A casual long shirt that's colored like a Pokéball, worn with a black frilled skirt.
+A casual long shirt that's colored like a Pokéball, worn with a black frilled skirt.
+Red Pinafore
+Red Pinafore
+A bright red pinafore worn over a white shirt.
+A bright red pinafore worn over a white shirt.
+Lycanroc Coat (Hooded)
+Lycanroc Coat (Hooded)
+An elaborate, wild ensemble inspired by Lycanroc. This version has the hood up.
+An elaborate, wild ensemble inspired by Lycanroc. This version has the hood up.
+Lycanroc Coat
+Lycanroc Coat
+An elaborate, wild ensemble inspired by Lycanroc. This version has the hood down.
+An elaborate, wild ensemble inspired by Lycanroc. This version has the hood down.
+Magma Uniform
+Magma Uniform
+The official uniform of Team Magma.
+The official uniform of Team Magma.
+Magma Uniform (F)
+Magma Uniform (F)
+Maid Uniform
+Maid Uniform
+An elegant, yet practical uniform suitable for any aspiring maid.
+An elegant, yet practical uniform suitable for any aspiring maid.
+Marshweater
+Marshweater
+A comfortable sweater designed to look like a Marshtomp.
+A comfortable sweater designed to look like a Marshtomp.
+Sapphire Strider
+Sapphire Strider
+A sporty, travel-ready outfit that evokes the spirit of a fledgling Hoenn trainer.
+A sporty, travel-ready outfit that evokes the spirit of a fledgling Hoenn trainer.
+Fairy Outfit (F)
+Fairy Outfit (F)
+A whimsical pastel sweater and skirt that capture the essence of the Fairy type.
+A whimsical pastel sweater and skirt that capture the essence of the Fairy type.
+Fairy Outfit (M)
+Fairy Outfit (M)
+A light pastel sweater and tailored pants that capture the essence of the Fairy type.
+A light pastel sweater and tailored pants that capture the essence of the Fairy type.
+Mod Dress
+Mod Dress
+A retro dress from several decades ago. Its square design and go-go boots made it popular with young trainers looking to match their Pokemon.
+A retro dress from several decades ago. Its square design and go-go boots made it popular with young trainers looking to match their Pokemon.
+Naranja Academy Outfit
+Naranja Academy Outfit
+The summer uniform worn by students of the prestigious Naranja Academy in Paldea.
+The summer uniform worn by students of the prestigious Naranja Academy in Paldea.
+Normal Outfit
+Normal Outfit
+A brown jacket with a scarf that capture the essence of the Normal-type.
+A brown jacket with a scarf that capture the essence of the Normal-type.
+Nurse Uniform
+Nurse Uniform
+Pink nurse scrubs worn by Nurse Joy.
+Pink nurse scrubs worn by Nurse Joy.
+Office Worker (F)
+Office Worker (F)
+A classy, professional-looking pink business suit and pencil skirt.
+A classy, professional-looking pink business suit and pencil skirt.
+Office Worker (M)
+Office Worker (M)
+A sharp white button-up shirt with a tie that offers a polished and professional look.
+A sharp white button-up shirt with a tie that offers a polished and professional look.
+Bulbasaur Overalls
+Bulbasaur Overalls
+A set of overalls themed after a familiar green starter from the Kanto region.
+A set of overalls themed after a familiar green starter from the Kanto region.
+Charmander Overalls
+Charmander Overalls
+A set of overalls themed after a familiar orange starter from the Kanto region.
+A set of overalls themed after a familiar orange starter from the Kanto region.
+Squirtle Overalls
+Squirtle Overalls
+A set of overalls themed after a familiar blue starter from the Kanto region.
+A set of overalls themed after a familiar blue starter from the Kanto region.
+Pink Pyjamas
+Pink Pyjamas
+Comfy pink pyjamas with a Poké Ball logo on the shirt.
+Comfy pink pyjamas with a Poké Ball logo on the shirt.
+Royale Outfit Z
+Royale Outfit Z
+A comfortable outfit from Kalos. It has a vibrant logo on the back associated with the Z-A Royale.
+A comfortable outfit from Kalos. It has a vibrant logo on the back associated with the Z-A Royale.
+Pikachu Pyjamas
+Pikachu Pyjamas
+Comfy blue pyjamas with a Pikachu print.
+Comfy blue pyjamas with a Pikachu print.
+Pikachu Onesie
+Pikachu Onesie
+A cozy onesie designed to look like Pikachu.
+A cozy onesie designed to look like Pikachu.
+Breeder Outfit
+Breeder Outfit
+A comfortable outfit commonly worn by Pokémon Breeders.
+A comfortable outfit commonly worn by Pokémon Breeders.
+Venomous Vest (M)
+Venomous Vest (M)
+A striking, brightly colored outfit that is designed to warn those with weak hearts to stay away from you.
+A striking, brightly colored outfit that is designed to warn those with weak hearts to stay away from you.
+A comfortable outfit with bright, striking colors inspired by poison-type Pokemon.
+A comfortable outfit with bright, striking colors inspired by poison-type Pokemon.
+Venomous Vest (F)
+Venomous Vest (F)
+Police Uniform
+Police Uniform
+The official uniform worn by the Kanto and Johto Police Department.
+The official uniform worn by the Kanto and Johto Police Department.
+Psychic outfit (F)
+Psychic outfit (F)
+a traditional outfit of healers it captures the essence of Psychic-type pokemon
+a traditional outfit of healers it captures the essence of Psychic-type pokemon
+Psychic outfit (M)
+Psychic outfit (M)
+a traditional outfit of shamans it captures the essence of Psychic-type pokemon
+a traditional outfit of shamans it captures the essence of Psychic-type pokemon
+Gardener Outfit
+Gardener Outfit
+An outfit worn by gardeners. It was popularized by a certain Gym Leader from the Kalos region.
+An outfit worn by gardeners. It was popularized by a certain Gym Leader from the Kalos region.
+Ranger Uniform
+Ranger Uniform
+The uniform worn by those who dedicate their lives to protecting nature.
+The uniform worn by those who dedicate their lives to protecting nature.
+Red jacket and Jeans
+Red jacket and Jeans
+Your favourite red jacket and jeans that you always wear on adventures!
+Your favourite red jacket and jeans that you always wear on adventures!
+Luxury Suit (Light)
+Luxury Suit (Light)
+A sharp, white suit that screams luxury and confidence for trainers who likes to win in style.
+A sharp, white suit that screams luxury and confidence for trainers who likes to win in style.
+Luxury Suit (Dark)
+Luxury Suit (Dark)
+A sharp, dark suit that screams luxury and confidence for trainers who likes to win in style.
+A sharp, dark suit that screams luxury and confidence for trainers who likes to win in style.
+Team Rocket Uniform (F)
+Team Rocket Uniform (F)
+The feminine version of the Team Rocket uniform every Grunt wears.
+The feminine version of the Team Rocket uniform every Grunt wears.
+White Rocket Uniform (M)
+White Rocket Uniform (M)
+A white variant of the Team Rocket uniform that every Grunt wears. Right...?
+A white variant of the Team Rocket uniform that every Grunt wears. Right...?
+White Rocket Uniform (F)
+White Rocket Uniform (F)
+Team Rocket Uniform (M)
+Team Rocket Uniform (M)
+The masculine version of the Team Rocket uniform every Grunt wears.
+The masculine version of the Team Rocket uniform every Grunt wears.
+Roserade Suit (F)
+Roserade Suit (F)
+A feminine green suit resembling a Roserade.
+A feminine green suit resembling a Roserade.
+Roserade Suit (M)
+Roserade Suit (M)
+A masculine green suit resembling a Roserade.
+A masculine green suit resembling a Roserade.
+Primitive Clothes (F)
+Primitive Clothes (F)
+An outfit inspired by styles that were popular thousands of years ago. Just wearing it makes you feel like you've gone back to the prehistoric age.
+An outfit inspired by styles that were popular thousands of years ago. Just wearing it makes you feel like you've gone back to the prehistoric age.
+Primitive Clothes (M)
+Primitive Clothes (M)
+Sandshrew Outfit
+Sandshrew Outfit
+A pants and cape set designed with a texture mimicking Sandshrew's hide that allows you to easily blend in with desert environments.
+A pants and cape set designed with a texture mimicking Sandshrew's hide that allows you to easily blend in with desert environments.
+Slow Suit
+Slow Suit
+The ultimate chill costume, complete with a giant shell chomping on your tail.
+The ultimate chill costume, complete with a giant shell chomping on your tail.
+Sludge Drip
+Sludge Drip
+A sporty outfit inspired by the colors of Alolan Muk and Grimer.
+A sporty outfit inspired by the colors of Alolan Muk and Grimer.
+Blue Snow Coat (F)
+Blue Snow Coat (F)
+A warm blue coat, red skirt, leggins and boots, perfect for cold weather.
+A warm blue coat, red skirt, leggins and boots, perfect for cold weather.
+Red Snow Coat (M)
+Red Snow Coat (M)
+A warm red coat, jeans and boots, perfect for cold weather.
+A warm red coat, jeans and boots, perfect for cold weather.
+Splicer Outfit
+Splicer Outfit
+A comfortable, warm outfit inspired by the look and feel of DNA splicers.
+A comfortable, warm outfit inspired by the look and feel of DNA splicers.
+Black Shirt & Jeans
+Black Shirt & Jeans
+Black jeans and a black shirt with a Poké Ball on the front.
+Black jeans and a black shirt with a Poké Ball on the front.
+Steel Outfit (F)
+Steel Outfit (F)
+A sturdy jumpsuit giving off a strong, industrial vibe that captures the essence of the Steel type.
+A sturdy jumpsuit giving off a strong, industrial vibe that captures the essence of the Steel type.
+Steel Outfit (M)
+Steel Outfit (M)
+A rugged jumpsuit giving off a strong, industrial vibe that captures the essence of the Steel type.
+A rugged jumpsuit giving off a strong, industrial vibe that captures the essence of the Steel type.
+Street Wear
+Street Wear
+An edgy, elaborate ensemble. It combines style and practically to create a unique vibe only seen on city streets.
+An edgy, elaborate ensemble. It combines style and practically to create a unique vibe only seen on city streets.
+Summer Dress
+Summer Dress
+A light, breezy summer dress, perfect for strolls in sunny fields or along the beach.
+A light, breezy summer dress, perfect for strolls in sunny fields or along the beach.
+Aqua Uniform (F)
+Aqua Uniform (F)
+The standard-issue uniform typically worn by Team Aqua grunts.
+The standard-issue uniform typically worn by Team Aqua grunts.
+Aqua Uniform (M)
+Aqua Uniform (M)
+Fiery Torchic Outfit
+Fiery Torchic Outfit
+An outfit inspired by Torchic.
+An outfit inspired by Torchic.
+Forest King Cloak
+Forest King Cloak
+This cloak makes you feel one with the forests when you put it on. It resembles Trevenant.
+This cloak makes you feel one with the forests when you put it on. It resembles Trevenant.
+An outfit that's shockingly comfortable, considering how stylish it is! It captures the essence of Electric-Type Pokémon.
+An outfit that's shockingly comfortable, considering how stylish it is! It captures the essence of Electric-Type Pokémon.
+Uva Academy Outfit
+Uva Academy Outfit
+The summer uniform worn by students of the prestigious Uva Academy in Paldea.
+The summer uniform worn by students of the prestigious Uva Academy in Paldea.
+Veteran Trenchcoat
+Veteran Trenchcoat
+A heavy black trenchcoat, often worn by Veteran trainers.
+A heavy black trenchcoat, often worn by Veteran trainers.
+Ocean Dress
+Ocean Dress
+A stylish dress that captures the essence of Water-type Pokémon.
+A stylish dress that captures the essence of Water-type Pokémon.
+Ocean Robes
+Ocean Robes
+A set of robes themed after the beach. The pearls are made of recycled plastic.
+A set of robes themed after the beach. The pearls are made of recycled plastic.
+Yellow Qipao
+Yellow Qipao
+A yellow qipao worn over pants. It's popular with fledgling trainers in Kanto.
+A yellow qipao worn over pants. It's popular with fledgling trainers in Kanto.
+Youngster Outfit
+Youngster Outfit
+An orange tank top and shorts that's often worn by youngsters around the region.
+An orange tank top and shorts that's often worn by youngsters around the region.
+Short Cut with Antenna
+Short Cut with Antenna
+A simple short hairstyle with an antenna that sticks up like a Heracross's, like Aaron of the Sinnoh Elite Four's.
+A simple short hairstyle with an antenna that sticks up like a Heracross's, like Aaron of the Sinnoh Elite Four's.
+Afro
+Afro
+A full, fluffy afro that’s big, bold, and impossible to ignore, perfect for making a statement!
+A full, fluffy afro that’s big, bold, and impossible to ignore, perfect for making a statement!
+Baby Hair
+Baby Hair
+A single curled strand of hair that makes you look like you were just born.
+A single curled strand of hair that makes you look like you were just born.
+Bald
+Bald
+A completely bald look - no hair, no fuss, just pure, unadulterated scalp!
+A completely bald look - no hair, no fuss, just pure, unadulterated scalp!
+Messy Afro
+Messy Afro
+A flattened afro with an unkempt, rounded shape, offering a low-maintenance yet distinctive look.
+A flattened afro with an unkempt, rounded shape, offering a low-maintenance yet distinctive look.
+Bob Cut
+Bob Cut
+A sleek bob cut with chin-length hair that frames the face with a sharp, modern edge.
+A sleek bob cut with chin-length hair that frames the face with a sharp, modern edge.
+Bowl Cut
+Bowl Cut
+A classic bowl cut with evenly trimmed hair all around, offering a neat and straightforward look.
+A classic bowl cut with evenly trimmed hair all around, offering a neat and straightforward look.
+Box Braided Buns
+Box Braided Buns
+A half-up, half-down hairstyle featuring cute, poofy buns and elegant box braids.
+A half-up, half-down hairstyle featuring cute, poofy buns and elegant box braids.
+Box Braids
+Box Braids
+A cascade of long, elegant, intricade box braids.
+A cascade of long, elegant, intricade box braids.
+Braided Buns
+Braided Buns
+This space-inspired hairstyle combines braids and poofy hair into one adorable updo..
+This space-inspired hairstyle combines braids and poofy hair into one adorable updo..
+Crashing Wave Mane
+Crashing Wave Mane
+A medium-length haircut often sported by surfers.
+A medium-length haircut often sported by surfers.
+Ruby Spikes
+Ruby Spikes
+Short hair with sharp, upward spikes at the front and crown. This style is popular with fledgling trainers in Hoenn.
+Short hair with sharp, upward spikes at the front and crown. This style is popular with fledgling trainers in Hoenn.
+Short, Neat Spikes
+Short, Neat Spikes
+Neatly arranged spikes that look intimidating and disciplined. The style was popularized by Gym Leader Brock.
+Neatly arranged spikes that look intimidating and disciplined. The style was popularized by Gym Leader Brock.
+Square-Cut Bangs
+Square-Cut Bangs
+Medium-length hair with messy square-cut bangs. This cut is usually seen on young Bug Catchers.
+Medium-length hair with messy square-cut bangs. This cut is usually seen on young Bug Catchers.
+Buzz Cut
+Buzz Cut
+A clean, close-cropped buzz cut for a sharp and low-maintenance appearance.
+A clean, close-cropped buzz cut for a sharp and low-maintenance appearance.
+Over-Shoulder Braid
+Over-Shoulder Braid
+A long braid that goes over the shoulder.
+A long braid that goes over the shoulder.
+Ponytail Spiky Bangs
+Ponytail Spiky Bangs
+Long, beautiful bushy hair tied in a thick ponytail. The style was popularized by Gym Leader Clair.
+Long, beautiful bushy hair tied in a thick ponytail. The style was popularized by Gym Leader Clair.
+Pointy Pompadour
+Pointy Pompadour
+A pointy geled pompadour, to make you look like a totally normal academy student
+A pointy geled pompadour, to make you look like a totally normal academy student
+Side Slick Fade
+Side Slick Fade
+A short hairstyle popular in Kalos, inspired by poison-type Pokemon.
+A short hairstyle popular in Kalos, inspired by poison-type Pokemon.
+Cornrows
+Cornrows
+Neatly braided cornrows that run close to the scalp that create a sleek and intricate pattern.
+Neatly braided cornrows that run close to the scalp that create a sleek and intricate pattern.
+Dancer
+Dancer
+Braids put up in a ponytail. They flow with the rhythm of the music as you dance.
+Braids put up in a ponytail. They flow with the rhythm of the music as you dance.
+Twinleaf Tresses
+Twinleaf Tresses
+A long, half-updo style with blunt bangs. Popular among fledgling trainers in the Sinnoh region.
+A long, half-updo style with blunt bangs. Popular among fledgling trainers in the Sinnoh region.
+Eevee Tail
+Eevee Tail
+A puffy ponytail that looks just like the tail of an Eevee.
+A puffy ponytail that looks just like the tail of an Eevee.
+Neat Backwave
+Neat Backwave
+Short, combed back to hair that give a tidy and professional appearance. This style was popularized by Professor Elm.
+Short, combed back to hair that give a tidy and professional appearance. This style was popularized by Professor Elm.
+Emo Bangs
+Emo Bangs
+A styled haircut with long, angled layers and sweeping bangs for a dramatic and edgy look.
+A styled haircut with long, angled layers and sweeping bangs for a dramatic and edgy look.
+Bandana Straight Hair
+Bandana Straight Hair
+Medium-length hair that falls straight down around a gray bandana. The style was popularized by Gym Leader Erika.
+Medium-length hair that falls straight down around a gray bandana. The style was popularized by Gym Leader Erika.
+Fade Haircut
+Fade Haircut
+A fade haircut with gradually shorted sides and back, blending seamlessly into longer hair on top.
+A fade haircut with gradually shorted sides and back, blending seamlessly into longer hair on top.
+Droopy Bangs
+Droopy Bangs
+Medium-length bangs that flow beautifully in the wind. This style was popularized by Gym Leader Falkner.
+Medium-length bangs that flow beautifully in the wind. This style was popularized by Gym Leader Falkner.
+Side-Swept Fringe
+Side-Swept Fringe
+A bold, asymmetrical hairstyle where strands fuse into a stylish wave.
+A bold, asymmetrical hairstyle where strands fuse into a stylish wave.
+Guardian Fringe
+Guardian Fringe
+A neat fringe that covers one eye that is styled to look like a Gardevoir.
+A neat fringe that covers one eye that is styled to look like a Gardevoir.
+Front Spikes
+Front Spikes
+Spikes that give an air of smugness and youthful rebellion. The style is popular with fledgling trainers in Kanto.
+Spikes that give an air of smugness and youthful rebellion. The style is popular with fledgling trainers in Kanto.
+Pomeg Cut
+Pomeg Cut
+A cute cut that is styled like a Pomeg berry!
+A cute cut that is styled like a Pomeg berry!
+Glorious Bob-cut
+Glorious Bob-cut
+A short, chin-length haircut with a longer strand on the left side. Popular among fledgling trainers in the Galar region.
+A short, chin-length haircut with a longer strand on the left side. Popular among fledgling trainers in the Galar region.
+Playhouse Ponytail
+Playhouse Ponytail
+A cute curly ponytail styled just like a Happiny. A wonderfully charming style for any fans of Baby Pokémon.
+A cute curly ponytail styled just like a Happiny. A wonderfully charming style for any fans of Baby Pokémon.
+Wild Locks
+Wild Locks
+This wild mane of flowing locks is untamable, as if it was haunted. This style is popular with Hex Maniacs.
+This wild mane of flowing locks is untamable, as if it was haunted. This style is popular with Hex Maniacs.
+High-bun
+High-bun
+A high bun, ideal for keeping your hair out of your face.
+A high bun, ideal for keeping your hair out of your face.
+High-bun Bangs
+High-bun Bangs
+A high bun with bangs, ideal for keeping the rest of your hair out of your face.
+A high bun with bangs, ideal for keeping the rest of your hair out of your face.
+Ponytail
+Ponytail
+A high ponytail reminiscent of Lopunny's fur
+A high ponytail reminiscent of Lopunny's fur
+Puffy High Bun
+Puffy High Bun
+A textured bun tied up high on your head!
+A textured bun tied up high on your head!
+High-pony
+High-pony
+A voluminous high ponytail that shows you're ready for adventure. It's popular with new trainers in Unova!
+A voluminous high ponytail that shows you're ready for adventure. It's popular with new trainers in Unova!
+Hime
+Hime
+Straight, shoulder-length hair with blunt bangs and long side strands.
+Straight, shoulder-length hair with blunt bangs and long side strands.
+Phoenix Crest
+Phoenix Crest
+A bold, fiery style featuring a high, curved ponytail resembling the sweeping feathers of Ho-Oh.
+A bold, fiery style featuring a high, curved ponytail resembling the sweeping feathers of Ho-Oh.
+Demi Bob
+Demi Bob
+A soft, short bob with a glamorous edge.
+A soft, short bob with a glamorous edge.
+Short Idol Hair
+Short Idol Hair
+A short hairstyle with a flowly top.
+A short hairstyle with a flowly top.
+Spiky Ponytail
+Spiky Ponytail
+Slicked back hair tied in a tight spiky ponytail. The style was popularized by Gym Leader Koga's daughter, Janine.
+Slicked back hair tied in a tight spiky ponytail. The style was popularized by Gym Leader Koga's daughter, Janine.
+Rocket Wave
+Rocket Wave
+A dramatic, sleek style with ultra-long hair swept back into a high, gravity-defying wave.
+A dramatic, sleek style with ultra-long hair swept back into a high, gravity-defying wave.
+Quirky Odango Bob
+Quirky Odango Bob
+This quirky, cutesy hairstyle is popular with young girls.
+This quirky, cutesy hairstyle is popular with young girls.
+Springy Pigtails
+Springy Pigtails
+Springy pigtails that somehow defy gravity.
+Springy pigtails that somehow defy gravity.
+Slicked-Back Straight
+Slicked-Back Straight
+Slicked-back medium-length straight hair, in a very traditional cut. The style was popularized by Gym Leader Kurt.
+Slicked-back medium-length straight hair, in a very traditional cut. The style was popularized by Gym Leader Kurt.
+Waist-Length Hair
+Waist-Length Hair
+Long, flowing waist-length hair with short, chunky bangs.
+Long, flowing waist-length hair with short, chunky bangs. 
+Wild Upwards Spikes
+Wild Upwards Spikes
+Upwards-facing wild spikes. Very bold! The style was popularized by Elite Four Lance.
+Upwards-facing wild spikes. Very bold! The style was popularized by Elite Four Lance.
+Two-Toned Slick Back
+Two-Toned Slick Back
+A practical, elegant style perfect for conducting business. Or battling with various Pokemon types. This style is modeled after Larry's, who's in the Paldean Elite Four.
+A practical, elegant style perfect for conducting business. Or battling with various Pokemon types. This style is modeled after Larry's, who's in the Paldean Elite Four.
+Puffy Pigtails
+Puffy Pigtails
+Medium-length hair styled into two puffy pigtails, giving a cheerful and youthful look.
+Medium-length hair styled into two puffy pigtails, giving a cheerful and youthful look.
+Poofy Hair
+Poofy Hair
+Long, poofy hair popular with young women.
+Long, poofy hair popular with young women. 
+Shaggy Hair Bangs
+Shaggy Hair Bangs
+Shoulder length shaggy hair that's been kept in check by constantly wearing a hat.
+Shoulder length shaggy hair that's been kept in check by constantly wearing a hat.
+Verdant Bob
+Verdant Bob
+A peculiar hairstyle that's meant to resembles the leaves of a Leafeon.
+A peculiar hairstyle that's meant to resembles the leaves of a Leafeon.
+Side-Swept Bob
+Side-Swept Bob
+A smooth bob with side-swept bangs. The style was popularized by the Unovan Gym Leader Lenora.
+A smooth bob with side-swept bangs. The style was popularized by the Unovan Gym Leader Lenora.
+Low Braids w/ Bangs
+Low Braids w/ Bangs
+Long flowing hair tied in low braids, laid over the shoulders. It's a cute, easy style for traveling trainers.
+Long flowing hair tied in low braids, laid over the shoulders. It's a cute, easy style for traveling trainers.
+Low-pony
+Low-pony
+A low ponytail reminiscent of Lopunny's fur
+A low ponytail reminiscent of Lopunny's fur
+Voluminous Curls
+Voluminous Curls
+Long, wavy hair with a distinctive side part, featuring large curls that frame the face and flow down the shoulders.
+Long, wavy hair with a distinctive side part, featuring large curls that frame the face and flow down the shoulders.
+Lunar Cut
+Lunar Cut
+A bob cut shaped like a crescent moon, with a sleek, curved silhouette.
+A bob cut shaped like a crescent moon, with a sleek, curved silhouette.
+Lupine Cut
+Lupine Cut
+A sleek cut that is reminiscent of a Lycanroc's mane
+A sleek cut that is reminiscent of a Lycanroc's mane
+Peppy Pigtails
+Peppy Pigtails
+Bouncy pigtails with a playful charm that gives off a carefree vibes.
+Bouncy pigtails with a playful charm that gives off a carefree vibes.
+Long Teethed Ponytail
+Long Teethed Ponytail
+A unique style of ponytail adorned with acessories that look just like the teethed antenna of a Mawile.
+A unique style of ponytail adorned with acessories that look just like the teethed antenna of a Mawile.
+Sapphire Side Tails
+Sapphire Side Tails
+Medium-length brown hair with a fringe and side-swept bangs. This style is popular with fledgling trainers in Hoenn.
+Medium-length brown hair with a fringe and side-swept bangs. This style is popular with fledgling trainers in Hoenn.
+Flowing Twin Tails
+Flowing Twin Tails
+Long hair styled into voluminous twin tails with delicate, flowing strands that give off a magical and ethereal appearance.
+Long hair styled into voluminous twin tails with delicate, flowing strands that give off a magical and ethereal appearance.
+High Twin Tails
+High Twin Tails
+Long hair styled into high, puffy twin tails with straight, side-swept bangs that give off a vibrant and playful look.
+Long hair styled into high, puffy twin tails with straight, side-swept bangs that give off a vibrant and playful look.
+Bow and Stripes
+Bow and Stripes
+A cute hairstyle featuring long twintails with stripey highlights and a bow.
+A cute hairstyle featuring long twintails with stripey highlights and a bow.
+Two-Toned Afro
+Two-Toned Afro
+An large two-toned afro with a zigzag pattern. A very bold choice, only for the most disco of trainers.
+An large two-toned afro with a zigzag pattern. A very bold choice, only for the most disco of trainers.
+Spiky Medium Hair
+Spiky Medium Hair
+Medium-length hair that looks beautiful and youthful. The style was popularized by Gym Leader Misty.
+Medium-length hair that looks beautiful and youthful. The style was popularized by Gym Leader Misty.
+Spiky Side Pigtail
+Spiky Side Pigtail
+Short, spiky hair with a spiky side ponytail. The style was popularized by Gym Leader Misty.
+Short, spiky hair with a spiky side ponytail. The style was popularized by Gym Leader Misty.
+Mod Bob
+Mod Bob
+Chin-length hairstyle with sharp and geometric lines that was popular a long time ago.
+Chin-length hairstyle with sharp and geometric lines that was popular a long time ago.
+Short Mohawk
+Short Mohawk
+A short mohawk with the rest of the head shaved to a buzz cut. It's a style popular with punks and bikers.
+A short mohawk with the rest of the head shaved to a buzz cut. It's a style popular with punks and bikers.
+Elegant Mom Pony
+Elegant Mom Pony
+An elegant hairstyle popular with moms. It's practical and fashionable!
+An elegant hairstyle popular with moms. It's practical and fashionable!
+Messy Mom Bun
+Messy Mom Bun
+A messy hairstyle typically seen on moms who really deserve a break...
+A messy hairstyle typically seen on moms who really deserve a break...
+Mudkip Flip
+Mudkip Flip
+A spiky, flipped hairstyle inspired by the gills on Mudkip.
+A spiky, flipped hairstyle inspired by the gills on Mudkip.
+Mullet
+Mullet
+Business in the front, party in the back!
+Business in the front, party in the back!
+Fork and Knife Cut
+Fork and Knife Cut
+A hairstyle worn by those who love to cook.
+A hairstyle worn by those who love to cook.
+Short, Shaggy spikes
+Short, Shaggy spikes
+Short, shaggy spikes that go well with visor-type hats. The style is popular with fledgling trainers in Unova.
+Short, shaggy spikes that go well with visor-type hats. The style is popular with fledgling trainers in Unova.
+Accessorized Corn Rows
+Accessorized Corn Rows
+Long corn rows with accesories, the last in kalosian fashion
+Long corn rows with accesories, the last in kalosian fashion 
+Shaggy Ponytail
+Shaggy Ponytail
+A long, low ponytail that gives off a mysterious air. The style is popular with trainers in Unova.
+A long, low ponytail that gives off a mysterious air. The style is popular with trainers in Unova.
+Joyful Puffs
+Joyful Puffs
+Neatly coiled twin buns perched high on each side, radiating care and warmth.
+Neatly coiled twin buns perched high on each side, radiating care and warmth.
+Side Joyful Puff
+Side Joyful Puff
+A single coiled bun perched high on one side, radiating care and warmth.
+A single coiled bun perched high on one side, radiating care and warmth.
+Elegant Waves
+Elegant Waves
+A sophisticated hairstyle that's popular with a lot of trainers with corporate jobs.
+A sophisticated hairstyle that's popular with a lot of trainers with corporate jobs.
+Pom-Pom Puffs
+Pom-Pom Puffs
+Big, bubbly twin puffs bursting with cheer!
+Big, bubbly twin puffs bursting with cheer!
+Soft Side Bangs
+Soft Side Bangs
+Short hair with soft, fluffy bangs parted to the sides, often worn by sensitive souls such as artists.
+Short hair with soft, fluffy bangs parted to the sides, often worn by sensitive souls such as artists.
+Pigtails
+Pigtails
+High, bouncy pigtails tied with ribbons, adding a fun and youthful touch to your look.
+High, bouncy pigtails tied with ribbons, adding a fun and youthful touch to your look.
+Pixie Cut
+Pixie Cut
+A short, playful pixie cut with closely cropped sides and a bit of length on top for a modern, airy look.
+A short, playful pixie cut with closely cropped sides and a bit of length on top for a modern, airy look.
+Polished Scalp
+Polished Scalp
+A completely bald head with some polish to make it shiny!
+A completely bald head with some polish to make it shiny!
+Pompadour
+Pompadour
+A dramatic, swept-back hairstyle with towering volume at the front.
+A dramatic, swept-back hairstyle with towering volume at the front.
+Punk Tails
+Punk Tails
+High, wild twin ponytails bursting with volume and rebellion.
+High, wild twin ponytails bursting with volume and rebellion.
+Rising Star Dreads
+Rising Star Dreads
+Stylish dreadlocks tied up in a bun. Some hang down loosely in the front.
+Stylish dreadlocks tied up in a bun. Some hang down loosely in the front.
+Short Hat Hair
+Short Hat Hair
+Short spiky hair that's been flattened by constantly wearing a hat.
+Short spiky hair that's been flattened by constantly wearing a hat.
+Edgy Asymmetrical Cut
+Edgy Asymmetrical Cut
+An edgy, asymmetrical hairstyle with a highlight in the center.
+An edgy, asymmetrical hairstyle with a highlight in the center. 
+Combover
+Combover
+A sleek, neatly styled combover with a side part that creates a polished and refined appearance.
+A sleek, neatly styled combover with a side part that creates a polished and refined appearance.
+Long Pigtails Buns
+Long Pigtails Buns
+An eye-catching hairdo with two large side buns that continue into long pigtails. It's popular with fledgling trainers in Unova
+An eye-catching hairdo with two large side buns that continue into long pigtails. It's popular with fledgling trainers in Unova
+Roserade (Medium)
+Roserade (Medium)
+Medium-length spiky hair that's styled to resemble a Roserade's head flower.
+Medium-length spiky hair that's styled to resemble a Roserade's head flower.
+Roserade (Short)
+Roserade (Short)
+Short, spiky hair that's styled to resemble a Roserade's head flower.
+Short, spiky hair that's styled to resemble a Roserade's head flower.
+Studious Pigtails
+Studious Pigtails
+Two long, straight pigtails that are secured by a large, fan like ribbon.
+Two long, straight pigtails that are secured by a large, fan like ribbon.
+Clairvoyant Cut
+Clairvoyant Cut
+A medium-length cut with a fringe that frames the face.The style was popularized by the Gym Leader Sabrina.
+A medium-length cut with a fringe that frames the face.The style was popularized by the Gym Leader Sabrina.
+Telekinetic Tresses
+Telekinetic Tresses
+A long hairstyle with blunt bangs. It seems to flow independently of the wind. Popularized by the Gym Leader Sabrina.
+A long hairstyle with blunt bangs. It seems to flow independently of the wind. Popularized by the Gym Leader Sabrina.
+Paradox Cut
+Paradox Cut
+A hairstyle reminiscent of one that was known to be popular a long, long time ago...
+A hairstyle reminiscent of one that was known to be popular a long, long time ago...
+Samurai
+Samurai
+A hairstyle just like the one that a samurai would wear!
+A hairstyle just like the one that a samurai would wear!
+New Moon Points
+New Moon Points
+A short hairstyle with two distinct points. It almost looks like Skitty ears.
+A short hairstyle with two distinct points. It almost looks like Skitty ears.
+Straight Side Bangs
+Straight Side Bangs
+Short, smooth hair that frames the face nicely and gives a trainer a youthful appearance.
+Short, smooth hair that frames the face nicely and gives a trainer a youthful appearance.
+Short Beard
+Short Beard
+Either you miraculously got the ability to grow beard, or you got creative with glue and salon floor clippings.
+Either you miraculously got the ability to grow beard, or you got creative with glue and salon floor clippings.
+Very short hair with square-cut bangs framing the face, giving a trainer a youthful, charming appearance.
+Very short hair with square-cut bangs framing the face, giving a trainer a youthful, charming appearance.
+Short Spikes
+Short Spikes
+A short, spiky hairstyle popular with the alternative crowd.
+A short, spiky hairstyle popular with the alternative crowd.
+Single Back Braid
+Single Back Braid
+A simplistic long braid along the back.
+A simplistic long braid along the back.
+Slick Mullet
+Slick Mullet
+A slicked-back mullet. It was popular when your parents were young, but has since started to come back into fashion.
+A slicked-back mullet. It was popular when your parents were young, but has since started to come back into fashion.
+High Side Pony
+High Side Pony
+An elegant ponytail worn to the side that was popularized by a Galarian research assistant.
+An elegant ponytail worn to the side that was popularized by a Galarian research assistant.
+Eon Bob
+Eon Bob
+A layered bob with long, outward curls, exuding a gentle and mysterious charm.
+A layered bob with long, outward curls, exuding a gentle and mysterious charm.
+Surge Spikes
+Surge Spikes
+A spiky haircut often worn by members of the Kantonian military.
+A spiky haircut often worn by members of the Kantonian military.
+Tied-back Wicks
+Tied-back Wicks
+Four very thick, chunky, cylindrical locs tied back behind the head in a cool style.
+Four very thick, chunky, cylindrical locs tied back behind the head in a cool style.
+Tied-back Dreads
+Tied-back Dreads
+Some dreads that are half-up, half-down. It keeps them out of your face while still looking stylish.
+Some dreads that are half-up, half-down. It keeps them out of your face while still looking stylish.
+Torchic Tuft
+Torchic Tuft
+A topknot-style ponytail inspired by the little tufts on a torchic's head.
+A topknot-style ponytail inspired by the little tufts on a torchic's head.
+Tyranaspikes
+Tyranaspikes
+Sharp spikes that look like the hide of a Tyranitar.
+Sharp spikes that look like the hide of a Tyranitar.
+Flyaway Short Cut
+Flyaway Short Cut
+A messy, wind-swept crop with long, asymmetrical bangs that's popular in the Kalos region.
+A messy, wind-swept crop with long, asymmetrical bangs that's popular in the Kalos region.
+Veteran Bob
+Veteran Bob
+Short, practical hair styled into a neat bob with subtle layers, giving a no-nonsense look.
+Short, practical hair styled into a neat bob with subtle layers, giving a no-nonsense look.
+Spiky Sideburns
+Spiky Sideburns
+A spiky hairstyle with long sideburns. This style was popularized by Volkner, a Gym Leader from Sinnoh.
+A spiky hairstyle with long sideburns. This style was popularized by Volkner, a Gym Leader from Sinnoh.
+Electrified Elder Hair
+Electrified Elder Hair
+Thick beard and hair combo that sticks up in a single, prominent tuft.
+Thick beard and hair combo that sticks up in a single, prominent tuft.
+Wavy Hair
+Wavy Hair
+A cute, short, wavy bob. It flows beautifully in the wind.
+A cute, short, wavy bob. It flows beautifully in the wind.
+Wavy Ponytail
+Wavy Ponytail
+A simple and cute ponytail made up of wavy hair.
+A simple and cute ponytail made up of wavy hair.
+Spiky Low Pigtails
+Spiky Low Pigtails
+Low pigtails that give a youthful look to the wearer. The style was popularized by Gym Leader Whitney.
+Low pigtails that give a youthful look to the wearer. The style was popularized by Gym Leader Whitney.
+Bone Braids
+Bone Braids
+Wickedly cool braids styled to look like bones. It's modeled after Paldean rapper Ryme's signature look.
+Wickedly cool braids styled to look like bones. It's modeled after Paldean rapper Ryme's signature look.
+Absol Cap
+Absol Cap
+A hat that resembles the visage of Absol. Hopefully, wearing this won't be an omen...
+A hat that resembles the visage of Absol. Hopefully, wearing this won't be an omen...
+Aerodactyl Skull
+Aerodactyl Skull
+An Aerodactyl skull that perfectly fits over a trainer's.
+An Aerodactyl skull that perfectly fits over a trainer's.
+Aqua Clip
+Aqua Clip
+A hair clip in the shape of a tear drop, popular with water-type trainers.
+A hair clip in the shape of a tear drop, popular with water-type trainers.
+Aqua Bandana
+Aqua Bandana
+A dark bandana that's part of the Team Aqua uniform!
+A dark bandana that's part of the Team Aqua uniform!
+Worn Aqua Bandana
+Worn Aqua Bandana
+A tight bandana that was part of the Team Aqua uniform a long time ago. It feels a bit nostalgic.
+A tight bandana that was part of the Team Aqua uniform a long time ago. It feels a bit nostalgic.
+Aron Mask
+Aron Mask
+A heavy, steel mask shaped like the head of an Aron.
+A heavy, steel mask shaped like the head of an Aron.
+Partner Cap
+Partner Cap
+An iconic cap with a stylized green "L" on it. It feels a bit nostalgic for some reason.
+An iconic cap with a stylized green "L" on it. It feels a bit nostalgic for some reason.
+Baneful Fox Mask
+Baneful Fox Mask
+An eerie fox mask that ressembles how Zoroarks were depicted in ancient fables.
+An eerie fox mask that ressembles how Zoroarks were depicted in ancient fables.
+Beret
+Beret
+It's a quirky beret. It's commonly used in Pokémon Contests.
+It's a quirky beret. It's commonly used in Pokémon Contests.
+Striped Beret
+Striped Beret
+A green beret with a white stripe. It's popular with fledgling trainers in Unova.
+A green beret with a white stripe. It's popular with fledgling trainers in Unova.
+Red Glasses
+Red Glasses
+A pair of half-rim glasses with a red frame that are popular in Unova.
+A pair of half-rim glasses with a red frame that are popular in Unova.
+Big Barrette
+Big Barrette
+It's a cute barrette. It's commonly used as an accessory in Pokémon Contests.
+It's a cute barrette. It's commonly used as an accessory in Pokémon Contests.
+Black Tie
+Black Tie
+It's an elegant tie. It's commonly used as an accessory in Pokémon Contests.
+It's an elegant tie. It's commonly used as an accessory in Pokémon Contests.
+Fake Mustache
+Fake Mustache
+Small, round sunglasses with a fake mustache attached.
+Small, round sunglasses with a fake mustache attached.
+Blue Barrette
+Blue Barrette
+Blue Flower
+Blue Flower
+It's a cute flower. It's commonly used as an accessory in Pokémon Contests.
+It's a cute flower. It's commonly used as an accessory in Pokémon Contests.
+Bow Tie
+Bow Tie
+Cardboard Box
+Cardboard Box
+A cardboard box with a smily face scrawled across the front.
+A cardboard box with a smily face scrawled across the front.
+Brawl Shades
+Brawl Shades
+Sporty shades that were popularized by a certain Gym Leader from the Hoenn region.
+Sporty shades that were popularized by a certain Gym Leader from the Hoenn region.
+Breeder Bandana
+Breeder Bandana
+A red bandana with a white Poké Ball on the side. It's often worn by Pokémon Breeders.
+A red bandana with a white Poké Ball on the side. It's often worn by Pokémon Breeders.
+Green Visor Hat
+Green Visor Hat
+A green visor with a white . It's often worn by Pokémon Breeders.
+A green visor with a white . It's often worn by Pokémon Breeders.
+Breloom Cap
+Breloom Cap
+A hat resembling the giant mushroom cap on a Breloom's head.
+A hat resembling the giant mushroom cap on a Breloom's head.
+Emerald Cap
+Emerald Cap
+A green bandana and white beanie combo. It's popular with fledgling trainers in Hoenn.
+A green bandana and white beanie combo. It's popular with fledgling trainers in Hoenn.
+Sporty Cap
+Sporty Cap
+A black bandana and white beanie combo. It's popular with fledgling trainers in Hoenn.
+A black bandana and white beanie combo. It's popular with fledgling trainers in Hoenn.
+Ruby Cap
+Ruby Cap
+A red bandana and white beanie combo. It's popular with fledgling trainers in Hoenn.
+A red bandana and white beanie combo. It's popular with fledgling trainers in Hoenn.
+Drying Pan
+Drying Pan
+A frying pan worn as a hat. It'll work in a pinch to keep the rain off your head!
+A frying pan worn as a hat. It'll work in a pinch to keep the rain off your head!
+Flower Lure
+Flower Lure
+A crown ressembling the flower-shaped lure from a Bruxish.
+A crown ressembling the flower-shaped lure from a Bruxish.
+Bug Antennas
+Bug Antennas
+Long antennas that make you look like you're a Bug-Type Pokémon.
+Long antennas that make you look like you're a Bug-Type Pokémon.
+Buneary Ears
+Buneary Ears
+A replica of some cute, fuzzy buneary ears. Especially popular in the springtime.
+A replica of some cute, fuzzy buneary ears. Especially popular in the springtime.
+Sturdy Beret
+Sturdy Beret
+A hat similar to the one worn by Pokémon who work at a cafe in another region.
+A hat similar to the one worn by Pokémon who work at a cafe in another region.
+Red Cap & Sunglasses
+Red Cap & Sunglasses
+A fashionable red cap adorned with sunglasses. It's popular with fledgling trainers in Kalos.
+A fashionable red cap adorned with sunglasses. It's popular with fledgling trainers in Kalos.
+Candy
+Candy
+It's a cute clip. It's commonly used as an accessory in Pokémon Contests.
+It's a cute clip. It's commonly used as an accessory in Pokémon Contests.
+Carbink Headband
+Carbink Headband
+A cute, rock-solid headband resembling Carbink.
+A cute, rock-solid headband resembling Carbink.
+Chef Toque
+Chef Toque
+A pleated hat, representing mastery in the kitchen. Smells like pie.
+A pleated hat, representing mastery in the kitchen. Smells like pie.
+Eyebrows & Stache
+Eyebrows & Stache
+A set of fake eyebrows and mustache resembling Chuck's iconic look.
+A set of fake eyebrows and mustache resembling Chuck's iconic look.
+Red String Hair Bow
+Red String Hair Bow
+A hair bow made out of a thick red cord.
+A hair bow made out of a thick red cord.
+White Cowboy Hat
+White Cowboy Hat
+A large cowboy hat popularized by the Unovan gym leader Clay.
+A large cowboy hat popularized by the Unovan gym leader Clay.
+Clefairy Ears
+Clefairy Ears
+A pink headband ressembling the ears and hair curl of a Clefairy.
+A pink headband ressembling the ears and hair curl of a Clefairy.
+Cloak Hood
+Cloak Hood
+A dark and mysterious hood that hangs over the face.
+A dark and mysterious hood that hangs over the face.
+Clown Nose
+Clown Nose
+This bright red nose brings joy to all who see it.
+This bright red nose brings joy to all who see it.
+Cowboy Hat
+Cowboy Hat
+A rootin' tootin' 10 gallon hat from the wild west of the Orre region.
+A rootin' tootin' 10 gallon hat from the wild west of the Orre region.
+Ditto Mask
+Ditto Mask
+A mask with the face of a Ditto.
+A mask with the face of a Ditto.
+Cresselia Tiara
+Cresselia Tiara
+An elegant tiara that shines when the moon is full. It is reminiscent of Cresselia.
+An elegant tiara that shines when the moon is full. It is reminiscent of Cresselia.
+Crimson Scarf
+Crimson Scarf
+It's a cute scarf. It's commonly used as an accessory in Pokémon Contests.
+It's a cute scarf. It's commonly used as an accessory in Pokémon Contests.
+Crown
+Crown
+It's an elegant crown. It can be used in Pokémon Contests.
+It's an elegant crown. It can be used in Pokémon Contests.
+Cat Ears
+Cat Ears
+Hair clips shaped like small, cute cat ears.
+Hair clips shaped like small, cute cat ears.
+Umbreon Hair Clips
+Umbreon Hair Clips
+Hair clips shaped like small teardrops reminescent of Umbreon tails.
+Hair clips shaped like small teardrops reminescent of Umbreon tails.
+White & Pink Beanie
+White & Pink Beanie
+A white beanie with a pink Poké Ball on the front. It's popular with fledgling trainers in Sinnoh.
+A white beanie with a pink Poké Ball on the front. It's popular with fledgling trainers in Sinnoh.
+Decorative Ribbon
+Decorative Ribbon
+It's a cute ribbon. It's commonly used as an accessory in Pokémon Contests.
+It's a cute ribbon. It's commonly used as an accessory in Pokémon Contests.
+Designer Headphones
+Designer Headphones
+Stylish headphones with an electrifying design that adds a spark to your look.
+Stylish headphones with an electrifying design that adds a spark to your look.
+Jewel Crown
+Jewel Crown
+A regal looking crown inspired by the jewels on a Diancie.
+A regal looking crown inspired by the jewels on a Diancie.
+Dragonite Horns
+Dragonite Horns
+Horns that are modeled after the ones on a Dragonite's head.
+Horns that are modeled after the ones on a Dragonite's head.
+Dressy Tie
+Dressy Tie
+Drifloon Hat
+Drifloon Hat
+A purple rubber hat that is shaped like a Drifloon.
+A purple rubber hat that is shaped like a Drifloon.
+Duskull Mask
+Duskull Mask
+A skull mask resembling a Duskull's face.
+A skull mask resembling a Duskull's face.
+Head Eevee
+Head Eevee
+A Eevee that has taken a liking to perching atop a trainer's head.
+A Eevee that has taken a liking to perching atop a trainer's head.
+Eevee Ears
+Eevee Ears
+Cute ears that look just like Eevee's.
+Cute ears that look just like Eevee's.
+Nest Egg Hat
+Nest Egg Hat
+This egg cannot hatch, but it makes for a very stylish hat.
+This egg cannot hatch, but it makes for a very stylish hat.
+Electivire Headset
+Electivire Headset
+A headset inspired by Electivire.
+A headset inspired by Electivire.
+Grey Cap
+Grey Cap
+A grey cap that keeps the sun out of your face, but still looks stylish!
+A grey cap that keeps the sun out of your face, but still looks stylish!
+Bicolor Hat
+Bicolor Hat
+A stylish red-and-black bucket hat, designed to keep the sun out of your face.
+A stylish red-and-black bucket hat, designed to keep the sun out of your face.
+Emerald
+Emerald
+A mysterious emerald placed on the wearer's forehead. It glimmers beautifully.
+A mysterious emerald placed on the wearer's forehead. It glimmers beautifully.
+Red Headband
+Red Headband
+A beautiful red headband with a white Poké Ball on the side.
+A beautiful red headband with a white Poké Ball on the side.
+Explorer's Scarf
+Explorer's Scarf
+It's a jaunty scarf commonly worn by explorers and rescue teams.
+It's a jaunty scarf commonly worn by explorers and rescue teams.
+Bird Cage
+Bird Cage
+A cage to contain a trainer's bird-brained ideas.
+A cage to contain a trainer's bird-brained ideas.
+Tiny Fedora
+Tiny Fedora
+It's a cute fedora. It's commonly used in Pokémon Contests.
+It's a cute fedora. It's commonly used in Pokémon Contests.
+Fez
+Fez
+A traditional hat from a faraway land that is adorned with a black tassel.
+A traditional hat from a faraway land that is adorned with a black tassel.
+Firefighter Hat
+Firefighter Hat
+A safety helmet made for brave heroes who put their lives on the line every day.
+A safety helmet made for brave heroes who put their lives on the line every day.
+Flame Clip
+Flame Clip
+A hair clip in the shape of a bright flame. It's popular with fire-type trainers.
+A hair clip in the shape of a bright flame. It's popular with fire-type trainers.
+Flaming Beanie
+Flaming Beanie
+A snug black beanie with bright, flickering flame patterns licking the sides.
+A snug black beanie with bright, flickering flame patterns licking the sides.
+Flareon Hood
+Flareon Hood
+An oversized hood featuring large fluffy fur and long ears, resembling a Flareon.
+An oversized hood featuring large fluffy fur and long ears, resembling a Flareon.
+Fluffy Beard
+Fluffy Beard
+It's an elegant fake beard. It's commonly used as an accessory in Pokémon Contests.
+It's an elegant fake beard. It's commonly used as an accessory in Pokémon Contests.
+Frog Hat
+Frog Hat
+A silly hat that ressembles a frog-like Pokémon.
+A silly hat that ressembles a frog-like Pokémon.
+Frosted Beanie
+Frosted Beanie
+A warm beanie reminiscent of an ice type bug.
+A warm beanie reminiscent of an ice type bug.
+Frosted Goggles
+Frosted Goggles
+A pair of goggles reminiscent of an ice-type bug.
+A pair of goggles reminiscent of an ice-type bug.
+Fusion Glasses
+Fusion Glasses
+A pair of highly sophisticated AR-glasses. They don't do anything, but they look cool!
+A pair of highly sophisticated AR-glasses. They don't do anything, but they look cool!
+Gastrodon Helmet (East)
+Gastrodon Helmet (East)
+A helmet resembling the head of a Gastrodon from the East.
+A helmet resembling the head of a Gastrodon from the East.
+Gastrodon Helmet (West)
+Gastrodon Helmet (West)
+A helmet resembling the head of a Gastrodon from the West.
+A helmet resembling the head of a Gastrodon from the West.
+Gentleman's Hat
+Gentleman's Hat
+It's an elegant top hat. It's commonly used in Pokémon Contests.
+It's an elegant top hat. It's commonly used in Pokémon Contests.
+Germ Mask
+Germ Mask
+It's a quirky mask. It's commonly used as an accessory in Pokémon Contests.
+It's a quirky mask. It's commonly used as an accessory in Pokémon Contests.
+Mobster Fedora
+Mobster Fedora
+A stylish black fedora.
+A stylish black fedora.
+Glalie Helmet
+Glalie Helmet
+A sturdy helmet made of compacted ice that looks like a Glalie!
+A sturdy helmet made of compacted ice that looks like a Glalie!
+Round Glasses
+Round Glasses
+A pair of standard round glasses. The lenses are purely decorative.
+A pair of standard round glasses. The lenses are purely decorative.
+Half-rim Glasses
+Half-rim Glasses
+A pair of standard glasses that doesn't have a rim on the bottom. It's popular with Pokémon researchers.
+A pair of standard glasses that doesn't have a rim on the bottom. It's popular with Pokémon researchers.
+Gligar Horns
+Gligar Horns
+Pink horns that resemble those of a Gligar.
+Pink horns that resemble those of a Gligar.
+Glitched Mask
+Glitched Mask
+An odd mask that makes you look like you just stepped out of a corrupted save file.
+An odd mask that makes you look like you just stepped out of a corrupted save file. 
+Pompom Beret
+Pompom Beret
+A dark green beret with a white pompom. It's popular with fledgling trainers in Galar.
+A dark green beret with a white pompom. It's popular with fledgling trainers in Galar.
+Goggles
+Goggles
+Stylish yellow goggles to wear as headband.
+Stylish yellow goggles to wear as headband.
+Gold & Black Cap
+Gold & Black Cap
+A black and yellow cap, worn backwards. It's popular with fledgling trainers in Johto.
+A black and yellow cap, worn backwards. It's popular with fledgling trainers in Johto.
+Gold & Black Cap (hair)
+Gold & Black Cap (hair)
+Googly Glasses
+Googly Glasses
+These fake plastic eyes fit over your face to deliver a goofy gaze.
+These fake plastic eyes fit over your face to deliver a goofy gaze.
+Googly Specs
+Googly Specs
+It's a pair of quirky glasses. It's commonly used as an accessory in Pokémon Contests.
+It's a pair of quirky glasses. It's commonly used as an accessory in Pokémon Contests.
+Gorgeous Flower
+Gorgeous Flower
+It's an elegant flower. It's commonly used as an accessory in Pokémon Contests.
+It's an elegant flower. It's commonly used as an accessory in Pokémon Contests.
+Gorgeous Specs
+Gorgeous Specs
+It's a pair of elegant sunglasses. It's commonly used as an accessory in Pokémon Contests.
+It's a pair of elegant sunglasses. It's commonly used as an accessory in Pokémon Contests.
+Flower Crown
+Flower Crown
+A delicate crown woven from vibrant wildflowers. It gives off a fresh, natural vibe.
+A delicate crown woven from vibrant wildflowers. It gives off a fresh, natural vibe.
+Green Barrette
+Green Barrette
+It's a quirky barrette. It's commonly used as an accessory in Pokémon Contests.
+It's a quirky barrette. It's commonly used as an accessory in Pokémon Contests.
+Halo
+Halo
+A golden ring that mysteriously floats above the wearer's head.
+A golden ring that mysteriously floats above the wearer's head.
+Striped Trilby A
+Striped Trilby A
+A fashionable hat from Kalos. It's popular with trainers who participate in the Z-A Royale.
+A fashionable hat from Kalos. It's popular with trainers who participate in the Z-A Royale.
+Harmony Scarf
+Harmony Scarf
+It's a scarf with a mysterious pattern. Wearing it fills you with energy.
+It's a scarf with a mysterious pattern. Wearing it fills you with energy.
+Lucha Mask
+Lucha Mask
+A Lucha Libre mask that looks like the one worm by a Hawlucha.
+A Lucha Libre mask that looks like the one worm by a Hawlucha.
+Jaw Helmet
+Jaw Helmet
+A fearsome helmet crafted in the shape of a Haxorus's jaw. It is sure to intimidate your enemies!
+A fearsome helmet crafted in the shape of a Haxorus's jaw. It is sure to intimidate your enemies! 
+Simple Headband
+Simple Headband
+It's a cute headband. It's commonly used as an accessory in Pokémon Contests.
+It's a cute headband. It's commonly used as an accessory in Pokémon Contests.
+Head Goomy
+Head Goomy
+This Goomy has taken a liking to sitting on your head and somehow never falls off.
+This Goomy has taken a liking to sitting on your head and somehow never falls off.
+Lace Covering
+Lace Covering
+A delicate see-through lace covering that is worn over the head.
+A delicate see-through lace covering that is worn over the head.
+Head Paras
+Head Paras
+A Paras that has taken a liking to perching atop a trainer's head.
+A Paras that has taken a liking to perching atop a trainer's head.
+Headphones
+Headphones
+A pair of sleek headphones for trainers who prefer to listen to their own music on their adventure!
+A pair of sleek headphones for trainers who prefer to listen to their own music on their adventure!
+Helmet
+Helmet
+A hard helmet that's used to protect your head when doing construction work.
+A hard helmet that's used to protect your head when doing construction work.
+Black Hijab
+Black Hijab
+A sleek black headscarf with a smooth, elegant finish.
+A sleek black headscarf with a smooth, elegant finish.
+Bright Hijab
+Bright Hijab
+A vibrant headscarf in a bold color that stands out.
+A vibrant headscarf in a bold color that stands out.
+Dark Hijab
+Dark Hijab
+A deep, rich headscarf offering a refined look.
+A deep, rich headscarf offering a refined look.
+Light Hijab
+Light Hijab
+A soft, light-colored headscarf for a fresh touch.
+A soft, light-colored headscarf for a fresh touch.
+White Hijab
+White Hijab
+A classic white headscarf with a clean, sophisticated look.
+A classic white headscarf with a clean, sophisticated look.
+Dark Red & Black Cap
+Dark Red & Black Cap
+A brimmed cap with a Poké Ball logo on the front. It's popular with fledgling trainers in Unova.
+A brimmed cap with a Poké Ball logo on the front. It's popular with fledgling trainers in Unova.
+Pink & White Cap
+Pink & White Cap
+A sleek pink and white cap with a refined design, popular with fledgling trainers in Unova.
+A sleek pink and white cap with a refined design, popular with fledgling trainers in Unova.
+Pink & White Cap (hair)
+Pink & White Cap (hair)
+A sleek pink and white cap with a refined design. Outfitted for the "High-pony" hairstyle.
+A sleek pink and white cap with a refined design. Outfitted for the "High-pony" hairstyle.
+Horned Helm
+Horned Helm
+It's a cool helmet with horns. It's commonly used in Pokémon Contests.
+It's a cool helmet with horns. It's commonly used in Pokémon Contests.
+Heart Headband
+Heart Headband
+A cute headband worn by idols and their fans.
+A cute headband worn by idols and their fans.
+Jester's Cap
+Jester's Cap
+It's a quirky hat. It's commonly used in Pokémon Contests.
+It's a quirky hat. It's commonly used in Pokémon Contests.
+Karate Bandana
+Karate Bandana
+A red headband tied tightly around the forehead. It’s worn by trainers who strive for discipline and strength.
+A red headband tied tightly around the forehead. It’s worn by trainers who strive for discipline and strength.
+Ninja Scarf
+Ninja Scarf
+A billowing scarf that is often worn by ninjas and shinobis.
+A billowing scarf that is often worn by ninjas and shinobis.
+Yellow Hat
+Yellow Hat
+A small round form fitting hat. It's popular with fledgling trainers in Johto.
+A small round form fitting hat. It's popular with fledgling trainers in Johto.
+Ledian Helmet
+Ledian Helmet
+A helmet ressembling a Ledian's head. It's worn by a team of super heroes in a popular kids' show.
+A helmet ressembling a Ledian's head. It's worn by a team of super heroes in a popular kids' show.
+Lace Cap
+Lace Cap
+It's an elegant cap. It's commonly used in Pokémon Contests.
+It's an elegant cap. It's commonly used in Pokémon Contests.
+Sun Hat
+Sun Hat
+A pink, brimmed hat that is popular with ladies.
+A pink, brimmed hat that is popular with ladies.
+Laurel Wreath
+Laurel Wreath
+It's an elegant wreath. It's commonly used as an accessory in Pokémon Contests.
+It's an elegant wreath. It's commonly used as an accessory in Pokémon Contests.
+White Boater Hat
+White Boater Hat
+Your iconic white hat. You and your sibling like to trade it sometimes.
+Your iconic white hat. You and your sibling like to trade it sometimes.
+Lonely Flower
+Lonely Flower
+Red Flat Cap
+Red Flat Cap
+A flat cap with a Poké Ball logo on the side. It's popular with fledgling trainers in Sinnoh.
+A flat cap with a Poké Ball logo on the side. It's popular with fledgling trainers in Sinnoh.
+Dark Red Flat Cap
+Dark Red Flat Cap
+A dark flat cap. It seems to have been worn in Hisui long ago.
+A dark flat cap. It seems to have been worn in Hisui long ago.
+Ludicolo Sombrero
+Ludicolo Sombrero
+A festive Sombrero that is often worn during fiestas.
+A festive Sombrero that is often worn during fiestas.
+Big Red & White Bow
+Big Red & White Bow
+A large red and white head bow.
+A large red and white head bow.
+Lycanroc Hood (down)
+Lycanroc Hood (down)
+A fluffy hood. Down for those who want a little sun.
+A fluffy hood. Down for those who want a little sun.
+Lycanroc Hood (up)
+Lycanroc Hood (up)
+A fluffy hood. Up for those who shy away from the sun
+A fluffy hood. Up for those who shy away from the sun
+Round Hat w/ Bow
+Round Hat w/ Bow
+A large soft hat with a ribbon and bow. It's popular with fledgling trainers in Johto.
+A large soft hat with a ribbon and bow. It's popular with fledgling trainers in Johto.
+Magikarp Balaclava
+Magikarp Balaclava
+A balaclava made to look like a Magikarp.
+A balaclava made to look like a Magikarp.
+Magma Hood
+Magma Hood
+A heavy hood that's part of the Team Magma uniform!
+A heavy hood that's part of the Team Magma uniform!
+Old Magma Hood
+Old Magma Hood
+A heavy hood that was part of the Team Magma uniform a long time ago. It feels a bit nostalgic.
+A heavy hood that was part of the Team Magma uniform a long time ago. It feels a bit nostalgic.
+Magnemite Hairclips
+Magnemite Hairclips
+Hair clips that resemble Magnemites. They were popularized by an influencer in Paldea.
+Hair clips that resemble Magnemites. They were popularized by an influencer in Paldea.
+Frilly Headdress
+Frilly Headdress
+A frilly headband worn by handmaids and restaurant staff at certain cafes.
+A frilly headband worn by handmaids and restaurant staff at certain cafes.
+Marshtomp Mask
+Marshtomp Mask
+A sleek mask that is inspired by a Marshtomp.
+A sleek mask that is inspired by a Marshtomp.
+Green Bandana
+Green Bandana
+A green bandana worn as a hat. It's popular with fledgling trainers in Hoenn.
+A green bandana worn as a hat. It's popular with fledgling trainers in Hoenn.
+Bandana Headband
+Bandana Headband
+A red bandana tied around the head with a bow. It's popular with fledgling trainers in Hoenn.
+A red bandana tied around the head with a bow. It's popular with fledgling trainers in Hoenn.
+Red Bandana
+Red Bandana
+A red bandana worn as a hat. It's popular with fledgling trainers in Hoenn.
+A red bandana worn as a hat. It's popular with fledgling trainers in Hoenn.
+Meowth-Eye Glasses
+Meowth-Eye Glasses
+Glasses that invoke the gaze of a scheming Meowth. Popular with office workers and librarians.
+Glasses that invoke the gaze of a scheming Meowth. Popular with office workers and librarians.
+Fairy Flower
+Fairy Flower
+A flower hairclip that is similar to the one worn by a famous singer.
+A flower hairclip that is similar to the one worn by a famous singer.
+Monocle
+Monocle
+It's an elegant monocle. It's commonly used as an accessory in Pokémon Contests.
+It's an elegant monocle. It's commonly used as an accessory in Pokémon Contests.
+Purple Headband
+Purple Headband
+A purple headband with a spooky, ominous aura.
+A purple headband with a spooky, ominous aura.
+Red Visor
+Red Visor
+A red visor with a black and white Poké Ball on the front. It's popular with fledgling trainers in Unova.
+A red visor with a black and white Poké Ball on the front. It's popular with fledgling trainers in Unova.
+Red Visor (for hair)
+Red Visor (for hair)
+A red visor with a black and white Poké Ball on the front. Outfitted for the "Short, Shaggy spikes" hairstyle.
+A red visor with a black and white Poké Ball on the front. Outfitted for the "Short, Shaggy spikes" hairstyle.
+Black & Gray Cap
+Black & Gray Cap
+A brimmed black and gray cap. It's popular with trainers in Unova.
+A brimmed black and gray cap. It's popular with trainers in Unova.
+Ice Fox Hat
+Ice Fox Hat
+A warm, knit cap that resembles a Ninetales from the Alola region.
+A warm, knit cap that resembles a Ninetales from the Alola region.
+Noibat Cap
+Noibat Cap
+A cap that is shaped to resemble a Noibat!
+A cap that is shaped to resemble a Noibat!
+Blank Nurse Cap
+Blank Nurse Cap
+A white hat that decidedly does not violate the Geneva Convention. It's usually worn by nurses.
+A white hat that decidedly does not violate the Geneva Convention. It's usually worn by nurses.
+Nurse Cap
+Nurse Cap
+A white hat bearing a non-red cross that no longer violates the Geneva Convention. It's usually worn by nurses.
+A white hat bearing a non-red cross that no longer violates the Geneva Convention. It's usually worn by nurses.
+Kitten Headband
+Kitten Headband
+A cute headband that ressembles the ears of a Skitty.
+A cute headband that ressembles the ears of a Skitty.
+Wellspring Mask
+Wellspring Mask
+A blue carved wooden mask patterned after the face of an ogre.
+A blue carved wooden mask patterned after the face of an ogre.
+Teal Mask
+Teal Mask
+A green carved wooden mask patterned after the face of an ogre.
+A green carved wooden mask patterned after the face of an ogre.
+Cornerstone Mask
+Cornerstone Mask
+A grey carved wooden mask patterned after the face of an ogre.
+A grey carved wooden mask patterned after the face of an ogre.
+Heartflame Mask
+Heartflame Mask
+A red carved wooden mask patterned after the face of an ogre.
+A red carved wooden mask patterned after the face of an ogre.
+Spiral Shell Beanie
+Spiral Shell Beanie
+A spiral-shaped beanie that is reminescent of the shell of an extinct Pokémon.
+A spiral-shaped beanie that is reminescent of the shell of an extinct Pokémon.
+Oran Berry
+Oran Berry
+Just an oran berry that's balanced on your head. Simplicity at its best!
+Just an oran berry that's balanced on your head. Simplicity at its best!
+Mushroom
+Mushroom
+A Tochukaso mushroom that normally grows on Paras and Parasect. Wear it. WEAR IT.
+A Tochukaso mushroom that normally grows on Paras and Parasect. Wear it. WEAR IT.
+Striped Trilby Z
+Striped Trilby Z
+A fashionable hat from Kalos, popular with trainers who participate in the Z-A Royale.
+A fashionable hat from Kalos, popular with trainers who participate in the Z-A Royale.
+Pidgey Nest
+Pidgey Nest
+A Pidgey which has decided to build a nest atop a trainer's head.
+A Pidgey which has decided to build a nest atop a trainer's head.
+Pikacap
+Pikacap
+A cute hat made to look like a Pikachu.
+A cute hat made to look like a Pikachu.
+Pikachu Hood
+Pikachu Hood
+A hood designed to look like Pikachu, complete with ears and a cheerful expression.
+A hood designed to look like Pikachu, complete with ears and a cheerful expression.
+Head Pikachu (F)
+Head Pikachu (F)
+A female Pikachu that has taken a liking to perching atop a trainer's head.
+A female Pikachu that has taken a liking to perching atop a trainer's head.
+Head Pikachu (M)
+Head Pikachu (M)
+A male Pikachu that has taken a liking to perching atop a trainer's head.
+A male Pikachu that has taken a liking to perching atop a trainer's head.
+Pink Barrette
+Pink Barrette
+Pirate Hat
+Pirate Hat
+It's a cool bicorn. It's commonly used in Pokémon Contests.
+It's a cool bicorn. It's commonly used in Pokémon Contests.
+Loose Bandana
+Loose Bandana
+A bandana used by hardworking breeders. Looser fit.
+A bandana used by hardworking breeders. Looser fit.
+Poison Hood (M)
+Poison Hood (M)
+A purple hood ressembling a Ekans. It is worn by trainers who have an affinity with the poison type.
+A purple hood ressembling a Ekans. It is worn by trainers who have an affinity with the poison type.
+Poison Hood (F)
+Poison Hood (F)
+A purple hood ressembling a Seviper. It is worn by trainers who have an affinity with the poison type.
+A purple hood ressembling a Seviper. It is worn by trainers who have an affinity with the poison type.
+Police Cap
+Police Cap
+It’s a cap worn for serving on the force or impersonating an officer.
+It’s a cap worn for serving on the force or impersonating an officer.
+Postman Hat
+Postman Hat
+A hat worn by someone who handles packages with care
+A hat worn by someone who handles packages with care
+Prinplup cap
+Prinplup cap
+A cap reminiscent of the head of a Prinplup.
+A cap reminiscent of the head of a Prinplup.
+Academic Cap
+Academic Cap
+A classic square-topped cap with a dangling tassel, often worn by those celebrating their academic achievements.
+A classic square-topped cap with a dangling tassel, often worn by those celebrating their academic achievements.
+Glalie Mask
+Glalie Mask
+A hockey mask resembling a Glalie, often worn by fans of the Indigo Ice Beams team.
+A hockey mask resembling a Glalie, often worn by fans of the Indigo Ice Beams team.
+Pumpkaboo Helmet
+Pumpkaboo Helmet
+A hollowed out pumpkin that looks like a Pumpkaboo!
+A hollowed out pumpkin that looks like a Pumpkaboo!
+Round Purple Glasses
+Round Purple Glasses
+Large, old-fashioned glasses in a trendy purple color. Popular with studious types.
+Large, old-fashioned glasses in a trendy purple color. Popular with studious types.
+Green Flat cap
+Green Flat cap
+A green flat cap that was popularized by a certain Gym Leader from Kalos.
+A green flat cap that was popularized by a certain Gym Leader from Kalos.
+Ranger Hat
+Ranger Hat
+A red fedora often worn by Pokémon Rangers to protect them from the harsh sunlight.
+A red fedora often worn by Pokémon Rangers to protect them from the harsh sunlight.
+Sky Tiara
+Sky Tiara
+A glorious tiara modeled after a ruler of the skies. It looks rare and expensive!
+A glorious tiara modeled after a ruler of the skies. It looks rare and expensive!
+Red Cap
+Red Cap
+Your iconic red cap. You and your sibling like to trade it sometimes.
+Your iconic red cap. You and your sibling like to trade it sometimes.
+Red Barrette
+Red Barrette
+Red Flower
+Red Flower
+Steel Titan Helm
+Steel Titan Helm
+A steel helmet resembling a long lost legendary titan.
+A steel helmet resembling a long lost legendary titan.
+Blue Fedora
+Blue Fedora
+A stylish blue fedora that ressembles the head feathers of a Honchkrow
+A stylish blue fedora that ressembles the head feathers of a Honchkrow
+Team Rocket Cap
+Team Rocket Cap
+A black cap that all Team Rocket Grunts must wear as part of their uniform.
+A black cap that all Team Rocket Grunts must wear as part of their uniform.
+Pink & White Visor
+Pink & White Visor
+A pink and white visor. It's popular with fledgling trainers in Unova.
+A pink and white visor. It's popular with fledgling trainers in Unova.
+Pink & White Visor (hair)
+Pink & White Visor (hair)
+A pink and white visor. Outfitted for the "Long Pigtails Buns" hairstyle.
+A pink and white visor. Outfitted for the "Long Pigtails Buns" hairstyle.
+Rose
+Rose
+Roserade Mask (F)
+Roserade Mask (F)
+An eye mask ressembling a Roserade's.
+An eye mask ressembling a Roserade's.
+Roserade Mask (M)
+Roserade Mask (M)
+Round Button
+Round Button
+It's a cute clip. It's commonly used in Pokémon Contests.
+It's a cute clip. It's commonly used in Pokémon Contests.
+Sableye Mask
+Sableye Mask
+A creepy, gem-eyed disguise that lets you channel your inner trickster.
+A creepy, gem-eyed disguise that lets you channel your inner trickster.
+Levitating Balls
+Levitating Balls
+A few Poké Balls that permanently levitate with psychokinetic energy.
+A few Poké Balls that permanently levitate with psychokinetic energy.
+Sandshrew Beanie
+Sandshrew Beanie
+A cozy beanie fashioned after the rugged hide of a Sandshrew.
+A cozy beanie fashioned after the rugged hide of a Sandshrew. 
+Festive Hat
+Festive Hat
+A warm, snug stocking cap worn during a festive holiday season.
+A warm, snug stocking cap worn during a festive holiday season.
+Mask Scribbles
+Mask Scribbles
+Markings in the shape of a mask drawn on your face by a mischievous Jigglypuff!
+Markings in the shape of a mask drawn on your face by a mischievous Jigglypuff!
+Moustache Scribbles
+Moustache Scribbles
+Markings in the shape of a moustache drawn on your face by a mischievous Jigglypuff!
+Markings in the shape of a moustache drawn on your face by a mischievous Jigglypuff!
+Circle Scribbles
+Circle Scribbles
+Markings in the shape of a circle drawn on your face by a mischievous Jigglypuff!
+Markings in the shape of a circle drawn on your face by a mischievous Jigglypuff!
+Swirly Scribbles
+Swirly Scribbles
+Markings in the shape of a swirl drawn on your face by a mischievous Jigglypuff!
+Markings in the shape of a swirl drawn on your face by a mischievous Jigglypuff!
+Captain's Hat
+Captain's Hat
+A white peaked cap often worn by ship captains.
+A white peaked cap often worn by ship captains.
+Acorn Helmet
+Acorn Helmet
+A sturdy helmet that resembles a Seedot's head.
+A sturdy helmet that resembles a Seedot's head.
+Pompom Beanie
+Pompom Beanie
+A beanie with a flower-shaped pompom. It's popular with fledgling trainers in Alola.
+A beanie with a flower-shaped pompom. It's popular with fledgling trainers in Alola.
+Alolan Sunhat
+Alolan Sunhat
+A sun hat adorned with flowes. It's popular with fledgling trainers in Alola.
+A sun hat adorned with flowes. It's popular with fledgling trainers in Alola.
+Red Hat w/ Glasses
+Red Hat w/ Glasses
+A fashionable hat topped with sunglasses. It's popular with fledgling trainers in Kalos.
+A fashionable hat topped with sunglasses. It's popular with fledgling trainers in Kalos.
+Propeller Hat
+Propeller Hat
+A silly-looking multi-colored hat with a propeller on top.
+A silly-looking multi-colored hat with a propeller on top.
+Silph Scope
+Silph Scope
+A scope that makes unseeable Pokémon visible. It is made by Silph Co.
+A scope that makes unseeable Pokémon visible. It is made by Silph Co.
+Headband
+Headband
+A simple headband that keeps your hair out of your face.
+A simple headband that keeps your hair out of your face.
+Pink Beanie
+Pink Beanie
+A warm, pink beanie that is often by skiers.
+A warm, pink beanie that is often by skiers.
+Skitty TV
+Skitty TV
+A wearable TV themed like a Skitty. Use it to watch your battle replays!
+A wearable TV themed like a Skitty. Use it to watch your battle replays!
+Mareep Sleep Mask
+Mareep Sleep Mask
+An eyemask resembling a Mareep's face.
+An eyemask resembling a Mareep's face.
+Slowking Shell
+Slowking Shell
+A Shellder that has latched onto your head, forcing you to evolve into a king.
+A Shellder that has latched onto your head, forcing you to evolve into a king.
+Pile of Sludge
+Pile of Sludge
+A thick sludge that, astonishingly, sits perfectly atop your head!
+A thick sludge that, astonishingly, sits perfectly atop your head!
+Slurpuff Cake
+Slurpuff Cake
+Wearing this tasty cake on top of your head makes it so that you never have to stop eating it!
+Wearing this tasty cake on top of your head makes it so that you never have to stop eating it!
+Small Barrette
+Small Barrette
+Smiley-Face Mask
+Smiley-Face Mask
+Sharp Feather
+Sharp Feather
+A feather worn on the head that ressembles the ear of a Sneasel.
+A feather worn on the head that ressembles the ear of a Sneasel.
+Snorlax Hat
+Snorlax Hat
+A hat designed to look like Snorlax’s face, featuring its signature sleepy expression.
+A hat designed to look like Snorlax’s face, featuring its signature sleepy expression.
+Snorunt Hat
+Snorunt Hat
+A warm winter hat that is made to ressemble a Snorunt.
+A warm winter hat that is made to ressemble a Snorunt.
+Snow Crystal
+Snow Crystal
+It's an elegant clip. It's commonly used as an accessory in Pokémon Contests.
+It's an elegant clip. It's commonly used as an accessory in Pokémon Contests.
+Solosis Bubble
+Solosis Bubble
+Have you ever wondered what it's like to be a Solosis? Now you can find out!
+Have you ever wondered what it's like to be a Solosis? Now you can find out!
+Head Spheal
+Head Spheal
+A spheal has taken up residence on your head.
+A spheal has taken up residence on your head.
+Spheal Toque
+Spheal Toque
+A warm winter cap that looks like a spheal is taking a big bite out of your head.
+A warm winter cap that looks like a spheal is taking a big bite out of your head.
+Fusion Beret
+Fusion Beret
+A beret made to ressemble DNA Splicers.
+A beret made to ressemble DNA Splicers.
+Mysterious Sprout
+Mysterious Sprout
+Somehow, a little leaf has managed to sprout from your head.
+Somehow, a little leaf has managed to sprout from your head.
+Square Glasses
+Square Glasses
+It's an elegant pair of glasses. It's commonly used as an accessory in Pokémon Contests.
+It's an elegant pair of glasses. It's commonly used as an accessory in Pokémon Contests.
+Squad Shades
+Squad Shades
+Cool shades worn by the leader of the Squirtle Squad!
+Cool shades worn by the leader of the Squirtle Squad!
+Starmie Hair Clip
+Starmie Hair Clip
+A fashionable hair clip ressembling a Starmie with seaweed and corals.
+A fashionable hair clip ressembling a Starmie with seaweed and corals.
+Striped Tie
+Striped Tie
+Sudowoodo Horn
+Sudowoodo Horn
+A branching horn made out of rock that appears to have fallen off a Sudowoodo.
+A branching horn made out of rock that appears to have fallen off a Sudowoodo.
+Shock Shades
+Shock Shades
+Shockingly cool sunglasses.
+Shockingly cool sunglasses.
+Head Swablu
+Head Swablu
+A cozy Swablu who decided to perch atop a trainer's head.
+A cozy Swablu who decided to perch atop a trainer's head.
+Sylveon Hair Bow
+Sylveon Hair Bow
+A cute, pink hair bow that ressembles a Sylveon's.
+A cute, pink hair bow that ressembles a Sylveon's.
+Head Tentacruel
+Head Tentacruel
+A tiny Tentacruel that picked your head as a resting spot. Watch out for those tentacles!
+A tiny Tentacruel that picked your head as a resting spot. Watch out for those tentacles!
+Tiara
+Tiara
+It's an elegant tiara. It's commonly used in Pokémon Contests.
+It's an elegant tiara. It's commonly used in Pokémon Contests.
+Tie
+Tie
+Red Top Hat
+Red Top Hat
+A dapper top hat with a red band.
+A dapper top hat with a red band.
+White Top Hat
+White Top Hat
+A dapper top hat with a white band.
+A dapper top hat with a white band.
+Forest King Crown
+Forest King Crown
+A crown that makes anyone who wears it feel like they are the king of the forest.
+A crown that makes anyone who wears it feel like they are the king of the forest.
+Triangle Shades
+Triangle Shades
+Cool sunglasses shaped like triangles.
+Cool sunglasses shaped like triangles.
+Trumpet
+Trumpet
+Wear Hoenn's national instrument with pride! You can almost hear the faint sound of trumpets surrounding you.
+Wear Hoenn's national instrument with pride! You can almost hear the faint sound of trumpets surrounding you.
+TV Head
+TV Head
+A TV worn as a helmet that could probably be used to watch replays of your battles... If only it worked!
+A TV worn as a helmet that could probably be used to watch replays of your battles... If only it worked!
+Tyrunt Mask
+Tyrunt Mask
+A big Tyrunt shaped mask that gives you an urge to bite.
+A big Tyrunt shaped mask that gives you an urge to bite.
+Black Flat Cap
+Black Flat Cap
+A black flat cap, often worn by Veteran trainers.
+A black flat cap, often worn by Veteran trainers.
+Gray Knitted Hat
+Gray Knitted Hat
+A gray knitted beanie. It's popular with fledgling trainers in Galar.
+A gray knitted beanie. It's popular with fledgling trainers in Galar.
+Pokéball Barrette
+Pokéball Barrette
+A stylish barette featuring a Pokéball design.
+A stylish barette featuring a Pokéball design.
+Waterfall Scarf
+Waterfall Scarf
+A silky see through scarf based around Wallace's outfit. It shimmers like a waterfall under sunlight.
+A silky see through scarf based around Wallace's outfit. It shimmers like a waterfall under sunlight.
+Straw Hat
+Straw Hat
+A simple hat made out of straw that is typically worn by bug-catchers.
+A simple hat made out of straw that is typically worn by bug-catchers.
+Safari Hat
+Safari Hat
+A hat worn by safari zone groundskeepers.
+A hat worn by safari zone groundskeepers.
+Whiscash bowl hat
+Whiscash bowl hat
+An elegant hat that looks just like a Whishcash.
+An elegant hat that looks just like a Whishcash. 
+White Domino Mask
+White Domino Mask
+It's a cool mask. It's commonly used as an accessory in Pokémon Contests.
+It's a cool mask. It's commonly used as an accessory in Pokémon Contests.
+White Hand
+White Hand
+This ghostly white hand doesn't seem to be visible to other people...
+This ghostly white hand doesn't seem to be visible to other people...
+Windup Key
+Windup Key
+It's a quirky costume piece. It's commonly used in Pokémon Contests.
+It's a quirky costume piece. It's commonly used in Pokémon Contests.
+Feathered Cap
+Feathered Cap
+A cap just like the one Winona of Fortree Gym wears.
+A cap just like the one Winona of Fortree Gym wears.
+Witchy Hat
+Witchy Hat
+Wooper Hair Clips
+Wooper Hair Clips
+Hair clips that resemble the purple gills of a Wooper.
+Hair clips that resemble the purple gills of a Wooper.
+Straw Sun Hat
+Straw Sun Hat
+A wide-brimmed straw hat. It's popular with fledgling trainers in Kanto.
+A wide-brimmed straw hat. It's popular with fledgling trainers in Kanto.
+Youngster Cap
+Youngster Cap
+A cool cap worn by the younger generation. Must be worn backwards to be hip.
+A cool cap worn by the younger generation. Must be worn backwards to be hip.
+Head Zigzagoon
+Head Zigzagoon
+A Zigzagoon that has taken a liking to perching atop a trainer's head.
+A Zigzagoon that has taken a liking to perching atop a trainer's head.
+[35]
+Can be used repeatedly without boring the judge.
+Can be used repeatedly without boring the judge.
+Works best if the audience's excitement goes up.
+Works best if the audience's excitement goes up.
+Appeal is better the earlier the round.
+Appeal is better the earlier the round.
+Makes a great appeal, but prevents the user from taking further contest moves.
+Makes a great appeal, but prevents the user from taking further contest moves.
+Startles the last Pokémon to act before the user.
+Startles the last Pokémon to act before the user.
+Startles Pokémon that used a move of the same type.
+Startles Pokémon that used a move of the same type.
+Makes the judge expect little of other contestants.
+Makes the judge expect little of other contestants.
+Can avoid being startled by others once.
+Can avoid being startled by others once.
+Lowers the spirit of those that made appeals.
+Lowers the spirit of those that made appeals.
+Ups the user's spirit. Helps prevent nervousness.
+Ups the user's spirit. Helps prevent nervousness.
+Works better the more the audience is excited.
+Works better the more the audience is excited.
+The appeal works great if performed last.
+The appeal works great if performed last.
+Increases the users appeal by varying amounts.
+Increases the users appeal by varying amounts.
+Temporarily stops the audience from growing excited.
+Temporarily stops the audience from growing excited.
+User earns double the score in it's next appeal.
+User earns double the score in it's next appeal.
+The appeal depends on the audience's excitement.
+The appeal depends on the audience's excitement.
+Makes the remaining Pokémon nervous.
+Makes the remaining Pokémon nervous.
+Startles the Pokémon that has the judge's attention.
+Startles the Pokémon that has the judge's attention.
+The appeal works great if performed first.
+The appeal works great if performed first.
+Badly startles those that have made appeals.
+Badly startles those that have made appeals.
+Startles those that have made appeals.
+Startles those that have made appeals.
+Affected by how well the previous Pokémon's move went.
+Affected by how well the previous Pokémon's move went.
+The appeal works better the later it is performed in a turn.
+The appeal works better the later it is performed in a turn.
+Scrambles the order of appeals on the next turn.
+Scrambles the order of appeals on the next turn.
+Earns the same amount as the previous Pokémon's appeal.
+Earns the same amount as the previous Pokémon's appeal.
+A highly appealing move.
+A highly appealing move.
+Startles the Pokémon that has the judges attention.
+Startles the Pokémon that has the judges attention.
+Causes the user to move earlier on the next turn.
+Causes the user to move earlier on the next turn.
+Adds the score of the previous Pokémon's appeal to yours.
+Adds the score of the previous Pokémon's appeal to yours.
+After this move, the user is more easily startled.
+After this move, the user is more easily startled.
+Startles all other Pokémon. User cannot act in the next turn.
+Startles all other Pokémon. User cannot act in the next turn.
+Causes the user to move later on the next turn.
+Causes the user to move later on the next turn.
+Startles all Pokémon, more so those that made good appeals.
+Startles all Pokémon, more so those that made good appeals.
+Works well if it is the same type as the move used by the last Pokémon.
+Works well if it is the same type as the move used by the last Pokémon.
+Can avoid being startled by others until the turn ends.
+Can avoid being startled by others until the turn ends.
+Excites the audience in any kind of contest.
+Excites the audience in any kind of contest.
+Works better if the last appeal did poorly
+Works better if the last appeal did poorly
+Works well if the user's spirit is good..
+Works well if the user's spirit is good..
+Works well if the user's spirit is good.
+Works well if the user's spirit is good.
+Works better if the last appeal did poorly.
+Works better if the last appeal did poorly.
+Affected by how well the appeal in front goes.
+Affected by how well the appeal in front goes.
+Works better if the last appeal was good.
+Works better if the last appeal was good.
+Gets the audience going!
+Gets the audience going!
+Appeal is better the later the round.
+Appeal is better the later the round.
+Works better the less the audience is excited.
+Works better the less the audience is excited.
+[45]
+This bright red Berry is very spicy and has a provocative flavor. It blooms with delicate, pretty flowers.
+This bright red Berry is very spicy and has a provocative flavor. It blooms with delicate, pretty flowers.
+This Berry's thick skin and fruit are very tough and dry tasting. However, every bit of it can be eaten.
+This Berry's thick skin and fruit are very tough and dry tasting. However, every bit of it can be eaten.
+Because of its hollow inside pocket, there isn't a lot to eat. What can be eaten is very sweet and delicious.
+Because of its hollow inside pocket, there isn't a lot to eat. What can be eaten is very sweet and delicious.
+If the leaves grow longer and curlier than average, this Berry will have a somewhat-bitter taste.
+If the leaves grow longer and curlier than average, this Berry will have a somewhat-bitter taste.
+This Berry's peel is hard, but the flesh inside is very juicy. It is distinguished by its bracing sourness.
+This Berry's peel is hard, but the flesh inside is very juicy. It is distinguished by its bracing sourness.
+It takes longer to grow than Berries such as Cheri. The smaller Berries taste better.
+It takes longer to grow than Berries such as Cheri. The smaller Berries taste better.
+Nature's gifts came together as one in this Berry. It has a wondrous mix of flavors that spread in the mouth.
+Nature's gifts came together as one in this Berry. It has a wondrous mix of flavors that spread in the mouth.
+The more this berry absorbs energy from sunlight, the more vividly colorful it grows.
+The more this berry absorbs energy from sunlight, the more vividly colorful it grows.
+This Berry's gradual process of storing nutrients beneficial to Pokémon health causes it to mature slowly.
+This Berry's gradual process of storing nutrients beneficial to Pokémon health causes it to mature slowly.
+Sitrus came from the same family as Oran. It is larger and smoother tasting than Oran.
+Sitrus came from the same family as Oran. It is larger and smoother tasting than Oran.
+This Berry is oddly shaped, appearing as if someone took a bite out of it. It is packed full of spicy substances.
+This Berry is oddly shaped, appearing as if someone took a bite out of it. It is packed full of spicy substances.
+It is said that this Berry grew lumps to help Pokémon grip it, allowing propagation farther afield.
+It is said that this Berry grew lumps to help Pokémon grip it, allowing propagation farther afield.
+This Berry progressively curves as it grows. The curvier the Berry, the sweeter and tastier.
+This Berry progressively curves as it grows. The curvier the Berry, the sweeter and tastier.
+This Berry turns bitter toward the stem. The dainty flower it grows from doesn't absorb much sunlight.
+This Berry turns bitter toward the stem. The dainty flower it grows from doesn't absorb much sunlight.
+This Berry is very big and sour. The juiciness of the pulp accentuates the sourness.
+This Berry is very big and sour. The juiciness of the pulp accentuates the sourness.
+A small hint of spiciness lingers in the red granules surrounding this Berry. Their centers have a dry taste.
+A small hint of spiciness lingers in the red granules surrounding this Berry. Their centers have a dry taste.
+Though this small, delicately skinned Berry is blue in color, it dyes the mouth black when eaten.
+Though this small, delicately skinned Berry is blue in color, it dyes the mouth black when eaten.
+Bitter, but with a trace of sweetness, the Nanab Berry was the seventh to be discovered in the world.
+Bitter, but with a trace of sweetness, the Nanab Berry was the seventh to be discovered in the world.
+The potent mix of bitter and sour in this Berry seems to promote digestion. The flower is white and beautiful.
+The potent mix of bitter and sour in this Berry seems to promote digestion. The flower is white and beautiful.
+It is said that when the sour skin is peeled, this spicy Berry can be crushed to make medicine.
+It is said that when the sour skin is peeled, this spicy Berry can be crushed to make medicine.
+When this sweetly spicy Berry's thick skin is peeled, many pieces of the fruit spill out.
+When this sweetly spicy Berry's thick skin is peeled, many pieces of the fruit spill out.
+This Berry can be eaten as is or boiled to obtain an extract that adds a dash of flavor to food.
+This Berry can be eaten as is or boiled to obtain an extract that adds a dash of flavor to food.
+Even in places of constant rain and high humidity, this Berry's plant grows healthy and strong.
+Even in places of constant rain and high humidity, this Berry's plant grows healthy and strong.
+This somewhat-rare Berry projects an image of luxury, so it is favored as a gift item.
+This somewhat-rare Berry projects an image of luxury, so it is favored as a gift item.
+One bite of this very tender Berry fills the mouth with its sweet and tangy flavor.
+One bite of this very tender Berry fills the mouth with its sweet and tangy flavor.
+This Berry is large and spicy. When eaten during the cold season, it warms the body from inside.
+This Berry is large and spicy. When eaten during the cold season, it warms the body from inside.
+Its dryness is quite strong. As a result, its true deliciousness can't be appreciated by just eating one or two.
+Its dryness is quite strong. As a result, its true deliciousness can't be appreciated by just eating one or two.
+The grown-up flavor and dreamy sweetness of this Berry make it a favorite of Pokémon everywhere.
+The grown-up flavor and dreamy sweetness of this Berry make it a favorite of Pokémon everywhere.
+Even though it is bitter, it should be eaten peel and all. The hair on the peel cleans the stomach from the inside.
+Even though it is bitter, it should be eaten peel and all. The hair on the peel cleans the stomach from the inside.
+This Berry is quite sour overall, with the sourness especially concentrated at the pointed end.
+This Berry is quite sour overall, with the sourness especially concentrated at the pointed end.
+So spicy is the Spelon Berry that, Fire type or not, Pokémon will try to breathe fire after eating a single one.
+So spicy is the Spelon Berry that, Fire type or not, Pokémon will try to breathe fire after eating a single one.
+This Berry drifted from a faraway sea. It is now cultivated in the Sinnoh region.
+This Berry drifted from a faraway sea. It is now cultivated in the Sinnoh region.
+A bounty of nature that is exceedingly sweet. The Berry is huge, with some discovered that exceed 20 inches.
+A bounty of nature that is exceedingly sweet. The Berry is huge, with some discovered that exceed 20 inches.
+This Berry is tremendously bitter. Just one bite is enough to instantly stop hiccups.
+This Berry is tremendously bitter. Just one bite is enough to instantly stop hiccups.
+This glossy and colorful Berry has a mouthwateringly delicious appearance. However, it is awfully sour.
+This glossy and colorful Berry has a mouthwateringly delicious appearance. However, it is awfully sour.
+This Berry is said to have grown plentiful in the tropics of the past. It boasts an intensely hot spiciness.
+This Berry is said to have grown plentiful in the tropics of the past. It boasts an intensely hot spiciness.
+This Berry's flesh is dotted with countless tiny bubbles of air that keep it afloat in water.
+This Berry's flesh is dotted with countless tiny bubbles of air that keep it afloat in water.
+Energy from lightning strikes is drawn into the plant, making the Berries grow big and rich.
+Energy from lightning strikes is drawn into the plant, making the Berries grow big and rich.
+This berry has a disagreeable "green" flavor and scent typical of vegetables. It is rich in health-promoting fiber.
+This berry has a disagreeable "green" flavor and scent typical of vegetables. It is rich in health-promoting fiber.
+This Berry has a refreshing flavor that strikes a good balance of dryness and sourness. It tastes better chilled.
+This Berry has a refreshing flavor that strikes a good balance of dryness and sourness. It tastes better chilled.
+This Berry contains a substance that generates heat. It can even heat up a chilly heart.
+This Berry contains a substance that generates heat. It can even heat up a chilly heart.
+This Berry is a brilliant green on the outside. Inside, it is packed with a dry-flavored, black-colored flesh.
+This Berry is a brilliant green on the outside. Inside, it is packed with a dry-flavored, black-colored flesh.
+The sweetness-laden pulp has just the hint of a hard-edged and fragrant bite to it.
+The sweetness-laden pulp has just the hint of a hard-edged and fragrant bite to it.
+This Berry is said to be a new kind that is a cross of two Berries brought together by winds from far away.
+This Berry is said to be a new kind that is a cross of two Berries brought together by winds from far away.
+This Berry is said to sense human emotions for the way it swells roundly when a person approaches.
+This Berry is said to sense human emotions for the way it swells roundly when a person approaches.
+The flower grows at the tip of this Berry. It attracts Bug Pokémon by letting its stringy petals stream out.
+The flower grows at the tip of this Berry. It attracts Bug Pokémon by letting its stringy petals stream out.
+It is often used for pickles because of its very dry flavor. It can also be eaten raw for its provocative taste.
+It is often used for pickles because of its very dry flavor. It can also be eaten raw for its provocative taste.
+Considered to have a special power from the olden days, this Berry is sometimes dried and used as a good-luck charm.
+Considered to have a special power from the olden days, this Berry is sometimes dried and used as a good-luck charm.
+If a large enough volume of this Berry is boiled down, its bitterness fades away. It makes a good jam.
+If a large enough volume of this Berry is boiled down, its bitterness fades away. It makes a good jam.
+Tiny hooks grow on the surface of this Berry. It latches on to Pokémon so it can be carried to far-off places.
+Tiny hooks grow on the surface of this Berry. It latches on to Pokémon so it can be carried to far-off places.
+This Berry is very tough with a strong flavor. It was used to make medicine by people in the past.
+This Berry is very tough with a strong flavor. It was used to make medicine by people in the past.
+This Berry can be cored out and dried to make a whistle. Blowing through its hole makes an indescribable sound.
+This Berry can be cored out and dried to make a whistle. Blowing through its hole makes an indescribable sound.
+This Berry is surrounded by mystery. It is rumored to be imbued with the power of the sea.
+This Berry is surrounded by mystery. It is rumored to be imbued with the power of the sea.
+This Berry is surrounded by mystery. It is rumored to be imbued with the power of the land.
+This Berry is surrounded by mystery. It is rumored to be imbued with the power of the land.
+This Berry is surrounded by mystery. It is rumored to be imbued with the power of the sky.
+This Berry is surrounded by mystery. It is rumored to be imbued with the power of the sky.
+This Berry is surrounded by mystery. It is rumored to be imbued with the power of all living things.
+This Berry is surrounded by mystery. It is rumored to be imbued with the power of all living things.
+This is a very, very mystifying Berry. There is no telling how it can be used, or what may happen if it is used.
+This is a very, very mystifying Berry. There is no telling how it can be used, or what may happen if it is used.
+This is said to be a legendary Berry. Holding it supposedly brings great joy.
+This is said to be a legendary Berry. Holding it supposedly brings great joy.
+This Berry is considered a mirage. It was said to be so strong that it had to be abandoned at the world's edge.
+This Berry is considered a mirage. It was said to be so strong that it had to be abandoned at the world's edge.
+A completely enigmatic Berry. It apparently has the power of the stars that fill the night sky.
+A completely enigmatic Berry. It apparently has the power of the stars that fill the night sky.
+This berry has a very dry flavor. It has the effect of making other food eaten at the same time taste sweet.
+This berry has a very dry flavor. It has the effect of making other food eaten at the same time taste sweet.
+The flesh underneath the Custap Berry's tough skin is sweet and creamy soft.
+The flesh underneath the Custap Berry's tough skin is sweet and creamy soft.
+The cluster of drupelets that make up this berry pop rhythmically if the berry is handled roughly.
+The cluster of drupelets that make up this berry pop rhythmically if the berry is handled roughly.
+In days of old, people worked the top-shaped pieces of this Berry free and used them as toys.
+In days of old, people worked the top-shaped pieces of this Berry free and used them as toys.
+The slight bitterness that cuts through the rich sweetness makes this Berry a perfect ingredient for adding an accent.
+The slight bitterness that cuts through the rich sweetness makes this Berry a perfect ingredient for adding an accent.
+[46]
+Soft
+Soft
+Super Hard
+Super Hard
+Very Soft
+Very Soft
+Hard
+Hard
+Very Hard
+Very Hard
