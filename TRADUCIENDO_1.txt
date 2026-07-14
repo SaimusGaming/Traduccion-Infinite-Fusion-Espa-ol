@@ -5927,7 +5927,7 @@ Parece que está cerrado...
 You're looking for some wooden planks?
 ¿Buscas tablones de madera?
 Sure, I've got them. But I'm not handing them to you unless you beat me in a Pokémon battle! What do you say?
-Claro, las tengo.¡Pero no te las daré a menos que me derrotes en una batalla Pokémon! ¿Qué dices?
+Claro, las tengo. ¡Pero no te las daré a menos que me derrotes en una batalla Pokémon! ¿Qué dices?
 I'll give it all I've got!
 ¡Voy con todo
 Woah! You're way better than I expected!
