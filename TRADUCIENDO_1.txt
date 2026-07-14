@@ -12745,17 +12745,17 @@ Cancel
 Cancelar
 [Map241]
 Did you find what you needed in the tunnel?
-Did you find what you needed in the tunnel?
+¿Has encontrado lo que necesitabas en el tunel?
 My favorite musician performs in the tunnel sometimes!
-My favorite musician performs in the tunnel sometimes!
+Mi músico favorito actua en el tunel a veces!
 [Map242]
 This leads to the Goldenrod Tunnel.
-This leads to the Goldenrod Tunnel. 
+Esto lleva al Tunel Trigal. 
 People come from all over the region to sell their merchandise down there!
-People come from all over the region to sell their merchandise down there!
+La gente viene de todas partes de la región para vender su mercancía allí abajo!
 [Map243]
 Welcome to Goldenrod City's hotel.
-Welcome to Goldenrod City's hotel.
+Bienvenido al hotel de Ciudad Trigal.
 \GIt's 50$ for a room. Would you like to rent a room?
 Cuesta 50$ la habitación. ¿Quieres alquilar una?
 \GThank you very much. I'll prepare the room for you!
@@ -12779,9 +12779,9 @@ Lo siento, pero no tienes suficiente dinero.
 Come back anytime!
 ¡Vuelve cuando quieras!
 I heard of a secret forest between Viridian City and Celadon City.
-I heard of a secret forest between Viridian City and Celadon City.
+He oido hablar sobre un bosque secreto entre Ciudad Verde y Ciudad Azulona.
 But who knows if it really exists...
-But who knows if it really exists...
+Pero quien sabe si realmente existe...
 Yes
 Sí
 No
@@ -12796,250 +12796,250 @@ Cancelar
 It's noticeably empty.
 Está totalmente vacío.
 Wow, you're from the Kanto region!
-Wow, you're from the Kanto region!
+¡Guau! ¡Vienes de la región de Kanto!
 Have you ever been to the Fuchsia City Safari Zone?
-Have you ever been to the Fuchsia City Safari Zone?
+¿Alguna vez has estado en la zona safari de Ciudad Fucsia?
 It's been my dream to go there ever since I was a little girl, but I never could afford to make the trip.
-It's been my dream to go there ever since I was a little girl, but I never could afford to make the trip.
+Mi sueño siempre ha sido ir allí desde que era una niña, pero nunca he podido permitirme pagar el viaje.
 If you ever go back there, do you think you could bring me back a small souvenir? It would mean the world to me!
-If you ever go back there, do you think you could bring me back a small souvenir? It would mean the world to me!
+¿Si alguna vez pasas por allí crees que podrías traerme un recuerdo? Significaría mucho para mi
 Thank you so much! I will wait for you right here!
-Thank you so much! I will wait for you right here!
+¡Muchas gracias! ¡Te esperaré aquí mismo!
 I'm counting on you!
 ¡Cuento contigo!
 Oh... I see. I'm disappointed, but I understand.
-Oh... I see. I'm disappointed, but I understand.
+Oh... Ya veo. Estoy decepcionada, pero lo entiendo.
 So, did you bring me a souvenir from the Safari Zone in Kanto?
-So, did you bring me a souvenir from the Safari Zone in Kanto?
+¿Entonces, me trajiste un recuerdo de la Zona Safari de Kanto?
 \PN handed the Safari Souvenir.
-\PN handed the Safari Souvenir.
+\PN entregó el recuerdo de la Zona Safari.
 This is great! I feel as if I was really there!
-This is great! I feel as if I was really there!
+¡Esto es genial! ¡Me siento como si realmente hubiese estado allí!
 You've made me very happy so I want to give you these as a thank you gift!
-You've made me very happy so I want to give you these as a thank you gift!
+¡Me has hecho muy feliz, así que quiero darte esto como agradecimiento!
 It's been my dream to go to the Safari Zone ever since I was a little girl, but I never could afford to make the trip.
-It's been my dream to go to the Safari Zone ever since I was a little girl, but I never could afford to make the trip.
+Mi sueño ha sido ir a la Zona Safari desde que era una niña, pero nunca pude permitirme pagar el viaje.
 Thank you so much for bringing me that souvenir from the Safari Zone.
-Thank you so much for bringing me that souvenir from the Safari Zone.
+Muchas gracias por traerme este recuerdo de la Zona Safari.
 It's aways been my dream to go and this souvenir is the next best thing. You've made me very happy!
-It's aways been my dream to go and this souvenir is the next best thing. You've made me very happy!
+Mi sueño siempre ha sido ir y este recuerdo es la mejor alternativa posible. ¡Me has hecho muy feliz!
 I saw it mommy! The tree stump moved on its own! It's a magic stump!
-I saw it mommy! The tree stump moved on its own! It's a magic stump!
+¡Lo he visto, mami! ¡El tocón se movió solo! ¡Es un tocón mágico!
 No, no, there's no such thing as a magic tree stump. Tree stumps are innanimate objects. They cannot move, my darling.
-No, no, there's no such thing as a magic tree stump. Tree stumps are innanimate objects. They cannot move, my darling.
+No, no. No existe algo como un tocón magico. Los tocones son objetos inanimados. No pueden moverse, cariño.
 I'm sorry about that. My daughter went to play in Ilex Forest and she imagined a floating tree stump... And now it's all she'll talk about!
-I'm sorry about that. My daughter went to play in Ilex Forest and she imagined a floating tree stump... And now it's all she'll talk about!
+Lo siento. Mi hija quiere jugar en el Encinar y cree que hay un tocón flotante... ¡Y ahora es lo único de lo que habla!
 But it's truuuue, mommy!
-But it's truuuue, mommy!
+¡Pero es verdaaad, mami!
 Pleaaase, miss! Won't you go in the forest and find the tree stump for me? Then mommy will have to believe me!
-Pleaaase, miss! Won't you go in the forest and find the tree stump for me? Then mommy will have to believe me!
+¡Por favooor, señorita! ¿Iría al bosque y encontraría el tocón por mi? ¡Así mami tendrá que creerme!
 Pleaaase, mister! Won't you go in the forest and find the tree stump for me? Then mommy will have to believe me!
-Pleaaase, mister! Won't you go in the forest and find the tree stump for me? Then mommy will have to believe me!
+¡Por favooor, señor! ¿Iría al bodque y encontraría el tocón por mi? ¡Así mami tendrá que creerme!
 YAY! You'll see, mommy, I'm telling the truth!
-YAY! You'll see, mommy, I'm telling the truth!
+¡Yupi! ¡ya verás, mami, Estoy diciendo la verdad!
 Children have such a vivid imagination...
-Children have such a vivid imagination...
+Los niños tienen una imaginación muy activa...
 Miss! Did you find the magic tree stump?
-Miss! Did you find the magic tree stump?
+¡Señorita! ¿Ha encontrado el tocón mágico?
 Mister! Did you find the magic tree stump?
-Mister! Did you find the magic tree stump?
+¡Señor! ¿Ha encontrado el tocón mágico?
 I'm really sorry about this. Darling, stop bothering strangers with your stories.
-I'm really sorry about this. Darling, stop bothering strangers with your stories.
+Lo siento mucho. Cariño, deja de molestar a desconocidos con tus historias.
 YAY! It's the magic tree stump! You see I was telling the truth, mommy!
-YAY! It's the magic tree stump! You see I was telling the truth, mommy!
+¡Yupi! ¡Es el tocón mágico! ¡Ya ves que te decía la verdad, mami!
 I don't believe it! Well, this goes to show that children know more than we think sometimes.
-I don't believe it! Well, this goes to show that children know more than we think sometimes.
+¡No puedo creerlo! Bueno, esto demuestra que a veces los niños saben más de lo que creemos.
 Thank you for indulging my daughter's request. Here's a little something for you. It's the least I can do.
-Thank you for indulging my daughter's request. Here's a little something for you. It's the least I can do.
+Gracias por cumplir la petición de mi hizo. Esto es una cosilla para ti. Es lo menos que puedo hacer.
 Children are much more observant than we are. I've been to Ilex Forest dozens of times and I've never seen such a Pokémon before!
-Children are much more observant than we are. I've been to Ilex Forest dozens of times and I've never seen such a Pokémon before!
+Los niños son mucho más observadores que nosotros. ¡He estado en el Encinar docenas de veces y nunca vi un pokemon así!
 I looooove the magic tree stump! It's so cute!
-I looooove the magic tree stump! It's so cute!
+¡Aaaaamo el tocón mágico! ¡Es muy bonito!
 Yes
 Sí
 No
 No
 [Map245]
 This isn't the gym leader you are looking for...
-This isn't the gym leader you are looking for...
+Este no es el lider de gimnasio que estás buscando...
 You're already the champion and you still won't stop?! Truly, I admire you.
-You're already the champion and you still won't stop?!  Truly, I admire you.
+¿Ya eres el campeón y aún así no te detienes? En serio, te admiro.
 Whitney uses \V[5] type Pokémon. But don't lower your guard. She's a fierce opponent!
-Whitney uses \V[5] type Pokémon. But don't lower your guard. She's a fierce opponent!
+Withney usa Pokémon de tipo \V[5]. Pero no bajes la guardia. ¡Es una oponente feroz!
 Take this!
 ¡Toma esto!
 [Map246]
 Hello! Are you here for the Lucky Number show?
-Hello! Are you here for the Lucky Number show?
+¡Hola! ¿Estás aquí por el Show del Número de  la Suerte?
 Want me to check the ID numbers of your Pokémon? If you get lucky, you win a prize.
-Want me to check the ID numbers of your Pokémon? If you get lucky, you win a prize.
+¿Quieres que revise los números ID de tus Pokemon? si tienes suerte, ganas un premio.
 Today's ID number is \v[1]. Let's see if you have a match.
-Today's ID number is \v[1]. Let's see if you have a match.
+El número ID de hoy es \v[1]. Vamos a ver si alguno coincide.
 Nope, none of your ID numbers match.
-Nope, none of your ID numbers match.
+Nop, ninguno de tus números coincide
 Congratulations!
 ¡Felicidades!
 The ID number of your team's \v[2] matches your Loto Ticket number!
-The ID number of your team's \v[2] matches your Loto Ticket number!
+¡El número ID del \v[2] de tu equipo coincide con el número de lotería!
 The last digit matched, so you won the fourth prize.
-The last digit matched, so you won the fourth prize.
+El último número coincide, así que ganas el cuarto premio.
 Wow! You have a perfect match of all five numbers! We have a grand prize winner!
-Wow! You have a perfect match of all five numbers! We have a grand prize winner!
+¡Guau! ¡Tienes uno que coincide perfectamente en los 5 números! ¡Tenemos un gran premio ganador!
 You've won the jackpot prize!
-You've won the jackpot prize!
+Has ganado el jackpot!
 The last four digits matched, so you win the first prize!
-The last four digits matched, so you win the first prize!
+¡Los últimos cuatro dígitos coinciden, así que ganas el tercer premio!
 Hey! You've matched the last three numbers! You've won second prize!
-Hey! You've matched the last three numbers! You've won second prize!
+¡Oye! Han coincidido los últimos tres números! ¡Has conseguido el segundo premio!
 Ooh, you've matched the last two numbers. You've won third prize, a Max Revive.
-Ooh, you've matched the last two numbers. You've won third prize, a Max Revive.
+Ooh, han coincidido los dos últimos números. Has ganado el tercer premio, un Max Revivir.
 Please come back tomorrow for the next LUCKY NUMBER.
-Please come back tomorrow for the next LUCKY NUMBER.
+Por favor, vuelve mañana para el siguiente NUMERO DE LA SUERTE.
 Oh, I see.\nPlease do visit us again.
-Oh, I see.\nPlease do visit us again.
+Oh, ya veo.\nPor favor, visitanos de nuevo.
 You've already drawn a Loto Ticket today. Please come back tomorrow.
-You've already drawn a Loto Ticket today.  Please come back tomorrow.
+Ya has sacado hoy un ticket de  la loteria. por favor, vuelve mañana.
 1F RECEPTION\n2F FUSION QUIZ\n3F MUSIC LOUNGE\n 4F EDITING STUDIO\n5F DIRECTOR'S OFFICE
-1F RECEPTION\n2F FUSION QUIZ\n3F MUSIC LOUNGE\n 4F EDITING STUDIO\n5F DIRECTOR'S OFFICE
+P1 RECEPCIÓN\nP2 PRUEBA FUSIÓN\nP3 SALÓN DE MÚSICA\n P4 ESTUDIO DE EDICIÓN\nP5 OFICINA DEL DIRECTOR
 Team Rocket took over Silph Co. in Kanto! I heard it on the news!
-Team Rocket took over Silph Co. in Kanto! I heard it on the news!
+¡El Team Rocket tomó el control de Silph S.A. en Kanto! ¡Lo escuché en las noticias!
 I hope everyone there is alright now.
-I hope everyone there is alright now.
+Espero que ya estén todos bien.
 I wish that talented busker from the tunnel would come here to play on the radio instead!
-I wish that talented busker from the tunnel would come here to play on the radio instead!
+¡Deseo que ese talentoso músico del tunel venga a tocar aquí en la radio en vez de allí!
 Yes
 Sí
 No
 No
 [Map247]
 Would you like to trade your Radio Points for some of our prizes?
-Would you like to trade your Radio Points for some of our prizes?
+¿Te gustaría intercambiar tus Puntos Radio por alguno de nuestros premios?
 This is where we host the famous "Guess That Fusion" radio show.
-This is where we host the famous "Guess That Fusion" radio show.
+Aquí es donde organizamos el famoso show de radio "Adivina La Fusión".
 Contestants can exchange their points for various prizes too.
-Contestants can exchange their points for various prizes too.
+Los concursantes también pueden cambiar sus puntos por varios premios.
 The Guess That Fusion Quiz show is our most popular show.
-The Guess That Fusion Quiz show is our most popular show.
+Las preguntas de Adivina La Fusión son nuestro show más popular.
 People tune in from all across the region to listen to it!
-People tune in from all across the region to listen to it!
+¡La gente sintoniza desde toda la región para escucharlo!
 It's the radio schedule for the next month.
-It's the radio schedule for the next month.
+Esta es la programación de radio para el próximo mes.
 There's a great prize for whoever can score more than 5,000 points in a single game.
-There's a great prize for whoever can score more than 5,000 points in a single game.
+Hay un gran premio para quien pueda conseguir 5000 puntos en una partida.
 I'm not allowed to say what it is, but it's super useful for Pokémon trainers!
-I'm not allowed to say what it is, but it's super useful for Pokémon trainers!
+No tengo permiso para decir que es, pero es super útil para los entrenadores Pokémon!
 You can hear the host's voice coming both from the radio and the other side of the room at the same time!
-You can hear the host's voice coming both from the radio and the other side of the room at the same time!
+¡Puedes escuchar la voz del presentador viniendo de la radio y del otro lado de la habitación al mismo tiempo!
 2F GUESS THAT FUSION
-2F GUESS THAT FUSION
+P2 ADIVINA LA FUSIÓN 
 It's playlist full of great tunes!
-It's playlist full of great tunes!
+¡Es una lista de reproducción llena de grandes canciones!
 Anywhere, Anytime\nPOKEMON Radio
-Anywhere, Anytime\nPOKEMON Radio
+En cualquier lugar, a cualquier hora Radio\nPOKEMON
 It's the fusion quiz's dashboard. What would you like to view?
-It's the fusion quiz's dashboard. What would you like to view?
+Es el panel de control del cuestionario de fusiones. ¿que te gustaría ver?
 Fusion Quiz statistics for \PN:
-Fusion Quiz statistics for \PN:
+Estadísticas del cuestionario de fusión de \PN:
 Numbers of games played: \C[1]\V[268]\n\C[0] Highest score: \C[1]\V[267]\n\C[0] Total points cumulated: \C[1]\V[269]
-Numbers of games played: \C[1]\V[268]\n\C[0] Highest score: \C[1]\V[267]\n\C[0] Total points cumulated: \C[1]\V[269]
+Número de partidas jugadas: \C[1]\V[268]\n\C[0] Mayor puntuación: \C[1]\V[267]\n\C[0] Puntos totales acumulados: \C[1]\V[269]
 Each question is worth a base amount of points depending on how difficult the question is and the selected difficulty.
-Each question is worth a base amount of points depending on how difficult the question is and the selected difficulty.
+Cada pregunta tiene un valor de puntos base dependiendo de la dificultad.
 On the regular difficulty, this base amount is 300 points for guessing the body and 400 points for guessing the head when they're obscured and 100 points when the Pokémon is visible.
-On the regular difficulty, this base amount is 300 points for guessing the body and 400 points for guessing the head when they're obscured and 100 points when the Pokémon is visible.
+En la dificultad normal, la base son 300 puntos por acertar el cuerpo, 400 puntos por acertar la cabeza cuando están oscuros y 100 puntos cuando el Pokémon es visible.
 On the advanced difficulty, the base amount is 500 and 600 when obscured for the body and head respectively and 200 when fully visible.
-On the advanced difficulty, the base amount is 500 and 600 when obscured for the body and head respectively and 200 when fully visible.
+En la dificultad avanzada, la base son 500 y 600 cuando el cuerpo y cabeza están oscuros y 200 cuando son visibles respectivamente.
 This base amount of points is then multiplied by a set amount that increases with every round.
-This base amount of points is then multiplied by a set amount that increases with every round.
+Esta cantidad base de puntos se multiplica luego por una cantidad fija que aumenta con cada ronda.
 On top of that, the points earned are multiplied by a set amount that depends on your current streak. The higher the streak, the higher the multiplier!
-On top of that, the points earned are multiplied by a set amount that depends on your current streak. The higher the streak, the higher the multiplier!
+Además, los puntos obtenidos se multiplican por una cantidad fija que depende de tu racha actual. ¡Cuanto mayor sea la racha, mayor será el multiplicador!
 This is where we record the Guess That Fusion Quiz show.
-This is where we record the Guess That Fusion Quiz show.
+Aquí es donde grabamos el concurso de Adivina La Fusión.
 Contestants have to guess a series of fused Pokémon from images and they earn points for every correct answer.
-Contestants have to guess a series of fused Pokémon from images and they earn points for every correct answer.
+Los concursantes tienen que adivinar una serie de pokemon fusionados a partir de imágenes y ganan puntos por cada respuesta correcta.
 The show is just about to start. Would you like to join us as a contestant?
-The show is just about to start. Would you like to join us as a contestant?
+el cocurso está a punto de comenzar. ¿Te gustaría unirte a nosotros como concursante?
 Great! We're live in 3..\.. 2..\.. 1...
-Great! We're live in 3..\.. 2..\.. 1...
+¡Genial! Estamos en el aire en 3..\.. 2..\.. 1...
 Ladies and gentlemen, welcome to the most electrifying game show on the airwaves! It's time for the "Guess That Fusion Quiz Show"!
-Ladies and gentlemen, welcome to the most electrifying game show on the airwaves! It's time for the "Guess That Fusion Quiz Show"!
+Damas y caballeros, bienvenidos al concurso de juegos más electrizante del canal! ¡Es hora del concurso de "Adivina La Fusión"!
 I'm your host, Mary, and today we have \PN joining us as a first-time contestant.
-I'm your host, Mary, and today we have \PN joining us as a first-time contestant.
+Soy vuestra anfitriona, Mary, y hoy tenemos a \PN uniéndose a nosotros como concursante por primera vez.
 Let's see how they fare in this 3-round game!
-Let's see how they fare in this 3-round game!
+¡Vamos. a ver como lo hacen en la tercera ronda de este juego!
 Without further ado, let the game begin!
-Without further ado, let the game begin!
+¡Sin más preámbulos, que comience el juego!
 Well that's the show, folks. Make sure to tune in next time for some more Guess The Fusion!
-Well that's the show, folks. Make sure to tune in next time for some more Guess The Fusion!
+Bueno. Eso es todo, amigos. ¡Aseguraos de sintonizar la próxima vez para más Adivina La Fusión!
 And that's the game folks! \PN finished with a total of \V[1] points.
-And that's the game folks! \PN finished with a total of \V[1] points.
+¡Y ese es el juego, amigos! \PN ha terminado con un total de \V[1] puntos.
 Not bad at all for a first time contestant!
-Not bad at all for a first time contestant!
+¡No está mal para ser tu primera vez!
 It wasn't quite the astounding performance that you folks were uhoping for, but everyone has to start somewhere!
-It wasn't quite the astounding performance that you folks were uhoping for, but everyone has to start somewhere!
+No fue la actuación tan asombrosa que esperabais, pero todo el mundo empieza por algún lado!
 Join us next time for some for Guess That Fusion fun!
-Join us next time for some for Guess That Fusion fun!
+¡Acompáñanos la próxima vez para divertirte con Adivina La Fusión!
 Thanks for playing! You can exchange your points for some prizes with my assistant over there.
-Thanks for playing! You can exchange your points for some prizes with my assistant over there.
+¡Gracias por jugar! Puedes cambiar tus puntos por algunos premios con la asistenta de ahí.
 Also, if you'd like to join us again, we have a \C[1]special prize\C[0] for anyone who can score more than 5,000 points in a single game.
-Also, if you'd like to join us again, we have a \C[1]special prize\C[0] for anyone who can score more than 5,000 points in a single game.
+Además, si quieres volver a unirte a nosotros tenemos un \C[1]premio especial\C[0] para quien consiga más de 5,000 puntos en una partida.
 I hope you're up for the challenge!
-I hope you're up for the challenge!
+¡Espero que te hayas preparado para el desafío!
 Join us whenever you can. We have a ton of great prizes for our contestants!
-Join us whenever you can. We have a ton of great prizes for our contestants!
+¡Únete cuando puedas! ¡Tenemos muchos premios fantásticos para nuestros concursantes!
 Hey! Would you like to take part in the Guess That Fusion Quiz again?
-Hey! Would you like to take part in the Guess That Fusion Quiz again?
+¡Hola! ¿Te gustaría formar parte de Adivina La Fusión otra vez?
 This time we have a \C[1]special prize\C[0] for anyone who manages to break 5,000 points in a single game!
-This time we have a \C[1]special prize\C[0] for anyone who manages to break 5,000 points in a single game!
+¡Esta vez tenemos un \C[1]premio especial\C[0] para quien supere los 5,000 puntos en una sola partida!
 Would you like to join us?
-Would you like to join us?
+¿Te gustaría unirte a nosotros?
 How many rounds would you like to play? You'll have to do a 5-round game if you want a chance at winning the \C[1]special prize\C[0]!
-How many rounds would you like to play? You'll have to do a 5-round game if you want a chance at winning the \C[1]special prize\C[0]!
+¿Cuantas rondas te gustaría jugar? Tendrás que hacer 5 rondas si quieres tener la oportunidad de conseguir el\C[1]premio especial\C[0]!
 Join us whenever you can for a chance to win the \C[1]special prize\C[0]!
-Join us whenever you can for a chance to win the \C[1]special prize\C[0]!
+Únete a nosotros cuando puedas para tener la oportunidad de conseguir el \C[1]premio especial\C[0]!
 Fantastic! Okay, we're live in 3..\.. 2..\.. 1...
-Fantastic! Okay, we're live in 3..\.. 2..\.. 1...
+¡Fantástico! Estamos en el aire en 3..\.. 2..\.. 1...
 I'm your host, Mary, and today we have \PN who's joining us as a returning contestant.
-I'm your host, Mary, and today we have \PN who's joining us as a returning contestant.
+¡Soy vuestra presentadora, Mary y hoy tenemos a \PN quien se une a nosotros otra vez como concursante.
 Let's see how they fare in this \V[1]-round game!
-Let's see how they fare in this \V[1]-round game!
+Veamos como lo hace en esta \V[1]-ronda!
 Another great performance by \PN!
-Another great performance by \PN!
+Otra gran participación de \PN!
 Amazingly! \PN managed to top 5,000 points so they've earned themselves the \C[1]special prize\C[0]!
-Amazingly! \PN managed to top 5,000 points so they've earned themselves the \C[1]special prize\C[0]!
+¡Increible! ¡\PN ha logrado superar los 5,000 puntos, así que ha conseguido el \C[1]premio especial\C[0]!
 That's right! The special prize is a Teleporter! It's a portable device that allows you to warp to any city without using a Pokémon. How lucky!
-That's right! The special prize is a Teleporter! It's a portable device that allows you to warp to any city without using a Pokémon. How lucky!
+¡Eso es! ¡El premio especial es un teletransportador! Es un dispositivo portable que te permite regresar a cualquier ciudad sin usar ningún Pokémon. ¡Que afortunado!
 You didn't manage to score over 5,000 points so I cannot give you the special prize, but you can still spend your points with my associate for our smaller prizes.
-You didn't manage to score over 5,000 points so I cannot give you the special prize, but you can still spend your points with my associate for our smaller prizes.
+No lograste conseguir más de 5,000 puntos, así que no puedo darte el premio especial, pero todavía puedes cambiar tus puntos a mi compañera por otros premios.
 You can't win all them! Let's hope \PN's next attempt goes a bit better!
-You can't win all them! Let's hope \PN's next attempt goes a bit better!
+¡No se puede ganar siempre! ¡Esperemos que el próximo intento de \PN's vaya un poco mejor!
 Which difficulty would you like to try? In Advanced you don't get multiple choices, but you'll win much more points when you get it right!
-Which difficulty would you like to try? In Advanced you don't get multiple choices, but you'll win much more points when you get it right!
+¿Que dificultad te gustaría intentar? en Avanzado no tienes multiples opciones, ¡Pero ganarás muchos más puntos cuando aciertas!
 Great, and how many rounds would you like to play?
-Great, and how many rounds would you like to play? 
+¡Genial! ¿Y cuantas rondas te gustaría jugar?
 Ladies and gentlemen, welcome to the most electrifying game show on the airwaves! It's time for the "Guess That Fusion Quiz Show" once again!
-Ladies and gentlemen, welcome to the most electrifying game show on the airwaves! It's time for the "Guess That Fusion Quiz Show" once again!
+¡Damas y caballeros! ¡Bienvenidos al show más electrificante del canal! ¡Es hora de "Adivina La Fusión"!
 Here's a bonus prize for obtaining over 5,000 points in a single game!
-Here's a bonus prize for obtaining over 5,000 points in a single game!
+¡Aquí tienes un premio extra por obtener más de 5,000 puntos en una partida!
 And here's a bonus prize for obtaining over 8,000 points in a single game!
-And here's a bonus prize for obtaining over 8,000 points in a single game!
+¡Y aquí tienes un premio extra por obtener más de 8,000 puntos en una partida!
 And here's another bonus prize for obtaining over 12,000 points in a single game!
-And here's another bonus prize for obtaining over 12,000 points in a single game!
+¡Y aquí tienes otro premio por obtener más de 12,000 puntos en una partida!
 I've never seen anyone obtain such a high score in the history of the game!
-I've never seen anyone obtain such a high score in the history of the game!
+¡Nunca he visto a nadie obtener tantos puntos en la historia del juego!
 Here's our grand prize for obtaining over 25,000 points in a single game!
-Here's our grand prize for obtaining over 25,000 points in a single game!
+Aquí tienes tu gran premio por obtener más de 25,000 puntos en una partida!
 Ladies and gentlemen, \PN surpassed what I even thought was possible!
-Ladies and gentlemen, \PN surpassed what I even thought was possible!
+¡Damas y caballeros!, ¡\PN superó lo que pensaba que era posible!
 Here's another grand prize for obtaining 35,000 points in a single game!
-Here's another grand prize for obtaining 35,000 points in a single game!
+¡Aquí tienes otro gran premio por obtener 35,000 puntos en una partida!
 ...And another one for a perfect game on the highest difficulty! That's no small achievement!
-...And another one for a perfect game on the highest difficulty! That's no small achievement!
+...Y otro más por una partida perfecta en la mayor dificultad! ¡No es un logro pequeño!
 Join us next time for some more Guess That Fusion fun!
-Join us next time for some more Guess That Fusion fun!
+¡Únete la próxima vez para más Adivina La Fusión!
 Statistics
-Statistics
+Estadísticas 
 Scoring system
-Scoring system
+Sistema de puntuación
 Never mind
 Olvídalo
 Yes
@@ -13047,88 +13047,88 @@ Sí
 No
 No
 3 rounds
-3 rounds
+3 rondas
 5 rounds
-5 rounds
+5 rondas
 Regular
-Regular
+Normal
 Advanced
-Advanced
+Avanzado
 10 rounds
-10 rounds
+10 rondas
 [Map248]
 We're looking at upgrading this train system to a magnetic levitation train in the next few years.
-We're looking at upgrading this train system to a magnetic levitation train in the next few years.
+Estamos pensando en actualizar este sistema ferroviario a uno de levitación magnética en los próximos años.
 We're basing this new technology on a Pokémon move called Magnet Rise.
-We're basing this new technology on a Pokémon move called Magnet Rise. 
+Estamos basando esta nueva tecnología en el movimiento Pokemon llamado Levitón.
 \GDo you want me to teach it to one of your Pokémon for $\V[15]
-\GDo you want me to teach it to one of your Pokémon for $\V[15]
+\G¿Necesitas que se lo enseñe a uno de tus pokemon por $\V[15]?
 Ta-da! Come back if you want me to teach it to another of your Pokémon!
 ¡Tachán! Vuelve si quieres que se lo enseñe a otro de tus Pokémon.
 That's too bad. Come back with $\V[15] if you want me to teach it to one of your Pokémon!
-Qué lástima. Vuelve con $\V[15] si quieres que se lo enseñe a uno de tus Pokémon.
+Qué lástima. ¡Vuelve con $\V[15] si quieres que se lo enseñe a uno de tus Pokémon!
 You don't have enough money. Come back with $\V[15] if you want me to teach it to one of your Pokémon!
-No tienes suficiente dinero. Vuelve con $\V[15] si quieres que se lo enseñe a uno de tus Pokémon.
+No tienes suficiente dinero. ¡Vuelve con $\V[15] si quieres que se lo enseñe a uno de tus Pokémon!
 I came here to try my luck at the Radio Tower Fusion game show!
-I came here to try my luck at the Radio Tower Fusion game show!
+¡Vine aquí a probar suerte en el show Adivina La Fusión de la Torre Radio!
 I heard that there's a great prize for anyone who can score high!
-I heard that there's a great prize for anyone who can score high!
+¡He oido que hay un gran premio para quien consiga una puntuación alta!
 I have a very important business meeting in Saffron City. This train better not be late!
-I have a very important business meeting in Saffron City.  This train better not be late!
+Tengo una reunión de negocios importante en Ciudad Azafrán. ¡Más vale que este tren no llegue tarde!
 I want to check out the Art Gallery as soon as I can.
-I want to check out the Art Gallery as soon as I can.
+Quiero ver la Galería de Arte lo antes posible.
 They're doing an exhibition about my favourite artist today!
-They're doing an exhibition about my favourite artist today!
+¡Hoy están haciendo una exhibición sobre mi artista favorito!
 This is the first time in Johto isn't it? I can tell from the look on your face.
-This is the first time in Johto isn't it? I can tell from the look on your face.
+Es tu primera vez en Johto ¿verdad? Lo he notado en tu cara.
 It's a whole new world, check out the map on the wall over there!
-It's a whole new world, check out the map on the wall over there!
+¡Es un mundo totalmente nuevo! ¡Echa un vistazo al mapa en la pared de allí!
 There is some talk about upgrading the train to a Magnet Train in the next few years.
-There is some talk about upgrading the train to a Magnet Train in the next few years.
+Hablan de actualizar el tren a un Tren Magnético en los próximos años.
 It will make it possible to go between Saffron City and Goldenrod City even faster!
-It will make it possible to go between Saffron City and Goldenrod City even faster!
+¡Eso hará posible ir entre Ciudad Azafrán y Ciudad Trigal aún más rápido!
 Board the train to <b>Saffron City</b>?
-Board the train to <b>Saffron City</b>?
+Subir a bordo del tren a <b>Ciudad Azafrán</b>?
 \PN flashed the Train Card.
-\PN flashed the Train Card.
+\PN pasa la Tarjeta del Tren.
 Very well. The next train will be there any minute.
-Very well. The next train will be there any minute.
+Muy bien. el próximo tren estará aquí en cualquier momento.
 I'm sorry, but you need a Train Pass to board the train.
-I'm sorry, but you need a Train Pass to board the train.
+Lo siento, pero necesitas una Tarjeta del Tren para subir a bordo del tren.
 \GIt's $1000 for a ticket to Saffron City. Do you want to board the train?
-\GIt's $1000 for a ticket to Saffron City. Do you want to board the train?
+\GSon $1000 por un ticket a Ciudad Azafrán. ¿quieres subir a bordo del tren?
 \GVery well. The next train will be there any minute.
-\GVery well. The next train will be there any minute.
+\GMuy bien. el próximo tren estará aquí en cualquier momento.
 Oh, you don't have enough it seems.
-Oh, you don't have enough it seems.
+Oh, parece no tienes suficiente.
 The next train should be here any minute now. Get your ticket ready if you wish to board it.
-The next train should be here any minute now. Get your ticket ready if you wish to board it.
+El próximo tren debería estará aquí en cualquier momento. Ten tu boleto listo si deseas subir a bordo.
 It's very empty.
-It's very empty.
+Está totalmente vacío.
 Yes
 Sí
 No
 No
 [Map249]
 It's a movie for grown-ups... Better look away!
-It's a movie for grown-ups... Better look away!
+Es una película para adultos... ¡Mejor mirar a otro lado!
 You can call me the Stone Maniac. I want you to have this!
-You can call me the Stone Maniac. I want you to have this!
+Puedes llamarme Piedramaníaco! ¡Quiero que tengas esto!
 Come back at a different time and I'll have something else to give you!
-Come back at a different time and I'll have something else to give you!
+¡Vuelve en otro momento y tendré alguna otra cosa para darte!
 You can call me the Stone Maniac. I have one more stone for you!
 You can call me the Stone Maniac. I have one more stone for you!
 I don't have any more stones to give you!
 I don't have any more stones to give you!
 [Map250]
 There's a weird tree that's all dried up on Route 36.
-There's a weird tree that's all dried up on Route 36.
+Hay un árbol extraño que está totalmente seco en la ruta 36.
 Unfortunately, I lent my SquirtBottle to my sister in Ecruteak City, so I can't go water it.
-Unfortunately, I lent my SquirtBottle to my sister in Ecruteak City, so I can't go water it.
+Desafortunadamente presté mi regadera mi hermana en Ciudad Iris, así que no puedo ir a regarlo.
 Please grab it for me if you find another way to Ecruteak City.
-Please grab it for me if you find another way to Ecruteak City.
+Por favor, cógela por mi si encuentras otra forma de llegar a Ciudad Iris.
 Lalala lalalala. Plants need plenty of sunlight to grow healthy!
-Lalala lalalala. Plants need plenty of sunlight to grow healthy!
+Lalala lalalala. ¡Las plantas necesitan mucha luz solar para crecer sanas!
 Laalaaala!
 Laalaaala!
 [Map251]
@@ -13443,80 +13443,80 @@ No
 No
 [Map261]
 Gauuhgh!
-Gauuhgh!
+¡Gauuhgh!
 The road is clear!
-The road is clear!
+¡El camino está despejado!
 There are still more Pineco to defuse!
-There are still more Pineco to defuse!
+¡Aún hay más Pineco que desactivar!
 I want to go see my relatives in Blackthorn City, but going through Dark Cave is just so scary!
-I want to go see my relatives in Blackthorn City, but going through Dark Cave is just so scary!
+¡Quiero ver a mis familiares en Ciudad Endrino, pero ir por la Cueva Oscura da mucho miedo!
 Argh! I think I'll just wait for them to come visit me here instead.
-Argh! I think I'll just wait for them to come visit me here instead.
+¡Argh! Creo que esperaré a que ellos me visiten aquí.
 A man named Mr. Pokémon lives nearby. You should go visit him!
-A man named Mr. Pokémon lives nearby. You should go visit him!
+Un hombre llamado Señor Pokémon vive cerca. ¡Deberías visitarlo!
 There's nothing there.
 No hay nada allí.
 [Map262]
 Gauuhgh!
-Gauuhgh!
+¡Gauuhgh!
 The road is clear!
-The road is clear!
+¡El camino está despejado!
 There are still more Pineco to defuse!
-There are still more Pineco to defuse!
+¡Aún hay más Pineco que desactivar!
 There's nothing there.
 No hay nada allí.
 Roooar!
-Roooar!
+¡Roooar!
 Entei fled to the forest...
-Entei fled to the forest...
+Entei huyó hacia el bosque...
 I started my Pokémon journey in New Bark Town.
-I started my Pokémon journey in New Bark Town.
+Yo empecé mi aventura Pokémon en Pueblo Primavera.
 I've been training my Pokémon in this vey grass to make sure it's high level enough for my first gym battle.
-I've been training my Pokémon in this vey grass to make sure it's high level enough for my first gym battle.
+He estado entrenando a mi Pokémon en esta misma hierba para asegurarme de que tenga suficiente nivel para mi primer líder de gimnasio.
 Do you think I'm ready for Falkner?
-Do you think I'm ready for Falkner?
+¿Crees que estoy listo para Pegaso?
 I still don't think I'm ready for my first gym battle. Please help me train some more!
-I still don't think I'm ready for my first gym battle. Please help me train some more!
+¡Aún no creo estar listo para mi primer combate de gimnasio! ¡Por favor, ayúdame a entrenar más!
 Grinding is life!
-Grinding is life!
+¡Trabajar duro es vida!
 I'll be here if you change your mind!
 ¡Estaré por aquí si cambias de opinión!
 It's here! This is the rare Pokémon I was talking about!
-It's here! This is the rare Pokémon I was talking about!
+¡Está aquí! ¡Este es el Pokémon raro del que te estaba hablando!
 You say you've seen it before? Wow, that's remarkable!
-You say you've seen it before? Wow, that's remarkable!
+¿Dices que ya lo habías visto antes? ¡Guau, eso es increíble!
 It's staring at you as if it were giving you a challenge! I've never seen anything like this!
-It's staring at you as if it were giving you a challenge! I've never seen anything like this!
+¡Te está observando como si te estuviera retando! ¡Nunca he visto nada como esto!
 Oh no! I kept babbling too much and I made it run away!
-Oh no! I kept babbling too much and I made it run away!
+¡Oh no! ¡Hablé demasiado y lo hice huir!
 I just became a trainer, but this Pokémon I found in the Dark cave is pretty strong!
-I just became a trainer, but this Pokémon I found in the Dark cave is pretty strong!
+Me acabo de volver entrenador, pero este Pokémon que encontré en Cueva Oscura es muy fuerte.
 Not strong enough!
-Not strong enough!
+¡No lo suficientemente fuerte!
 I'm going to catch a bunch more Pokémon in the Dark Cave and then challenge Falkner!
-I'm going to catch a bunch more Pokémon in the Dark Cave and then challenge Falkner!
+¡Voy a atrapar un montón de Pokémon fuertes en Cueva Oscura y pedirle un combate a Pegaso!
 Ouch!
-Ouch!
+¡Ouch!
 Yes
 Sí
 No
 No
 [Map263]
 The following Pokémon can be found on Route 31:
-The following Pokémon can be found on Route 31:
+Los siguientes Pokémon aparecen en la Ruta 31:
 Metapod, Pidgeotto, Weepinbell, Butterfree, Ledian, Kakuna, Noctowl, Ariados, Golbat,
-Metapod, Pidgeotto, Weepinbell, Butterfree, Ledian, Kakuna, Noctowl, Ariados, Golbat, 
+Metapod, Pidgeotto, Weepinbell, Butterfree, Ledian, Kakuna, Noctowl, Ariados, Golbat,
 [Map264]
 I heard that they use Bellsprout to guard the Sprout Tower at night.
-I heard that they use Bellsprout to guard the Sprout Tower at night.
+He escuchado que usan Bellsprout para proteger la Torre Sprout por la noche.
 What? It's true, I'm serious!
-What? It's true, I'm serious!
+¿Qué? ¡Es verdad, lo digo en serio!
 Falkner is a bird-Pokémon pro!
-Falkner is a bird-Pokémon pro!
+¡Pegaso es un profesional de los Pokémon pájaro!
 Your moves won't be any good against a flying opponent. That's why I can teach you the move Gravity to keep Falkner's birds on the ground!
-Your moves won't be any good against a flying opponent.  That's why I can teach you the move Gravity to keep Falkner's birds on the ground!
+Tus movimientos no serán efectivos contra un rival volador. ¡Por eso puedo enseñarte Gravedad para mantener los pájaros de Pegaso en el suelo!
 \GI'l teach it for just $\V[15]. What a bargain, right?
-\GI'l teach it for just $\V[15]. What a bargain, right?
+\G¡Te lo enseñaré por solo $\V[15]! Qué ganga, ¿verdad?
 Ta-da! Come back if you want me to teach it to another of your Pokémon!
 ¡Tachán! Vuelve si quieres que se lo enseñe a otro de tus Pokémon.
 That's too bad. Come back with $\V[15] if you want me to teach it to one of your Pokémon!
@@ -13524,27 +13524,27 @@ Qué lástima. Vuelve con $\V[15] si quieres que se lo enseñe a uno de tus Pok�
 You don't have eough money. Come back with $\V[15] if you want me to teach it to one of your Pokémon!
 No tienes suficiente dinero. Vuelve con $\V[15] si quieres que se lo enseñe a uno de tus Pokémon.
 I go through Dark Cave to visit my family in Blackthorn City.
-I go through Dark Cave to visit my family in Blackthorn City.
+Atravieso Cueva Oscura para visitar a mi familia en Ciudad Endrino.
 It's a tough hike, but it's the fastest route!
-It's a tough hike, but it's the fastest route!
-\^Hello, and welcome to the Pokémon Center.\wt[2.5]
-\^Hola, bienvenido al Centro Pokémon \wt[2.5]
-\^We restore your tired Pokémon to full health.\wt[2.5]
-\Restauramos la salud completa de tus Pokémon cansados \wt[2.5]
+¡Es un camino duro, pero es la ruta más rápida!
+^Hello, and welcome to the Pokémon Center.\wt[2.5]
+^Hola, bienvenido al Centro Pokémon.\wt[2.5]
+^We restore your tired Pokémon to full health.\wt[2.5]
+^Restauramos la salud completa de tus Pokémon cansados.\wt[2.5]
 Would you like to rest your Pokémon?
 ¿Quieres que tus Pokémon descansen?
 OK, I'll take your Pokémon for a few seconds.
-Está bien, tomaré a tus Pokémon por unos segundos
+Está bien, tomaré a tus Pokémon por unos segundos.
 \rYour Pokémon may be infected by PokeRus.
-\rTu Pokémon podría estar infectado con PokeRus.
+\rTu Pokémon podría estar infectado con el Pokérus.
 \rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.
-\rSe sabe poco sobre el PokeRus, salvo que son microorganismos que se adhieren a los Pokémon.
+\rSe sabe poco sobre el Pokérus, salvo que son microorganismos que se adhieren a los Pokémon.
 \rWhile infected, Pokémon are said to grow exceptionally well.
 \rMientras están infectados, se dice que los Pokémon crecen excepcionalmente bien.
 Thank you for waiting.
-Gracias por esperar
+Gracias por esperar.
 We've restored your Pokémon to full health.
-Hemos restaurado la salud completa de tus Pokémon
+Hemos restaurado la salud completa de tus Pokémon.
 We hope to see you again!
 ¡Esperamos verte de nuevo!
 \rWe hope to see you again!
@@ -13555,129 +13555,129 @@ No
 No
 [Map265]
 You sure were mean to my little sisters!
-You sure were mean to my little sisters!
+¡Fuiste muy malo con mis hermanas pequeñas!
 No! I can't believe I lost.
-No! I can't believe I lost.
+¡No! ¡No puedo creer que haya perdido!
 I'm sorry we jumped you. We never expected anyone to find us here. You sure startled us.
-I'm sorry we jumped you. We never expected anyone to find us here. You sure startled us.
+Sentimos haberte atacado. No esperábamos que nadie nos encontrara aquí. Nos asustaste bastante.
 We left our baby Pokémon at the daycare. I hope he can make friends with the other Pokémon!
-We left our baby Pokémon at the daycare. I hope he can make friends with the other Pokémon!
+Dejamos nuestro bebé Pokémon en la guardería. ¡Espero que se haga amigo de los otros Pokémon!
 Wait, you need at least two Pokémon to fight the both of us!
 ¡Espera, necesitas al menos dos Pokémon para enfrentarnos a las dos!
 I can't believe it!
-I can't believe it!
+¡No puedo creerlo!
 The daycare is full of lovely Pokémon. Our darling will make friends in no time!
-The daycare is full of lovely Pokémon. Our darling will make friends in no time!
+La guardería está llena de Pokémon amigables. ¡Nuestro cariñito hará amigos en nada!
 I prefer using DNA Splicers on everyday objects.
-I prefer using DNA Splicers on everyday objects.
+Yo prefiero usar DNA Splicers en objetos corrientes.
 Just the other day I spliced some swiss cheese with a piece of chalk!
-Just the other day I spliced some swiss cheese with a piece of chalk!
+¡El otro día fusioné algo de queso suizo con un trozo de tiza!
 Uh oh!
-Uh oh!
+¡Oh, oh!
 Hey you! We gotta fight again!
-Hey you! We gotta fight again!
+¡Eh, tú! ¡Tenemos que pelear otra vez!
 Yes sir!
-Yes sir!
+¡Sí, señor!
 Next time!
-Next time!
+¡La próxima vez!
 reset le policeman et le voleur
-reset le policeman et le voleur
+Reinicia al Policía y al Ladrón.
 This is the perfect spot for having a picnic! Won't you join me?
-This is the perfect spot for having a picnic! Won't you join me?
+¡Este es el sitio perfecto para un picnic! ¿Te gustaría unirte?
 I slipped!
-I slipped!
+¡Me resbalé!
 It's a bit wet for a picnic I suppose.
-It's a bit wet for a picnic I suppose. 
+Está demasiado mojado para hacer un picnic, supongo.
 I couldn't finish my plate. You can have the rest of it!
-I couldn't finish my plate. You can have the rest of it!
+Yo no pude terminar mi plato. ¡Puedes quedarte el resto!
 I'm confident in my ability to raise Pokémon. Want to see?
-I'm confident in my ability to raise Pokémon. Want to see?
+Tengo confianza en mi habilidad para entrenar a mis Pokémon. ¿Quieres verlo?
 I didn't do a good enough job?
-I didn't do a good enough job?
+¿No lo hice lo suficientemente bien?
 Maybe I should leave one in Day-care. What should I do?
-Maybe I should leave one in Day-care. What should I do?
+Tal vez debería dejar uno en la guardería. ¿Qué debería hacer?
 I know! You should help me decide with a battle!
-I know! You should help me decide with a battle!
+¡Ya sé! ¡Me ayudarás a decidir en una batalla Pokémon!
 I guess I really should leave it at the daycare.
-I guess I really should leave it at the daycare.
+Supongo que sí debería dejarlo en la guardería de verdad.
 Hmm.. I'll have to take the decision on my own then. How aggravating.
-Hmm.. I'll have to take the decision on my own then. How aggravating.
+Hmm... Tendré que tomar la decisión por mi cuenta entonces. Qué frustrante.
 Your karma is : \V[222]
-Your karma is : \V[222]
+Tu karma es: \V[222]
 Me? I'm not doing anything suspicious, go away!
-Me? I'm not doing anything suspicious, go away!
+¿Yo? Yo no estoy haciendo nada sospechoso, ¡vete de aquí!
 Ok! I'll tell you what I was doing!
-Ok! I'll tell you what I was doing!
+¡Vale! ¡Te diré qué estaba haciendo!
 I'm just watching the Pokémon I left at the day-care through the window...
-I'm just watching the Pokémon I left at the day-care through the window...
+Solo estoy mirando a mi Pokémon que dejé en la guardería por la ventana...
 It's its first day, so I'm a bit nervous.. But it seems like it has already made friends with the other Pokémon!
-It's its first day, so I'm a bit nervous.. But it seems like it has already made friends with the other Pokémon!
+Es su primer día, así que estoy un poco nervioso... ¡Pero parece que ya se hizo amigo de los otros Pokémon!
 Kyaaah! Someone found us!
-Kyaaah! Someone found us!
+¡Kyaaah! ¡Alguien nos encontró!
 Kyaaah! A boy found us!
-Kyaaah! A boy found us!
+¡Kyaaah! ¡Un chico nos encontró!
 Ohhh!! Too strong!
-Ohhh!! Too strong!
+¡Ohhh! ¡Demasiado fuerte!
 Sunlight makes your body stronger.
-Sunlight makes your body stronger.
+La luz del sol hace tu cuerpo más fuerte.
 You can't beat Irene and go unpunished!
-You can't beat Irene and go unpunished!
+¡No puedes vencer a Irene e irte de rositas!
 Isn't this little retreat great? It's our secret little getaway!
-Isn't this little retreat great? It's our secret little getaway!
+¿A que mola esta escapada? ¡Es nuestro escondite secreto!
 We left our baby Pokémon at the daycare. He's going to become really strong training with the other Pokémon!
-We left our baby Pokémon at the daycare. He's going to become really strong training with the other Pokémon!
+Dejamos nuestro Pokémoncito en la guardería. ¡Se va a volver muy fuerte entrenando con los otros Pokémon!
 This isn't happening!
-This isn't happening!
+¡Esto no está pasando!
 Daycares are full of energetic Pokémon so it's a great environment to get stronger!
-Daycares are full of energetic Pokémon so it's a great environment to get stronger!
+¡Las guarderías están llenas de Pokémon con mucha energía, es un gran entorno para hacerse más fuertes!
 You! Thief! Stop right there!
-You! Thief! Stop right there!
+¡Tú! ¡Ladrón! ¡Detente ahora mismo!
 Oh, you're not the thief!
-Oh, you're not the thief!
+¡Oh, tú no eres el ladrón!
 Sorry for jumping you. I thought you were the egg thief!
-Sorry for jumping you. I thought you were the egg thief!
+Siento haberte asaltado. ¡Pensé que eras el ladrón de huevos!
 There have been reports of someone stealing eggs from the Daycare centre so we can't be too cautious.
-There have been reports of someone stealing eggs from the Daycare centre so we can't be too cautious.
+Ha habido informes de alguien robando huevos de la guardería, así que no podemos ser demasiado precavidos.
 Say, have you seen any suspicious activity around the daycare?
-Say, have you seen any suspicious activity around the daycare?
+Dime, ¿has visto alguna actividad sospechosa cerca de la guardería?
 Very well then. Stay vigilant and make sure to stay out of trouble!
-Very well then. Stay vigilant and make sure to stay out of trouble!
+Muy bien entonces. ¡Mantente atento y asegúrate de mantenerte lejos de los problemas!
 You know the thief?! Well, what are you waiting for? Tell me already!
-You know the thief?! Well, what are you waiting for? Tell me already!
+¡¿Conoces al ladrón?! Entonces, ¿a qué estás esperando? ¡Dímelo ya!
 Do you know or not? Stop playing around, this is a very serious matter!
-Do you know or not? Stop playing around, this is a very serious matter!
+¿Sabes algo o no? ¡Deja de tontear, este es un tema muy serio!
 Well I certainly appreciate your honesty.
-Well I certainly appreciate your honesty.
+Bueno, ciertamente aprecio tu honestidad.
 To tell you the truth, the egg was abandonned anyway. The day-care owners didn't even know where it came from!
-To tell you the truth, the egg was abandonned anyway. The day-care owners didn't even know where it came from!
+A decir verdad, el huevo fue abandonado de todos modos. ¡Los dueños de la guardería ni siquiera saben de dónde ha salido!
 You're probably doing the egg a favor by keeping it.
-You're probably doing the egg a favor by keeping it.
+Probablemente le estés haciendo un favor al huevo quedándotelo.
 You mean he's here right now!? Let's not waste any time then!
-You mean he's here right now!? Let's not waste any time then!
+¡¿Dices que está por aquí ahora mismo!? ¡No perdamos tiempo entonces!
 It's noble to try and take the fall for someone else...
-It's noble to try and take the fall for someone else...
+Es noble intentar cargar tú con la culpa de otro...
 But the truth is, the egg hasn't been stolen yet.
-But the truth is, the egg hasn't been stolen yet.
+Pero la verdad es que el huevo no ha sido robado aún.
 Someone left us an anonymous tip saying that a thief was operating in the area so I came to have a look around.
-Someone left us an anonymous tip saying that a thief was operating in the area so I came to have a look around.
+Alguien nos dejó un chivatazo anónimo diciendo que un ladrón opera en esta área, así que vine a echar un vistazo.
 If the thief dares to show his face tonight, I'll catch him in the act!
-If the thief dares to show his face tonight, I'll catch him in the act!
+Si el ladrón se atreve a asomar su cara por aquí esta noche, ¡yo lo atraparé en el acto!
 The egg you took was abandonned anyway. The day-care owners have no idea where it came from!
-The egg you took was abandonned anyway. The day-care owners have no idea where it came from!
+El huevo que recogiste estaba abandonado de todos modos. ¡Los dueños de la guardería no saben de dónde ha salido!
 But please refrain from taking objects from private properties in the future!
-But please refrain from taking objects from private properties in the future!
+¡Pero por favor, evita coger objetos de propiedad privada en el futuro!
 Thief! Stop right there! You're under arrest!
-Thief! Stop right there! You're under arrest!
+¡Ladrón! ¡Detente ahora mismo! ¡Estás bajo arresto!
 Huh!? What is going on?
-Huh!? What is going on?
+¿¡Huh!? ¿Qué pasa?
 I didn't do anything! I was just watching the Pokémon I left at the day-care through the window... It's its first day!
-I didn't do anything! I was just watching the Pokémon I left at the day-care through the window... It's its first day!
+¡Yo no hice nada! Solo estaba mirando a mi Pokémon que dejé en la guardería por la ventana... ¡Es su primer día!
 \PN over there just told me that you're the egg thief! \V[1] saw you commit the crime!
-\PN over there just told me that you're the egg thief!  \V[1] saw you commit the crime!
+¡\PN aquí me ha dicho que eres el ladrón de huevos! ¡\V[1] te vio cometer el crimen!
 I didn't do anythingl!
-I didn't do anythingl!
+¡Yo no hice nada!
 Save it for the judge!
-Save it for the judge!
+¡Guárdatelo para el juez!
 It's a Pokémon egg... Take it?
 Es un huevo Pokémon... ¿Lo tomas?
 Obtained a Pokémon egg!
@@ -13691,181 +13691,181 @@ Sí
 No
 No
 I know the thief!
-I know the thief!
+¡Conozco al ladrón!
 ... I don't know
-... I don't know
+... No lo sé
 It's me ...
-It's me ... 
+Soy yo...
 The man behind the day-care!
-The man behind the day-care!
+¡El hombre detrás de la guardería!
 [Map266]
 Zzz...
 Zzz...
 "Ilex Forest Shrine"
-"Ilex Forest Shrine"
+"Santuario del Bosque Ilex"
 It's in honor of the forest's protector...
-It's in honor of the forest's protector...
+Es en honor al protector del bosque...
 Oh? What is this?
-Oh? What is this?
+¿Oh? ¿Qué es esto?
 It's a hole. It looks like the GS Ball would fit inside it.
-It's a hole. It looks like the GS Ball would fit inside it.
+Es un agujero. Parece que la GS Ball entraría aquí.
 Want to put the GS Ball here?
-Want to put the GS Ball here?
+¿Quieres poner la GS Ball aquí?
 \PN put in the GS Ball.
-\PN put in the GS Ball.
+\PN puso la GS Ball.
 It's in honor of the forest's protector....
-It's in honor of the forest's protector....
+Es en honor al protector del bosque...
 It's in honor of Celebi, the forest's protector....
-It's in honor of Celebi, the forest's protector....
+Es en honor a Celebi, el protector del bosque...
 Mimimi...
 Mimimi...
 Chaaaaah!
-Chaaaaah!
+¡Chaaaaah!
 Liiiii!
-Liiiii!
+¡Liiiii!
 Celebi flew away...
-Celebi flew away...
+Celebi huyó volando...
 Snore...
-Snore...
+Ronca...
 Tut tuu truu...
 Tut tuu truu...
 Fiddlee dee?
-Fiddlee dee?
+¿Fiddlee dee?
 \PN presented the \C[1]\V[1]\C[0] to the musician.
-\PN presented the \C[1]\V[1]\C[0] to the musician.
+\PN presentó el \C[1]\V[1]\C[0] al músico.
 Tuudoot!
-Tuudoot!
+¡Tuudoot!
 Tee hee!
-Tee hee!
+¡Tee hee!
 Shh, tuu tuu du.
 Shh, tuu tuu du.
 \C[7]....
-\C[7].... 
+\C[7]....
 .... Shashahh!
-.... Shashahh!
+.... ¡Shashahh!
 I'm chopping down some trees to clear the path.
-I'm chopping down some trees to clear the path.
+Estoy talando algunos árboles para limpiar el camino.
 It's probably going to be a while though, so you should come back later.
-It's probably going to be a while though, so you should come back later.
+Esto va a tardar lo suyo, así que deberías volver después.
 Huh? There's that strange music again!
-Huh? There's that strange music again!
+¿Huh? ¡Esa extraña música otra vez!
 Chopping down lumber wood is rough, but someone's gotta do it!
-Chopping down lumber wood is rough, but someone's gotta do it!
+¡Cortar leña es duro, pero alguien tiene que hacerlo!
 I've been hacking at this one for so long that these small trees keep growing back!
-I've been hacking at this one for so long that these small trees keep growing back!
+¡He estado talando este durante tanto tiempo que estos árboles pequeños están volviendo a crecer!
 You can chop them down again if you care to help out.
-You can chop them down again if you care to help out.
+Puedes cortarlos otra vez si quieres ayudar.
 If you want to help out, you can chop down these smaller trees while Scyther and I hack away at this large one!
-If you want to help out, you can chop down these smaller trees while Scyther and I hack away at this large one!
+¡Si quieres ayudar, puedes cortar estos árboles pequeños mientras Scyther y yo talamos este árbol grande!
 Thanks for helping me out with these trees! I really appreciate the help.
-Thanks for helping me out with these trees! I really appreciate the help.
+¡Gracias por ayudarme con estos árboles! Aprecio mucho la ayuda.
 Yes
 Sí
 No
 No
 [Map267]
 It's a small well.
-It's a small well.
+Es un pozo pequeño.
 It appears to have been built many years ago...
-It appears to have been built many years ago...
+Parece haber sido construido hace ya muchos años...
 Drop the Odd Keystone into the well?
-Drop the Odd Keystone into the well?
+¿Tirar la Piedra Espíritu en el pozo?
 Yulaaaaah!
-Yulaaaaah!
+¡Yulaaaaah!
 Water the strange tree?
-Water the strange tree?
+¿Quieres regar el árbol extraño?
 \PN used the Squirtbottle on the strange tree...
-\PN used the Squirtbottle on the strange tree...
+\PN usó la Squirtbottle en el árbol extraño...
 The strange tree attacked!
-The strange tree attacked!
+¡El árbol extraño ataca!
 The strange tree fled into the woods...
-The strange tree fled into the woods...
+El árbol extraño huye hacia el bosque...
 The strange tree was startled!
-The strange tree was startled!
+¡El árbol extraño se sorprendió!
 I learning how to read people's thoughts. I'll test this out in a Pokémon battle!
-I learning how to read people's thoughts. I'll test this out in a Pokémon battle!
+Aprendí cómo leer los pensamientos de las personas. ¡Lo probaré en una batalla Pokémon!
 Nope. It didn't work at all!
-Nope. It didn't work at all!
+¡No! ¡No funcionó para nada!
 I'm sure there's a way to read other peoples's thoughts in a battle. Let me try again!
-I'm sure there's a way to read other peoples's thoughts in a battle. Let me try again!
+Estoy seguro de que hay alguna manera de leer los pensamientos de otras personas en un combate. ¡Déjame intentarlo otra vez!
 Drat!
-Drat!
+¡Drat!
 There's nothing there.
 No hay nada allí.
 I've never seen you around. You're not from here, are you?
-I've never seen you around. You're not from here, are you?
+Nunca te había visto por aquí. No eres de por aquí, ¿verdad?
 Well I never!
-Well I never!
+¡Bueno, yo nunca podría!
 You came all this way from Pallet Town in Kanto? You must be exhausted. Have this.
-You came all this way from Pallet Town in Kanto? You must be exhausted. Have this.
+¿Viniste todo el camino desde Pueblo Paleta en Kanto? Debes estar exhausto. Toma esto.
 Travelling is great. Make sure to stay safe.
-Travelling is great. Make sure to stay safe.
+Viajar es genial. Asegúrate de mantenerte seguro.
 It's a small well that appears to have been built many years ago...
-It's a small well that appears to have been built many years ago...
+Es un pequeño pozo que parece haber sido construido hace muchos años...
 A ghostly energy came out of the well! The Odd Keystone in your bag appeared to react to it.
-A ghostly energy came out of the well! The Odd Keystone in your bag appeared to react to it.
+¡Una energía fantasmal sale del pozo! La Piedra Espíritu de tu bolsa parece reaccionar ante ella.
 There's a strange energy to this well. It gives me the chills for some reason...
-There's a strange energy to this well. It gives me the chills for some reason...
+Hay una energía extraña en este pozo. Me da escalofríos por alguna razón...
 Yes
 Sí
 No
 No
 [Map268]
 You're a Pokémon trainer?
-You're a Pokémon trainer?
+¿Eres un entrenador Pokémon?
 Pfff... You look weak!
-Pfff... You look weak!
+Pfff... ¡Pareces débil!
 It's password-protected.
-It's password-protected.
+Está protegido por contraseña.
 Hello, \PN.
-Hello, \PN.
+Hola, \PN.
 Team Rocket had some great plans for the world, but you kept making it difficult for us to take it to the next level.
-Team Rocket had some great plans for the world, but you kept making it difficult for us to take it to the next level.
+El Team Rocket tenía grandes planes para el mundo, pero seguías entrometiéndote en nuestro plan de llevarlo al siguiente nivel.
 I left the Viridian City gym. Its next owner will be that rival of yours, \V[12].
-I left the Viridian City gym. Its next owner will be that rival of yours, \V[12].
+Dejé el gimnasio de Ciudad Verde. Su próximo dueño será ese rival tuyo, \V[12].
 It's turned off.
-It's turned off.
+Está apagado.
 It's a picture of Giovanni with his wife and his son.
-It's a picture of Giovanni with his wife and his son.
+Es una foto de Giovanni con su mujer y su hijo.
 [Map269]
 I learned martial arts with Chuck.
-I learned martial arts with Chuck.
+Aprendí artes marciales con Aníbal.
 He's the Gym Leader in Cyanwood City, but he went looking for the perfect training spot somewhere in the Sevii Islands.
-He's the Gym Leader in Cyanwood City, but he went looking for the perfect training spot somewhere in the Sevii Islands.
+Él es el Líder de Gimnasio de Ciudad Orquídea, pero se fue a buscar el lugar de entrenamiento perfecto en las Islas Siete.
 Falkner's father used to be the Gym Leader here.
-Falkner's father used to be the Gym Leader here.
+El padre de Pegaso solía ser el Líder de Gimnasio aquí.
 He was a very respected trainer. It will be hard for Falkner to live up to his reputation, but I'm sure he'll make a name for himself in no time.
-He was a very respected trainer. It will be hard for Falkner to live up to his reputation, but I'm sure he'll make a name for himself in no time.
+Él era un entrenador muy respetado. Será difícil para Pegaso estar a la altura de su reputación, pero estoy seguro de que se hará un nombre por sí mismo en nada.
 It's filled with various books... Better get going!
-It's filled with various books... Better get going!
+Está lleno de varios libros... ¡Mejor ir moviéndose!
 It's a picture of the Sprout Tower in winter. A Bellsprout is seen shivering.
-It's a picture of the Sprout Tower in winter. A Bellsprout is seen shivering.
+Es una foto de la Torre Sprout en invierno. Se ve a un Bellsprout tiritando.
 [Map270]
 Team Rocket was up to no good in Kanto. But justice prevailed--a young kid broke 'em up.
-Team Rocket was up to no good in Kanto. But justice prevailed--a young kid broke 'em up.
+El Team Rocket no tramaba nada bueno en Kanto. Pero la justicia prevaleció: un chico joven los detuvo.
 I heard all about it on the news!
-I heard all about it on the news!
+¡Lo he escuchado todo en las noticias!
 A guy named Bill made the Pokémon PC storage system.
-A guy named Bill made the Pokémon PC storage system.
+Un chico llamado Bill ha creado el sistema de almacenamiento de Pokémon en el PC.
 It's filled with various books... Better get going!
-It's filled with various books... Better get going!
+Está lleno de varios libros... ¡Mejor ir moviéndose!
 It's a picture at the Ruins of Alph. A smiling man is showing off various archeology tools.
-It's a picture at the Ruins of Alph. A smiling man is showing off various archeology tools.
+Es una foto de las Ruinas Alfa. Un hombre sonriente está mostrando varias herramientas de arqueología.
 [Map271]
 The following Pokémon can be found on Route 36:
-The following Pokémon can be found on Route 36:
-Nidorina, Nidorino, Pidgeotto, , Vulpix, Growlithe, Stantler, Hoothoot, Noctowl,
+Los siguientes Pokémon aparecen en la Ruta 36:
+Nidorina, Nidorino, Pidgeotto, , Vulpix, Growlithe, Stantler, Hoothoot, Noctowl, 
 Nidorina, Nidorino, Pidgeotto, , Vulpix, Growlithe, Stantler, Hoothoot, Noctowl,
 [Map272]
 Only monks are allowed upstairs. Please stay on this floor if you came here to pray.
-Only monks are allowed upstairs. Please stay on this floor if you came here to pray.
+Solo se permiten monjes en el piso de arriba. Por favor, quédate en este piso si viniste a rezar.
 [Map273]
 Welcome to Violet City's hotel.
-Welcome to Violet City's hotel.
-\GIt's 50$ for a room. Would you like to rent a room?
-Cuesta 50$ la habitación. ¿Quieres alquilar una?
-\GThank you very much. I'll prepare the room for you!
-Muchas gracias. ¡Prepararé la habitación para ti!
+Bienvenido al hotel de Ciudad Malva.
+\GI t's 50$ for a room. Would you like to rent a room?
+\GI Cuesta 50$ la habitación. ¿Quieres alquilar una?
+\GT hank you very much. I'll prepare the room for you!
+\GT Muchas gracias. ¡Prepararé la habitación para ti!
 \PN slept for a while...
 \PN durmió un rato...
 Your Pokémon are full of energy!
@@ -13875,18 +13875,18 @@ La hora actual es \V[74].
 Oh, I'm awfully sorry, but you don't have enough money.
 Oh, lo siento mucho, pero no tienes suficiente dinero.
 Welcome to the hotel's salon! Here you can change your hairstyle to truly reflect your unique style and personality!
-Bienvenido al salón del hotel. Aquí puedes cambiar tu peinado para reflejar verdaderamente tu estilo y personalidad únicos.
+¡Bienvenido al salón del hotel! ¡Aquí puedes cambiar tu peinado para reflejar verdaderamente tu estilo y personalidad únicos!
 You can also get a special hairstyle if you have the city's badge. Most other cities also have special, exclusive haircuts too!
-También puedes obtener un peinado especial si tienes la medalla de la ciudad. La mayoría de las otras ciudades también tienen cortes de cabello especiales y exclusivos.
+También puedes obtener un peinado especial si tienes la medalla de la ciudad. ¡La mayoría de las otras ciudades también tienen cortes de cabello especiales y exclusivos!
 Hello there, what can I do for you today?
 Hola, ¿en qué puedo ayudarte hoy?
 Oh, I'm sorry but you don't have enough money.
-Lo siento, pero no tienes suficiente dinero.
+Oh, lo siento, pero no tienes suficiente dinero.
 Come back anytime!
 ¡Vuelve cuando quieras!
 Yes
 Sí
-No
+No 
 No
 Change hairstyle
 Cambiar peinado
@@ -13896,39 +13896,39 @@ Cancel
 Cancelar
 [Map274]
 A bunch of Pineco have started appearing on the way to Cherrygrove City.
-A bunch of Pineco have started appearing on the way to Cherrygrove City.
+Un montón de Pineco han empezado a aparecer en el camino hacia Ciudad Cerezo.
 They keep exploding and I'm worried about the kids!
-They keep exploding and I'm worried about the kids!
+¡Siguen explotando y estoy preocupado por los niños!
 You look pretty strong. Do you think you could get rid of them before they hurt anyone?
-You look pretty strong. Do you think you could get rid of them before they hurt anyone?
+Pareces bastante fuerte. ¿Podrías deshacerte de ellos antes de que alguien salga herido?
 I really hope that the Pineco eventually leave on their own then. Someone could get hurt!
-I really hope that the Pineco eventually leave on their own then. Someone could get hurt!
+Realmente espero que los Pineco acaben yéndose ellos solos. ¡Alguien podría salir herido!
 Won't someone please get rid of them?
-Won't someone please get rid of them?
+¿Por qué nadie se ocupa de ellos?
 You did it! You went ahead and defused every single Pineco! I can't thank you enough!
-You did it! You went ahead and defused every single Pineco! I can't thank you enough!
+¡Lo hiciste! ¡Fuiste y desactivaste cada Pineco! ¡No te lo puedo agradecer lo suficiente!
 Here's something for your effort!
-Here's something for your effort!
+¡Ten esto por tu esfuerzo!
 Thanks to you the road to Cherrygrove City is now much safer for the children!
-Thanks to you the road to Cherrygrove City is now much safer for the children!
+¡Gracias a ti el camino a Ciudad Cerezo es mucho más seguro para los niños!
 It's noticeably empty.
 Está totalmente vacío.
 Hey, I need your help!
-Hey, I need your help!
+¡Oye, necesito tu ayuda!
 I spent the entire day enjoying the beautiful weather with my Slowpoke today, sniffing flowers.
-I spent the entire day enjoying the beautiful weather with my Slowpoke today, sniffing flowers.
+Llevo todo el día disfrutando del buen tiempo con mi Slowpoke, oliendo las maravillosas flores.
 But when I came back, I noticed that Slowpoke had lost its tail!
-But when I came back, I noticed that Slowpoke had lost its tail! 
+¡Pero cuando volví, me di cuenta de que a mi Slowpoke le faltaba la cola!
 I'm not sure how it happened. It must've fallen off while sniffing a flower with a particularly strong scent!
-I'm not sure how it happened. It must've fallen off while sniffing a flower with a particularly strong scent!
+No estoy seguro de cómo pasó. ¡Se le debe de haber caído oliendo alguna flor con un olor particularmente fuerte!
 So now I need your help to find it back. Think you could help me out?
-So now I need your help to find it back. Think you could help me out?
+Así que ahora necesito tu ayuda para encontrarla. ¿Me podrías ayudar?
 Oh, thank you so much!
-Oh, muchas gracias!
+¡Oh, muchas gracias!
 We spent the entire day sniffing flowers, so I'm not sure exactly where I lost it...
-We spent the entire day sniffing flowers, so I'm not sure exactly where I lost it...
+Llevamos todo el día oliendo flores, así que no estoy seguro de dónde exactamente la perdió...
 But it's gotta be somewhere in Violet City for sure!
-But it's gotta be somewhere in Violet City for sure!
+¡Pero tiene que estar en algún lado de Ciudad Malva seguro!
 I'm counting on you!
 ¡Cuento contigo!
 You're busy, I understand.
@@ -13936,153 +13936,153 @@ Estás ocupado, lo entiendo.
 Sorry for bothering you with my problems...
 Perdón por molestarte con mis problemas…
 So, did you find my Slowpoke's tail yet?
-So, did you find my Slowpoke's tail yet?
+Entonces, ¿encontraste la cola de mi Slowpoke ya?
 You did!?
-You did!?
+¿¡Lo hiciste!?
 Woah! Thank you so much!
-Woah! Thank you so much!
+¡Guau! ¡Muchísimas gracias!
 I'm not sure if I'll be able to stitch it back on him, but Slowpoke will be really happy to have its old tail back regardless!
-I'm not sure if I'll be able to stitch it back on him, but Slowpoke will be really happy to have its old tail back regardless!
+No estoy seguro de si podré volver a coserle la cola, ¡pero Slowpoke estará feliz de tener su cola de vuelta igualmente!
 Here, please accept this as a thank you gift!
-Here, please accept this as a thank you gift!
+¡Aquí tienes, acepta este regalo como agradecimiento!
 But... Where is it?
-But... Where is it?
+Pero... ¿Dónde está?
 You found it and got rid of it!? That is so rude!
-You found it and got rid of it!? That is so rude!
+¿¡La encontraste y te deshiciste de ella!? ¡Eso está feísimo!
 Slowpoke and I trusted you! How could you do this to me?
-Slowpoke and I trusted you! How could you do this to me?
+¡Slowpoke y yo confiábamos en ti! ¿Cómo pudiste hacerme esto?
 Thanks for helping me out. I'm not sure if I'll be able to stitch Slowpoke's tail back on him.
-Thanks for helping me out. I'm not sure if I'll be able to stitch Slowpoke's tail back on him. 
+Gracias por ayudarme. No estoy seguro de si podré volver a ponerle la cola en su sitio.
 But he'll will be really happy to have its old tail back regardless!
-But he'll will be really happy to have its old tail back regardless!
+¡Pero él estará muy feliz de tener su vieja cola de vuelta igualmente!
 I don't want to talk to you, leave me alone!
-I don't want to talk to you, leave me alone!
+¡No quiero hablar contigo, déjame en paz!
 Yes
 Sí
-No
+No 
 No
 [Map275]
 Pokémon can hold items like potions and antidotes. But they don't appear to know how to use manmade items.
-Pokémon can hold items like potions and antidotes. But they don't appear to know how to use manmade items.
+Los Pokémon pueden coger pociones y antídotos. Pero no parecen saber usar objetos artificiales.
 The shelves are filled with Pokemon goods!
 ¡Los estantes están llenos de productos Pokémon!
 \bHello. You must be \PN.
-\bHello. You must be \PN.
+\bHola. Tú debes de ser \PN.
 \bI've received a gift for you.\nHere you go!
-\bI've received a gift for you.\nHere you go!
+\bHe recibido un regalo para ti.\n¡Aquí tienes!
 \bI haven't received any other gifts for you.
-\bI haven't received any other gifts for you.
+\bNo he recibido más regalos para ti.
 \bWe look forward to your next visit.
-\bWe look forward to your next visit.
+\bEsperamos su próxima visita.
 Sorry I need the correct password
-Sorry I need the correct password
+Lo siento, necesito la contraseña correcta.
 [Map276]
-Puuu!
-Puuu!
+Puuu! 
+¡Puuu!
 It's full of trash.
-It's full of trash.
+Está llena de basura.
 Hey! Where do you think you're going?
-Hey! Where do you think you're going?
+¡Oye! ¿A dónde crees que vas?
 Today's the Goldenrod Gym grand reopening! You simply MUST check it out if you're a trainer!
-Today's the Goldenrod Gym grand reopening! You simply MUST check it out if you're a trainer!
+¡Hoy es la gran reapertura del gimnasio de Ciudad Trigal! ¡Si eres entrenador DEBES pasarte por allí!
 [Map277]
 [Map278]
 ......Yawn?
-......Yawn?
+¿......Bostezo?
 Azalea Town: Where People and Pokémon Live in Happy Harmony
-Azalea Town: Where People and Pokémon Live in Happy Harmony
+Pueblo Azalea: Donde las personas y los Pokémon viven felices en armonía.
 Saffron City: Shining, Golden Land of Commerce
-Ciudad Azafrán: Tierra Dorada y Brillante de Comercio
+Ciudad Azafrán: Tierra dorada y brillante de comercio
 Slowpoke roam free in this town because of the proximity of the Slowpoke Well!
-Slowpoke roam free in this town because of the proximity of the Slowpoke Well!
+¡Los Slowpoke se mueven libremente por este pueblo porque el Pozo Slowpoke está cerca!
 Here I am always getting lost again...
-Here I am always getting lost again... 
+Aquí siempre me estoy perdiendo...
 Excuse me, but could you please tell me where Goldenrod City is?
-Excuse me, but could you please tell me where Goldenrod City is?
+Perdona, ¿me podrías decir dónde está Ciudad Trigal?
 Oh, I'm sorry. I just have a terrible sense of orientation!
-Oh, I'm sorry. I just have a terrible sense of orientation!
+Oh, perdón. ¡Solo tengo un terrible sentido de la orientación!
 It's East? Thank you! I'll head there straight away!
-It's East? Thank you! I'll head there straight away!
+¿En el Este? ¡Gracias, voy para allá ahora mismo!
 It's West? Thank you! I'll head there straight away!
-It's West? Thank you! I'll head there straight away!
+¿En el Oeste? ¡Gracias, voy para allá ahora mismo!
 ... In the forest...
-... In the forest...
+... En el bosque...
 ... A rare ghost Pokémon from another region, heheh...
-... A rare ghost Pokémon from another region, heheh...
+... Un Pokémon fantasma raro de otra región, jejeje...
 Do you know about SlowpokeTail? I heard it's tasty! Aren't you glad I told you that?
-Do you know about SlowpokeTail? I heard it's tasty! Aren't you glad I told you that?
+¿Sabes sobre la Cola de Slowpoke? ¡He escuchado que es deliciosa! ¿No estás agradecido de que te lo haya dicho?
 Kurt, the legendary Pokéball maker lives in this town. You should go pay him a visit!
-Kurt, the legendary Pokéball maker lives in this town. You should go pay him a visit!
+César, el legendario creador de Poké Balls, vive en este pueblo. ¡Deberías visitarlo!
 You did it, \PN! You drained the well and now the town has returned to normal!
-You did it, \PN! You drained the well and now the town has returned to normal!
+¡Lo hiciste, \PN! ¡Secaste el pozo y ahora el pueblo volvió a la normalidad!
 Thank you so much for helping our town.
-Thank you so much for helping our town.
+Muchas gracias por tu ayuda al pueblo.
 It isn't much, but I want you to have these for helping us out,
-It isn't much, but I want you to have these for helping us out,
+No es mucho, pero quiero que tengas esto por ayudarnos,
 Those are special Pokéballs that I crafted myself. They make a Pokémon gain a few levels when it's captured with it.
-Those are special Pokéballs that I crafted myself. They make a Pokémon gain a few levels when it's captured with it.
+Estas son Poké Balls especiales que yo mismo fabriqué. Hacen que un Pokémon gane unos cuantos niveles al ser capturado con ellas.
 You also may not know it, but I happen to be this town's Gym Leader.
-You also may not know it, but I happen to be this town's Gym Leader.
+Puede que no lo sepas, pero resulta que soy el líder del gimnasio de este pueblo.
 I would be honored if you paid me a visit at the Gym, I hope I'll see you there.
-I would be honored if you paid me a visit at the Gym, I hope I'll see you there.
+Me sentiría honrado si me haces una visita en el gimnasio, espero verte allí.
 I don't know
-I don't know
+No lo sé
 East
-East
+Este
 West
-West
+Oeste
 [Map279]
 Ah! It's good to see that the town has returned to normal. All that water was making me anxious!
-Ah! It's good to see that the town has returned to normal.  All that water was making me anxious!
+¡Ah! Es bueno ver que el pueblo ha vuelto a la normalidad. ¡Toda esa agua me estaba poniendo ansioso!
 Slowpoke evolves into Slowbro when a Shellder bites its tail.
-Slowpoke evolves into Slowbro when a Shellder bites its tail.
+Slowpoke evoluciona a Slowbro cuando un Shellder le muerde la cola.
 I wonder if I could get this Shellder to evolve by feeding it a SlowpokeTail.
-I wonder if I could get this Shellder to evolve by feeding it a SlowpokeTail.
-Schwaah!
-Schwaah!
+Me pregunto si podría hacer evolucionar a este Shellder dándole de comer una Cola de Slowpoke.
+Schwaah! 
+¡Schwaah!
 I know all about Bug-type Pokémon!
-I know all about Bug-type Pokémon!
+¡Lo sé todo sobre los Pokémon de tipo Bicho!
 When I'm older, I want to be a Gym Leader like uncle Kurt!
-When I'm older, I want to be a Gym Leader like uncle Kurt!
+¡Cuando sea mayor, quiero ser líder de gimnasio como mi tío César!
 \^Hello, and welcome to the Pokémon Center.\wt[2.5]
-\^Hola, bienvenido al Centro Pokémon \wt[2.5]
+\^Hola, bienvenido al Centro Pokémon.\wt[2.5]
 \^We restore your tired Pokémon to full health.\wt[2.5]
-\Restauramos la salud completa de tus Pokémon cansados \wt[2.5]
+\^Restauramos la salud completa de tus Pokémon cansados.\wt[2.5]
 Would you like to rest your Pokémon?
 ¿Quieres que tus Pokémon descansen?
 OK, I'll take your Pokémon for a few seconds.
-Está bien, tomaré a tus Pokémon por unos segundos
+Está bien, tomaré a tus Pokémon por unos segundos.
 \rYour Pokémon may be infected by PokeRus.
-\rTu Pokémon podría estar infectado con PokeRus.
+\rTu Pokémon podría estar infectado con el Pokérus.
 \rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.
-\rSe sabe poco sobre el PokeRus, salvo que son microorganismos que se adhieren a los Pokémon.
+\rSe sabe poco sobre el Pokérus, salvo que son formas de vida microscópicas que se adhieren a los Pokémon.
 \rWhile infected, Pokémon are said to grow exceptionally well.
 \rMientras están infectados, se dice que los Pokémon crecen excepcionalmente bien.
 Thank you for waiting.
-Gracias por esperar
+Gracias por esperar.
 We've restored your Pokémon to full health.
-Hemos restaurado la salud completa de tus Pokémon
+Hemos restaurado la salud completa de tus Pokémon.
 We hope to see you again!
 ¡Esperamos verte de nuevo!
 \rWe hope to see you again!
 \r¡Esperamos que vuelvas pronto!
 Yes
 Sí
-No
+No 
 No
 [Map280]
 The shelves are filled with Pokemon goods!
 ¡Los estantes están llenos de productos Pokémon!
-\bHello. You must be \PN.
-\bHello. You must be \PN.
-\bI've received a gift for you.\nHere you go!
-\bI've received a gift for you.\nHere you go!
-\bI haven't received any other gifts for you.
-\bI haven't received any other gifts for you.
-\bWe look forward to your next visit.
-\bWe look forward to your next visit.
+\b Hello. You must be \PN.
+\bHola. Tú debes de ser \PN.
+\b I've received a gift for you.\nHere you go!
+\bHe recibido un regalo para ti.\n¡Aquí tienes!
+\b I haven't received any other gifts for you.
+\bNo he recibido más regalos para ti.
+\b We look forward to your next visit.
+\bEsperamos su próxima visita.
 Sorry I need the correct password
-Sorry I need the correct password
+Lo siento, necesito la contraseña correcta.
 [Map281]
 Farfetch'd brings us branches from Ilex Forest and we turn them into Charcoal! It's a living.
 Farfetch'd brings us branches from Ilex Forest and we turn them into Charcoal! It's a living.
