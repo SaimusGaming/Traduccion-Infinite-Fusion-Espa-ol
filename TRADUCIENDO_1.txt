@@ -14853,23 +14853,23 @@ No
 [Map302]
 [Map303]
 Indigo Plateau
-Indigo Plateau
+Meseta añil 
 [Map304]
 It appears to be connected to a switch.
-It appears to be connected to a switch.
+Parece estar conectado a un interruptor.
 Victory Road is your final test as a trainer before the Elite 4. Now give me your best shot!
-Victory Road is your final test as a trainer before the Elite 4. Now give me your best shot!
+La Calle Victoria es tu última prueba como entrenador antes de la Élite 4. ¡Ahora muéstrame tu mayor esfuerzo!
 I couldn't do a thing!
-I couldn't do a thing!
+¡No puedo hacer nada!
 You just might have a shot against the Elite 4!
-You just might have a shot against the Elite 4!
+Puede que tengas una oportunidad contra la Élite 4!
 [Map305]
 A few spreadsheets are at the bottom of the can.
 Hay unas hojas de cálculo al fondo de la lata.
 It's a 10 floors drop! Better be careful!
-¡Son 10 pisos de caída! Será mejor que tengas cuidado.
+¡Son 10 pisos de caída! Será mejor tener cuidado.
 Silph Co. Head Office 11F: Executive Board
-Silph Co. Head Office 11F: Executive Board
+Silph S. A. Oficina central 11F: Junta directiva
 A Card Key is needed to open this door.
 Se necesita una Tarjeta Llave para abrir esta puerta.
 <ac> \C[2]You died...</ac>
@@ -14877,29 +14877,29 @@ Se necesita una Tarjeta Llave para abrir esta puerta.
 What kept you \PN? Hahaha! I thought I'd run into you if I followed you in here!
 ¿Qué te retuvo, \PN? ¡Jajaja! ¡Sabía que me encontraría contigo si te seguía!
 I guess Team Rocket slowed you down so I could catch up to you! Hahah, not that I care!
-¡Supongo que el Team Rocket te retrasó para que yo pudiera alcanzarte! Jajaj, ¡aunque no me importa!
+¡Supongo que el Team Rocket te retrasó para que yo pudiera alcanzarte! ¡Jajaja! ¡Aunque no me importa!
 I saw you in Saffron, so I decided to see if you got better!
 Te vi en Azafrán, así que decidí ver si has mejorado.
 Dang! You just keep getting stronger!
-Dang! You just keep getting stronger!
+¡Caray! ¡Te estás volviendo más fuerte!
 Oh ho! So that's how it goes, eh?
-¡Oh ho! ¿Así que así va la cosa, eh?
+¡Jo, jo! ¿Así que así va la cosa, eh?
 Here, let me heal your Pokémon.
 Déjame curar a tus Pokémon.
 I'm coming along to help you take on the Rocket boss!
-¡Voy contigo para ayudarte a enfrentar al jefe del Rocket!
+¡Voy contigo para ayudarte a enfrentar al jefe del Team Rocket!
 Hold up!
 ¡Espera!
 Ah \PN! So we meet again!
 Ah \PN ¡Nos volvemos a encontrar!
 As you can see, your friend Lance already took it upon himself to join us up here.
-As you can see, your friend Lance already took it upon himself to join us up here.
+Como puedes ver, tu amigo Lance se tomó la libertad de unirse a nosotros aquí.
 Luckily enough, my loyal members are taking care of him as we speak.
-Luckily enough, my loyal members are taking care of him as we speak.
+Afortunadamente, mis leales miembros están ocupándose de el mientras hablamos.
 So... I assume you're here to try to get in the way of Team Rocket again.
-So... I assume you're here to try to get in the way of Team Rocket again.
+Entonces... asumo que estáis aquí para intentar entrometeros en el camino del Team Rocket otra vez.
 You should really keep your nose out of grown-up matters...
-Deberías mantenerte al margen de los asuntos de los adultos...
+Deberíais manteneros al margen de los asuntos de los adultos...
 You got lucky in Celadon City, but this time it's going to be different.
 Tuviste suerte en Ciudad Azulona, pero esta vez será diferente.
 This time, I have something planned for you.
@@ -14913,35 +14913,35 @@ Zapdos...
 And Moltres...
 Y Moltres...
 They are the three most powerful Pokémon in the Kanto region.
-Son los tres Pokémon más poderosos de la región Kanto.
+Son los tres Pokémon más poderosos de la región de Kanto.
 ...Which brings us to the surprise I have in store for you.
-...Which brings us to the surprise I have in store for you.
+... Lo que nos lleva a la sorpresa que tengo preparada para ti.
 Do as we've discussed earlier.
 Haz lo que discutimos antes.
 But sir, this isn't a regular fusion. It could be unstable. We shouldn't have it fight just yet!
 Pero señor, esta no es una fusión normal. Podría ser inestable. ¡No deberíamos hacerlo luchar todavía!
 Do as I say! This is an order.
-Haz lo que digo. Es una orden.
+¡Haz lo que digo! Es una orden.
 Yes sir...
-Sí señor...
+Sí, señor...
 Good. Now let's get this over with once and for all.
 Bien. Terminemos con esto de una vez por todas.
 WHAT!? Impossible!
-WHAT!? Impossible!
+¿¡Qué!? ¡Imposible!
 How... How could you...
-Cómo... ¿Cómo pudiste...?
+Cómo... ¿Cómo has podido...?
 Uh? Boss, the bird is acting up!
-Uh? Boss, the bird is acting up!
+¿Eh? ¡Jefe! ¡El pájaro se está comportando mal!
 What!?
-¿Qué!?
+¿¡Qué!?
 It... unfused by itself? How is this possible?
-It... unfused by itself? How is this possible?
+¿Se está... separando por si mismo? Cómo es posible?
 No!!!
 ¡Nooo!
 Articuno! Zapdos! Moltres! Come back!
-Articuno! Zapdos! Moltres! Come back!
+Articuno! Zapdos! Moltres! ¡Volved!
 Tell everyone we're leaving.
-Díganle a todos que nos vamos.
+Decidles a todos que nos vamos.
 We need to chase after the legendary Pokémon and get them back.
 Tenemos que perseguir a los Pokémon legendarios y recuperarlos.
 This is priority number one!
@@ -14955,21 +14955,21 @@ Será mejor que no pierda tiempo y los persiga de inmediato.
 Farewell, \PN. We will meet again someday, I'm sure of it!
 Adiós, \PN. ¡Estoy seguro de que nos volveremos a ver algún día!
 Halt! Do you have an appointment with the boss?
-Halt! Do you have an appointment with the boss?
+¡Alto! ¿Tienes alguna cita con el jefe?
 Fine! I lost!
-Fine! I lost!
+¡Genial! He perdido!
 Go on home before my boss gets ticked off!
-Go on home before my boss gets ticked off!
+¡Vete a casa antes de que mi jefe se enfade!
 \PN pressed the button.
 \PN presionó el botón.
 Oh, hello \PN.
-Oh, hello \PN.
+Oh, hola, \PN.
 As you can see, I've been hard at work trying to fix this triple-fusion machine, but it's not ready yet.
-As you can see, I've been hard at work trying to fix this triple-fusion machine, but it's not ready yet.
+Como puedes ver, he estado trabajando duro intentando arreglar esta máquina de triple fusión, pero no está lista todavía.
 I installed a phone chip on your Pokédex so I'll call you when it's ready!
-I installed a phone chip on your Pokédex so I'll call you when it's ready!
+¡He instalado un chip de teléfono en tu Pokédex, así que te llamaré cuando esté lista!
 Perhaps you should challenge yourself and climb up Mt. Silver in the meantime.
-Perhaps you should challenge yourself and climb up Mt.  Silver in the meantime.
+Quizás podrías ponerte a prueba y escalar el Monte Plateado mientras tanto.
 Good news, \PN! My triple-fusion machine is now operational!
 Buenas noticias, \PN! ¡Mi máquina de triple fusión ya está operativa!
 Team Rocket's machine was unstable, so I modded it to make it better.
@@ -14982,127 +14982,127 @@ This triple-fusion machine takes 3 Pokémon and combines them into a clone.
 Esta máquina de triple fusión toma 3 Pokémon y los combina en un clon.
 [Map306]
 Looking for a boulder to open that switch aren't you?
-Looking for a boulder to open that switch aren't you?
+Estás buscando una roca para activar ese interruptor, ¿verdad?
 Hehehe! I pushed it all the way to the top floor!
-Hehehe! I pushed it all the way to the top floor! 
+¡Jejeje! ¡La he empujado todo el camino hasta el último piso! 
 No way!
-No way!
+¡No puede ser!
 Good luck turning on that switch! Hehe!
-Good luck turning on that switch! Hehe!
+¡Buena suerte moviéndola hasta el interruptor! ¡Jeje!
 You threw the boulder through that hole! Woah!
-You threw the boulder through that hole! Woah!
+¡Tiraste la roca por el agujero! ¡Guau!
 Fu... sion... HA!
-Fu... sion... HA!
+Fu... sión... HA!
 Now that's fast, woah!
-Now that's fast, woah!
+Eso si que es rápido, ¡Guau!
 You're the one alright, there's no doubt about it!
-You're the one alright, there's no doubt about it!
+Eres el indicado, ¡No hay duda alguna!
 Victory Road is the final test for trainers!
-Victory Road is the final test for trainers!
+La Calle Victoria es la prueba final para los entrenadores!
 Aiyah!
-Aiyah!
+¡Kia!
 If you get stuck, try moving some boulders around!
-If you get stuck, try moving some boulders around!
+Si te quedas atascado ¡Intenta mover rocas!
 It appears to be connected to a switch.
-It appears to be connected to a switch.
+Parece estar conectado a un interruptor.
 There's a strong Pokémon over there! Let me handle it!
-There's a strong Pokémon over there! Let me handle it!
+¡Hay un pokemon fuerte por allí! ¡Déjame encargarme de eso!
 You know how to fight!
-You know how to fight!
+¡Sabes como luchar!
 I wouldn't go to close to that Pokémon if I were you. It looks dangerous!
-I wouldn't go to close to that Pokémon if I were you. It looks dangerous!
+Yo no me acercaría a ese Pokémon si fuera tú. ¡Parece peligroso!
 You scared the beast away! I wonder where it went to...
-You scared the beast away! I wonder where it went to...
+Has ahuyentado a esa bestia! Me pregunto a dónde habrá ido...
 Ah, so you wish to challenge the Elite Four?
-Ah, so you wish to challenge the Elite Four?
+Ah, entonces ¿Deseas desafiar a la Élite 4?
 You got me!
-You got me!
+¡Me has pillado!
 A kid named \V[12] also came through here!
-A kid named \V[12] also came through here!
+¡Un chico llamado \V[12] también pasó por aquí!
 I can see you're good! Let me see exactly how good!
-I can see you're good! Let me see exactly how good!
+¡Puedes ver que eres fuerte! ¡Déjame ver exactamente cómo de fuerte!
 I had a chance...
-I had a chance...
+Tuve una oportunidad...
 I concede, you're better than me!
-I concede, you're better than me!
+¡Lo admito! ¡Eres mejor que yo!
 Roooar!
-Roooar!
+¡Roooar!
 Entei fled somewhere...
-Entei fled somewhere...
+Entei huyó a alguna parte...
 [Map307]
 I'm feeling a bit faint from this tough hike.
-I'm feeling a bit faint from this tough hike.
+Me estoy sintiendo un poco débil por esta situación tan difícil.
 That cleared my head!
-That cleared my head!
+¡Eso me despejó la cabeza!
 I feel bloated on mountain air!
-I feel bloated on mountain air!
+Me siento hinchado de aire de montaña!
 I've got both a Venusaur and Blastoise.
-I've got both a Venusaur and Blastoise. 
+Tengo tanto a Venusaur como a Blastoise. 
 And just for fun, I combined them into one super-Pokémon. Try that on for size!
-And just for fun, I combined them into one super-Pokémon.  Try that on for size!
+Y, solo por diversión, los he combinado en un super Pokémon. ¡A ver que te parece!
 That was no illusion!
-That was no illusion!
+¡Eso no ha sido una ilusión!
 How about another fight to make sure you're ready for the Elite Four?
-How about another fight to make sure you're ready for the Elite Four?
+¿Que tal un último combate para asegurarte de que te has preparado para la Elite 4?
 You're certainly one confident kid!
-¡Eres un niño con mucha confianza!
+¡Eres una persona con mucha confianza!
 Venustoise will help me out a lot against the Pokémon League!
-Venustoise will help me out a lot against the Pokémon League!
+¡Venustoise me va a ayudar mucho contra la Elite 4!
 Come on! You've almost made it to the Pokémon League!
-Come on! You've almost made it to the Pokémon League!
+¡Vamos! ¡Ya casi has llegado a la Liga Pokémon!
 You got it!
-You got it!
+¡Ya casi está!
 Good luck against the Elite Four! They're crazy strong trainers!
-Good luck against the Elite Four! They're crazy strong trainers!
+¡Buena suerte con la Élite 4! ¡Son entrenadores increiblemente fuertes!
 You shouldn't underestimate the wild Pokémon in these parts.
 No deberías subestimar a los Pokémon salvajes de esta zona.
 Oh snap!
-Oh snap!
+¡Oh, vaya!
 I heard a loud roar earlier. I wonder what Pokémon it was!
-I heard a loud roar earlier. I wonder what Pokémon it was!
+¡Hace un rato oí un rugido muy fuerte! ¡Me pregunto que Pokémon ha sido!
 Is Victory Road too tough?
-Is Victory Road too tough?
+La Calle Victoria es demasiado dificil?
 Well done!
-Well done!
+¡Buen trabajo!
 Many trainers give up the challenge here.
-Many trainers give up the challenge here.
+Muchos entrenadores se rinden aquí.
 I heard rumors of a child prodigy!
-I heard rumors of a child prodigy!
+¡He oido rumores sobre un niño prodigio!
 The rumors were true!
-The rumors were true!
+¡Los rumores eran ciertos!
 You beat Giovanni of Team Rocket?
-You beat Giovanni of Team Rocket?
+Tú derrotaste a Giovanny del Team Rocket?
 It appears to be connected to a switch.
-It appears to be connected to a switch.
+Parece estar conectado a un interruptor.
 Only the chosen can pass here!
-Only the chosen can pass here!
+¡Solo los elegidos pueden pasar por aquí!
 I don't believe it!
-I don't believe it!
+¡No puedo creerlo!
 All trainers here are headed to the Pokémon League! Be careful!
-All trainers here are headed to the Pokémon League! Be careful!
+¡Todos los entrenadores de aquí se dirigen a la Liga Pokémon! ¡Ten cuidado!
 Yes
 Sí
 No
 No
 [Map308]
 Was that someone looking through the window? Must be my imagination!
-Was that someone looking through the window? Must be my imagination!
+¿Había alguien mirando por la ventana? ¡Deben ser imaginaciones mías!
 Hello, I'm the Day-Care woman. We take care of baby Pokémon here!
-Hello, I'm the Day-Care woman. We take care of baby Pokémon here!
+Hola. Soy la cuidadora de la guardería. ¡Aquí cuidamos de tus bebés pokemon!
 My husband is the one you should talk to if you're looking to buy Incubators.
-My husband is the one you should talk to if you're looking to buy Incubators.
+Si estás pensando en comprar incubadoras, mi marido es con quien deberías hablar.
 But he isn't here at the moment. He went to the National Park to find a strong trainer that can take care of a rare Fairy-type egg from the Hoenn region that I found.
-But he isn't here at the moment. He went to the National Park to find a strong trainer that can take care of a rare Fairy-type egg from the Hoenn region that I found.
+Pero no está ahora mismo. Se fue al Parque Nacional a buscar un entrenador fuerte que pueda encargarse de un pokemon raro de tipo hada de la región de hoenn que encontré.
 You might be able to catch up to him if you leave quickly!
-You might be able to catch up to him if you leave quickly!
+¡Quizás podrías alcanzarlo si vas rápido!
 We can sell you an Incubator to you hatch eggs quickly.
-We can sell you an Incubator to you hatch eggs quickly.
+Podemos venderte una incubadora para que eclosiones huevos rápidamente.
 Buzzz!
 Buzzz!
 Oh, hello! Has the egg I gave you hatched yet?
-Oh, hello! Has the egg I gave you hatched yet?
+¡Oh, hola! ¿Ya ha eclosionado el huevo que te di?
 We can sell you incubators to you hatch eggs more quickly if you're interested
-We can sell you incubators to you hatch eggs more quickly if you're interested
+Podemos venderte incubadoras para eclosionar huevos más rápido si te interesa.
 Froosh!
 Froosh!
 Meeah!
@@ -15111,32 +15111,32 @@ Waahah!
 Waahah!
 [Map309]
 Do you know Bill? He's the inventor of the Pokémon Storage System that millions of trainers use around the world.
-Do you know Bill? He's the inventor of the Pokémon Storage System that millions of trainers use around the world.
+¿Conoces a Bill? Es el inventor del Sistema de Almacenamiento Pokémon que utilizan millones de entrenadores por todo el mundo.
 This is where he lives.
-This is where he lives.
+Aquí es donde vive.
 Bill leaves for his cottage in the Kanto region for summertime.
-Bill leaves for his cottage in the Kanto region for summertime.
+Bill vive en su casa de campo en la región de Kanto durante el verano.
 But he's not slacking off. He goes there to work on some more projects!
-But he's not slacking off. He goes there to work on some more projects!
+Pero no está vagueando. ¡Va para trabajar en otros proyectos!
 This is Bill's personal computer.
-This is Bill's personal computer.
+Este es el PC personal de Bill.
 [Map310]
 Cherrygrove City: The City of Cute, Fragrant Flowers
-Cherrygrove City: The City of Cute, Fragrant Flowers
+Ciudad Cerezo: La ciudad de las bellas y fragantes flores
 Saffron City: Shining, Golden Land of Commerce
-Ciudad Azafrán: Tierra Dorada y Brillante de Comercio
+Ciudad Azafrán: Resplandeciente tierra dorada del comercio
 This is the sea, as you can see. Some Pokémon are found only in water. But you knew that already, didn't you?
-This is the sea, as you can see. Some Pokémon are found only in water. But you knew that already, didn't you?
+Esto es el mar, y como puedes ver. muchos pokemon solo se encuentran en el agua. Pero ya lo sabías ¿no es así?
 Some guy called Eusine lives nearby. He's obsessed with Legendary Pokémon...
-Some guy called Eusine lives nearby. He's obsessed with Legendary Pokémon...
+Un tipo llamado Eusine vive cerca. Está obsesionado con un pokémon legendario...
 Woah, you came all the way here from Kanto!?
-Woah, you came all the way here from Kanto!?
+¡Guau! ¿¡Vienes desde Kanto!?
 Did you have the chance to challenge some of our local Gym Leaders yet?
-Did you have the chance to challenge some of our local Gym Leaders yet?
+¿Tuviste la oportunidad de desafiar a alguno de nuestros líderes de gimnasio ya?
 You should head to Goldenrod City for a taste of what they're capable of!
-You should head to Goldenrod City for a taste of what they're capable of!
+¡Deberías dirigirte a Ciudad Trigal para comprobar como de capaces son!
 You should head to Azalea Town for a taste of what they're capable of!
-You should head to Azalea Town for a taste of what they're capable of!
+¡Deberías dirigirte a Pueblo Azalea para comprobar como de capaces son!
 [Map311]
 I started my Pokémon journey in New Bark Town.
 I started my Pokémon journey in New Bark Town.
