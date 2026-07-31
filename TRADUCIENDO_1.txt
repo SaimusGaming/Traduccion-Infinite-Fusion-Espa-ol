@@ -10925,119 +10925,119 @@ No
 No
 [Map191]
 I hear you're good! Show me!
-I hear you're good! Show me!
+¡He oído que eres bueno! ¡Demuéstramelo!
 Judge! 1 point!
-Judge! 1 point!
+¡Juez! ¡1 punto!
 Our Master is a pro fighter!
-Our Master is a pro fighter!
+¡Nuestro Maestro es un luchador profesional!
 You beat me at my own game. I'll never be able to live it down!
 Me venciste en mi propio juego. ¡Nunca podré superar esta derrota!
 This is the Karate Master's Pokéball, better not touch it.
-This is the Karate Master's Pokéball, better not touch it.
+Esta es la Poké Ball del Maestro Karate. Será mejor que no la toques.
 You want the piston punching Hitmonchan?
-You want the piston punching Hitmonchan?
+¿Quieres al Hitmonchan de puños demoledores?
 Better not get greedy...
-Better not get greedy...
+Será mejor que no seas tan codicioso...
 Nothing tough frightens me! I break boulders for training!
-Nothing tough frightens me! I break boulders for training!
+¡Nada resistente me asusta! ¡Rompo rocas para entrenar!
 Yow! Stubbed fingers!
-Yow! Stubbed fingers!
+¡Ay! ¡Me golpeé los dedos!
 The only thing that frightens us is psychic power!
-The only thing that frightens us is psychic power!
+¡Lo único que nos asusta es el poder psíquico!
 You want the handstand spinning Hitmontop?
-You want the handstand spinning Hitmontop?
+¿Quieres al Hitmontop que gira sobre su cabeza?
 Taa!
-Taa!
+¡Taa!
 Hoargh! Take your shoes off!
-Hoargh! Take your shoes off!
+¡Hoargh! ¡Quítate los zapatos!
 I give up!
-I give up!
+¡Me rindo!
 You wait 'til you see our Master! I'm a small fry compared to him!
-You wait 'til you see our Master! I'm a small fry compared to him!
+¡Espera a enfrentarte a nuestro Maestro! ¡Yo no soy nada comparado con él!
 That's it, I'm taking you down!
-That's it, I'm taking you down!
+¡Eso es! ¡Voy a derrotarte!
 No more!
-No more!
+¡Basta!
 You're good, but are you good enough to defeat the master?
-You're good, but are you good enough to defeat the master?
+Eres bueno, ¿pero lo suficiente como para derrotar al Maestro?
 Haiyahh!
-Haiyahh!
+¡Haiyahh!
 You want the hard kicking Hitmonlee?
-You want the hard kicking Hitmonlee?
+¿Quieres al Hitmonlee de poderosas patadas?
 Grunt! I am the Karate Master! I am the Leader here!
-Grunt! I am the Karate Master! I am the Leader here!
+¡Grunt! ¡Soy el Maestro Karate! ¡Yo soy el Líder aquí!
 You wish to challenge us? Expect no mercy! Fwaaa!
-You wish to challenge us? Expect no mercy! Fwaaa!
+¿Deseas desafiarnos? ¡No esperes ninguna misericordia! ¡Fwaaa!
 Hwa! Arrgh! Beaten!
-Hwa! Arrgh! Beaten!
+¡Hwa! ¡Arrgh! ¡He sido derrotado!
 Indeed, I have lost! But, I beseech you, do not take our emblem as your trophy.
-Indeed, I have lost! But, I beseech you, do not take our emblem as your trophy.
+En efecto, he perdido. Pero te lo suplico, no te lleves nuestro emblema como trofeo.
 In return, I will give you a prized fighting Pokémon. Choose whichever one you like!
-In return, I will give you a prized fighting Pokémon. Choose whichever one you like!
+A cambio, te daré un valioso Pokémon de tipo Lucha. ¡Elige el que más te guste!
 Ho! Stay and train at Karate with us!
-Ho! Stay and train at Karate with us!
+¡Ho! ¡Quédate a entrenar karate con nosotros!
 Hooh!
-Hooh!
-Hoohah! You're trespassing in our \V[5] Dojo!
-Hoohah! You're trespassing in our \V[5] Dojo!
+¡Hooh!
+Hoohah! You're trespassing in our \V[5] Dojo!
+¡Hoohah! ¡Estás invadiendo nuestro \V[5] Dojo!
 Oof! I give up!
-Oof! I give up!
+¡Uf! ¡Me rindo!
 The prime fighters across the land train here.
-The prime fighters across the land train here.
+Los mejores luchadores de toda la región entrenan aquí.
 Yes
 Sí
 No
 No
 [Map192]
 I've been waiting forever! When will this train get here?
-I've been waiting forever! When will this train get here?
+¡Llevo una eternidad esperando! ¿Cuándo llegará este tren?
 I'm going to Goldenrod City to take part in the famous Fusion Quiz radio show.
-I'm going to Goldenrod City to take part in the famous Fusion Quiz radio show.
+Voy a Ciudad Trigal para participar en el famoso programa de radio Concurso de Fusiones.
 I've heard that they're giving out a prize that you don't want to miss!
-I've heard that they're giving out a prize that you don't want to miss!
+¡He oído que están dando un premio que no querrás perderte!
 Hoo!
-Hoo!
+¡Hoo!
 The train here will take you to Goldenrod City in Johto.
-The train here will take you to Goldenrod City in Johto.
+El tren de aquí te llevará a Ciudad Trigal, en Johto.
 Board the train to <b>Goldenrod City</b>?
-Board the train to <b>Goldenrod City</b>?
+¿Abordar el tren hacia <b>Ciudad Trigal</b>?
 \PN pulled out the Train Pass.
-\PN pulled out the Train Pass.
+\PN sacó el Pase de Tren.
 Very well. The next train will be there any minute.
-Very well. The next train will be there any minute.
+Muy bien. El próximo tren llegará en cualquier momento.
 I'm sorry, but you need a Train Pass to board the train.
-I'm sorry, but you need a Train Pass to board the train.
+Lo siento, pero necesitas un Pase de Tren para abordar el tren.
 \GIt's $1000 for a ticket to Goldenrod City. Do you want to board the train?
-\GIt's $1000 for a ticket to Goldenrod City. Do you want to board the train?
+\GEl boleto a Ciudad Trigal cuesta $1000. ¿Quieres abordar el tren?
 \GVery well. The next train will be there any minute.
-\GVery well. The next train will be there any minute.
+\GMuy bien. El próximo tren llegará en cualquier momento.
 Oh, you don't have enough it seems.
-Oh, you don't have enough it seems.
+Oh, al parecer no tienes suficiente dinero.
 The next train should be here very soon. Please get your Train Pass ready if you're going to board it!
-The next train should be here very soon. Please get your Train Pass ready if you're going to board it!
+El próximo tren debería llegar muy pronto. ¡Ten listo tu Pase de Tren si vas a abordarlo!
 You want to purchase a Train Pass?
-You want to purchase a Train Pass?
+¿Quieres comprar un Pase de Tren?
 Oh, I'm awfully sorry but we're all sold out at the moment.
-Oh, I'm awfully sorry but we're all sold out at the moment.
+Oh, lo siento muchísimo, pero por el momento se nos han agotado.
 Welcome to Saffron City's train station. You can board the train to Goldenrod City.
-Welcome to Saffron City's train station. You can board the train to Goldenrod City.
+Bienvenido a la estación de tren de Ciudad Azafrán. Desde aquí puedes abordar el tren hacia Ciudad Trigal.
 It's empty and cold.
-It's empty and cold.
+Está vacío y hace frío.
 Yes
 Sí
 No
 No
 [Map193]
 This is an information board about the local wildlife of Route 18.
-This is an information board about the local wildlife of Route 18.
+Este es un panel informativo sobre la fauna local de la Ruta 18.
 The following Pokémon can be found on this route: Doduo, Fearow, Golbat, Raticate, Spearow, Venomoth, Zubat.
-The following Pokémon can be found on this route: Doduo, Fearow, Golbat, Raticate, Spearow, Venomoth, Zubat.
+En esta ruta pueden encontrarse los siguientes Pokémon: Doduo, Fearow, Golbat, Raticate, Spearow, Venomoth y Zubat.
 Woah! You startled me!
-Woah! You startled me!
+¡Guau! ¡Me asustaste!
 You seem pretty good at sneaking up on people. You'd be perfect for the move called Sucker Punch!
-You seem pretty good at sneaking up on people. You'd be perfect for the move called Sucker Punch!
+Parece que eres muy bueno acercándote a la gente sin que te noten. ¡Serías perfecto para usar Golpe Bajo!
 \GThis dark-type move uses the element of surprise to always strike first! I'll teach it to your Pokémon if you want. $\V[15] should do.
-\GThis dark-type move uses the element of surprise to always strike first! I'll teach it to your Pokémon if you want. $\V[15] should do.
+\G¡Este movimiento de tipo Siniestro aprovecha el factor sorpresa para golpear siempre primero! Se lo enseñaré a tu Pokémon si quieres. Con $\V[15] será suficiente.
 Ta-da! Come back if you want me to teach it to another of your Pokémon!
 ¡Tachán! Vuelve si quieres que se lo enseñe a otro de tus Pokémon.
 That's too bad. Come back with $\V[15] if you want me to teach it to one of your Pokémon!
@@ -11045,66 +11045,66 @@ Qué lástima. Vuelve con $\V[15] si quieres que se lo enseñe a uno de tus Pok�
 You don't have eough money. Come back with $\V[15] if you want me to teach it to one of your Pokémon!
 No tienes suficiente dinero. Vuelve con $\V[15] si quieres que se lo enseñe a uno de tus Pokémon.
 Riding down the Cycling Road was a ton of fun, but now I have to go uphill all the way back to Celadon City!
-Riding down the Cycling Road was a ton of fun, but now I have to go uphill all the way back to Celadon City!
+Bajar por la Ruta Ciclista fue muy divertido, ¡pero ahora tengo que subir toda la cuesta de regreso a Ciudad Azulona!
 Yes
 Sí
 No
 No
 [Map194]
 Hmm.. This food is quite excquisite.
-Hmm.. This food is quite excquisite.
+Mmm... Esta comida está realmente exquisita.
 \PN! You found me again!
-\PN! You found me again!
+¡\PN! ¡Me encontraste otra vez!
 Did you come to challenge me to another battle?
-Did you come to challenge me to another battle?
+¿Viniste a desafiarme a otra batalla?
 Well you're in luck, because I found even more fossils!
-Well you're in luck, because I found even more fossils!
+¡Pues estás de suerte, porque encontré todavía más fósiles!
 I'm pretty confident that I can beat you this time, so I'll let you have one of those new fossils if you can win!
-I'm pretty confident that I can beat you this time, so I'll let you have one of those new fossils if you can win!
+Estoy bastante seguro de que esta vez puedo derrotarte, así que te dejaré quedarte con uno de esos nuevos fósiles si logras vencerme.
 What do you say \PN, are you game?
-What do you say \PN, are you game?
+¿Qué dices, \PN? ¿Te animas?
 All right... Here I come!
 Muy bien... ¡Allá voy!
 That's a bit disappointing...
 Eso fue un poco decepcionante...
 Okay then, a promise is a promise.
-Okay then, a promise is a promise.
+Está bien. Lo prometido es deuda.
 Which one would you like?
-Which one would you like?
+¿Cuál te gustaría?
 I'm going to solve the mystery behind fossil Pokémon!
-I'm going to solve the mystery behind fossil Pokémon!
+¡Voy a resolver el misterio de los Pokémon fósiles!
 I'm going to solve the mystery behind fossil Pokémon... Right after I'm done with this meal!
-I'm going to solve the mystery behind fossil Pokémon... Right after I'm done with this meal!
+¡Voy a resolver el misterio de los Pokémon fósiles... justo después de terminar esta comida!
 A nice meal at a nice, quiet restaurant with my wife. What else could I ask for!
-A nice meal at a nice, quiet restaurant with my wife. What else could I ask for!
+Una buena comida en un restaurante tranquilo junto a mi esposa. ¿Qué más podría pedir?
 It's just some trash.
-It's just some trash.
+Solo es basura.
 Om nom nom nom! Faster! Om nom nom nom!
-Om nom nom nom! Faster! Om nom nom nom!
+¡Ñam ñam ñam! ¡Más rápido! ¡Ñam ñam ñam!
 Lickitung and I are training for an eating contest, but I simply can't keep up!
-Lickitung and I are training for an eating contest, but I simply can't keep up!
+Lickitung y yo estamos entrenando para un concurso de comida, ¡pero simplemente no puedo seguirle el ritmo!
 Sluuuuuuuuuuuuuuuurp!
-Sluuuuuuuuuuuuuuuurp!
+¡Sluuuuuuuuuuuuuuuurp!
 Lickitung finished its plate in a single powerful lick.
-Lickitung finished its plate in a single powerful lick.
+Lickitung terminó su plato de una sola y poderosa lamida.
 One free meal everyday! That's our promotion.
-One free meal everyday! That's our promotion.
+¡Una comida gratis todos los días! Esa es nuestra promoción.
 Enjoy your meal!
-Enjoy your meal!
+¡Que disfrutes tu comida!
 \GHello! It's $500 for a meal. Would you like one?
-\GHello! It's $500 for a meal. Would you like one?
+\G¡Hola! Una comida cuesta $500. ¿Te gustaría pedir una?
 \gHere you are! Enjoy it while it's still hot!
-\gHere you are! Enjoy it while it's still hot!
+\g¡Aquí tienes! ¡Disfrútala mientras aún está caliente!
 See you again!
-Nos vemos
+¡Nos vemos!
 You're on!
 ¡Acepto!
 Not right now...
 Ahora no...
 Jaw Fossil
-Jaw Fossil
+Fósil Mandíbula
 Sail Fossil
-Sail Fossil
+Fósil Aleta
 Yes
 Sí
 No
@@ -11115,66 +11115,66 @@ Probablemente no deberías haber mirado ahí...
 You can see your reflection in the mirror.
 Puedes ver tu reflejo en el espejo.
 Looking good!
-¡Se ve bien!
+¡Te ves bien!
 There's a bit of trash in there.
 Hay un poco de basura ahí dentro.
 Shhhh... They'll hear you! Oh, what am I doing?
-Shhhh... They'll hear you! Oh, what am I doing?
+Shhhh... ¡Te van a oír! Ay, ¿qué estoy haciendo?
 I was causing trouble the other day and the bouncer won't let me in at night.
-I was causing trouble the other day and the bouncer won't let me in at night.
+El otro día causé problemas y el portero ya no me deja entrar por las noches.
 So I'm hiding in the bathroom to sneak in!
-So I'm hiding in the bathroom to sneak in!
+¡Así que me estoy escondiendo en el baño para colarme!
 I was causing trouble the other day and the bouncer won't let me in at night, so I'm hiding in the bathroom to sneak in!
-I was causing trouble the other day and the bouncer won't let me in at night, so I'm hiding in the bathroom to sneak in!
+El otro día causé problemas y el portero ya no me deja entrar por las noches, así que me estoy escondiendo en el baño para colarme.
 Feel free to wait with me if you want.
-Feel free to wait with me if you want.
+Si quieres, puedes esperar conmigo.
 Wait for an hour?
-Wait for an hour?
+¿Esperar una hora?
 Heheh! We snuck in!
-Heheh! We snuck in!
+¡Je, je! ¡Nos colamos!
 Still got a bit more to wait!
-Still got a bit more to wait!
+Todavía hay que esperar un poco más.
 Yes
 Sí
 No
 No
 [Map196]
 Thank you for using the Individual Values Analyser!
-Thank you for using the Individual Values Analyser!
+¡Gracias por usar el Analizador de Valores Individuales!
 \GPerform an IV analysis for $1000?
-\GPerform an IV analysis for $1000?
+\G¿Realizar un análisis de IV por $1000?
 \G\PN inserted $1000.
-\G\PN inserted $1000.
+\G\PN introdujo $1000.
 \C[7]computing...
-\C[7]computing...
+\C[7]calculando...
 \C[7]Your analysis is ready!
-\C[7]Your analysis is ready!
+\C[7]¡Tu análisis está listo!
 \C[7]Here are the results of the analysis for \V[2]:
-\C[7]Here are the results of the analysis for \V[2]:
+\C[7]Estos son los resultados del análisis de \V[2]:
 \C[7]HP = \V[5]
-\C[7]HP = \V[5]
+\C[7]PS = \V[5]
 \C[7]Attack = \V[5]
-\C[7]Attack = \V[5]
+\C[7]Ataque = \V[5]
 \C[7]Defense = \V[5]
-\C[7]Defense = \V[5]
+\C[7]Defensa = \V[5]
 \C[7]Special Attack = \V[5]
-\C[7]Special Attack = \V[5]
+\C[7]Ataque Especial = \V[5]
 \C[7]Special Defense = \V[5]
-\C[7]Special Defense = \V[5]
+\C[7]Defensa Especial = \V[5]
 \C[7]Speed = \V[5]
-\C[7]Speed = \V[5]
+\C[7]Velocidad = \V[5]
 This machine can compute the Individual Values of your Pokémon with unprecedented precision.
-This machine can compute the Individual Values of your Pokémon with unprecedented precision.
+Esta máquina puede calcular los Valores Individuales de tus Pokémon con una precisión sin precedentes.
 Science really is amazing!
-Science really is amazing!
+¡La ciencia realmente es asombrosa!
 Individual Values are the hidden values that determine a Pokémon's potential.
-Individual Values are the hidden values that determine a Pokémon's potential.
+Los Valores Individuales son valores ocultos que determinan el potencial de un Pokémon.
 You can use this machine to calculate them accurately!
-You can use this machine to calculate them accurately!
+¡Puedes usar esta máquina para calcularlos con precisión!
 A Pokémon can have an Individual Value of up to 31 in any given stat.
-A Pokémon can have an Individual Value of up to 31 in any given stat.
+Un Pokémon puede tener un Valor Individual de hasta 31 en cualquiera de sus estadísticas.
 But IVs aren't the only thing that can make a Pokémon good or bad, obviously!
-But IVs aren't the only thing that can make a Pokémon good or bad, obviously!
+Pero los IV no son lo único que determina si un Pokémon es bueno o malo, claro está.
 Yes
 Sí
 No
@@ -11190,61 +11190,61 @@ You beat me at my own game. I'll never be able to live it down!
 Me venciste en mi propio juego. ¡Nunca podré superar esta derrota!
 [Map198]
 It looks like old machinery.
-It looks like old machinery.
+Parece maquinaria antigua.
 It's probably safer not to touch it!
-It's probably safer not to touch it!
+¡Probablemente sea más seguro no tocarla!
 \C[7]GATE FULLY CHARGED
-\C[7]GATE FULLY CHARGED
+\C[7]PUERTA COMPLETAMENTE CARGADA
 \C[7]OPEN GATE?
-\C[7]OPEN GATE?
+\C[7]¿ABRIR LA PUERTA?
 \C[7]GATE POWER: \V[128]%
-\C[7]GATE POWER: \V[128]%
+\C[7]ENERGÍA DE LA PUERTA: \V[128]%
 Insert a battery?
-Insert a battery?
+¿Insertar una batería?
 \PN inserted a cell battery
-\PN inserted a cell battery
+\PN insertó una pila.
 \PN used an electric move to charge up the gate.
-\PN used an electric move to charge up the gate.
+\PN usó un movimiento de tipo Eléctrico para cargar la puerta.
 \C[7]CLOSE GATE?
-\C[7]CLOSE GATE?
+\C[7]¿CERRAR LA PUERTA?
 The gate short-circuited and lost some of its charge.
-The gate short-circuited and lost some of its charge.
+La puerta sufrió un cortocircuito y perdió parte de su carga.
 The gate is not budging. It looks like it has no power...
-The gate is not budging. It looks like it has no power...
+La puerta no se mueve. Parece que no tiene energía...
 Yes
 Sí
 No
 No
 [Map199]
 There's a nice view on the hotel behind the building.
-There's a nice view on the hotel behind the building.
+Hay una bonita vista del hotel detrás del edificio.
 The fridge is shiny and clean.
-The fridge is shiny and clean.
+El refrigerador está reluciente y limpio.
 Piih Piaaah!
-Piih Piaaah!
+¡Piih Piaaah!
 An romantic comedy is playing... Better get going!
-An romantic comedy is playing... Better get going!
+Están transmitiendo una comedia romántica... ¡Será mejor que siga mi camino!
 My daughter likes to mimic people. Her mimicry has earned her the nickname Copycat Girl around here!
-My daughter likes to mimic people. Her mimicry has earned her the nickname Copycat Girl around here!
+A mi hija le gusta imitar a la gente. Por eso aquí la conocen como la Chica Imitadora.
 [Map200]
 This is a rare Pokémon. Huh? It's only a doll!
-This is a rare Pokémon. Huh? It's only a doll!
+Es un Pokémon raro. ¿Eh? ¡Solo es un muñeco!
 There's a nice view on the hotel behind the building.
-There's a nice view on the hotel behind the building.
+Hay una bonita vista del hotel detrás del edificio.
 No, it moved! It's a rare Pokémon!
-No, it moved! It's a rare Pokémon!
+¡No, se movió! ¡Es un Pokémon raro!
 The wild Pokémon fled...
 ¡El Pokémon salvaje huyó!
 ... It's full of trash.
-... It's full of trash.
+... Está lleno de basura.
 Chaan! Sii!
-Chaan! Sii!
+¡Chaan! ¡Sii!
 Thanks for dancing with me the other night! It was a lot of fun!
-Thanks for dancing with me the other night! It was a lot of fun!
+¡Gracias por bailar conmigo la otra noche! ¡Fue muy divertido!
 It's a picture of yourself...
-It's a picture of yourself...
+Es una foto tuya...
 Wait, no! It's the copycat girl!
-Wait, no! It's the copycat girl!
+¡Espera, no! ¡Es la Chica Imitadora!
 [Map201]
 [Map202]
 Shellder is struggling to get back in the water.
