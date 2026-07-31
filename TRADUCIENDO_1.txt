@@ -10659,41 +10659,41 @@ Nuestras Pokéballs hacen más difícil atrapar Pokémon, ¡pero son muy poderos
 It's locked...
 Está cerrado...
 I never would've believed that Pokémon could fuse together... That there was a formula like this!
-I never would've believed that Pokémon could fuse together... That there was a formula like this!
+¡Nunca habría creído que los Pokémon pudieran fusionarse...! ¡Que existiera una fórmula como esta!
 What was that for?
-What was that for?
+¿Y eso para qué fue?
 I like it here! It's conducive to my studies!
-I like it here! It's conducive to my studies!
+¡Me gusta este lugar! ¡Es perfecto para mis investigaciones!
 Can I please do some more testing on your Pokémon?
-Can I please do some more testing on your Pokémon?
+¿Podría hacer algunas pruebas más con tu Pokémon?
 Great. For science!
-Great. For science!
+¡Excelente! ¡Por la ciencia!
 My experiment will have to wait then.
-My experiment will have to wait then.
+Entonces mi experimento tendrá que esperar.
 There's a secret switch!
-There's a secret switch!
+¡Hay un interruptor secreto!
 Press it?
-Press it?
+¿Presionarlo?
 Who wouldn't?
-Who wouldn't?
+¿Quién no lo haría?
 Not quite yet!
-Not quite yet!
+¡Todavía no!
 My mentor once lived here.
-My mentor once lived here.
+Mi mentor vivió aquí una vez.
 Whew! Overwhelming!
-Whew! Overwhelming!
+¡Uf! ¡Qué abrumador!
 Use this if you can't find the exit!
-Use this if you can't find the exit!
+¡Usa esto si no encuentras la salida!
 So, you're stuck? Try jumping off over there!
-So, you're stuck? Try jumping off over there!
+¿Así que estás atrapado? ¡Prueba saltando por allí!
 Sept. 1
 Sept. 1
 Mewtwo is far too powerful. We have failed to curb its vicious tendencies...
-Mewtwo is far too powerful. We have failed to curb its vicious tendencies...
+Mewtwo es demasiado poderoso. Hemos fracasado en contener sus tendencias violentas...
 Feb. 6
 Feb. 6
 A successful attempt at cloning Mew. We named the newborn Mewtwo.
-A successful attempt at cloning Mew. We named the newborn Mewtwo.
+El clon de Mew fue un éxito. Llamamos Mewtwo al recién nacido.
 Gaagaugh!
 ¡Gaagaugh!
 The wild Pokémon fled...
@@ -10704,41 +10704,41 @@ No
 No
 [Map182]
 There's a nice view on another building.
-There's a nice view on another building.
+Hay una bonita vista desde otro edificio.
 Hmmmmmmmm...
 Hmmmmmmmm...
 Kadabra is using its telekinesis powers to move furniture around.
-Kadabra is using its telekinesis powers to move furniture around.
+Kadabra está usando sus poderes de telequinesis para mover los muebles.
 ...
 ...
 Do not say a word... You wanted this. I can sense it.
-Do not say a word... You wanted this. I can sense it.
+No digas una palabra... Tú querías esto. Puedo sentirlo.
 TM29 is Psychic.\nIt can lower the target's Special Defense.
-TM29 is Psychic.\nIt can lower the target's Special Defense.
+La MT29 es Psíquico.\nPuede reducir la Defensa Especial del objetivo.
 [Map183]
 There's a nice view on another building.
-There's a nice view on another building.
+Hay una bonita vista desde otro edificio.
 The PokéDex is a fantastic device. Professor Oak truly is a genius!
-The PokéDex is a fantastic device. Professor Oak truly is a genius!
+¡La Pokédex es un dispositivo fantástico! ¡El Profesor Oak es realmente un genio!
 The fridge is shiny and clean.
-The fridge is shiny and clean.
+El refrigerador está reluciente y limpio.
 A Pokémon musical is playing... Better get going!
-A Pokémon musical is playing... Better get going!
+Están transmitiendo un musical de Pokémon... ¡Será mejor que siga mi camino!
 I could swear I remember using a fighting move that was supereffective on a Clefairy just a few years ago.
-I could swear I remember using a fighting move that was supereffective on a Clefairy just a few years ago.
+Juraría que hace apenas unos años usé un movimiento de tipo Lucha que era supereficaz contra un Clefairy.
 But now it's always "Not very effective", no matter how many times I try! How come?
-But now it's always "Not very effective", no matter how many times I try! How come?
+¡Pero ahora siempre dice "No es muy eficaz", por más veces que lo intente! ¿Cómo es posible?
 [Map184]
 There's a nice view on another building.
-There's a nice view on another building.
+Hay una bonita vista desde otro edificio.
 Meooo-wow!
-Meooo-wow!
+¡Miaaaau!
 ... It's full of trash.
-... It's full of trash.
+... Está lleno de basura.
 Hey, you're a Pokémon trainer, aren't you?
-Hey, you're a Pokémon trainer, aren't you?
+Oye, eres un Entrenador Pokémon, ¿verdad?
 \GDo you want me to teach the move Dragon Pulse to one of your Pokémon for $\V[15]
-\GDo you want me to teach the move Dragon Pulse to one of your Pokémon for $\V[15]
+\G¿Quieres que le enseñe Pulso Dragón a uno de tus Pokémon por $\V[15]?
 Ta-da! Come back if you want me to teach it to another of your Pokémon!
 ¡Tachán! Vuelve si quieres que se lo enseñe a otro de tus Pokémon.
 That's too bad. Come back with $\V[15] if you want me to teach it to one of your Pokémon!
@@ -10746,11 +10746,11 @@ Qué lástima. Vuelve con $\V[15] si quieres que se lo enseñe a uno de tus Pok�
 You don't have enough money. Come back with $\V[15] if you want me to teach it to one of your Pokémon!
 No tienes suficiente dinero. Vuelve con $\V[15] si quieres que se lo enseñe a uno de tus Pokémon.
 It's a picture of a Kantonian Meowth and an Alolan Meowth playing together.
-It's a picture of a Kantonian Meowth and an Alolan Meowth playing together.
+Es una imagen de un Meowth de Kanto y un Meowth de Alola jugando juntos.
 Did you know that some Pokémon have vastly different regional forms in other regions such as the ones found in Alola?
-Did you know that some Pokémon have vastly different regional forms in other regions such as the ones found in Alola?
+¿Sabías que algunos Pokémon tienen formas regionales muy diferentes en otras regiones, como las que se encuentran en Alola?
 Some of them look very different from our Kantonian variants!
-Some of them look very different from our Kantonian variants!
+¡Algunos se ven muy distintos de nuestras variantes de Kanto!
 Yes
 Sí
 No
@@ -10770,17 +10770,17 @@ No
 No
 [Map186]
 Here, have a Pokemon chosen at random.
-Toma, un Pokémon escogido al azar para ti.
+Toma, un Pokémon elegido al azar.
 I am a magical trainer.
 Soy un entrenador mágico.
 I won't fight you, but I will send a random wild Pokemon your way!
-No pelearé contigo, ¡pero enviaré un Pokémon salvaje al azar hacia ti!
+No lucharé contigo, ¡pero haré que un Pokémon salvaje al azar se cruce en tu camino!
 Do you want to give it a try?
 ¿Quieres intentarlo?
 Attack, random wild Pokemon!
 ¡Ataca, Pokémon salvaje al azar!
 Your loss!
-¡Perdiste!
+¡Tú te lo pierdes!
 Yes
 Sí
 No
@@ -10789,55 +10789,55 @@ No
 It's locked...
 Está cerrado...
 It's a large container made of thick glass.
-It's a large container made of thick glass.
+Es un gran contenedor hecho de vidrio grueso.
 Something jumped out!
-Something jumped out!
+¡Algo salió de un salto!
 It looks as if something has been beating on it over and over from the inside.
-It looks as if something has been beating on it over and over from the inside.
+Parece que algo estuvo golpeándolo una y otra vez desde el interior.
 It looks as if it hasn't been used in a very long time.
-It looks as if it hasn't been used in a very long time.
+Parece que no se ha usado desde hace muchísimo tiempo.
 Why yes? I'm Blaine. I'm this city's Gym Leader.
-Why yes? I'm Blaine. I'm this city's Gym Leader.
+Así es. Soy Blaine, el Líder de Gimnasio de esta ciudad.
 This is the very room where scientists genetically engineered a Pokémon called Mewtwo, many years ago.
-This is the very room where scientists genetically engineered a Pokémon called Mewtwo, many years ago.
+Esta es la misma sala donde unos científicos crearon mediante ingeniería genética a un Pokémon llamado Mewtwo, hace muchos años.
 One can only imagine the experiments that took place in this basement.
-One can only imagine the experiments that took place in this basement.
+Uno solo puede imaginar los experimentos que se llevaron a cabo en este sótano.
 But it has been abandonned for a long time now...
-But it has been abandonned for a long time now...
+Pero lleva abandonado desde hace mucho tiempo...
 So you wanted to challenge my gym?
-So you wanted to challenge my gym?
+Así que quieres desafiar mi gimnasio.
 Very well, I'll go back to the gym immediately in that case!
-Very well, I'll go back to the gym immediately in that case!
+Muy bien. ¡En ese caso volveré al gimnasio de inmediato!
 They used to do some questionable experiments in this basement before the mansion burned down.
-They used to do some questionable experiments in this basement before the mansion burned down.
+Solían realizar algunos experimentos bastante cuestionables en este sótano antes de que la mansión se incendiara.
 Ayah!
-Ayah!
+¡Ayah!
 Gotta go find my partner!
-Gotta go find my partner!
+¡Tengo que encontrar a mi compañero!
 \G\bYou found $300!
-\G\bYou found $300!
+\G\b¡Encontraste $300!
 \G\b\PN put the money in the wallet.
-\G\b\PN put the money in the wallet.
+\G\b\PN guardó el dinero en la cartera.
 There's a secret switch!
-There's a secret switch!
+¡Hay un interruptor secreto!
 Press it?
-Press it?
+¿Presionarlo?
 Who wouldn't?
-Who wouldn't?
+¿Quién no lo haría?
 Not quite yet!
-Not quite yet!
+¡Todavía no!
 Who are you? There shouldn't be anyone here.
-Who are you? There shouldn't be anyone here.
+¿Quién eres? No debería haber nadie aquí.
 Oh, you're a scientist too?
-Oh, you're a scientist too?
+Oh, ¿tú también eres científico?
 How about we conduct another experiment on our Pokémon then?
-How about we conduct another experiment on our Pokémon then?
+¿Qué te parece si hacemos otro experimento con nuestros Pokémon?
 Great. For science!
-Great. For science!
+¡Excelente! ¡Por la ciencia!
 Hmm.. This should help my research quite a bit!
-Hmm.. This should help my research quite a bit!
+Mmm... Esto debería ayudar bastante a mi investigación.
 My experiment will have to wait I suppose.
-My experiment will have to wait I suppose.
+Supongo que mi experimento tendrá que esperar.
 Yes
 Sí
 No
@@ -10846,79 +10846,79 @@ No
 The shelves are filled with Pokemon goods!
 ¡Los estantes están llenos de productos Pokémon!
 \bHello. You must be \PN.
-\bHello. You must be \PN.
+\bHola. Debes de ser \PN.
 \bI've received a gift for you.\nHere you go!
-\bI've received a gift for you.\nHere you go!
+\bHe recibido un regalo para ti.\n¡Aquí tienes!
 \bI haven't received any other gifts for you.
-\bI haven't received any other gifts for you.
+\bNo he recibido ningún otro regalo para ti.
 \bWe look forward to your next visit.
-\bWe look forward to your next visit.
+\bEsperamos verte de nuevo pronto.
 Sorry I need the correct password
-Sorry I need the correct password
+Lo siento, necesito la contraseña correcta.
 It never hurts to have extra items!
-It never hurts to have extra items!
+¡Nunca está de más tener objetos extra!
 I love to see exotic Pokémon.
-I love to see exotic Pokémon.
+Me encanta ver Pokémon exóticos.
 I'll give you something if you can show me a Pokémon that's native to the Alola region. What do you say?
-I'll give you something if you can show me a Pokémon that's native to the Alola region. What do you say?
+Te daré algo si puedes mostrarme un Pokémon originario de la región de Alola. ¿Qué dices?
 Could you show me such a Pokémon?
-Could you show me such a Pokémon?
+¿Podrías mostrarme uno de esos Pokémon?
 Hmm.. That won't do it. I need to see a Pokémon that's native to the Alola region!
-Hmm.. That won't do it. I need to see a Pokémon that's native to the Alola region!
+Mmm... Ese no sirve. ¡Necesito ver un Pokémon originario de la región de Alola!
 Oh my! How precious, how exotic!
-Oh my! How precious, how exotic!
+¡Dios mío! ¡Qué adorable, qué exótico!
 As a token of my appreciation, I'll teach you about some new hairstyles that I came across during my travels!
-As a token of my appreciation, I'll teach you about some new hairstyles that I came across during my travels!
+Como muestra de mi agradecimiento, ¡te enseñaré algunos peinados nuevos que descubrí durante mis viajes!
 \C[3]\PN unlocked the Alola outfits collection!
-\C[3]\PN unlocked the Alola outfits collection!
+\C[3]\PN desbloqueó la colección de atuendos de Alola.
 \C[3]\PN unlocked the Alola hairstyles collection!
-\C[3]\PN unlocked the Alola hairstyles collection!
+\C[3]\PN desbloqueó la colección de peinados de Alola.
 I wish to travel across the world to see more exotic Pokémons like the one you've shown me!
-I wish to travel across the world to see more exotic Pokémons like the one you've shown me!
+¡Ojalá pueda viajar por todo el mundo para ver más Pokémon exóticos como el que me has mostrado!
 Yes
 Sí
 No
 No
 [Map189]
 Smells a bit... fishy in there!
-Smells a bit... fishy in there!
+¡Ahí dentro huele un poco... a pescado!
 Hello there, pal!
-Hello there, pal!
+¡Hola, amigo!
 I'm the fishing Guru's brother.
-I'm the fishing Guru's brother.
+Soy el hermano del Gurú de la Pesca.
 Fishing is my passion. I've dedicated my entire life to it.
-Fishing is my passion. I've dedicated my entire life to it.
+La pesca es mi pasión. He dedicado toda mi vida a ella.
 Do you like to fish?
-Do you like to fish?
+¿Te gusta pescar?
 Grand! I like your style! Take this and fish, young one!
-Grand! I like your style! Take this and fish, young one!
+¡Magnífico! ¡Me gusta tu estilo! ¡Toma esto y sal a pescar, joven!
 Fishing is a way of life! From the seas to rivers, go out and land the big one!
-Fishing is a way of life! From the seas to rivers, go out and land the big one!
+¡La pesca es un estilo de vida! ¡Ya sea en el mar o en los ríos, sal ahí fuera y atrapa un pez enorme!
 Oh... That's so disappointing...
- Oh... That's so disappointing...
+Oh... Qué decepción...
 Hello there, \PN!
-Hello there, \PN!
+¡Hola, \PN!
 Use the Super Rod in any water! You can catch different kinds of Pokémon.
-Use the Super Rod in any water! You can catch different kinds of Pokémon. 
+¡Usa la Supercaña en cualquier masa de agua! Puedes capturar toda clase de Pokémon.
 Try fishing wherever you can!
-Try fishing wherever you can!
+¡Prueba a pescar siempre que tengas la oportunidad!
 Yes
 Sí
 No
 No
 [Map190]
 Ahoy there! couldn't you see me there?
-Ahoy there! couldn't you see me there?
+¡Ahoy! ¿No me habías visto ahí?
 Ah, I was being as stealthy. Stealthy as a rock, it's my secret technique!
-Ah, I was being as stealthy. Stealthy as a rock, it's my secret technique!
+Ah, estaba siendo muy sigiloso. ¡Sigiloso como una roca! ¡Es mi técnica secreta!
 \GI can teach Stealth Rock to one of your Pokémon if you want. I'll do it for $4000, do we have a deal?
-\GI can teach Stealth Rock to one of your Pokémon if you want. I'll do it for $4000, do we have a deal?
+\GI puedo enseñarle Trampa Rocas a uno de tus Pokémon si quieres. Lo haré por $4000, ¿tenemos un trato?
 Ta-da! Come back if you want me to teach it to another of your Pokémon!
 ¡Tachán! Vuelve si quieres que se lo enseñe a otro de tus Pokémon.
 That's too bad. Back to practicing then!
-That's too bad. Back to practicing then!
+Qué lástima. ¡Volveré a practicar entonces!
 You don't have enough money. Come back with $4000 if you want me to teach it to one of your Pokémon!
-You don't have enough money. Come back with $4000 if you want me to teach it to one of your Pokémon!
+No tienes suficiente dinero. Vuelve con $4000 si quieres que se lo enseñe a uno de tus Pokémon.
 Yes
 Sí
 No
