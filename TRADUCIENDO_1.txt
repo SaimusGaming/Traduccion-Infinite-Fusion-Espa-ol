@@ -15509,59 +15509,59 @@ No
 [Map320]
 [Map321]
 We pour nutrients into the cave's waterfalls to make sure that the wildlife stays healthy!
-We pour nutrients into the cave's waterfalls to make sure that the wildlife stays healthy!
+Vertemos nutrientes en las cascadas de la cueva para asegurarnos de que la vida silvestre se mantenga saludable.
 It's a window that overlooks inside the Tojho Falls cave.
-It's a window that overlooks inside the Tojho Falls cave.
+Es una ventana con vista al interior de la Cueva Cascadas Tohjo.
 I know all there is to know about Pokémon evolutions. Would you like me to tell you about some of the more unconventional evolutions?
-I know all there is to know about Pokémon evolutions. Would you like me to tell you about some of the more unconventional evolutions?
+Sé todo lo que hay que saber sobre las evoluciones Pokémon. ¿Te gustaría que te hablara de algunas de las evoluciones más inusuales?
 Which Pokémon should I tell you about?\ch[5,8, Poliwhirl,Kadabra,Machoke,Graveler,Haunter,Onix,Scyther, Electabuzz,Magmar,Seadra,Rhydon,Slowpoke,Magneton, Eevee,Gligar,Sneasel,Porygon,Mantyke,Never Mind]
-Which Pokémon should I tell you about?\ch[5,8, Poliwhirl,Kadabra,Machoke,Graveler,Haunter,Onix,Scyther, Electabuzz,Magmar,Seadra,Rhydon,Slowpoke,Magneton, Eevee,Gligar,Sneasel,Porygon,Mantyke,Never Mind]
+¿De qué Pokémon te gustaría que te hablara?\ch[5,8, Poliwhirl,Kadabra,Machoke,Graveler,Haunter,Onix,Scyther, Electabuzz,Magmar,Seadra,Rhydon,Slowpoke,Magneton, Eevee,Gligar,Sneasel,Porygon,Mantyke,No importa]
 Poliwhirl evolves into Politoed at level 37. It can also evolve into Poliwrath when exposed to a Water Stone.
-Poliwhirl evolves into Politoed at level 37. It can also evolve into Poliwrath when exposed to a Water Stone.
+Poliwhirl evoluciona a Politoed en el nivel 37. También puede evolucionar a Poliwrath al exponerlo a una Piedra Agua.
 Kadabra evolves into Alakazam at level 40.
-Kadabra evolves into Alakazam at level 40.
+Kadabra evoluciona a Alakazam en el nivel 40.
 Machoke evolves into Machamp at level 40.
-Machoke evolves into Machamp at level 40.
+Machoke evoluciona a Machamp en el nivel 40.
 Graveler evolves into Golem at level 40.
-Graveler evolves into Golem at level 40.
+Graveler evoluciona a Golem en el nivel 40.
 Haunter evolves into Gengar at level 40.
-Haunter evolves into Gengar at level 40.
+Haunter evoluciona a Gengar en el nivel 40.
 Onix evolves into Steelix at level 40.
-Onix evolves into Steelix at level 40.
+Onix evoluciona a Steelix en el nivel 40.
 Scyther evolves into Scizor at level 40.
-Scyther evolves into Scizor at level 40.
+Scyther evoluciona a Scizor en el nivel 40.
 Electabuzz evolves into Electivire at level 40. It evolves from Elekid by Happiness.
-Electabuzz evolves into Electivire at level 40. It evolves from Elekid by Happiness.
+Electabuzz evoluciona a Electivire en el nivel 40. Elekid evoluciona a Electabuzz por amistad.
 Magmar evolves into Magmortar at level 40. It evolves from Magby by Happiness.
-Magmar evolves into Magmortar at level 40. It evolves from Magby by Happiness.
+Magmar evoluciona a Magmortar en el nivel 40. Magby evoluciona a Magmar por amistad.
 Seadra evolves into Kingdra at level 50.
-Seadra evolves into Kingdra at level 50.
+Seadra evoluciona a Kingdra en el nivel 50.
 Rhydon evolves into Rhyperior at level 55.
-Rhydon evolves into Rhyperior at level 55.
+Rhydon evoluciona a Rhyperior en el nivel 55.
 Slowpoke evolves into Slowbro at level 37. It also evolves into Slowking when exposed to a Water Stone.
-Slowpoke evolves into Slowbro at level 37. It also evolves into Slowking when exposed to a Water Stone.
+Slowpoke evoluciona a Slowbro en el nivel 37. También puede evolucionar a Slowking al exponerlo a una Piedra Agua.
 Magneton evolves into Magnezone when levelled up near strong electromagnetic fields, such as inside the Kanto Power Plant.
-Magneton evolves into Magnezone when levelled up near strong electromagnetic fields, such as inside the Kanto Power Plant.
+Magneton evoluciona a Magnezone al subir de nivel cerca de fuertes campos electromagnéticos, como los de la Central Eléctrica de Kanto.
 Eevee evolves into 7 different Pokémon depending on the stone you use on it.
-Eevee evolves into 7 different Pokémon depending on the stone you use on it.
+Eevee evoluciona a 7 Pokémon diferentes dependiendo de la piedra que uses con él.
 Fire Stone: Flareon\nThunder Stone: Jolteon\n Water Stone: Vaporeon\nSun Stone: Espeon\n Moon Stone: Umbreon\n Leaf Stone: Leafeon\n Ice Stone: Glaceon
-Fire Stone: Flareon\nThunder Stone: Jolteon\n Water Stone: Vaporeon\nSun Stone: Espeon\n Moon Stone: Umbreon\n Leaf Stone: Leafeon\n Ice Stone: Glaceon
+Piedra Fuego: Flareon\nPiedra Trueno: Jolteon\nPiedra Agua: Vaporeon\nPiedra Solar: Espeon\nPiedra Lunar: Umbreon\nPiedra Hoja: Leafeon\nPiedra Hielo: Glaceon
 Gigar evolves into Gliscor when it's exposed to a Dusk stone.
-Gigar evolves into Gliscor when it's exposed to a Dusk stone.
+Gligar evoluciona a Gliscor al exponerlo a una Piedra Noche.
 Sneasel evolves into Weavile when it's exposed to an Ice Stone.
-Sneasel evolves into Weavile when it's exposed to an Ice Stone.
+Sneasel evoluciona a Weavile al exponerlo a una Piedra Hielo.
 Porygon evolves into Porygon 2 when it's exposed to an Upgrade. It then evolves into Porygon-Z when exposed to a Dubious Disc.
-Porygon evolves into Porygon 2 when it's exposed to an Upgrade. It then evolves into Porygon-Z when exposed to a Dubious Disc.
+Porygon evoluciona a Porygon2 al exponerlo a un Mejora. Después evoluciona a Porygon-Z al exponerlo a un Disco Extraño.
 Mantyke evolves into Mantine through Happiness.
-Mantyke evolves into Mantine through Happiness.
+Mantyke evoluciona a Mantine por amistad.
 Come back if you want to learn about unconventional evolutions.
-Come back if you want to learn about unconventional evolutions.
+Vuelve si quieres aprender sobre evoluciones inusuales.
 Oh, I see. That's too bad.
-Oh, I see. That's too bad.
+Oh, ya veo. Qué lástima.
 The Pokémon are especially strong around here so we study the effects of their environment on their life cycles.
-The Pokémon are especially strong around here so we study the effects of their environment on their life cycles.
+Los Pokémon son especialmente fuertes por aquí, así que estudiamos los efectos de su entorno en sus ciclos de vida.
 This window gives us a direct look inside the cave. We use it to monitor the wild Pokémon that live in it.
-This window gives us a direct look inside the cave. We use it to monitor the wild Pokémon that live in it.
+Esta ventana nos permite observar directamente el interior de la cueva. La usamos para vigilar a los Pokémon salvajes que viven en ella.
 Yes
 Sí
 No
@@ -15570,202 +15570,202 @@ No
 [Map323]
 [Map324]
 Mew!
-Mew!
+¡Mew!
 Mewtwo vanished into thin air...
-Mewtwo vanished into thin air...
+Mewtwo se desvaneció en el aire...
 [Map325]
 It's filled with books about Pokémon genetics.
-It's filled with books about Pokémon genetics.
+Está lleno de libros sobre genética Pokémon.
 There's a discarded starter Pokémon at the bottom of the trash can.
-There's a discarded starter Pokémon at the bottom of the trash can.
+Hay un Pokémon inicial abandonado en el fondo del basurero.
 \PN! I'm Prof Elm's assistant.
-\PN! I'm Prof Elm's assistant.
+¡\PN! Soy el asistente del Profesor Elm.
 What? You say you beat Pikachu's Adventure without dying once!? That's impossible!
-What? You say you beat Pikachu's Adventure without dying once!? That's impossible!
+¿Qué? ¿Dices que completaste La Aventura de Pikachu sin morir ni una sola vez? ¡Eso es imposible!
 You are truly a master of platforming videogames.
-You are truly a master of platforming videogames.
+De verdad eres un maestro de los videojuegos de plataformas.
 This calls for a celebration! You can have this special Pikachu as a reward!
 ¡Esto merece una celebración! ¡Puedes quedarte con este Pikachu especial como recompensa!
 See ya!
 ¡Nos vemos!
 I wish I had half your talent at videogames...
-I wish I had half your talent at videogames...
+Ojalá tuviera la mitad de tu talento para los videojuegos...
 It's crawling with tiny Bug Pokémon!
-It's crawling with tiny Bug Pokémon!
+¡Está repleto de pequeños Pokémon de tipo Bicho!
 This is Professor Elm's Pokeball. Better not touch it!
-This is Professor Elm's Pokeball. Better not touch it!
+Esta es la Poké Ball del Profesor Elm. Será mejor que no la toques.
 This ball contains Chikorita the grass Pokémon.
-This ball contains Chikorita the grass Pokémon.
+Esta Poké Ball contiene a Chikorita, el Pokémon de tipo Planta.
 Do you want to choose Chikorita?
-Do you want to choose Chikorita?
+¿Quieres elegir a Chikorita?
 \f[\v[4]]This ball contains \V[5].
-\f[\v[4]]Esta Pokéball contiene \V[5].
+\f[\v[4]]Esta Poké Ball contiene a \V[5].
 \f[\v[4]]Do you want to choose \V[5]?
 \f[\v[4]]¿Quieres elegir a \V[5]?
 I have this idea for a new invention that will be super useful to trainers. It will serve as a map, a phone, and even a radio!
-I have this idea for a new invention that will be super useful to trainers. It will serve as a map, a phone, and even a radio!
+Tengo una idea para un nuevo invento que será muy útil para los entrenadores. ¡Servirá como mapa, teléfono e incluso radio!
 I'm not sure about what I will call it yet, but I'm thinking something along the lines of Pokémon Gear!
-I'm not sure about what I will call it yet, but I'm thinking something along the lines of Pokémon Gear!
+Aún no estoy seguro de cómo llamarlo, pero estoy pensando en algo como Pokémon Gear.
 But don't tell anyone about it just yet!
-But don't tell anyone about it just yet!
+¡Pero no se lo cuentes a nadie todavía!
 This ball contains Cyndaquil the fire Pokémon.
-This ball contains Cyndaquil the fire Pokémon.
+Esta Poké Ball contiene a Cyndaquil, el Pokémon de tipo Fuego.
 Do you want to choose Cyndaquil?
-Do you want to choose Cyndaquil?
+¿Quieres elegir a Cyndaquil?
 This is Professor Oak's Pokeball. Better not touch it!
-Esta es la Pokéball del Profesor Oak. No la toques.
+Esta es la Poké Ball del Profesor Oak. Será mejor que no la toques.
 This ball contains Bulbasaur, the grass Pokémon.
-Esta Pokéball contiene a Bulbasaur, el Pokémon de tipo planta.
+Esta Poké Ball contiene a Bulbasaur, el Pokémon de tipo Planta.
 Do you want to choose Bulbasaur?
 ¿Quieres elegir a Bulbasaur?
 This ball contains Totodile, the water Pokémon.
-This ball contains Totodile, the water Pokémon.
+Esta Poké Ball contiene a Totodile, el Pokémon de tipo Agua.
 Do you want to choose Totodile?
-Do you want to choose Totodile?
+¿Quieres elegir a Totodile?
 Hello, my name is Professor Elm. Oh, and you must be \PN!
-Hello, my name is Professor Elm. Oh, and you must be \PN!
+Hola, mi nombre es el Profesor Elm. Oh, ¡tú debes ser \PN!
 My colleague Professor Oak had some great things to say about you!
-My colleague Professor Oak had some great things to say about you!
+¡Mi colega, el Profesor Oak, me ha hablado muy bien de ti!
 As Professor Oak may have told you, I have recently acquired some intel about the whereabouts of the legendary Pokémon Mewtwo.
-As Professor Oak may have told you, I have recently acquired some intel about the whereabouts of the legendary Pokémon Mewtwo.
+Como quizá te haya dicho el Profesor Oak, hace poco obtuve información sobre el paradero del legendario Pokémon Mewtwo.
 But before I tell you about Mewtwo, I need to make sure I can trust you.
-But before I tell you about Mewtwo, I need to make sure I can trust you.
+Pero antes de hablarte sobre Mewtwo, necesito asegurarme de que puedo confiar en ti.
 I'll tell you all about Mewtwo if you can show me 2 badges from the Johto region.
-I'll tell you all about Mewtwo if you can show me 2 badges from the Johto region.
+Te contaré todo sobre Mewtwo si puedes mostrarme 2 medallas de la región de Johto.
 That's it! Authentic Johto badges. Professor Oak certainly didn't lie about your credentials!
-That's it! Authentic Johto badges. Professor Oak certainly didn't lie about your credentials!
+¡Eso es! Medallas auténticas de Johto. ¡El Profesor Oak ciertamente no exageró cuando habló de ti!
 You truly are a Pokémon master. I'm sorry for doubting you!
-You truly are a Pokémon master. I'm sorry for doubting you!
+De verdad eres un Maestro Pokémon. ¡Perdóname por haber dudado de ti!
 Very well. As I was saying, I have some information about the legendary Pokémon Mewtwo.
-Very well. As I was saying, I have some information about the legendary Pokémon Mewtwo.
+Muy bien. Como te decía, tengo información sobre el legendario Pokémon Mewtwo.
 All of my research indicated that it is hiding inside of Cerulean Cave in Kanto.
-All of my research indicated that it is hiding inside of Cerulean Cave in Kanto.
+Toda mi investigación indica que se esconde en la Cueva Celeste, en Kanto.
 The cave's entrance is up a Waterfall, so you'll need to teach the HM to one your Pokémon in order to reach it.
-The cave's entrance is up a Waterfall, so you'll need to teach the HM to one your Pokémon in order to reach it.
+La entrada de la cueva está al final de una cascada, así que tendrás que enseñarle la MO Cascada a uno de tus Pokémon para poder llegar.
 The cave's entrance is up a Waterfall, so you'll need to teach this technique to one your Pokémon in order to reach it.
-The cave's entrance is up a Waterfall, so you'll need to teach this technique to one your Pokémon in order to reach it.
+La entrada de la cueva está al final de una cascada, así que tendrás que enseñarle esta técnica a uno de tus Pokémon para poder llegar.
 I have no idea what kind of Pokémon you'll face in there, but I expect them to be very strong. So come prepared!
-I have no idea what kind of Pokémon you'll face in there, but I expect them to be very strong. So come prepared!
+No tengo idea de qué clase de Pokémon encontrarás allí, pero espero que sean muy fuertes. ¡Así que ve preparado!
 Good luck to you!
-Good luck to you!
+¡Buena suerte!
 Oh! And before you leave, you can take one of the three Pokémon on the table.
-Oh! And before you leave, you can take one of the three Pokémon on the table.
+¡Ah! Y antes de irte, puedes llevarte uno de los tres Pokémon que están sobre la mesa.
 These are the three starter Pokémon we give to new trainers here in the Johto region.
-These are the three starter Pokémon we give to new trainers here in the Johto region.
+Estos son los tres Pokémon iniciales que entregamos a los nuevos entrenadores aquí, en la región de Johto.
 They're all very rare, so choose wisely!
-They're all very rare, so choose wisely!
+Todos son muy raros, ¡así que elige con cuidado!
 ...Oh, that's no good. You're missing some badges.
-...Oh, that's no good. You're missing some badges.
+...Oh, eso no servirá. Te faltan algunas medallas.
 Not to be rude, but I'd rather keep the information to myself until you can show me 2 Johto badges.
-Not to be rude, but I'd rather keep the information to myself until you can show me 2 Johto badges.
+No es por ser rudo, pero prefiero guardarme esa información hasta que puedas mostrarme 2 medallas de Johto.
 In the meantime, I'll still let you have one of those three Pokémon on the table.
-In the meantime, I'll still let you have one of those three Pokémon on the table.
+Mientras tanto, de todas formas te dejaré elegir uno de esos tres Pokémon que están sobre la mesa.
 Those are the three starter Pokémon we give to new trainers here in the Johto region.
-Those are the three starter Pokémon we give to new trainers here in the Johto region.
+Esos son los tres Pokémon iniciales que entregamos a los nuevos entrenadores aquí, en la región de Johto.
 They're very rare Pokémon, so choose wisely!
-They're very rare Pokémon, so choose wisely!
+Son Pokémon muy raros, ¡así que elige con cuidado!
 Yes
 Sí
 No
 No
 [Map326]
 You're a Pokémon trainer? My son dreams of becoming one someday.
-You're a Pokémon trainer? My son dreams of becoming one someday.
+¿Eres un Entrenador Pokémon? Mi hijo sueña con convertirse en uno algún día.
 He's at the Pokémon School in Violet City.
-He's at the Pokémon School in Violet City.
+Está en la Escuela Pokémon de Ciudad Malva.
 Hey, I recognize you! You're \PN, the Pokémon League champion, of course.
-Hey, I recognize you! You're \PN, the Pokémon League champion, of course. 
+¡Oye, te reconozco! Tú eres \PN, el Campeón de la Liga Pokémon, ¿verdad?
 I saw a documentary about you on TV!
-I saw a documentary about you on TV!
+¡Vi un documental sobre ti en la televisión!
 Here's what they said you did:
-Here's what they said you did:
+Esto fue lo que dijeron que hiciste:
 \V[1]
 \V[1]
 Wow! I wish I had done half the things you did!
-Wow! I wish I had done half the things you did!
+¡Guau! ¡Ojalá hubiera hecho la mitad de las cosas que tú hiciste!
 It's a show about all of the previous league champions. They might talk about you!
-It's a show about all of the previous league champions.  They might talk about you!
+Es un programa sobre todos los campeones anteriores de la Liga. ¡Puede que hablen de ti!
 [Map327]
 The shelves are filled with various books!
 ¡Los estantes están llenos de todo tipo de libros!
 It's a map of the Johto region.
-It's a map of the Johto region.
+Es un mapa de la región de Johto.
 It looks like some kind of GameBoy!
-It looks like some kind of GameBoy! 
+¡Parece una especie de Game Boy!
 Play Pikachu's Adventure?
-¿Jugar a la Aventura de Pikachu?
+¿Jugar a La Aventura de Pikachu?
 Play Pikachu's Adventure ii?
-Play Pikachu's Adventure ii?
+¿Jugar a La Aventura de Pikachu II?
 A news report is playing on the TV...
-Un noticiero se está transmitiendo en la televisión...
+Se está transmitiendo un noticiero en la televisión...
 Better get going!
 ¡Más vale que me ponga en marcha!
 That's a TV.
-Eso es una TV.
+Es un televisor.
 There's a big ol' pile of garbage, but nothing useful.
-There's a big ol' pile of garbage, but nothing useful.
+Hay una enorme pila de basura, pero no hay nada útil.
 The TV is showing the title screen of a videogame.
-The TV is showing the title screen of a videogame.
+La televisión está mostrando la pantalla de título de un videojuego.
 Yes
 Sí
 No
 No
 [Map328]
 It's locked. You must defeat the League Champion first.
-It's locked. You must defeat the League Champion first.
+Está cerrado. Primero debes derrotar al Campeón de la Liga.
 Why? Why did I lose? I never made any mistakes raising my Pokémon...
-Why? Why did I lose? I never made any mistakes raising my Pokémon...
+¿Por qué? ¿Por qué perdí? Nunca cometí ningún error al criar a mis Pokémon...
 Darn it! You're the new Pokémon League champion! Although I don't like to admit it.
-Darn it! You're the new Pokémon League champion!  Although I don't like to admit it.
+¡Maldita sea! ¡Eres el nuevo Campeón de la Liga Pokémon! Aunque me cueste admitirlo.
 \PN!
-\PN!
+¡\PN!
 So, you won! Congratulations! You're the new Pokémon League Champion!
-So, you won! Congratulations! You're the new Pokémon League Champion!
+¡Así que ganaste! ¡Felicidades! ¡Eres el nuevo Campeón de la Liga Pokémon!
 You've grown up so much since you first left Pallet Town! \PN, you have come of age!
-You've grown up so much since you first left Pallet Town!  \PN, you have come of age!
+¡Has crecido muchísimo desde que saliste por primera vez de Pueblo Paleta! \PN, ¡ya has madurado!
 \V[12]! I'm disappointed! I came when I heard you beat the Elite Four! But, when I got here, you had already lost!
-\V[12]! I'm disappointed! I came when I heard you beat the Elite Four! But, when I got here, you had already lost!
+¡\V[12]! ¡Estoy decepcionado! ¡Vine en cuanto escuché que habías derrotado al Alto Mando! ¡Pero cuando llegué, ya habías perdido!
 \V[12]! Do you understand why you lost? You have forgotten to treat your Pokémon with trust and love!
-\V[12]! Do you understand why you lost? You have forgotten to treat your Pokémon with trust and love!
+¡\V[12]! ¿Entiendes por qué perdiste? ¡Olvidaste tratar a tus Pokémon con confianza y cariño!
 Without them, you will never become a champ again!
-Without them, you will never become a champ again!
+¡Sin eso, jamás volverás a convertirte en campeón!
 \PN! You understand that your victory was not just your own doing! The bond you share with your Pokémon is marvelous!
-\PN! You understand that your victory was not just your own doing! The bond you share with your Pokémon is marvelous!
+¡\PN! ¡Entiendes que esta victoria no es solo tuya! ¡El vínculo que compartes con tus Pokémon es maravilloso!
 \PN! Come with me!
-\PN! Come with me!
+¡\PN! ¡Ven conmigo!
 Hey! I was looking forward to seeing you, \PN! My rival should be strong to keep me sharp!
-Hey! I was looking forward to seeing you, \PN! My rival should be strong to keep me sharp!
+¡Oye! Tenía ganas de verte, \PN. ¡Mi rival debe ser fuerte para que yo no pierda el nivel!
 While you were dawdling around, I got serious and completed the Pokédex. I have caught every last Pokémon.
-While you were dawdling around, I got serious and completed the Pokédex. I have caught every last Pokémon.
+Mientras tú perdías el tiempo, yo me puse serio y completé la Pokédex. ¡He capturado hasta el último Pokémon!
 You hear me, \PN? That's every single fusion out there! I caught 'em all!
-You hear me, \PN? That's every single fusion out there! I caught 'em all!
+¿Me oyes, \PN? ¡Todas y cada una de las fusiones que existen! ¡Las atrapé todas!
 Then I assembled a team that can beat any Pokémon type.
-Then I assembled a team that can beat any Pokémon type.
+Después reuní un equipo capaz de derrotar a cualquier tipo de Pokémon.
 And now! I'm the Pokémon League champion!
-And now! I'm the Pokémon League champion!
+¡Y ahora soy el Campeón de la Liga Pokémon!
 \PN! Do you know what that means? I'll tell you! I am the most powerful trainer in the world!
-\PN! Do you know what that means? I'll tell you! I am the most powerful trainer in the world!
+¡\PN! ¿Sabes lo que significa eso? ¡Te lo diré! ¡Soy el entrenador más poderoso del mundo!
 NO! That can't be! You beat my best! After all that work to become League champ? My reign is over already? It's not fair!
-NO! That can't be! You beat my best! After all that work to become League champ? My reign is over already? It's not fair!
+¡NO! ¡No puede ser! ¡Has derrotado a mi mejor equipo! ¿Después de todo lo que me costó convertirme en Campeón de la Liga? ¿Mi reinado ya terminó? ¡No es justo!
 Hey! I was looking forward to seeing you again, \PN! My rival should be strong to keep me sharp!
-Hey! I was looking forward to seeing you again, \PN! My rival should be strong to keep me sharp!
+¡Oye! Tenía ganas de volver a verte, \PN. ¡Mi rival debe ser fuerte para que yo no pierda el nivel!
 [Map329]
 Going to new, unknown places and seeing new people... Those are the joys of travel.
-Going to new, unknown places and seeing new people...  Those are the joys of travel.
+Ir a lugares nuevos y desconocidos, y conocer gente nueva... Esos son los placeres de viajar.
 The water in Dragon's Den connects with the Lake of Rage.
-The water in Dragon's Den connects with the Lake of Rage.
+El agua de la Guarida Dragón se conecta con el Lago de la Furia.
 The Magikarp you can find in there are stronger than anywhere else!
-The Magikarp you can find in there are stronger than anywhere else!
+¡Los Magikarp que puedes encontrar allí son más fuertes que en cualquier otro lugar!
 It's rumored that there is a cave system here, but it's completely sealed off by ice.
-It's rumored that there is a cave system here, but it's completely sealed off by ice.
+Se rumorea que aquí hay un sistema de cuevas, pero está completamente sellado por el hielo.
 So you'll have to climb the mountains if you want to go to Mahogany.
-So you'll have to climb the mountains if you want to go to Mahogany.
+Así que tendrás que escalar las montañas si quieres llegar a Pueblo Caoba.
 It's a hassle, but there isn't much we can do about it.
-It's a hassle, but there isn't much we can do about it.
+Es una molestia, pero no hay mucho que podamos hacer al respecto.
 This means that you'll have to climb the mountains if you want to go to Mahogany.
-This means that you'll have to climb the mountains if you want to go to Mahogany.
+Eso significa que tendrás que escalar las montañas si quieres llegar a Pueblo Caoba.
 Wow, you came through the Dark Cave? You must be a real hotshot trainer!
-Wow, you came through the Dark Cave? You must be a real hotshot trainer!
+¡Guau! ¿Atravesaste la Cueva Oscura? ¡Debes de ser un entrenador realmente increíble!
 Step into the strange vortex?
 ¿Entrar en el extraño vórtice?
 Yes
@@ -15774,47 +15774,47 @@ No
 No
 [Map330]
 It's hard to navigate the whirpools in Dragon's Den.
-It's hard to navigate the whirpools in Dragon's Den.
+Es difícil atravesar los remolinos de la Guarida Dragón.
 You have to be patient and wait for the right opportunity.
-You have to be patient and wait for the right opportunity.
+Tienes que ser paciente y esperar el momento adecuado.
 This happened when I was young.
-This happened when I was young.
+Esto ocurrió cuando era joven.
 The sky suddenly turned black. A giant flying Pokémon was blocking out the sun.
-The sky suddenly turned black. A giant flying Pokémon was blocking out the sun.
+De repente, el cielo se oscureció. Un gigantesco Pokémon volador estaba tapando el sol.
 I wonder what that Pokémon was?
-I wonder what that Pokémon was?
+Me pregunto qué Pokémon sería.
 It was like a bird and like a dragon.
-It was like a bird and like a dragon.
+Era como un ave y como un dragón.
 Is there really a Pokémon that big?
-Is there really a Pokémon that big?
+¿De verdad existe un Pokémon tan grande?
 If it exists, it must be powerful.
-If it exists, it must be powerful.
+Si existe, debe de ser muy poderoso.
 Clair uses Dragon-type Pokémon. They're hard to train, but really powerful!
-Clair uses Dragon-type Pokémon. They're hard to train, but really powerful!
+Débora usa Pokémon de tipo Dragón. ¡Son difíciles de entrenar, pero muy poderosos!
 Raaah!
-Raaah!
+¡Raaah!
 \^Hello, and welcome to the Pokémon Center.\wt[2.5]
-\^Hola, bienvenido al Centro Pokémon \wt[2.5]
+\^Hola, bienvenido al Centro Pokémon.\wt[2.5]
 \^We restore your tired Pokémon to full health.\wt[2.5]
-\Restauramos la salud completa de tus Pokémon cansados \wt[2.5]
+\^Restauramos por completo la salud de tus Pokémon cansados.\wt[2.5]
 Would you like to rest your Pokémon?
-¿Quieres que tus Pokémon descansen?
+¿Te gustaría que tus Pokémon descansaran?
 OK, I'll take your Pokémon for a few seconds.
-Está bien, tomaré a tus Pokémon por unos segundos
+Muy bien, tomaré a tus Pokémon por unos segundos.
 \rYour Pokémon may be infected by PokeRus.
-\rTu Pokémon podría estar infectado con PokeRus.
+\rEs posible que tus Pokémon estén infectados con Pokérus.
 \rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.
-\rSe sabe poco sobre el PokeRus, salvo que son microorganismos que se adhieren a los Pokémon.
+\rSe sabe muy poco sobre el Pokérus, salvo que son formas de vida microscópicas que se adhieren a los Pokémon.
 \rWhile infected, Pokémon are said to grow exceptionally well.
 \rMientras están infectados, se dice que los Pokémon crecen excepcionalmente bien.
 Thank you for waiting.
-Gracias por esperar
+Gracias por esperar.
 We've restored your Pokémon to full health.
-Hemos restaurado la salud completa de tus Pokémon
+Hemos restaurado por completo la salud de tus Pokémon.
 We hope to see you again!
 ¡Esperamos verte de nuevo!
 \rWe hope to see you again!
-\r¡Esperamos que vuelvas pronto!
+\r¡Esperamos verte de nuevo!
 Yes
 Sí
 No
