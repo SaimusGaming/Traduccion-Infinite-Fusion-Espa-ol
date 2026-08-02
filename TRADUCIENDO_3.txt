@@ -23548,90 +23548,14 @@ Options
 Opciones
 Debug
 Depurar
-Title screen
-Pantalla de título
+Title
+Menu Principal
 Would you like to leave the Safari Game right now?
 Would you like to leave the Safari Game right now?
 Would you like to end the Contest now?
 Would you like to end the Contest now?
 Are you sure you want to quit the game and return to the main menu?
 Are you sure you want to quit the game and return to the main menu?
-Would you like to save the game?
-¿Quieres guardar el juego?
-<c3=F8F8F8,C02028>SEEN<r>OBTAINED</c3>
-<c3=F8F8F8,C02028>SEEN<r>OBTAINED</c3>
-Full Pokédex
-Full Pokédex
-Owned Pokémon
-Owned Pokémon
-Search results
-Search results
-Seen:
-Seen:
-Owned:
-Owned:
-Search Mode
-Search Mode
-Order
-Order
-Name
-Name
-Type
-Type
-Height
-Height
-Weight
-Weight
-Color
-Color
-Shape
-Shape
-Reset
-Reset
-Start
-Start
-OK
-OK
-Numerical
-Numerical
-A to Z
-A to Z
-Heaviest
-Heaviest
-Lightest
-Lightest
-Tallest
-Tallest
-Smallest
-Smallest
-No matching Pokémon were found.
-No matching Pokémon were found.
-{1} Pokémon
-{1} Pokémon
-{1:d}'{2:02d}"
-{1:d}'{2:02d}"
-{1:4.1f} lbs.
-{1:4.1f} lbs.
-{1:.1f} m
-{1:.1f} m
-{1:.1f} kg
-{1:.1f} kg
-????? Pokémon
-????? Pokémon
-???'??"
-???'??"
-????.? lbs.
-????.? lbs.
-????.? m
-????.? m
-????.? kg
-????.? kg
-No custom Pokédex entry available for this Pokémon. Please consider submitting an entry for this Pokémon on the game's Discord. Auto-generated Pokédex entries can be enabled in the options menu.
-No custom Pokédex entry available for this Pokémon. Please consider submitting an entry for this Pokémon on the game's Discord. Auto-generated Pokédex entries can be enabled in the options menu.
-Area unknown
-Area unknown
-{1}'s area
-{1}'s area
 CONFIRM
 CONFIRM
 Give to which Pokémon?
@@ -23650,8 +23574,8 @@ INELIGIBLE
 INELIGIBLE
 NOT ENTERED
 NOT ENTERED
-BANNED
-BANNED
+CANNOT ENTER
+CANNOT ENTER
 FIRST
 FIRST
 SECOND
@@ -23688,12 +23612,14 @@ Choose Pokémon or cancel.
 Choose Pokémon or cancel.
 This Pokémon can't be chosen.
 This Pokémon can't be chosen.
+{1} Pokémon cannot evolve.
+{1} Pokémon cannot evolve.
 Put on hat
 Put on hat
 Remove hat
 Remove hat
 Back
-Volver
+Back
 {1} put on a hat!
 {1} put on a hat!
 Remove {1}'s hat?
@@ -23710,20 +23636,22 @@ Rename
 Rename
 Move to where?
 Move to where?
+Evolve!
+Evolve!
 Switch
 Switch
 Hat
 Hat
 Item
-Objetos
+Item
 Nickname
-Renombrar
-Remember moves
-Recuerda movimientos
+Nickname
+Change moves
+Change moves
 Unfuse
-Desfusionar
+Unfuse
 Fuse
-Fusionar
+Fuse
 Not enough HP...
 Not enough HP...
 {1} can't use {2} on itself!
@@ -23758,6 +23686,8 @@ MOVES
 MOVES
 Species
 Species
+Type
+Type
 OT
 OT
 Dex No
@@ -23768,14 +23698,14 @@ Exp. Points
 Exp. Points
 To Next Lv.
 To Next Lv.
-<c3=404040,B0B0B0>{1} {2}, {3}
-<c3=404040,B0B0B0>{1} {2}, {3}<<n>>
-<c3=404040,B0B0B0>A mysterious Pokémon Egg received from <c3=F83820,E09890>{1}<c3=404040,B0B0B0>.
-<c3=404040,B0B0B0>A mysterious Pokémon Egg received from <c3=F83820,E09890>{1}<c3=404040,B0B0B0>.<<n>>
-<c3=404040,B0B0B0>A mysterious Pokémon Egg.
-<c3=404040,B0B0B0>A mysterious Pokémon Egg.<<n>>
-<c3=404040,B0B0B0>"The Egg Watch"
-<c3=404040,B0B0B0>"The Egg Watch"<<n>>
+{1} {2}, {3}
+{1} {2}, {3}<<n>>
+A mysterious Pokémon Egg received from <c3=F83820,E09890>{1}.
+A mysterious Pokémon Egg received from <c3=F83820,E09890>{1}.<<n>>
+A mysterious Pokémon Egg.
+A mysterious Pokémon Egg.<<n>>
+"The Egg Watch"
+"The Egg Watch"<<n>>
 It looks like this Egg will take a long time to hatch.
 It looks like this Egg will take a long time to hatch.
 What will hatch from this? It doesn't seem close to hatching.
@@ -23784,8 +23714,8 @@ It appears to move occasionally. It may be close to hatching.
 It appears to move occasionally. It may be close to hatching.
 Sounds can be heard coming from inside! It will hatch soon!
 Sounds can be heard coming from inside! It will hatch soon!
-<c3=F83820,E09890>{1}<c3=404040,B0B0B0> nature.
-<c3=F83820,E09890>{1}<c3=404040,B0B0B0> nature.<<n>>
+{1} nature.
+{1} nature.<<n>>
 Faraway place
 Faraway place
 Met at Lv. {1}.
@@ -23796,8 +23726,8 @@ Traded at Lv. {1}.
 Traded at Lv. {1}.
 Had a fateful encounter at Lv. {1}.
 Had a fateful encounter at Lv. {1}.
-<c3=404040,B0B0B0>Egg hatched.
-<c3=404040,B0B0B0>Egg hatched.<<n>>
+Egg hatched.
+Egg hatched.<<n>>
 Loves to eat.
 Loves to eat.
 Takes plenty of siestas.
@@ -23874,6 +23804,8 @@ ACCURACY
 ACCURACY
 Mark {1}
 Mark {1}
+OK
+OK
 Give item
 Give item
 Take item
@@ -23906,12 +23838,16 @@ Is it OK to throw away {1} {2}?
 Is it OK to throw away {1} {2}?
 Threw away {1} {2}.
 Threw away {1} {2}.
-How to sort?
-How to sort?
 Alphabetically
 Alphabetically
 By quantity
 By quantity
+By number
+By number
+By move type
+By move type
+How to sort?
+How to sort?
 Change quantity
 Change quantity
 Make Mystery Gift
@@ -23932,12 +23868,6 @@ Deposited {1} {2}.
 Deposited {1} {2}.
 That's too important to toss out!
 That's too important to toss out!
-Map
-Map
-Phone
-Phone
-Jukebox
-Jukebox
 The map data cannot be found.
 The map data cannot be found.
 Set the name for this point.
@@ -23948,18 +23878,16 @@ Exit from the map?
 Exit from the map?
 There are no phone numbers stored.
 There are no phone numbers stored.
+Phone
+Phone
 Registered<br>
 Registered<br>
-<r>{1}<br>
- <r>{1}<br>
 Waiting for a rematch<r>{1}
 Waiting for a rematch<r>{1}
-Lullaby
-Lullaby
-Oak
-Oak
-Custom
-Personalizado
+Jukebox
+Jukebox
+Play Music
+Play Music
 (Default)
 (Default)
 Swap background
@@ -23972,16 +23900,24 @@ Swap your current Trainer Card background
 Swap your current Trainer Card background
 Trainer card
 Trainer card
+You can purchase new Trainer Card backgrounds at Poké Marts!
+You can purchase new Trainer Card backgrounds at Poké Marts!
 {1}h {2}m
 {1}h {2}m
 {1}m
 {1}m
+Name
+Name
 Trainer ID
 Trainer ID
 ID
 ID
 Money
 Money
+Glimmer Coins
+Glimmer Coins
+Clothes / Hats
+Clothes / Hats
 Time
 Time
 Started
@@ -23990,6 +23926,12 @@ Badges:
 Badges:
 Time:
 Time:
+The save file is corrupt. A backup will be loaded.
+The save file is corrupt. A backup will be loaded.
+The save file is corrupt, or is incompatible with this game.
+The save file is corrupt, or is incompatible with this game.
+Do you want to delete the save file and start anew?
+Do you want to delete the save file and start anew?
 Delete all saved data?
 Delete all saved data?
 Once data has been deleted, there is no way to recover it.<<1>>
@@ -24005,19 +23947,19 @@ The saved data was deleted.
 All saved data could not be deleted.
 All saved data could not be deleted.
 Continue
-Continuar
+Continue
 Mystery Gift
-Regalo Misterioso
+Mystery Gift
 New Game
-Nuevo Juego
+New Game
 New Game +
-Nuevo Juego +
-Options
-Opciones
+New Game +
+System Options
+System Options
 Language
-Idioma
+Language
 Quit Game
-Salir del juego
+Quit Game
 The script is taking too long. The game will restart.
 The script is taking too long. The game will restart.
 \se[]The game was saved.\me[GUI save game] The previous save file has been backed up.\wtnp[30]
@@ -24036,16 +23978,26 @@ Badges<r><c3={1}>{2}</c3><br>
 Badges<r><c3={1}>{2}</c3><br>
 Pokédex<r><c3={1}>{2}/{3}</c3>
 Pokédex<r><c3={1}>{2}/{3}</c3>
+Would you like to save the game?
+Would you like to save the game?
+WARNING!
+WARNING!
+There is a different game file that is already saved.
+There is a different game file that is already saved.
 If you save now, the other file's adventure, including items and Pokémon, will be entirely lost.
 If you save now, the other file's adventure, including items and Pokémon, will be entirely lost.
+Are you sure you want to save now and overwrite the other save file?
+Are you sure you want to save now and overwrite the other save file?
 \se[]{1} saved the game.\me[GUI save game]\wtnp[30]
 \se[]{1} saved the game.\me[GUI save game]\wtnp[30]
 Confirm
-Confirmar
+Confirm
 Type {1}/{2}
 Type {1}/{2}
 Speech frame {1}.
 Speech frame {1}.
+Save changes and close the menu.
+Save changes and close the menu.
 An item in the Bag can be registered to this key for instant use.
 An item in the Bag can be registered to this key for instant use.
 x{1: 2d}
@@ -24062,6 +24014,8 @@ x{1:03d}
 {1}'s PC
 \se[PC access]Accessed {1}'s PC.
 \se[PC access]Accessed {1}'s PC.
+Pokemon Storage
+Pokemon Storage
 \se[PC access]The Pokémon Storage System was opened.
 \se[PC access]The Pokémon Storage System was opened.
 Organize / Fuse
@@ -24071,7 +24025,7 @@ Withdraw Pokémon
 Deposit Pokémon
 Deposit Pokémon
 See ya!
-¡Nos vemos!
+See ya!
 Organize the Pokémon in Boxes and in your party.
 Organize the Pokémon in Boxes and in your party.
 Move Pokémon stored in Boxes to your party.
@@ -24154,8 +24108,8 @@ You have no more room in the Bag.
 You have no more room in the Bag.
 Here you are! Thank you!
 Here you are! Thank you!
-I'll throw in a Premier Ball, too.
-I'll throw in a Premier Ball, too.
+I'll throw in a {1}, too.
+I'll throw in a {1}, too.
 {1}? Oh, no. I can't buy that.
 {1}? Oh, no. I can't buy that.
 {1}? How many would you like to sell?
@@ -24206,12 +24160,22 @@ REPLACE
 REPLACE
 What shall I do with this {1}?
 What shall I do with this {1}?
+All boxes are full.
+All boxes are full.
 That Pokémon can't be placed there.
 That Pokémon can't be placed there.
+You're holding a Pokémon!
+You're holding a Pokémon!
+Continue editing sets?
+Continue editing sets?
 There is a Pokémon that is ready to open its heart!<<1>>
 There is a Pokémon that is ready to open its heart!<<1>>
 There is another Pokémon that is ready to open its heart!
 There is another Pokémon that is ready to open its heart!
+Would you like to switch sets?
+Would you like to switch sets?
+Continue viewing holograms?
+Continue viewing holograms?
 EDIT
 EDIT
 SWITCH
@@ -24228,8 +24192,6 @@ Purify Chamber
 Purify Chamber
 \se[PC access]Accessed the Purify Chamber.
 \se[PC access]Accessed the Purify Chamber.
-Mystery Gift
-Mystery Gift
 <<[>>Custom<<]>>
 <<[>>Custom<<]>>
 Choose a phrase to be where the gift Pokémon was obtained from.
@@ -24284,12 +24246,22 @@ Are you sure you want to delete this gift?
 Are you sure you want to delete this gift?
 Export selected to file
 Export selected to file
-Searching for a gift.<<n>>Please wait...\wtnp<<[>>0<<]>>
-Searching for a gift.<<n>>Please wait...\wtnp<<[>>0<<]>>
-No new gifts are available.
-No new gifts are available.
+Search for public gifts
+Search for public gifts
+Redeem from a code
+Redeem from a code
+What would you like to do?
+What would you like to do?
+Enter code to redeem
+Enter code to redeem
+No testable gift was found. Make sure that your Json doesn't have any formatting errors. You can use any online json validator to make sure!
+No testable gift was found. Make sure that your Json doesn't have any formatting errors. You can use any online json validator to make sure!
 Choose the gift you want to receive.\wtnp[0]
 Choose the gift you want to receive.\wtnp[0]
+Searching for a gift.<<n>>Please wait...\wtnp<<[>>0<<]>>
+Searching for a gift.<<n>>Please wait...\wtnp<<[>>0<<]>>
+No new gift was found.
+No new gift was found.
 The gift has been received!
 The gift has been received!
 Please pick up your gift from the deliveryman in any Poké Mart.
@@ -24298,6 +24270,8 @@ Couldn't find an unclaimed Mystery Gift with ID {1}.
 Couldn't find an unclaimed Mystery Gift with ID {1}.
 \me[Pkmn get]{1} received {2}!
 \me[Pkmn get]{1} received {2}!
+It was transferred to the PC.
+It was transferred to the PC.
 \me[Item get]You obtained some \c[1]{1}\c[0]!\wtnp[30]
 \me[Item get]You obtained some \c[1]{1}\c[0]!\wtnp[30]
 \me[Item get]You obtained \c[1]{1} {2}\c[0]!\wtnp[30]
@@ -24309,7 +24283,7 @@ Couldn't find an unclaimed Mystery Gift with ID {1}.
 \me[Item get]You obtained a \c[1]{1}\c[0]!\wtnp[30]
 \me[Item get]You obtained a \c[1]{1}\c[0]!\wtnp[30]
 Enter text using the keyboard. Press<<n>>Enter to confirm, or Esc to cancel.
-Introduce el texto usando el teclado.<<n>>Enter para confirmar o Esc para Salir.
+Enter text using the keyboard. Press<<n>>Enter to confirm, or Esc to cancel.
 Enter text using the keyboard.<<n>>Press Enter to confirm.
 Enter text using the keyboard.<<n>>Press Enter to confirm.
 UPPER
@@ -24319,7 +24293,7 @@ lower
 accents
 accents
 other
-otro
+other
 Opens the Key Bindings window, where you can choose which keyboard keys to use for each control.
 Opens the Key Bindings window, where you can choose which keyboard keys to use for each control.
 Take a screenshot. It is put in the same folder as the save file.
@@ -24352,6 +24326,8 @@ Huh?<<1>>
 \se[]What? {1} is evolving!\^
 Huh? {1} stopped evolving!
 Huh? {1} stopped evolving!
+The evolution can be prompted again from the party menu.
+The evolution can be prompted again from the party menu.
 \se[]Congratulations! Your {1} evolved into {2}!\wt[80]
 \se[]Congratulations! Your {1} evolved into {2}!\wt[80]
 \se[]{1} has been turned into {2}!\wt[80]
@@ -24394,30 +24370,134 @@ Welcome to the Hall of Fame!
 Welcome to the Hall of Fame!
 Entered the Hall of Fame!
 Entered the Hall of Fame!
+(Rematch Tier {1})
+ (Rematch Tier {1})
+Classic mode
+Classic mode
+Remix mode
+Remix mode
+Expert mode
+Expert mode
+{1} mode
+{1} mode
+Debug mode
+Debug mode
+Randomized mode
+Randomized mode
+Legendary mode
+Legendary mode
 {1} ({2})
 {1} ({2})
 Hall of Fame
 Hall of Fame
 \se[PC access]Accessed the Hall of Fame.
 \se[PC access]Accessed the Hall of Fame.
+<ac>PIF2 (Part 1) - Completion </ac>
+<ac>PIF2 (Part 1) - Completion                                   </ac>
+{1} ({2})<br>
+{1} ({2})<br>
+Pokédex:<r>{1} / {2}<br>
+Pokédex:<r>{1} / {2}<br>
+Side Quests:<r>{1}<br>
+Side Quests:<r>{1}<br>
+Hats Unlocked:<r>{1} / {2}<br>
+Hats Unlocked:<r>{1} / {2}<br>
+Clothes Unlocked:<r>{1} / {2}<br>
+Clothes Unlocked:<r>{1} / {2}<br>
+Trainers Befriended:<r>{1}/{2}<br>
+Trainers Befriended:<r>{1}/{2}<br>
+Pokémon Infinite Fusion 2: Hoenn
+Pokémon Infinite Fusion 2: Hoenn
+Part 1
+Part 1
+Pokémon Infinite Fusion 2: Hoenn (Part 1)
+Pokémon Infinite Fusion 2: Hoenn (Part 1)
+{1} / {2}
+{1} / {2}
+Map
+Map
+Search Mode
+Search Mode
+Order
+Order
+Height
+Height
+Weight
+Weight
+Color
+Color
+Shape
+Shape
+Reset
+Reset
+Start
+Start
+Numerical
+Numerical
+A to Z
+A to Z
+Heaviest
+Heaviest
+Lightest
+Lightest
+Tallest
+Tallest
+Smallest
+Smallest
+No matching Pokémon were found.
+No matching Pokémon were found.
+Search Pokémon by name.
+Search Pokémon by name.
+<c3=F8F8F8,C02028>SEEN<r>OBTAINED</c3>
+<c3=F8F8F8,C02028>SEEN<r>OBTAINED</c3>
+Full Pokédex
+Full Pokédex
+Owned Pokémon
+Owned Pokémon
+Search results
+Search results
+Seen:
+Seen:
+Owned:
+Owned:
+{1} Pokémon
+{1} Pokémon
+kg
+kg
+m
+m
+lbs
+lbs
+{1}'{2}"
+{1}'{2}"
+{1} {2}
+{1} {2}
+????? Pokémon
+????? Pokémon
+Auto-generated
+Auto-generated
+Game Freak
+Game Freak
+Sprite: {1}
+Sprite: {1}
+Entry: {1}
+Entry:  {1}
+No custom Pokédex entry available for this Pokémon. Please consider submitting an entry for this Pokémon on the game's Discord. Auto-generated Pokédex entries can be enabled in the options menu.
+No custom Pokédex entry available for this Pokémon. Please consider submitting an entry for this Pokémon on the game's Discord. Auto-generated Pokédex entries can be enabled in the options menu.
+Area unknown
+Area unknown
+{1}'s area
+{1}'s area
 {1} ({2}/{3})
 {1} ({2}/{3})
 Mark your Pokémon.
 Mark your Pokémon.
 Party: {1}
 Party: {1}
-♂
-♂
-♀
-♀
 No ability
 No ability
 No item
 No item
-Graphics/Pictures/types
-Graphics/Pictures/types
-You're holding a Pokémon!
-You're holding a Pokémon!
 Continue Box operations?
 Continue Box operations?
 Exit from the Box?
@@ -24434,6 +24514,14 @@ Withdraw
 Withdraw
 Release
 Release
+Which one will you choose?
+Which one will you choose?
+Cancel choosing a Pokémon?
+Cancel choosing a Pokémon?
+Choose
+Choose
+This Pokémon cannot be chosen...
+This Pokémon cannot be chosen...
 Which one will you take?
 Which one will you take?
 You cannot rename an egg!
@@ -24488,10 +24576,6 @@ Wallpaper
 Wallpaper
 Info
 Info
-This is the Transfer Box. It's used to transfer Pokémon between savefiles!
-This is the Transfer Box. It's used to transfer Pokémon between savefiles!
-Any Pokémon that is placed in this box will be shared between all savefiles of Pokémon Infinite Fusion 1 and Pokémon Infinite Fusion 2.
-Any Pokémon that is placed in this box will be shared between all savefiles of Pokémon Infinite Fusion 1 and Pokémon Infinite Fusion 2.
 Box name?
 Box name?
 Jump to which Box?
@@ -24526,6 +24610,8 @@ Should {1} be reversed?
 Should {1} be reversed?
 Unfuse {1}?
 Unfuse {1}?
+Boxes
+Boxes
 {1}{2}<<n>>{3}HP: {4}
 {1}{2}<<r>><<n>>{3}HP: {4}
 {1}: {2}
@@ -24560,8 +24646,6 @@ The opponent pierces through your defenses!
 The opponent pierces through your defenses!
 Your special attacks collide!
 Your special attacks collide!
-{1} x{2}
-{1} x{2}
 Choose {1} cards to use for this duel.
 Choose {1} cards to use for this duel.
 {1} cards have been chosen.
@@ -24574,8 +24658,6 @@ Choose a card.
 Choose a card.
 Place the card.
 Place the card.
-{1}-{2}
-{1}-{2}
 Minimum level must be 0 through 9.
 Minimum level must be 0 through 9.
 Maximum level must be 0 through 9.
@@ -24831,25 +24913,27 @@ Box "{1}" on the PC was full.<<1>>
 It was stored in box "{1}."
 It was stored in box "{1}."
 {1} obtained {2}!\me<<[>>Pkmn get<<]>>\wtnp<<[>>20<<]>><<1>>
-{1} obtuvo a {2}!\me<<[>>Pkmn get<<]>>\wtnp<<[>>20<<]>><<1>>
+{1} obtained {2}!\me<<[>>Pkmn get<<]>>\wtnp<<[>>20<<]>><<1>>
 {1} obtained {2}!\me<<[>>Pkmn get<<]>>\wtnp<<[>>80<<]>><<1>>
-{1} obtuvo a {2}!\me<<[>>Pkmn get<<]>>\wtnp<<[>>80<<]>><<1>>
+{1} obtained {2}!\me<<[>>Pkmn get<<]>>\wtnp<<[>>80<<]>><<1>>
 \me<<[>>Pkmn get<<]>>{1} received a Pokémon from {2}.<<1>>
 \me<<[>>Pkmn get<<]>>{1} received a Pokémon from {2}.<<1>>
 \me<<[>>Pkmn get<<]>>{1} received a Pokémon.<<1>>
 \me<<[>>Pkmn get<<]>>{1} received a Pokémon.<<1>>
-The egg was transfered to the PC.
-The egg was transfered to the PC.
+{1} received a Pokémon egg!
+{1} received a Pokémon egg!
 A different file named '{1}' already exists. Overwrite it?
 A different file named '{1}' already exists. Overwrite it?
+dex number?
+dex number?
 This property can't be edited here at this time.
 This property can't be edited here at this time.
 This property cannot be edited.
 This property cannot be edited.
+Set the value for {1} (0-{2}).
+Set the value for {1} (0-{2}).
 Set the value for {1}.
 Set the value for {1}.
-Set the value for {1} (0-#{@maxvalue}).
-Set the value for {1} (0-#{@maxvalue}).
 Enable the setting {1}?
 Enable the setting {1}?
 True
@@ -24864,8 +24948,6 @@ Male
 Male
 Female
 Female
--
--
 Individual values for the Pokémon's {1} stat (0-{2}).
 Individual values for the Pokémon's {1} stat (0-{2}).
 Effort values for the Pokémon's {1} stat (0-{2}).
@@ -24969,7 +25051,7 @@ Choose an evolution method.
 \ts[]Do what with this evolution?
 \ts[]Do what with this evolution?
 Change species
-Cambiar especie
+Change species
 Change method
 Change method
 Change parameter
@@ -25086,10 +25168,6 @@ Auto-Position Sprites
 {1} (form {2})
 Name: {1}
 Name: {1}
-<<
- << 
->>
- >> 
 Frame:
 Frame:
 Total Frames: {1}
@@ -25154,10 +25232,6 @@ Alpha:
 Alpha:
 Pattern:
 Pattern:
-X:
-X:
-Y:
-Y:
 Zoom X:
 Zoom X:
 Zoom Y:
@@ -25204,10 +25278,6 @@ Set Frame
 Set Frame
 Delete Timing
 Delete Timing
-<user's cry>
-<user's cry>
-<<[>>Play user's cry<<]>>
-<<[>>Play user's cry<<]>>
 File: "{1}"
 File: "{1}"
 Volume:
@@ -25218,6 +25288,8 @@ Play Sound
 Play Sound
 Stop Sound
 Stop Sound
+<user's cry>
+<user's cry>
 <<[>>Erase background graphic<<]>>
 <<[>>Erase background graphic<<]>>
 Duration:
@@ -25448,8 +25520,6 @@ Add Item
 Add Item
 Choose an item and a quantity of it to add to the Bag.
 Choose an item and a quantity of it to add to the Bag.
-ADD ITEM
-ADD ITEM
 Add how many {1}?
 Add how many {1}?
 Gave {1}x {2}.
@@ -25498,8 +25568,8 @@ All eggs in your party now require one step to hatch.
 All eggs in your party now require one step to hatch.
 Fill Storage Boxes
 Fill Storage Boxes
-Add one Pokémon of each species (at Level 50) to storage.
-Add one Pokémon of each species (at Level 50) to storage.
+Add one Pokémon of each species to storage.
+Add one Pokémon of each species to storage.
 Storage boxes were filled with one Pokémon of each species.
 Storage boxes were filled with one Pokémon of each species.
 Note: The number of storage spaces ({1} boxes of {2}) is less than the number of species.
@@ -25652,10 +25722,10 @@ Other options...
 Other options...
 Mystery Gifts, translations, compile data, etc.
 Mystery Gifts, translations, compile data, etc.
-Manage Mystery Gifts
-Manage Mystery Gifts
-Edit and enable/disable Mystery Gifts.
-Edit and enable/disable Mystery Gifts.
+Test Mystery Gift
+Test Mystery Gift
+Place the Mystery Gift JSON in the game's folder (top level)
+Place the Mystery Gift JSON in the game's folder (top level)
 Extract Text
 Extract Text
 Extract all text in the game to a single file for translating.
@@ -25672,6 +25742,8 @@ Fix Invalid Tiles
 Fix Invalid Tiles
 Scans all maps and erases non-existent tiles.
 Scans all maps and erases non-existent tiles.
+map id?
+map id?
 type
 type
 List
@@ -25952,10 +26024,6 @@ No ability (index {1}).
 No ability (index {1}).
 Choose an ability.
 Choose an ability.
-Set secondary ability
-Set secondary ability
-Ability 2 is {1} (index {2}).
-Ability 2 is {1} (index {2}).
 Set nature
 Set nature
 {1} (---)
@@ -25982,6 +26050,8 @@ Make female
 {1}'s gender couldn't be changed.
 Dump info
 Dump info
+Export to JSON
+Export to JSON
 Species/form...
 Species/form...
 Species {1}, form {2}.
@@ -25992,6 +26062,10 @@ Set species
 Set species
 Set fusion species
 Set fusion species
+Head species?
+Head species?
+Body species?
+Body species?
 Cosmetic info...
 Cosmetic info...
 Set shininess
@@ -26088,14 +26162,10 @@ The Pokémon was duplicated.
 The Pokémon was duplicated.
 The duplicated Pokémon was moved to your party.
 The duplicated Pokémon was moved to your party.
-All boxes are full.
-All boxes are full.
 The duplicated Pokémon was moved to box "{1}."
 The duplicated Pokémon was moved to box "{1}."
 Are you sure you want to delete this Pokémon?
 Are you sure you want to delete this Pokémon?
-{1}...
-{1}...
 File {1}, section {2}, key {3}<<n>>{4}
 File {1}, section {2}, key {3}<<r>><<n>>{4}<<r>><<n>><<r>><<n>>
 File {1}, section {2}<<n>>{3}
@@ -26104,8 +26174,6 @@ File {1}, line {2}<<n>>{3}
 File {1}, line {2}<<r>><<n>>{3}<<r>><<n>><<r>><<n>>
 Expected a section at the beginning of the file. This error may also occur if the file was not saved in UTF-8.<<n>>{1}
 Expected a section at the beginning of the file. This error may also occur if the file was not saved in UTF-8.<<r>><<n>>{1}
-Bad line syntax (expected syntax like XXX=YYY)<<n>>{1}
-Bad line syntax (expected syntax like XXX=YYY)<<r>><<n>>{1}
 Processing {1} line {2}
 Processing {1} line {2}
 Expected a section at the beginning of the file (line {1}). Sections begin with '[name of section]'
@@ -26162,10 +26230,16 @@ Compiling ability data
 Compiling ability data
 Compiling move data
 Compiling move data
+Compiling contest move data
+Compiling contest move data
 Compiling item data
 Compiling item data
 Compiling berry plant data
 Compiling berry plant data
+Compiling berry pokeblock data
+Compiling berry pokeblock data
+Compiling berry dexes
+Compiling berry dexes
 Compiling Pokémon data
 Compiling Pokémon data
 Compiling Pokémon forms data
@@ -26228,10 +26302,22 @@ Move {1} is defined as a Status move with a non-zero base damage.<<n>>{2}
 Move {1} is defined as a Status move with a non-zero base damage.<<r>><<n>>{2}
 Warning: Move {1} was defined as Physical or Special but had a base damage of 0. Changing it to a Status move.<<n>>{2}
 Warning: Move {1} was defined as Physical or Special but had a base damage of 0. Changing it to a Status move.<<r>><<n>>{2}
+Expected a section at the beginning of the file.<<n>>{1}
+Expected a section at the beginning of the file.<<r>><<n>>{1}
+#{move_contest_hash[:id]} has an old integer function code (#{property_value}). It will be cleared if written to movesx_contest.txt.
+#{move_contest_hash[:id]} has an old integer function code (#{property_value}). It will be cleared if written to movesx_contest.txt.
 Item ID number '{1}' is used twice.<<n>>{2}
 Item ID number '{1}' is used twice.<<r>><<n>>{2}
 Item ID '{1}' is used twice.<<n>>{2}
 Item ID '{1}' is used twice.<<r>><<n>>{2}
+Can't mix old and new formats.<<n>>{1}
+Can't mix old and new formats.<<r>><<n>>{1}
+Dex list number {1} is defined at least twice.<<n>>{2}
+Dex list number {1} is defined at least twice.<<r>><<n>>{2}
+Undefined berry constant name: {1}<<n>>Make sure the berry is defined in PBS/berry_data.txt.<<n>>{2}
+Undefined berry constant name: {1}<<r>><<n>>Make sure the berry is defined in PBS/berry_data.txt.<<r>><<n>>{2}
+Berrydex list number {1} has berry {2} listed twice.<<n>>{3}
+Berrydex list number {1} has berry {2} listed twice.<<r>><<n>>{3}
 A Pokémon species can't be numbered 0 ({1}).
 A Pokémon species can't be numbered 0 ({1}).
 Species ID number '{1}' is used twice.<<n>>{2}
@@ -26252,10 +26338,6 @@ Form {1} for species ID {2} is defined twice.<<n>>{3}
 Form {1} for species ID {2} is defined twice.<<r>><<n>>{3}
 Processing {1} section [{2}]
 Processing {1} section [{2}]
-Expected a section at the beginning of the file.<<n>>{1}
-Expected a section at the beginning of the file.<<r>><<n>>{1}
-Dex list number {1} is defined at least twice.<<n>>{2}
-Dex list number {1} is defined at least twice.<<r>><<n>>{2}
 Dex list number {1} has species {2} listed twice.<<n>>{3}
 Dex list number {1} has species {2} listed twice.<<r>><<n>>{3}
 Ribbon ID number '{1}' is used twice.<<n>>{2}
@@ -26268,8 +26350,6 @@ Level number {1} is not valid (max. {2}).<<n>>{3}
 Level number {1} is not valid (max. {2}).<<r>><<n>>{3}
 Minimum level is greater than maximum level: {1}<<n>>{2}
 Minimum level is greater than maximum level: {1}<<r>><<n>>{2}
-Can't mix old and new formats.<<n>>{1}
-Can't mix old and new formats.<<r>><<n>>{1}
 Encounters for map '{1}' are defined twice.<<n>>{2}
 Encounters for map '{1}' are defined twice.<<r>><<n>>{2}
 Expected a map number, got "{1}" instead.<<n>>{2}
@@ -26327,37 +26407,37 @@ Here you go!
 You have no room left in the Bag.
 You have no room left in the Bag.
 \GHere you go!
-\GAquí tienes
+\GHere you go!
 \GYou have no room left in the Bag.
 \GYou have no room left in the Bag.
 \GYou don't have enough money.
 \GYou don't have enough money.
 Processing common events
-Procesamiento de eventos comunes
+Processing common events
 Set the randomizer settings
-Establecer la configuración del aleatorizador
+Set the randomizer settings
 Randomizer settings
-Configuración del aleatorizador
+Randomizer settings
 On
 On
 Off
 Off
 NPC Trainers
-Entrenadores
+NPC Trainers
 Gym trainers
-Entrenadores de gimnasio
+Gym trainers
 Randomizer settings: Trainers
-Configuración aleatoria: Entrenadores
+Randomizer settings: Trainers
 Set the randomizer settings for trainers
-Establecer la configuración aleatoria para entrenadores
+Set the randomizer settings for trainers
 Randomness degree
-Grado de aleatoriedad
+Randomness degree
 Custom Sprites only
-Sólo Sprites personalizados
+Custom Sprites only
 Randomizer settings: Pokémon
-Configuración del aleatorizador: Pokémon
+Randomizer settings: Pokémon
 Set the randomizer settings for wild Pokémon
-Establece la configuración aleatoria para Pokémon salvajes
+Set the randomizer settings for wild Pokémon
 Global
 Global
 Area
@@ -26378,6 +26458,12 @@ Gift Pokémon
 Gift Pokémon
 Fuse everything
 Fuse everything
+SHUFFLE
+SHUFFLE
+Shuffling...
+Shuffling...
+Shuffle the wild encounters with the selected options.
+Shuffle the wild encounters with the selected options.
 Randomizer settings: Gyms
 Randomizer settings: Gyms
 Set the randomizer settings for gyms
@@ -26406,6 +26492,64 @@ The randomizer has encountered an error. You should try to re-randomize your gam
 The randomizer has encountered an error. You should try to re-randomize your game as soon as possible.
 You can do this on the top floor of Pokémon Centers.
 You can do this on the top floor of Pokémon Centers.
+Starters:
+<<n>>Starters: 
+Wild Pokémon:
+<<n>>Wild Pokémon: 
+(Area)
+(Area)
+(Global)
+(Global)
+Trainers:
+<<n>>Trainers: 
+Static encounters:
+<<n>>Static encounters: 
+Gift Pokémon:
+<<n>>Gift Pokémon: 
+Items:
+<<n>>Items: 
+TMs:
+<<n>>TMs: 
+Seen {1} Pokémon
+Seen {1} Pokémon
+Caught {1} Pokémon
+<<n>>Caught {1} Pokémon
+Beat the Elite Four {1} times
+<<n>>Beat the Elite Four {1} times
+Fused {1} Pokémon
+<<n>>Fused {1} Pokémon
+Rematched {1} Gym Leaders
+<<n>>Rematched {1} Gym Leaders
+Took {1} steps
+<<n>>Took {1} steps
+Visited {1} different areas
+<<n>>Visited {1} different areas
+Used {1} Rare Candies
+<<n>>Used {1} Rare Candies
+Made {1} Wonder Trades
+<<n>>Made {1} Wonder Trades
+Tipped ${1} to clowns
+<<n>>Tipped ${1} to clowns
+Destroyed {1} sandcastles
+<<n>>Destroyed {1} sandcastles
+Reported {1} crimes
+<<n>>Reported {1} crimes
+Won ${1} against gamblers
+<<n>>Won ${1} against gamblers
+Lost ${1} against gamblers
+<<n>>Lost ${1} against gamblers
+Spent ${1} at hotels
+<<n>>Spent ${1} at hotels
+Accepted {1} quests
+<<n>>Accepted {1} quests
+Completed {1} quests
+<<n>>Completed {1} quests
+Discovered {1} secrets
+<<n>>Discovered {1} secrets
+Died {1} times in Pikachu's adventure
+<<n>>Died {1} times in Pikachu's adventure
+Collected {1} coins with Pikachu
+<<n>>Collected {1} coins with Pikachu
 \ts<<[>><<]>>Shuffling trainers...\<<n>>{1}%\^
 \ts<<[>><<]>>Shuffling trainers...\<<n>> {1}%\^
 Parsing custom sprites folder...
@@ -26452,26 +26596,76 @@ Pryce is an ice-type expert who has been around for a long time. He used to trai
 Pryce is an ice-type expert who has been around for a long time. He used to train in the Ice Tunnel between Mahogany Town and Blackthorn City before it froze over.
 Jasmine is on vacation in the Sevii Islands. She likes to rise up early to explore around the islands when no one's around.
 Jasmine is on vacation in the Sevii Islands. She likes to rise up early to explore around the islands when no one's around.
+You got every Gym Leader to come here. This place is more popular than ever!<<n>>Now go and battle them!
+You got every Gym Leader to come here. This place is more popular than ever!<<n>>Now go and battle them!
 \ts<<[>><<]>>Shuffling wild Pokémon...\<<n>>{1}%\^
 \ts<<[>><<]>>Shuffling wild Pokémon...\<<n>> {1}%\^
+Age
+Age
+Gender
+Gender
+Hair
+Hair
+Skin
+Skin
+Type A
+Type A
+Type B
+Type B
+Type C
+Type C
+Type D
+Type D
+Type E
+Type E
+Type F
+Type F
+Blonde
+Blonde
+Light Brown
+Light Brown
+Dark Brown
+Dark Brown
+Name?
+Name?
 Is this information correct?
-¿Es correcta esta información?
-Reset hat position?
-Reset hat position?
-Would you like to remove the dye?
-Would you like to remove the dye?
-Change hat
-Change hat
-Change clothes
-Change clothes
-What would you like to do?
-¿Qué te gustaría hacer?
+Is this information correct?
+Next style
+Next style
+Previous style
+Previous style
+Toggle hat
+Toggle hat
 Shift up
 Shift up
 Shift down
 Shift down
+Default
+Default
 Never Mind
-Olvídalo
+Never Mind
+Swap base color
+Swap base color
+Remove dye
+Remove dye
+Next hat
+Next hat
+Previous hat
+Previous hat
+Next
+Next
+Previous
+Previous
+Remove
+Remove
+Reset hat position?
+Reset hat position?
+Would you like to remove the dye?
+Would you like to remove the dye?
+Change hat
+Change hat
+Change clothes
+Change clothes
 Wear
 Wear
 Dye Kit
@@ -26492,12 +26686,16 @@ You put on the hat(s)!\wtnp[30]
 You put on the hat(s)!\wtnp[30]
 Swap hat positions
 Swap hat positions
-Quit.
-Quit.
+Outfits are submitted by the community. More will be added with future updates.
+Outfits are submitted by the community. More will be added with future updates.
 Would you like to purchase {1}?
 Would you like to purchase {1}?
 This is your current hairstyle!
 This is your current hairstyle!
+Hats are submitted by the community. More will be added with future updates.
+Hats are submitted by the community. More will be added with future updates.
+Go without a hat and show off your {}!
+Go without a hat and show off your {}!
 The hat {1} is invalid.
 The hat {1} is invalid.
 Would you like to put it on right now?
@@ -26512,32 +26710,32 @@ You put on the \c[1]{1}\c[0]!\wtnp[30]
 You put on the \c[1]{1}\c[0]!\wtnp[30]
 What a shocking turn of events!
 What a shocking turn of events!
-I’m bugging out of here!
-I’m bugging out of here!
+I'm bugging out of here!
+I'm bugging out of here!
 You outshined me!
 You outshined me!
 I shall scale back my plans.
 I shall scale back my plans.
 I have to throw in the towel.
 I have to throw in the towel.
-I’m buried under this loss.
-I’m buried under this loss.
+I'm buried under this loss.
+I'm buried under this loss.
 I guess I got burned out.
 I guess I got burned out.
-ou really cut me down to size!
-ou really cut me down to size!
-I’m skating on thin ice!
-I’m skating on thin ice!
-Looks like I’ve hit rock bottom...
-Looks like I’ve hit rock bottom...
+I ran out of sunlight!
+I ran out of sunlight!
+I'm skating on thin ice!
+I'm skating on thin ice!
+Looks like I've hit rock bottom...
+Looks like I've hit rock bottom...
 You really made a splash!
 You really made a splash!
-I guess I’m grounded for now.
-I guess I’m grounded for now.
-I’ll slip back into the shadows
-I’ll slip back into the shadows
-I guess I was a bit rusty...
-I guess I was a bit rusty...
+I guess I'm grounded for now.
+I guess I'm grounded for now.
+I guess I'll slip back into the shadows...
+I guess I'll slip back into the shadows...
+I was a bit rusty...
+I was a bit rusty...
 I could not foresee this defeat.
 I could not foresee this defeat.
 I can feel myself disappearing into thin air!
@@ -26572,32 +26770,6 @@ Miss Melody and the Mystic Musicians
 Miss Melody and the Mystic Musicians
 MooMoo Milk
 MooMoo Milk
-B{1}H{2}
-B{1}H{2}
-Select your Pokémon's ability and nature
-Select your Pokémon's ability and nature
-Neutral nature
-Neutral nature
-+ {1}<<n>>- {2}
-+ {1}<<n>>- {2}
-Select the Pokémon's nickname
-Select the Pokémon's nickname
-Nature
-Nature
-Select moves
-Select moves
-Category
-Category
-Power
-Power
-Accuracy
-Accuracy
-{1}%
-{1}%
-No move selected
-No move selected
-{1}.{2}
-{1}.{2}
 DNA Splicers
 DNA Splicers
 Super Splicers
@@ -26608,88 +26780,8 @@ You have no fusion items available.
 You have no fusion items available.
 Use which splicers?
 Use which splicers?
-Happiness
-Happiness
-HappinessDay
-HappinessDay
-HappinessNight
-HappinessNight
-Level
-Level
-Trade
-Trade
-TradeItem
-TradeItem
-AttackGreater
-AttackGreater
-AtkDefEqual
-AtkDefEqual
-DefenseGreater
-DefenseGreater
-Silcoon
-Silcoon
-Cascoon
-Cascoon
-Ninjask
-Ninjask
-Shedinja
-Shedinja
-Beauty
-Beauty
-ItemMale
-ItemMale
-ItemFemale
-ItemFemale
-DayHoldItem
-DayHoldItem
-NightHoldItem
-NightHoldItem
-HasMove
-HasMove
-HasInParty
-HasInParty
-LevelMale
-LevelMale
-LevelFemale
-LevelFemale
-Location
-Location
-TradeSpecies
-TradeSpecies
-Custom1
-Custom1
-Custom2
-Custom2
-Custom3
-Custom3
-Custom4
-Custom4
-Custom5
-Custom5
-Custom6
-Custom6
-Custom7
-Custom7
-Graphics/Items/{1}
-Graphics/Items/{1}
-The Pokémon are being fused!
-The Pokémon are being fused!
-Huh? The fusion was cancelled!
-Huh? The fusion was cancelled!
-\se[]Congratulations! Your Pokémon were fused into {2}!\wt[80]
-\se[]Congratulations! Your Pokémon were fused into {2}!\wt[80]
-\se[]The Pokémon were fused into {2}!\wt[80]
-\se[]The Pokémon were fused into {2}!\wt[80]
-Sprite by {1}
-Sprite by {1}
-What to do with the moveset?
-What to do with the moveset?
-Combine movesets
-Combine movesets
-Keep {1}'s moveset
-Keep {1}'s moveset
-Choose a nature.
-Choose a nature.
+"Team {1} Flag"
+"Team {1} Flag"
 {1} completion: \C[1]{2}%\C[0]
 {1} completion: \C[1]{2}%\C[0]
 {1} top contributors:<br>{2}
@@ -26722,8 +26814,276 @@ You can swap the background at anytime when viewing your Trainer Card.
 You can swap the background at anytime when viewing your Trainer Card.
 The frame is empty...
 The frame is empty...
-Graphics/Trainers/trainer116{1}
-Graphics/Trainers/trainer116{1}
+"{1}"<<n>>By {2}
+"{1}"<<n>>By {2}
+Happiness
+Happiness
+HappinessDay
+HappinessDay
+HappinessNight
+HappinessNight
+Level
+Level
+Trade
+Trade
+TradeItem
+TradeItem
+AttackGreater
+AttackGreater
+AtkDefEqual
+AtkDefEqual
+DefenseGreater
+DefenseGreater
+Silcoon
+Silcoon
+Cascoon
+Cascoon
+Ninjask
+Ninjask
+Shedinja
+Shedinja
+Beauty
+Beauty
+ItemMale
+ItemMale
+ItemFemale
+ItemFemale
+DayHoldItem
+DayHoldItem
+NightHoldItem
+NightHoldItem
+HasMove
+HasMove
+HasInParty
+HasInParty
+LevelMale
+LevelMale
+LevelFemale
+LevelFemale
+Location
+Location
+TradeSpecies
+TradeSpecies
+Custom1
+Custom1
+Custom2
+Custom2
+Custom3
+Custom3
+Custom4
+Custom4
+Custom5
+Custom5
+Custom6
+Custom6
+Custom7
+Custom7
+The Pokémon are being fused!
+The Pokémon are being fused!
+Huh? The fusion was cancelled!
+Huh? The fusion was cancelled!
+\se[]Congratulations! Your Pokémon were fused into {2}!\wt[80]
+\se[]Congratulations! Your Pokémon were fused into {2}!\wt[80]
+\se[]The Pokémon were fused into {2}!\wt[80]
+\se[]The Pokémon were fused into {2}!\wt[80]
+Sprite by {1}
+Sprite by {1}
+What to do with the moveset?
+What to do with the moveset?
+Combine movesets
+Combine movesets
+Keep {1}'s moveset
+Keep {1}'s moveset
+Choose a nature.
+Choose a nature.
+Should {1} be unfused?
+Should {1} be unfused?
+Unfusing...\....\....\....\wtnp[5]
+Unfusing...\....\....\....\wtnp[5]
+Your Pokémon were successfully unfused!
+Your Pokémon were successfully unfused!
+Your party is full! Keep which Pokémon in party?
+Your party is full! Keep which Pokémon in party?
+Your party is full! Keep which Pokémon in party? The other will be released.
+Your party is full! Keep which Pokémon in party? The other will be released.
+Select a Pokémon to keep in your party.
+Select a Pokémon to keep in your party.
+Select a Pokémon to keep in your party. The other will be released
+Select a Pokémon to keep in your party. The other will be released
+{1} cannot be unfused.
+{1} cannot be unfused.
+You cannot unfuse a rental pokémon!
+You cannot unfuse a rental pokémon!
+You can't unfuse a Pokémon obtained in a trade!
+You can't unfuse a Pokémon obtained in a trade!
+Select your Pokémon's ability and nature
+Select your Pokémon's ability and nature
+Neutral nature
+Neutral nature
++ {1}<<n>>- {2}
++ {1}<<n>>- {2}
+Select the Pokémon's nickname
+Select the Pokémon's nickname
+Nature
+Nature
+Select the moves you want to keep
+Select the moves you want to keep
+0 / {1}
+0 / {1}
+Category
+Category
+Power
+Power
+Accuracy
+Accuracy
+Sp. Attack
+Sp. Attack
+Sp. Defense
+Sp. Defense
+Select all moves from {1}
+<<n>>Select all moves from {1}
+No move selected
+No move selected
+You can still select \C[1]{1}\C[0] additional move{2}. Are you sure you want to continue?
+You can still select \C[1]{1}\C[0] additional move{2}. Are you sure you want to continue?
+{1}.{2}
+{1}.{2}
+Let's see your Pokédex...
+Let's see your Pokédex...
+Oh! You've caught {1} \C[1]{2}-type\C[0] Pokémon! You must be a huge {2} fan!
+Oh! You've caught {1} \C[1]{2}-type\C[0] Pokémon! You must be a huge {2} fan!
+I have just the shirt for you. Here you go!
+I have just the shirt for you. Here you go!
+(this map)
+(this map)
+\me[Badge get]{1} obtained the {2}!
+\me[Badge get]{1} obtained the {2}!
+{1} received ${2}!
+{1} received ${2}!
+{1} spent ${2}!
+{1} spent ${2}!
+{1} received {2} {3}!
+{1} received {2} {3}!
+{1} spent {2} {3}!
+{1} spent {2} {3}!
+{1}:<<n>><ar>{2}</ar><<n>><ar><c3={3}>{4} {5}</c3></ar>
+{1}:<<n>><ar>{2}</ar><<n>><ar><c3={3}>{4} {5}</c3></ar>
+Add to your party
+Add to your party
+Fuse in party
+Fuse in party
+Store to PC
+Store to PC
+\ts[]Your team is full!
+\ts[]Your team is full!
+Release a party member
+Release a party member
+Release this {1}
+Release this {1}
+Fuse the newly obtained {1} with {2}?
+Fuse the newly obtained {1} with {2}?
+Your birthday is on
+Your birthday is on
+You chose
+You chose 
+Which month?
+Which month?
+Which day?
+Which day?
+{1} \C[1]{2} {3}\C[0]. Is that correct?
+{1} \C[1]{2} {3}\C[0]. Is that correct?
+Hi! We're giving out a special hat today for the holidays season. Enjoy!
+Hi! We're giving out a special hat today for the holidays season. Enjoy!
+Hi! We're giving out this fun accessory for this special day. Enjoy!
+Hi! We're giving out this fun accessory for this special day. Enjoy!
+Hats Dye Kit (${1})
+Hats Dye Kit (${1})
+Clothes Dye Kit (${1})
+Clothes Dye Kit (${1})
+\C[1]Dye Kits\C[0] can be used to dye clothes all sorts of colours!
+\C[1]Dye Kits\C[0] can be used to dye clothes all sorts of colours!
+You can use them at any time when you change clothes.
+You can use them at any time when you change clothes.
+Welcome! Are you interested in dyeing your outfits different colors?
+Welcome! Are you interested in dyeing your outfits different colors?
+I make handy \C[1]Dye Kits\C[0] from my Smeargle's paint that can be used to dye your outfits any color you want!
+I make handy \C[1]Dye Kits\C[0] from my Smeargle's paint that can be used to dye your outfits any color you want!
+What's more is that it's reusable, so you can go completely wild with it if you want! Are you interested?
+What's more is that it's reusable, so you can go completely wild with it if you want! Are you interested?
+Which dye kit would you like to purchase?
+Which dye kit would you like to purchase?
+Oh, you don't have enough money...
+Oh, you don't have enough money...
+Here you go! Have fun dyeing your hats!
+Here you go! Have fun dyeing your hats!
+\PN purchased the dye kit.
+\PN purchased the dye kit.
+Here you go! Have fun dyeing your clothes!
+Here you go! Have fun dyeing your clothes!
+You can use \C[1]Dye Kits\C[0] at any time when you change clothes.
+You can use \C[1]Dye Kits\C[0] at any time when you change clothes.
+Neutral
+Neutral
+The game has detected that your previous savefile was from an earlier build of the game.
+The game has detected that your previous savefile was from an earlier build of the game.
+In order to play this version, your Pokémon need to be converted to their new Pokédex numbers.
+In order to play this version, your Pokémon need to be converted to their new Pokédex numbers. 
+If you were playing Randomized mode, the trainers and wild Pokémon will also need to be reshuffled.
+If you were playing Randomized mode, the trainers and wild Pokémon will also need to be reshuffled.
+Convert your Pokémon?
+Convert your Pokémon?
+What is the last version of the game you played?
+What is the last version of the game you played?
+4.7 (September 2020)
+4.7        (September 2020)
+4.5-4.6.2 (2019-2020)
+4.5-4.6.2        (2019-2020)
+4.2-4.4 (2019)
+4.2-4.4           (2019)
+4.0-4.1 (2018-2019)
+4.0-4.1           (2018-2019)
+3.x or earlier (2015-2018)
+3.x or earlier (2015-2018)
+Invalid Pokémon detected in box {1}:<<n>>num. {2}, {3} (lv. {4})
+Invalid Pokémon detected in box {1}:<<n>> num. {2}, {3} (lv. {4})
+Delete Pokémon and continue?
+Delete Pokémon and continue?
+Conversion cancelled. Please restart the game.
+Conversion cancelled. Please restart the game.
+When you last played the game, where there any gen 2 Pokémon?
+When you last played the game, where there any gen 2 Pokémon?
+Your sprites settings were exported to #{export_file_name}.
+Your sprites settings were exported to #{export_file_name}.
+You can share this file with your friends to have them use the same sprites preferences as you.
+You can share this file with your friends to have them use the same sprites preferences as you.
+Place this it in their Data/sprites folder and talk to the Update Man NPC to import them in their game.
+Place this it in their Data/sprites folder and talk to the Update Man NPC to import them in their game.
+You already have some sprite preferences defined.
+You already have some sprite preferences defined.
+Would you like to merge your existing settings with the ones you're importing and completely replace them?
+Would you like to merge your existing settings with the ones you're importing and completely replace them?
+Merge
+Merge
+Replace
+Replace
+Your sprite settings have been merged! Make sure to save the game.
+Your sprite settings have been merged! Make sure to save the game.
+Your sprite settings have been replaced! Make sure to save the game.
+Your sprite settings have been replaced! Make sure to save the game.
+The game couldn't find a "sprite_preferences.json" file in the Data/sprites folder.
+The game couldn't find a "sprite_preferences.json" file in the Data/sprites folder.
+Export the sprites settings from the Update Man NPC and place the file in this folder to import them.
+Export the sprites settings from the Update Man NPC and place the file in this folder to import them.
+Easy
+Easy
+Hard
+Hard
+Normal
+Normal
+The game could not open the link in the browser
+The game could not open the link in the browser
+The link has been copied to your clipboard instead
+The link has been copied to your clipboard instead
 Oh... I lost...
 Oh... I lost...
 I did my best!
@@ -26731,7 +27091,7 @@ I did my best!
 You're too strong!
 You're too strong!
 You win!
-¡Tú ganas!
+You win!
 What a fight!
 What a fight!
 That was fun!
@@ -26760,6 +27120,20 @@ new level:
 new level: 
 level cap:
 level cap: 
+Exp to extract:
+Exp to extract:
+Price:
+Price:
+Oh, I'm sorry, but this Pokémon does not have enough Exp. available for the procedure.
+Oh, I'm sorry, but this Pokémon does not have enough Exp. available for the procedure.
+Keep in mind that only the Exp. that was obtained with a Trainer can be safely extracted. Any Exp. it gained as a wild Pokémon is no good!
+Keep in mind that only the Exp. that was obtained with a Trainer can be safely extracted. Any Exp. it gained as a wild Pokémon is no good!
+\GHow many \C[1]Exp. Candies\C[0] to extract?
+\GHow many \C[1]Exp. Candies\C[0] to extract?
+Oh, I'm sorry, but you don't have enough money to afford the procedure. You might want to try a smaller extraction.
+Oh, I'm sorry, but you don't have enough money to afford the procedure. You might want to try a smaller extraction.
+Your {1} will go from \C[1]Level {2}\C[0] to \C[1]Level {3}\C[0] after all the Exp. Candies are extracted. Do you still want to continue?
+Your {1} will go from \C[1]Level {2}\C[0] to \C[1]Level {3}\C[0] after all the Exp. Candies are extracted. Do you still want to continue?
 There are no more Trainer Card backgrounds available for purchase!
 There are no more Trainer Card backgrounds available for purchase!
 \GWhich background would you like to purchase?
@@ -26826,8 +27200,6 @@ The egg is already ready to hatch!
 The egg is already ready to hatch!
 Incubating...
 Incubating...
-...
-...
 Your egg is ready to hatch!
 Your egg is ready to hatch!
 <<[>>{1}<<]>>The debugger should ONLY be used if you are stuck somewhere because of a glitch.
@@ -26839,11 +27211,11 @@ Please report the glitch on the game's Discord, in the #bug-reports channel.
 1 hour
 1 hour
 6 hours
-6 horas
+6 hours
 12 hours
-12 horas
+12 hours
 24 hours
-24 horas
+24 hours
 Sleep for how long?
 Sleep for how long?
 {1} slept for a while...
@@ -26856,6 +27228,8 @@ Sleep for an hour?
 Sleep for an hour?
 Can't use that here...
 Can't use that here...
+\How many would you like to open?<br>({1} in bag)
+\How many would you like to open?<br>({1} in bag)
 Condense 2 spore samples into a Repel?
 Condense 2 spore samples into a Repel?
 Collect another sample to condense them into a Repel.
@@ -26892,6 +27266,14 @@ Remove the Team Rocket uniform?
 Remove the Team Rocket uniform?
 Put on the Team Rocket uniform?
 Put on the Team Rocket uniform?
+Remove the Team Magma uniform?
+Remove the Team Magma uniform?
+Put on the Team Magma uniform?
+Put on the Team Magma uniform?
+Remove the Team Aqua uniform?
+Remove the Team Aqua uniform?
+Put on the Team Aqua uniform?
+Put on the Team Aqua uniform?
 an unknown location
 an unknown location
 You peeked into the Dream Mirror...
@@ -26936,28 +27318,6 @@ Fuse {1} and {2}?
 {1} can't be fused with itself!
 {1} can't be fused with {2}.
 {1} can't be fused with {2}.
-{1} cannot be unfused.
-{1} cannot be unfused.
-You cannot unfuse a rental pokémon!
-You cannot unfuse a rental pokémon!
-You can't unfuse a Pokémon obtained in a trade!
-You can't unfuse a Pokémon obtained in a trade!
-Should {1} be unfused?
-Should {1} be unfused?
-Your party is full! Keep which Pokémon in party?
-Your party is full! Keep which Pokémon in party?
-Your party is full! Keep which Pokémon in party? The other will be released.
-Your party is full! Keep which Pokémon in party? The other will be released.
-Select a Pokémon to keep in your party.
-Select a Pokémon to keep in your party.
-Select a Pokémon to keep in your party. The other will be released
-Select a Pokémon to keep in your party. The other will be released
-Unfusing ...
-Unfusing ... 
-{1} was sent to the PC.
-{1} was sent to the PC.
-Your Pokémon were successfully unfused!
-Your Pokémon were successfully unfused!
 An unusual \c[6]thunderstorm\c[0] has been detected around \c[6]{1}
 An unusual \c[6]thunderstorm\c[0] has been detected around \c[6]{1}
 Unusually \c[9]strong winds\c[0] have been detected around \c[9]{1}
@@ -27006,54 +27366,60 @@ any Pokémon that is both Fairy and Rock type will be able to learn the move Dia
 any Pokémon that is both Fairy and Rock type will be able to learn the move Diamond Storm.
 any water-type Pokémon that can already learn the move Eruption can also be taught the move Steam Eruption
 any water-type Pokémon that can already learn the move Eruption can also be taught the move Steam Eruption
-Get ready! Here comes the final round!
-Get ready! Here comes the final round!
-Get ready! Here comes the first round!
-Get ready! Here comes the first round!
-Get ready! Here comes round {1}!
-Get ready! Here comes round {1}!
-That's it for round {1}. You've cumulated {2} points so far.
-That's it for round {1}. You've cumulated {2} points so far.
+Get ready! Here comes the final round!\wtnp[10]
+Get ready! Here comes the final round!\wtnp[10]
+Get ready! Here comes the first round!\wtnp[10]
+Get ready! Here comes the first round!\wtnp[10]
+Get ready! Here comes round {1}!\wtnp[10]
+Get ready! Here comes round {1}!\wtnp[10]
+That's it for round {1}. You've cumulated {2} points so far.\wtnp[20]
+That's it for round {1}. You've cumulated {2} points so far.\wtnp[20]
 Are you ready to move on to the next round?
 Are you ready to move on to the next round?
 You still have {1} rounds to go. You'll only keep your points if you finish all {2} rounds. Do you really want to quit now?
 You still have {1} rounds to go. You'll only keep your points if you finish all {2} rounds. Do you really want to quit now?
 This concludes our quiz! You've cumulated {1} points in total.
 This concludes our quiz! You've cumulated {1} points in total.
-Thanks for playing with us today!
-Thanks for playing with us today!
+Thanks for playing!\wtnp[20]
+Thanks for playing!\wtnp[20]
 Which Pokémon is this fusion's body?
 Which Pokémon is this fusion's body?
-Next question!
-Next question!
+Next question!\wtnp[10]
+Next question!\wtnp[10]
 Which Pokémon is this fusion's head?
 Which Pokémon is this fusion's head?
-Okay, now's your chance to make up for the points you missed!
-Okay, now's your chance to make up for the points you missed!
-Wow! A perfect round! You get {1} more points!
-Wow! A perfect round! You get {1} more points!
-Let's see what this Pokémon looked like!
-Let's see what this Pokémon looked like!
+Okay, now's your chance to make up for the points you missed!\wtnp[15]
+Okay, now's your chance to make up for the points you missed!\wtnp[15]
+Wow! A perfect round! You get {1} more points!\wtnp[15]
+Wow! A perfect round! You get {1} more points!\wtnp[15]
+Let's see what this Pokémon looked like...\wtnp[20]
+Let's see what this Pokémon looked like...\wtnp[20]
+It's... \C[1]{1}\C[0]!
+It's... \C[1]{1}\C[0]!
 Streak: {1}
 Streak: {1}
-And the correct answer was...
-And the correct answer was...
-That's a correct answer!
-That's a correct answer!
-You're awarded {1} points for your answer. Your current score is {2}
-You're awarded {1} points for your answer. Your current score is {2}
-Unfortunately, that was a wrong answer.
-Unfortunately, that was a wrong answer.
-But you'll get another chance at it!
-But you'll get another chance at it!
-That's {1} correct answers in a row. You're on a roll!
-That's {1} correct answers in a row. You're on a roll!
-That's {1} correct answers in a row. You're doing great!
-That's {1} correct answers in a row. You're doing great!
-Here's {1} extra points for maintaining a streak!
-Here's {1} extra points for maintaining a streak!
+And the correct answer was...\wtnp[10]
+And the correct answer was...\wtnp[10]
+...\wtnp[10]
+...\wtnp[10]
+That's a correct answer!\wtnp[10]
+That's a correct answer!\wtnp[10]
+You're awarded {1} points for your answer. Your current score is {2}.\wtnp[20]
+You're awarded {1} points for your answer. Your current score is {2}.\wtnp[20]
+Unfortunately, that was a wrong answer.\wtnp[10]
+Unfortunately, that was a wrong answer.\wtnp[10]
+But you'll get another chance at it!\wtnp[15]
+But you'll get another chance at it!\wtnp[15]
+That's {1} correct answers in a row. You're on a roll!\wtnp[20]
+That's {1} correct answers in a row. You're on a roll!\wtnp[20]
+That's {1} correct answers in a row. You're doing great!\wtnp[20]
+That's {1} correct answers in a row. You're doing great!\wtnp[20]
+Here's {1} extra points for maintaining a streak!\wtnp[15]
+Here's {1} extra points for maintaining a streak!\wtnp[15]
 Is this your final answer?
 Is this your final answer?
+Type with your keyboard
+Type with your keyboard
 Woah! A Pokémon jumped out of the flower!
 Woah! A Pokémon jumped out of the flower!
 It's a flower with pink nectar.
@@ -27072,14 +27438,88 @@ It's a flower with yellow nectar.
 It's a flower with yellow nectar. 
 Show it to a Pokémon?
 Show it to a Pokémon?
+{1} flipped the seashell over...
+{1} flipped the seashell over...
+...There's nothing there.
+...There's nothing there.
+Left!
+Left!
+Up!
+Up!
+Right!
+Right!
+Down!
+Down!
+Listen up and remember this!
+Listen up and remember this!
+Get ready... Press the buttons!\wtnp[20]
+Get ready... Press the buttons!\wtnp[20]
+Correct!\wtnp[40]
+Correct!\wtnp[40]
+Incorrect!\wtnp[40]
+Incorrect!\wtnp[40]
+What do you think? Do you think any of these have any potential?
+What do you think? Do you think any of these have any potential?
+Not really...
+Not really...
+It's a vending machine. What do you want to buy?
+It's a vending machine. What do you want to buy?
+Purchase anything else?
+Purchase anything else?
+Sootopolis Void attacked the city and tried to steal a precious package from the Rangers headquarters. Littleroot Crimson was able to stop him, but now he's coming back with a vengeance...
+Sootopolis Void attacked the city and tried to steal a precious package from the Rangers headquarters. Littleroot Crimson was able to stop him, but now he's coming back with a vengeance...
+There was a part where Littleroot Crimson had a rematch with Fallarbor Bordeaux and he finally evolved his Combusken.
+There was a part where Littleroot Crimson had a rematch with Fallarbor Bordeaux and he finally evolved his Combusken.
+There was an entire subplot about Rustboro Ivory entering a berry-growing contest that she ended up winning with a super-mutant berry.
+There was an entire subplot about Rustboro Ivory entering a berry-growing contest that she ended up winning with a super-mutant berry.
+There was a part where Lilicove Viridian waited until the wind picked up to catch a Pidgeot that had been terrorizing the town.
+There was a part where Lilicove Viridian waited until the wind picked up to catch a Pidgeot that had been terrorizing the town.
+At one point, Mauville Yellow met a scientist in the woods and helped him collect highly toxic spore.
+At one point, Mauville Yellow met a scientist in the woods and helped him collect highly toxic spore.
+Littleroot Crimson seeked out the help of the grandmaster that was hiding at the end of the dark cave.
+Littleroot Crimson seeked out the help of the grandmaster that was hiding at the end of the dark cave.
+Rustboro Ivory befriended that lonely Oricorio in the flowers field.
+Rustboro Ivory befriended that lonely Oricorio in the flowers field.
+The Oricorio kept switching forms!
+The Oricorio kept switching forms!
+Mauville Yellow fused a Pellipper with Exploud to create a sonic weapon. And then it ended up being much too loud, it was so funny!
+Mauville Yellow fused a Pellipper with Exploud to create a sonic weapon. And then it ended up being much too loud, it was so funny!
+Pacifidlog Cobalt found that shiny Azumarill. I never saw it coming!
+Pacifidlog Cobalt found that shiny Azumarill. I never saw it coming!
+At least, Littleroot Crimson finally delivered that precious package. I can't wait to see what happens next with that.
+At least, Littleroot Crimson finally delivered that precious package. I can't wait to see what happens next with that.
+Hey, that part where Fallarbor Bordeaux fished up that Dragalge was pretty neat.
+Hey, that part where Fallarbor Bordeaux fished up that Dragalge was pretty neat.
+That whole subplot about Pacifidlog Cobalt trying to get a tan definitely dragged on a bit...
+That whole subplot about Pacifidlog Cobalt trying to get a tan definitely dragged on a bit...
+Although that scene with Lilicove Viridian beating up all the bad guys in the beach house was really fun!
+Although that scene with Lilicove Viridian beating up all the bad guys in the beach house was really fun!
+The chase sequence with the Kingler when Mauville Yellow was carrying that beach ball was really funny though!
+The chase sequence with the Kingler when Mauville Yellow was carrying that beach ball was really funny though!
+I never expected Littleroot Crimson to infiltrate the villains's lair like that!
+I never expected Littleroot Crimson to infiltrate the villains's lair like that!
+Pokémon are assigned a random sprite when you encounter them in the wild.
+Pokémon are assigned a random sprite when you encounter them in the wild.
+This page allows you to select the sprites that can appear for each Pokémon.
+This page allows you to select the sprites that can appear for each Pokémon.
+To change one of your caught Pokémon's sprite, you need to open its Pokédex entry from the the Pokémon's Summary page.
+To change one of your caught Pokémon's sprite, you need to open its Pokédex entry from the the Pokémon's Summary page.
+You need to allow at least one sprite!
+You need to allow at least one sprite!
 This sprite will remain the displayed sprite
 This sprite will remain the displayed sprite
 This sprite is already the displayed sprite
 This sprite is already the displayed sprite
+Would you like to use this sprite instead of the current sprite?
+Would you like to use this sprite instead of the current sprite?
+Would you like to use this sprite instead of the current sprite for the entire species?
+Would you like to use this sprite instead of the current sprite for the entire species?
 This is the only sprite available for this Pokémon!
 This is the only sprite available for this Pokémon!
 Eevee is getting tired. You should head back soon!
 Eevee is getting tired. You should head back soon!
+Main Quests
+Main Quests
 Hotel Quests
 Hotel Quests
 Field Quests
@@ -27088,38 +27528,18 @@ Team Rocket Quests
 Team Rocket Quests
 Legendary Quests
 Legendary Quests
+\C[3]NEW MAIN OBJECTIVE: \
+\C<<[>>3<<]>>NEW MAIN OBJECTIVE: \<<n>>
+\C[{1}]{2} MISSION:
+\C[{1}]{2} MISSION: 
 \C[6]NEW QUEST:
 \C[6]NEW QUEST: 
-\qp\C[6]Quest completed!
-\qp\C[6]Quest completed!
-Ongoing:
-Ongoing: 
-Completed:
-Completed: 
-Not Completed
-Not Completed
-Completed
-Completed
-Quest received in:
-Quest received in:
-Quest received at:
-Quest received at:
-Quest received from:
-Quest received from:
-From
-From 
-From {1}
-From {1}
-Quest Log
-Quest Log
-Ongoing Quests
-Ongoing Quests
-Completed Quests
-Completed Quests
-No ongoing quests
-No ongoing quests
-No completed quests
-No completed quests
+\C<<[>>3<<]>>Main quest completed:\<<n>>\C<<[>>6<<]>>{1}
+\C<<[>>3<<]>>Main quest completed:\<<n>> \C<<[>>6<<]>>{1}
+\C[6]Quest completed!
+\C[6]Quest completed!
+\qp\C[6]Obtained 1 Quest Point!
+\qp\C[6]Obtained 1 Quest Point!
 Accepted quests: \C[1]{1}
 Accepted quests: \C[1]{1}
 Completed quests: \C[1]{1}
@@ -27127,43 +27547,55 @@ Completed quests: \C[1]{1}
 In-progress: \C[1]{1}
 In-progress: \C[1]{1}
 Also, there's one more thing...
-Además, hay una cosa más...
+Also, there's one more thing...
 As a gift for having helped so many people, I want to give you this.
-Como regalo por haber ayudado a tantas personas, quiero darte esto.
+As a gift for having helped so many people, I want to give you this.
 I have no more rewards to give you! Thanks for helping all these people!
-¡No tengo más recompensas para darte! ¡Gracias por ayudar a toda esta gente!
+I have no more rewards to give you! Thanks for helping all these people!
 Help {1} more person and I'll give you something good!
 Help {1} more person and I'll give you something good!
 Help {1} more people and I'll give you something good!
 Help {1} more people and I'll give you something good!
 This HM will allow you to illuminate dark caves and should help you to progress in your journey!
-Esta MT te permitirá iluminar cuevas oscuras y te ayudará a avanzar en tu viaje.
+This HM will allow you to illuminate dark caves and should help you to progress in your journey!
 This item will allows you to get twice the money in a battle if the Pokémon holding it took part in it!
-Este objeto te permitirá ganar el doble de dinero en una batalla si el Pokémon que lo lleva participó en ella.
+This item will allows you to get twice the money in a battle if the Pokémon holding it took part in it!
 This will allow you to illuminate caves without having to use a HM! Practical, isn't it?
-Esto te permitirá iluminar cuevas sin tener que usar una MT. ¡Práctico, ¿no?!
+This will allow you to illuminate caves without having to use a HM! Practical, isn't it?
 This strange cable triggers the evolution of Pokémon that typically evolve via trade. I know you'll put it to good use!
-Este extraño cable provoca la evolución de Pokémon que normalmente evolucionan por intercambio. ¡Sé que le darás buen uso!
+This strange cable triggers the evolution of Pokémon that typically evolve via trade. I know you'll put it to good use!
 This handy item will allow you to sleep anywhere you want. You won't even need hotels anymore!
-Este práctico objeto te permitirá dormir en cualquier lugar. ¡Ya no necesitarás hoteles!
+This handy item will allow you to sleep anywhere you want. You won't even need hotels anymore!
 This rare stone can evolve any Pokémon, regardless of their level or evolution method. Use it wisely!
-Esta rara piedra puede hacer evolucionar a cualquier Pokémon, sin importar su nivel o método de evolución. ¡Úsala con sabiduría!
+This rare stone can evolve any Pokémon, regardless of their level or evolution method. Use it wisely!
 This mysterious ball is rumored to be the key to call upon the protector of Ilex Forest. It's a precious relic.
 This mysterious ball is rumored to be the key to call upon the protector of Ilex Forest.  It's a precious relic.
 This rare ball can catch any Pokémon. Don't waste it!
 This rare ball can catch any Pokémon. Don't waste it!
+This doubles the money you get in Pokémon battles. Maybe it'll help finance the show!
+This doubles the money you get in Pokémon battles. Maybe it'll help finance the show!
+The note that came with it said that it allows you to hatch an egg instantly!
+The note that came with it said that it allows you to hatch an egg instantly!
+There's a note with it. If there's a hidden item anywhere near you, that little thing will react to tell you.
+There's a note with it. If there's a hidden item anywhere near you, that little thing will react to tell you.
+Looks like they sent even more of these incubators for hatching Eggs. There must be a high-profile Pokémon breeder that's a fan of the show!
+Looks like they sent even more of these incubators for hatching Eggs. There must be a high-profile Pokémon breeder that's a fan of the show!
+There's a note with it. This deluxe sleeping bag will allow you to sleep anywhere you want. It's so comfortable that you can sleep in it for hours!
+There's a note with it. This deluxe sleeping bag will allow you to sleep anywhere you want. It's so comfortable that you can sleep in it for hours!
+Apparently, this strange cable triggers the evolution of Pokémon that typically evolve via trade. I know you'll put it to good use!
+Apparently, this strange cable triggers the evolution of Pokémon that typically evolve via trade. I know you'll put it to good use!
 {1}'s {2}
 {1}'s {2}
 Johto Pokémon
 Johto Pokémon
-A traveler in the PokéMart wants you to show him a Pokémon native to the Johto region.
-A traveler in the PokéMart wants you to show him a Pokémon native to the Johto region.
+A traveler in the Poké Mart wants you to show him a Pokémon native to the Johto region.
+A traveler in the Poké Mart wants you to show him a Pokémon native to the Johto region.
 Cerulean City
 Cerulean City
 Hoenn Pokémon
 Hoenn Pokémon
-A traveler in the PokéMart you to show him a Pokémon native to the Hoenn region.
-A traveler in the PokéMart you to show him a Pokémon native to the Hoenn region.
+A traveler in the Poké Mart you to show him a Pokémon native to the Hoenn region.
+A traveler in the Poké Mart you to show him a Pokémon native to the Hoenn region.
 Vermillion City
 Vermillion City
 Sinnoh Pokémon
@@ -27174,20 +27606,20 @@ Celadon City
 Celadon City
 Unova Pokémon
 Unova Pokémon
-A traveler in the PokéMart wants you to show him a Pokémon native to the Unova region.
-A traveler in the PokéMart wants you to show him a Pokémon native to the Unova region.
+A traveler in the Poké Mart wants you to show him a Pokémon native to the Unova region.
+A traveler in the Poké Mart wants you to show him a Pokémon native to the Unova region.
 Fuchsia City
 Fuchsia City
 Kalos Pokémon
 Kalos Pokémon
-A traveler in the PokéMart wants you to show him a Pokémon native to the Kalos region.
-A traveler in the PokéMart wants you to show him a Pokémon native to the Kalos region.
+A traveler in the Poké Mart wants you to show him a Pokémon native to the Kalos region.
+A traveler in the Poké Mart wants you to show him a Pokémon native to the Kalos region.
 Saffron City
 Saffron City
 Alola Pokémon
 Alola Pokémon
-A traveler in the PokéMart wants you to show him a Pokémon native to the Alola region.
-A traveler in the PokéMart wants you to show him a Pokémon native to the Alola region.
+A traveler in the Poké Mart wants you to show him a Pokémon native to the Alola region.
+A traveler in the Poké Mart wants you to show him a Pokémon native to the Alola region.
 Cinnabar Island
 Cinnabar Island
 Mushroom Gathering
@@ -27210,8 +27642,8 @@ An old man wants you to bring differently colored flowers for the city's garden.
 An old man wants you to bring differently colored flowers for the city's garden.
 I Choose You!
 I Choose You!
-A Pikachu in the PokéMart has lost its official Pokémon League Hat. Find one and give it to the Pikachu!
-A Pikachu in the PokéMart has lost its official Pokémon League Hat. Find one and give it to the Pikachu!
+A Pikachu in the Poké Mart has lost its official Pokémon League Hat. Find one and give it to the Pikachu!
+A Pikachu in the Poké Mart has lost its official Pokémon League Hat. Find one and give it to the Pikachu!
 Prehistoric Amber!
 Prehistoric Amber!
 Meetup with a scientist in Viridian Forest to look for prehistoric amber.
@@ -27349,7 +27781,7 @@ Safari Souvenir!
 Bring back a souvenir from the Fuchsia City Safari Zone
 Bring back a souvenir from the Fuchsia City Safari Zone
 Goldenrod City
-Ciudad Trigal
+Goldenrod City
 The Cursed Forest
 The Cursed Forest
 A child wants you to find a floating tree stump in Ilex Forest. What could she be talking about?
@@ -27367,7 +27799,7 @@ Defuse the Pinecones!
 Get rid of all the Pineco on Route 31 and Route 30
 Get rid of all the Pineco on Route 31 and Route 30
 Violet City
-Ciudad Violeta
+Violet City
 Find Slowpoke's Tail!
 Find Slowpoke's Tail!
 Find a SlowpokeTail in some flowers, somewhere around Violet City!
@@ -27377,7 +27809,7 @@ Dragon Evolution
 A Dragon Tamer in Blackthorn City wants you to show her a fully-evolved Dragon Pokémon.
 A Dragon Tamer in Blackthorn City wants you to show her a fully-evolved Dragon Pokémon.
 Blackthorn City
-Ciudad Endrino
+Blackthorn City
 Sunken Treasure!
 Sunken Treasure!
 Find an old memorabilia on a sunken ship near Cinnabar Island.
@@ -27391,7 +27823,7 @@ Ghost Evolution
 A girl in Ecruteak City wants you to show her a fully-evolved Ghost Pokémon.
 A girl in Ecruteak City wants you to show her a fully-evolved Ghost Pokémon.
 Ecruteak City
-Ciudad Malva
+Ecruteak City
 Banana Slamma!
 Banana Slamma!
 Collect 30 bananas
@@ -27472,12 +27904,86 @@ Mysterious Lunar feathers
 Mysterious Lunar feathers
 A mysterious entity asked you to collect Lunar Feathers for them. It said that they will come at night to tell you where to look. Whoever that may be...
 A mysterious entity asked you to collect Lunar Feathers for them. It said that they will come at night to tell you where to look. Whoever that may be...
+Visit Dad!
+Visit Dad!
+Go visit your Dad at his Gym in Petalburg Town!
+Go visit your Dad at his Gym in Petalburg Town!
+Petalburg City
+Petalburg City
+Catching Tutoring
+Catching Tutoring
+Catch a wild Pokémon for Wally.
+Catch a wild Pokémon for Wally.
+The Pokémon Gym Challenge
+The Pokémon Gym Challenge
+Challenge Roxanne in Rustboro City to obtain your first Gym Badge.
+Challenge Roxanne in Rustboro City to obtain your first Gym Badge.
+Rustboro City
+Rustboro City
+Challenge Brawly in Dewford Town to obtain your second Gym Badge.
+Challenge Brawly in Dewford Town to obtain your second Gym Badge.
+Dewford Town
+Dewford Town
+Challenge Wattson in Mauville City to obtain your third Gym Badge.
+Challenge Wattson in Mauville City to obtain your third Gym Badge.
+Mauville City
+Mauville City
+Challenge Flannery in Lavaridge Town to obtain your fourth Gym Badge.
+Challenge Flannery in Lavaridge Town to obtain your fourth Gym Badge.
+Lavaridge Town
+Lavaridge Town
+Challenge Norman in Petalburg City to obtain your fifth Gym Badge.
+Challenge Norman in Petalburg City to obtain your fifth Gym Badge.
+Petalburg Town
+Petalburg Town
+Challenge Winona in Fortree City to obtain your sixth Gym Badge.
+Challenge Winona in Fortree City to obtain your sixth Gym Badge.
+Fortree City
+Fortree City
+Challenge Tate & Liza in Mossdeep City to obtain your seventh Gym Badge.
+Challenge Tate & Liza in Mossdeep City to obtain your seventh Gym Badge.
+Mossdeep City
+Mossdeep City
+Challenge Wallace in Sootopolis City to obtain your final Gym Badge.
+Challenge Wallace in Sootopolis City to obtain your final Gym Badge.
+Sootopolis City
+Sootopolis City
+Pokémon League Challenge
+Pokémon League Challenge
+Collect all 8 Gym Badges and take part in the Pokémon League!
+Collect all 8 Gym Badges and take part in the Pokémon League!
+Hoenn
+Hoenn
+Stolen Package
+Stolen Package
+Recover a package stolen by Team Magma!
+Recover a package stolen by Team Magma!
+Steven's Letter
+Steven's Letter
+Deliver a letter from the Devon Corp. president to Steven in Granite Cave.
+Deliver a letter from the Devon Corp. president to Steven in Granite Cave. 
+Granite Cave
+Granite Cave
+Devon Parts Delivery
+Devon Parts Delivery
+Deliver the Devon Parts to the Shipyard in Slateport City.
+Deliver the Devon Parts to the Shipyard in Slateport City.
+Slateport City
+Slateport City
+Template Quest
+Template Quest
+Don't forget to change the quest ID if you copy paste this!
+Don't forget to change the quest ID if you copy paste this!
 Trainer Rematches
 Trainer Rematches
 A lass you battled wants to switch up her team and rematch you!
 A lass you battled wants to switch up her team and rematch you!
 Route 102
 Route 102
+Berry Contest
+Berry Contest
+Take part in the berry-growing contest in Petalburg Town!
+Take part in the berry-growing contest in Petalburg Town!
 Lost glasses
 Lost glasses
 A trainer has lost their glasses, help him find them!
@@ -27504,6 +28010,10 @@ Nectar Flowers
 Nectar Flowers
 Find all 4 types of nectar flowers to transform Oricorio.
 Find all 4 types of nectar flowers to transform Oricorio.
+The Allergic Rich Boy
+The Allergic Rich Boy
+An allergy-ridden rich boy is looking for a flowery Pokémon to give to his girlfriend.
+An allergy-ridden rich boy is looking for a flowery Pokémon to give to his girlfriend.
 Your Very Own Secret Base!
 Your Very Own Secret Base!
 Talk to Aarune near his secret base to learn how to make your own.
@@ -27514,10 +28024,186 @@ Volume Booster!
 Volume Booster!
 Find a Wingull to fuse with a Whismur to make it louder.
 Find a Wingull to fuse with a Whismur to make it louder.
-Rustboro City
-Rustboro City
+A Green Marill?
+A Green Marill?
+A child claims they've seen a green Marill by the pond on Route 104. Go investigate!
+A child claims they've seen a green Marill by the pond on Route 104. Go investigate!
+Clean Up the Beach!
+Clean Up the Beach!
+Help the ranger clean-up the beach behind the Devon Corp. building.
+Help the ranger clean-up the beach behind the Devon Corp. building.
+Wild Fusion Study
+Wild Fusion Study
+Help a scientist gather data by getting wild Pokémon to fuse before a battle 3 different times.
+Help a scientist gather data by getting wild Pokémon to fuse before a battle 3 different times.
+The Angler's Rite of Passage
+The Angler's Rite of Passage
+It's tradition to fish a Skrelp in Dewford Town as a rite of passage. Find one and show it to the fisherman!
+It's tradition to fish a Skrelp in Dewford Town as a rite of passage. Find one and show it to the fisherman!
+Join Team Aqua!
+Join Team Aqua!
+Archie invited you to join Team Aqua. Go meet them at their camp on Slateport Beach if you so choose.
+Archie invited you to join Team Aqua. Go meet them at their camp on Slateport Beach if you so choose.
+Join Team Magma!
+Join Team Magma!
+Maxie invited you to join Team Magma. Go meet them at their camp, North of Slateport if you so choose.
+Maxie invited you to join Team Magma. Go meet them at their camp, North of Slateport if you so choose.
+Soaking in the sun
+Soaking in the sun
+Sit in a beach chair until your suntan is on point!
+Sit in a beach chair until your suntan is on point!
+Route 109
+Route 109
+Hot Battles at the Seashore House
+Hot Battles at the Seashore House
+Defeat all of the trainers in the Seashore House!
+Defeat all of the trainers in the Seashore House!
+Find a New Beach Ball!
+Find a New Beach Ball!
+Replace the popped beach ball of the kids playing on the beach
+Replace the popped beach ball of the kids playing on the beach
+Under Attack!
+Under Attack!
+Defend the Team Magma Camp against Team Aqua!
+Defend the Team Magma Camp against Team Aqua!
+Magma Camp
+Magma Camp
+Egg Hunt!
+Egg Hunt!
+Collect Slugma Eggs with Tabitha.
+Collect Slugma Eggs with Tabitha.
+Cliffside Sanctuary
+Cliffside Sanctuary
+Grunt Work!
+Grunt Work!
+Help 3 grunts in the Team Magma Camp, then report back to Tabitha!
+Help 3 grunts in the Team Magma Camp, then report back to Tabitha!
+Anti-Water Training!
+Anti-Water Training!
+Fuse Numel to make it resistant Water-type attacks.
+Fuse Numel to make it resistant Water-type attacks.
+Painting the Town Red
+Painting the Town Red
+Team Aqua painted their logo on various walls in Slateport City. Cover them up with the Team Magma logo instead!
+Team Aqua painted their logo on various walls in Slateport City. Cover them up with the Team Magma logo instead!
+The Magma Theme Song
+The Magma Theme Song
+Help compose lyrics to the official Team Magma theme song!
+Help compose lyrics to the official Team Magma theme song!
+Defend the Team Aqua Camp against Team Magma!
+Defend the Team Aqua Camp against Team Magma!
+Aqua Camp
+Aqua Camp
+Collect Wailmer Eggs for Shelly.
+Collect Wailmer Eggs for Shelly.
+Route 108
+Route 108
+Help 3 grunts in the Team Aqua Camp, then report back to Shelly!
+Help 3 grunts in the Team Aqua Camp, then report back to Shelly!
+Just Add Water!
+Just Add Water!
+You were given two Zubats and a Geodude. Fuse all three of them into Water-type Pokémon.
+You were given two Zubats and a Geodude. Fuse all three of them into Water-type Pokémon.
+Painting the Town Blue
+Painting the Town Blue
+Team Magma painted their logo on various walls in Slateport City. Cover them up with the Team Aqua logo instead!
+Team Magma painted their logo on various walls in Slateport City. Cover them up with the Team Aqua logo instead!
+The Aqua Theme Song
+The Aqua Theme Song
+Help compose lyrics to the official Team Aqua theme song!
+Help compose lyrics to the official Team Aqua theme song!
+Cycling Road Time Trial
+Cycling Road Time Trial
+Go through the Cycling Road as fast as possible. You'll be penalized if you hit the walls!
+Go through the Cycling Road as fast as possible. You'll be penalized if you hit the walls!
+Route 110
+Route 110
+Associate Producer! - Episode 1
+Associate Producer! - Episode 1
+You've been hired as an associate producer on a TV show! Complete 2 quests to help write the second season of the show.
+You've been hired as an associate producer on a TV show! Complete 2 quests to help write the second season of the show.
+Mauville TV
+Mauville TV
+Associate Producer! - Episode 2
+Associate Producer! - Episode 2
+You've been hired as an associate producer on a TV show! Complete 5 quests to help write the second season of the show.
+You've been hired as an associate producer on a TV show! Complete 5 quests to help write the second season of the show.
+Associate Producer! - Episode 3
+Associate Producer! - Episode 3
+You've been hired as an associate producer on a TV show! Complete 10 quests to help write the second season of the show.
+You've been hired as an associate producer on a TV show! Complete 10 quests to help write the second season of the show.
+Associate Producer! - Episode 4
+Associate Producer! - Episode 4
+You've been hired as an associate producer on a TV show! Complete 15 quests to help write the second season of the show.
+You've been hired as an associate producer on a TV show! Complete 15 quests to help write the second season of the show.
+Associate Producer! - Episode 5
+Associate Producer! - Episode 5
+You've been hired as an associate producer on a TV show! Complete 20 quests to help write the second season of the show.
+You've been hired as an associate producer on a TV show! Complete 20 quests to help write the second season of the show.
+Associate Producer! - Episode 6
+Associate Producer! - Episode 6
+You've been hired as an associate producer on a TV show! Complete 25 quests to help write the second season of the show.
+You've been hired as an associate producer on a TV show! Complete 25 quests to help write the second season of the show.
+Associate Producer! - Episode 7
+Associate Producer! - Episode 7
+You've been hired as an associate producer on a TV show! Complete 30 quests to help write the second season of the show.
+You've been hired as an associate producer on a TV show! Complete 30 quests to help write the second season of the show.
+The Element of Surprise!
+The Element of Surprise!
+Catch a Tynamo in the waters near New Mauville to catch Team Aqua by surprise.
+Catch a Tynamo in the waters near New Mauville to catch Team Aqua by surprise.
+Catch a Tynamo in the waters near New Mauville to catch Team Magma by surprise.
+Catch a Tynamo in the waters near New Mauville to catch Team Magma by surprise.
+The Winstrate Family
+The Winstrate Family
+Defeat all 4 members of the Winstrate family in back-to-back battles.
+Defeat all 4 members of the Winstrate family in back-to-back battles.
+Route 111
+Route 111
+A Lost Shroomish
+A Lost Shroomish
+A girl lost her Shroomish and needs your help to find it.
+A girl lost her Shroomish and needs your help to find it.
+Verdanturf Town
+Verdanturf Town
+The Bored Nurse
+The Bored Nurse
+The Pokémon Center's nurse challenged you to a battle. Meet her in the meadow behind the Pokémon Center.
+The Pokémon Center's nurse challenged you to a battle. Meet her in the meadow behind the Pokémon Center.
+Uproar in B Flat
+Uproar in B Flat
+A trumpet player is cornered in Rusturf Tunnel. Find a way to help him!
+A trumpet player is cornered in Rusturf Tunnel. Find a way to help him!
+Rusturf Tunnel
+Rusturf Tunnel
+The Trumpet Festival!
+The Trumpet Festival!
+Find the 4 Trumpet Brothers and join the Trumpet Festival in Evergrande City.
+Find the 4 Trumpet Brothers and join the Trumpet Festival in Evergrande City.
+Evergrande City
+Evergrande City
+No completed quests
+No completed quests
+No ongoing main quests
+No ongoing main quests
+No side quests
+No side quests
+No quests in {1}
+No quests in {1}
+Quest Log
+Quest Log
+L/R : MAP
+L/R : MAP
+Completed
+Completed
+Not Completed
+Not Completed
 \C[{1}]NEW MISSION:
 \C[{1}]NEW MISSION: 
+\C[2]Mission completed!
+\C[2]Mission completed!
+\C[2]Mission Failed...
+\C[2]Mission Failed...
 Creepy Crawlies
 Creepy Crawlies
 The Team Rocket Captain has tasked you with clearing the bug infestation in the temporary Rocket HQ in Cerulean City
@@ -27656,100 +28342,22 @@ The final feather lies back in the refuge for orphaned Pokémon...
 The final feather lies back in the refuge for orphaned Pokémon...
 Lie in the bed... Bring me the feathers...
 Lie in the bed... Bring me the feathers...
-(this map)
-(this map)
-\me[Badge get]{1} obtained the {2}!
-\me[Badge get]{1} obtained the {2}!
-\ts[]Your team is full!
-\ts[]Your team is full!
-Add to your party
-Add to your party
-Store to PC
-Store to PC
-Release a party member
-Release a party member
-Release this #{pokemon.name}
-Release this #{pokemon.name}
-Hi! We're giving out a special hat today for the holidays season. Enjoy!
-Hi! We're giving out a special hat today for the holidays season. Enjoy!
-Hi! We're giving out this fun accessory for this special day. Enjoy!
-Hi! We're giving out this fun accessory for this special day. Enjoy!
-Hats Dye Kit (${1})
-Hats Dye Kit (${1})
-Clothes Dye Kit (${1})
-Clothes Dye Kit (${1})
-\C[1]Dye Kits\C[0] can be used to dye clothes all sorts of colours!
-\C[1]Dye Kits\C[0] can be used to dye clothes all sorts of colours!
-You can use them at any time when you change clothes.
-You can use them at any time when you change clothes.
-\GWelcome! Are you interested in dyeing your outfits different colours?
-\GWelcome! Are you interested in dyeing your outfits different colours?
-I make handy \C[1]Dye Kits\C[0] from my Smeargle's paint that can be used to dye your outfits any color you want!
-I make handy \C[1]Dye Kits\C[0] from my Smeargle's paint that can be used to dye your outfits any color you want!
-\GWhat's more is that it's reusable so you can go completely wild with it if you want! Are you interested?
-\GWhat's more is that it's reusable so you can go completely wild with it if you want! Are you interested?
-Oh, you don't have enough money...
-Oh, no tienes suficiente dinero...
-\G\PN purchased the dye kit.
-\G\PN purchased the dye kit.
-\GHere you go! Have fun dyeing your hats!
-\GHere you go! Have fun dyeing your hats!
-\GHere you go! Have fun dyeing your clothes!
-\GHere you go! Have fun dyeing your clothes!
-You can use \C[1]Dye Kits\C[0] at any time when you change clothes.
-You can use \C[1]Dye Kits\C[0] at any time when you change clothes.
-Neutral
-Neutral
-The game has detected that your previous savefile was from an earlier build of the game.
-The game has detected that your previous savefile was from an earlier build of the game.
-In order to play this version, your Pokémon need to be converted to their new Pokédex numbers.
-In order to play this version, your Pokémon need to be converted to their new Pokédex numbers. 
-If you were playing Randomized mode, the trainers and wild Pokémon will also need to be reshuffled.
-If you were playing Randomized mode, the trainers and wild Pokémon will also need to be reshuffled.
-Convert your Pokémon?
-Convert your Pokémon?
-What is the last version of the game you played?
-What is the last version of the game you played?
-4.7 (September 2020)
-4.7        (September 2020)
-4.5-4.6.2 (2019-2020)
-4.5-4.6.2        (2019-2020)
-4.2-4.4 (2019)
-4.2-4.4           (2019)
-4.0-4.1 (2018-2019)
-4.0-4.1           (2018-2019)
-3.x or earlier (2015-2018)
-3.x or earlier (2015-2018)
-Invalid Pokémon detected in box {1}:<<n>>num. {2}, {3} (lv. {4})
-Invalid Pokémon detected in box {1}:<<n>> num. {2}, {3} (lv. {4})
-Delete Pokémon and continue?
-Delete Pokémon and continue?
-Conversion cancelled. Please restart the game.
-Conversion cancelled. Please restart the game.
-When you last played the game, where there any gen 2 Pokémon?
-When you last played the game, where there any gen 2 Pokémon?
-Easy
-Fácil
-Hard
-Difícil
-Normal
-Normal
-The game could not open the link in the browser
-The game could not open the link in the browser
-The link has been copied to your clipboard instead
-The link has been copied to your clipboard instead
 Trade {1} away?
 Trade {1} away?
 Some sprites appear to be missing from your game.<<n>>Would you like the game to download sprites automatically while playing? (this requires an internet connection)
 Some sprites appear to be missing from your game. <<n>>Would you like the game to download sprites automatically while playing? (this requires an internet connection)
 Data files updated. New sprites will now be downloaded as you play!
-Archivos de datos actualizados. ¡Los nuevos sprites se descargarán mientras juegas!
+Data files updated. New sprites will now be downloaded as you play!
 A new spritepack was released. Would you like to let the game update your game's sprites automatically?
-Se ha publicado un nuevo paquete de sprites. ¿Quieres que el juego actualice automáticamente los sprites?
+A new spritepack was released. Would you like to let the game update your game's sprites automatically?
+Unknown Location
+Unknown Location
 ({1}, {2})
 ({1}, {2})
+Secret Base
+Secret Base
 Experimental options
-Opciones experimentales
+Experimental options
 Expert mode (beta)
 Expert mode (beta)
 Changes all of the trainer teams to make them as challenging as possible!
@@ -27759,47 +28367,51 @@ No levels mode
 All Pokémon use their base stats, regardless of levels.
 All Pokémon use their base stats, regardless of levels.
 Reversed mode
-Modo Invertido
+Reversed mode
 Inverts the fusions of all the trainers in the game.
 Inverts the fusions of all the trainers in the game.
 Classic
-Clásico
+Classic
 Remix Mode
-Modo Remix
+Remix Mode
 Randomized Mode
-Modo Aleatorio
+Randomized Mode
 Legendary Mode
-Modo Legendario
+Legendary Mode
 Expert Mode
-Modo Experto
+Expert Mode
 Which mode would you like to play?
-¿Qué modo te gustaría jugar?
+Which mode would you like to play?
 Play Classic Mode
-Jugar modo clásico
+Play Classic Mode
 \C[1]Classic\C[0] is the default game mode. All of the player teams and encounters are based on the original games. Every Pokémon is still available.
-\C[1]Clásico\C[0] es el modo de juego predeterminado. Todos los equipos y encuentros del jugador se basan en los juegos originales. Todos los Pokémon siguen estando disponibles.
+\C[1]Classic\C[0] is the default game mode. All of the player teams and encounters are based on the original games. Every Pokémon is still available.
 Play Remix Mode
-Jugar Modo Remix
+Play Remix Mode
 \C[1]Remix mode\C[0] is a special mode made by some members of the community that changes all of the trainer teams and wild encounters to showcase more Pokémon from the newer generations.
-\C[1]Modo remix\C[0] es un modo especial creado por algunos miembros de la comunidad que cambia todos los equipos de entrenadores y encuentros salvajes para mostrar más Pokémon de las generaciones más nuevas.
+\C[1]Remix mode\C[0] is a special mode made by some members of the community that changes all of the trainer teams and wild encounters to showcase more Pokémon from the newer generations.
 Play Randomized Mode
-Jugar Modo Aleatorio
+Play Randomized Mode
 In \C[1]Randomized mode\C[0] all of the trainers, wild encounters and items can be randomized. You'll get to customize exactly how you want everything to be randomized.
-En \C[1]Modo Aleatorio\C[0], todos los entrenadores, encuentros salvajes y objetos pueden ser aleatorizados. Podrás personalizar exactamente cómo quieres que todo sea aleatorizado.
+In \C[1]Randomized mode\C[0] all of the trainers, wild encounters and items can be randomized. You'll get to customize exactly how you want everything to be randomized.
 Play Legendary Mode
-Jugar Modo Legendario
+Play Legendary Mode
 In \C[1]Legendary mode\C[0], every trainer Pokémon gets fused with a legendary Pokémon. You also start with an egg of every legendary Pokémon in your PC and get a legendary starter.
-En el \C[1]modo Legendario\C[0], todos los Pokémon de los entrenadores se fusionan con un Pokémon legendario.
+In \C[1]Legendary mode\C[0], every trainer Pokémon gets fused with a legendary Pokémon. You also start with an egg of every legendary Pokémon in your PC and get a legendary starter.
 Play Expert Mode
-Jugar Modo Experto
+Play Expert Mode
 \C[1]Expert mode\C[0] mode is similar to Classic mode, but it changes all of the trainer teams to make them as challenging as possible. This is for veteran Pokémon trainers only!
-El \C[1]modo experto\C[0] es similar al modo clásico, pero cambia todos los equipos de entrenadores para hacerlos lo más desafiantes posible. ¡Este es solo para entrenadores Pokémon veteranos!
+\C[1]Expert mode\C[0] mode is similar to Classic mode, but it changes all of the trainer teams to make them as challenging as possible. This is for veteran Pokémon trainers only!
 Update sprites manually
 Update sprites manually
 Clear sprite cache
 Clear sprite cache
-Reset selected sprites
-Reset selected sprites
+Reset displayed alt sprites
+Reset displayed alt sprites
+Export selected Pokédex sprites
+Export selected Pokédex sprites
+Import selected Pokédex sprites preferences
+Import selected Pokédex sprites preferences
 Would you like to redownload the spritepack's data to make sure that all sprites are correctly updated?
 Would you like to redownload the spritepack's data to make sure that all sprites are correctly updated?
 Reset the chosen alternate sprites set for every Pokémon?
@@ -27809,13 +28421,17 @@ Alt sprites substitutions have been reset.
 Clear the temporary sprites cache for every Pokémon? Every sprite will be fully reloaded the next time they are shown.
 Clear the temporary sprites cache for every Pokémon? Every sprite will be fully reloaded the next time they are shown.
 The sprites cache was cleared.
-La caché de sprites fue limpiada.
+The sprites cache was cleared.
+You can export your selected sprites in the Pokédex to share them to a friend or to transfer them from PIF1 and PIF2.
+You can export your selected sprites in the Pokédex to share them to a friend or to transfer them from PIF1 and PIF2.
+This will generate a file in the Data/sprites folder which you will need to copy to the other game to import. Would you like to proceed?
+This will generate a file in the Data/sprites folder which you will need to copy to the other game to import. Would you like to proceed?
 Select all
 Select all
-Selected {1} Pokémon.
-Selected {1} Pokémon.
 Sort
 Sort
+Selected {1} Pokémon.
+Selected {1} Pokémon.
 There's not enough room!
 There's not enough room!
 Release {1} Pokémon?
@@ -27842,6 +28458,12 @@ Z to A
 Z to A
 By nickname
 By nickname
+By base stats
+By base stats
+Lowest to Highest BST
+Lowest to Highest BST
+Highest to Lowest BST
+Highest to Lowest BST
 By level
 By level
 Lowest to Highest level
@@ -27916,190 +28538,58 @@ Autosave every how many steps?
 Autosave every how many steps?
 Warning: Choosing a low number of steps may decrease performance.
 Warning: Choosing a low number of steps may decrease performance.
-Music Volume
-Music Volume
-Sets the volume for background music
-Sets the volume for background music
-SE Volume
-SE Volume
-Sets the volume for sound effects
-Sets the volume for sound effects
-Default Movement
-Default Movement
-Walking
-Walking
-Default to walking when not holding the Run key
-Default to walking when not holding the Run key
-Default to running when not holding the Run key
-Default to running when not holding the Run key
-Text Speed
-Text Speed
-Sets the speed at which the text is displayed
-Sets the speed at which the text is displayed
-Difficulty
-Difficulty
-All Pokémon in the team gain experience. Otherwise the same as Normal difficulty.
-All Pokémon in the team gain experience. Otherwise the same as Normal difficulty.
-The default experience. Levels are similar to the official games.
-The default experience. Levels are similar to the official games.
-Higher levels and smarter AI. All trainers have access to healing items.
-Higher levels and smarter AI. All trainers have access to healing items.
-Autosave
-Autosave
-Automatically saves when healing at Pokémon centers
-Automatically saves when healing at Pokémon centers
-Speed-up type
-Speed-up type
-Hold
-Hold
-Toggle
-Toggle
-Pick how you want speed-up to be enabled
-Pick how you want speed-up to be enabled
-Speed-up speed
-Speed-up speed
-Sets by how much to speed up the game when holding the speed up button (Default: 3x)
-Sets by how much to speed up the game when holding the speed up button (Default: 3x)
-Download data
-Download data
-Automatically download missing custom sprites and Pokédex entries from the internet
-Automatically download missing custom sprites and Pokédex entries from the internet
-Autogen dex entries
-Autogen dex entries
-Fusions without a custom Pokédex entry display nothing.
-Fusions without a custom Pokédex entry display nothing.
-Fusions without a custom Pokédex entry display an auto-generated placeholder.
-Fusions without a custom Pokédex entry display an auto-generated placeholder.
-Sprite categories
-Sprite categories
-Anything
-Anything
-Auto-selected sprites follow standard Pokémon sprites rules.
-Auto-selected sprites follow standard Pokémon sprites rules.
-Auto-selected sprites can be anything, including references, memes, jokes, etc.
-Auto-selected sprites can be anything, including references, memes, jokes, etc.
-Custom Eggs
-Custom Eggs
-Eggs have different sprites for each Pokémon.
-Eggs have different sprites for each Pokémon.
-Eggs all use the same sprite.
-Eggs all use the same sprite.
-Battle type
-Battle type
-1v1
-1v1
-2v2
-2v2
-3v3
-3v3
-Sets the number of Pokémon sent out in battles (when possible)
-Sets the number of Pokémon sent out in battles (when possible)
-Battle Effects
-Battle Effects
-Display move animations in battles
-Display move animations in battles
-Battle Style
-Battle Style
-Set
-Set
-Prompts to switch Pokémon before the opponent sends out the next one
-Prompts to switch Pokémon before the opponent sends out the next one
-No prompt to switch Pokémon before the opponent sends the next one
-No prompt to switch Pokémon before the opponent sends the next one
-Speech Frame
-Speech Frame
-Text Entry
-Text Entry
-Cursor
-Cursor
-Keyboard
-Keyboard
-Enter text by selecting letters on the screen
-Enter text by selecting letters on the screen
-Enter text by typing on the keyboard
-Enter text by typing on the keyboard
-Fusion Icons
-Fusion Icons
-Combined
-Combined
-DNA
-DNA
-Combines both Pokémon's party icons
-Combines both Pokémon's party icons
-Uses the same party icon for all fusions
-Uses the same party icon for all fusions
-Battle Type Icons
-Battle Type Icons
-Display the enemy Pokémon type in battles.
-Display the enemy Pokémon type in battles.
-Screen Size
-Screen Size
-S
-S
-M
-M
-L
-L
-XL
-XL
-Full
-Full
-Sets the size of the screen
-Sets the size of the screen
-Quick Surf
-Quick Surf
-Start surfing automatically when interacting with water
-Start surfing automatically when interacting with water
-Level caps
-Level caps
-Prevents leveling above the next gym leader's highest leveled Pokemon
-Prevents leveling above the next gym leader's highest leveled Pokemon
-Device
-Device
-Mobile
-Mobile
-Disables some options that aren't supported when playing on mobile.
-Disables some options that aren't supported when playing on mobile.
-Trainers
-Trainers
-Remix
-Remix
-Use trainers from Classic Mode for Legendary Mode
-Use trainers from Classic Mode for Legendary Mode
-Use trainers from Remix Mode for Legendary Mode
-Use trainers from Remix Mode for Legendary Mode
-The savefile's lowest selected difficulty was changed to #{getDisplayDifficulty()}.
-The savefile's lowest selected difficulty was changed to #{getDisplayDifficulty()}.
-The game was mode changed - Reshuffling trainers.
-The game was mode changed - Reshuffling trainers.
-Downloaded file {1} to {2}
-<<n>>Downloaded file {1} to {2}
-Failed to download file {1}
-No se pudo descargar el archivo {1}
 The save file is corrupt. The most recent backup will be loaded instead.
 The save file is corrupt. The most recent backup will be loaded instead.<<n>>
 A save file is corrupt, or is incompatible with this game.
-Un archivo guardado está dañado o es incompatible con este juego.
+A save file is corrupt, or is incompatible with this game.
 No backup was found. Do you want to delete that save file? The game will exit afterwards either way.
-No se encontró ninguna copia de seguridad. ¿Quieres eliminar ese archivo guardado? El juego saldrá después de cualquier manera.
+No backup was found. Do you want to delete that save file? The game will exit afterwards either way.
 The save data was deleted.
-Los datos guardados fueron eliminados.
+The save data was deleted.
 The save data could not be deleted.
-Los datos guardados no se pudieron eliminar.
+The save data could not be deleted.
 Version {1} is now available! Please use the game's installer to download the newest version. Check the Discord for more information.
-¡La versión {1} ya está disponible! Utilice el instalador del juego para descargar la versión más reciente. Consulte Discord para obtener más información.
+Version {1} is now available! Please use the game's installer to download the newest version. Check the Discord for more information.
 {1} new custom sprites were imported into the game
-Se importaron {1} nuevos sprites personalizados al juego
+{1} new custom sprites were imported into the game
+Game Feedback Form
+Game Feedback Form
+Wiki
+Wiki
+Savefile management
+Savefile management
+Load an older backup
+Load an older backup
+Delete this savefile
+Delete this savefile
+\C[2]WARNING: You are trying to delete {1}.
+\C[2]WARNING: You are trying to delete {1}.
+\C[2]This operation cannot be undone. Do you still wish to continue?
+\C[2]This operation cannot be undone. Do you still wish to continue?
+Type DELETE to continue.
+Type DELETE to continue.
+The game will now close automatically.
+The game will now close automatically.
+The savefile was NOT deleted.
+The savefile was NOT deleted.
+No backup folder found for this save file.
+No backup folder found for this save file.
+No backups found for this save file.
+No backups found for this save file.
+Load the backup from {1}?
+Load the backup from {1}?
+This backup appears to be corrupt and could not be loaded.
+This backup appears to be corrupt and could not be loaded.
 Save to #{$Trainer.save_slot}
-Guardar en #{$Trainer.save_slot}
+Save to #{$Trainer.save_slot}
 Save to another slot
-Guardar en otra ranura
+Save to another slot
 Don't save
-No guardar
+Don't save
 Are you sure you want to overwrite the save in {1}?
-¿Está seguro de que desea sobrescribir el guardado en {1}?
+Are you sure you want to overwrite the save in {1}?
 Which slot to save in?
-¿En qué ranura guardar?
+Which slot to save in?
 <ac><c3=3050C8,D0D0C8>(empty)</c3></ac>
 <ac><c3=3050C8,D0D0C8>(empty)</c3></ac>
 %x
@@ -28114,30 +28604,1868 @@ Time<r>{1}m<br>
 Time<r>{1}m<br>
 %Y%m%d%H%M%S
 %Y%m%d%H%M%S
+Optional Challenge Options
+Optional Challenge Options
+Optional challenge options
+Optional challenge options
+Level caps
+Level caps
+Prevents leveling above the next gym leader's highest leveled Pokemon.
+Prevents leveling above the next gym leader's highest leveled Pokemon.
+Battle Style
+Battle Style
+Set
+Set
+Prompts to switch Pokémon before the opponent sends out the next one.
+Prompts to switch Pokémon before the opponent sends out the next one.
+No prompt to switch Pokémon before the opponent sends the next one.
+No prompt to switch Pokémon before the opponent sends the next one.
+No reviving
+No reviving
+Fainted Pokémon cannot be revived.
+Fainted Pokémon cannot be revived.
+Limited Catch
+Limited Catch
+You're only allowed to catch the first X Pokémon on every route.
+You're only allowed to catch the first X Pokémon on every route.
+No heals (battles)
+No heals (battles)
+Healing items cannot be used during battles (excluding held berries).
+Healing items cannot be used during battles (excluding held berries).
+No heals (overworld)
+No heals (overworld)
+Healing items cannot be used in the overworld.
+Healing items cannot be used in the overworld.
+No Pokécenters
+No Pokécenters
+Pokémon centers will not heal your Pokémon.
+Pokémon centers will not heal your Pokémon.
+System & Audio
+System & Audio
+Volume, UI, Autosave, etc.
+Volume, UI, Autosave, etc.
+Gameplay
+Gameplay
+Difficulty, movement, etc.
+Difficulty, movement, etc.
+Visuals & Content
+Visuals & Content
+Sprites, Pokédex entries, etc.
+Sprites, Pokédex entries, etc.
+Challenge Options
+Challenge Options
+Set optional self-imposed challenges.
+Set optional self-imposed challenges.
+Randomizer Options
+Randomizer Options
+Set how to randomize the game.
+Set how to randomize the game.
+The savefile's lowest selected difficulty was changed to {1}.
+The savefile's lowest selected difficulty was changed to {1}.
+The game was mode changed - Reshuffling trainers.
+The game was mode changed - Reshuffling trainers.
+Gameplay Options
+Gameplay Options
+Gameplay options
+Gameplay options
+Default Movement
+Default Movement
+Walking
+Walking
+Default to walking when not holding the Run key
+Default to walking when not holding the Run key
+Default to running when not holding the Run key
+Default to running when not holding the Run key
+All Pokémon in the team gain experience. Otherwise the same as Normal difficulty.
+All Pokémon in the team gain experience. Otherwise the same as Normal difficulty.
+The default experience. Levels are similar to the official games.
+The default experience. Levels are similar to the official games.
+Higher levels and smarter AI. All trainers have access to healing items.
+Higher levels and smarter AI. All trainers have access to healing items.
+Trainer Pokémon levels are 10% lower
+Trainer Pokémon levels are 10% lower
+Trainer Pokémon levels are 10% higher
+Trainer Pokémon levels are 10% higher
+Difficulty
+Difficulty
+Overworld Encounters
+Overworld Encounters
+Pokémon are encountered in the overworld.
+Pokémon are encountered in the overworld.
+Pokémon are only encountered in tall grass, etc.
+Pokémon are only encountered in tall grass, etc.
+Battle type
+Battle type
+1v1
+1v1
+2v2
+2v2
+3v3
+3v3
+Sets the number of Pokémon sent out in battles (when possible)
+Sets the number of Pokémon sent out in battles (when possible)
+Speed-up type
+Speed-up type
+Hold
+Hold
+Toggle
+Toggle
+Pick how you want speed-up to be enabled
+Pick how you want speed-up to be enabled
+Speed-up (Overworld)
+Speed-up (Overworld)
+Sets by how much to speed up the game when holding the speed up button when walking in the overworld.
+Sets by how much to speed up the game when holding the speed up button when walking in the overworld.
+Speed-up (Battles)
+Speed-up (Battles)
+Sets by how much to speed up the game when holding the speed up button in battles.
+Sets by how much to speed up the game when holding the speed up button in battles.
+Prompt Nicknames
+Prompt Nicknames
+Ask to set a nickname when catching a new Pokémon.
+Ask to set a nickname when catching a new Pokémon.
+Don't ask to set a nickname when catching a new Pokémon.
+Don't ask to set a nickname when catching a new Pokémon.
+Quick HMs
+Quick HMs
+Prompt to use HMs when interacting with an obstacle
+Prompt to use HMs when interacting with an obstacle
+Use HMs automatically when interacting with an obstacle
+Use HMs automatically when interacting with an obstacle
+Trainers
+Trainers
+Remix
+Remix
+Use trainers from Classic Mode for Legendary Mode
+Use trainers from Classic Mode for Legendary Mode
+Use trainers from Remix Mode for Legendary Mode
+Use trainers from Remix Mode for Legendary Mode
+Visuals & Content Options
+Visuals & Content Options
+Autogen dex entries
+Autogen dex entries
+Fusions without a custom Pokédex entry display nothing.
+Fusions without a custom Pokédex entry display nothing.
+Fusions without a custom Pokédex entry display an auto-generated placeholder.
+Fusions without a custom Pokédex entry display an auto-generated placeholder.
+Random Sprites
+Random Sprites
+The game uses the same sprite each time you encounter the same species.
+The game uses the same sprite each time you encounter the same species.
+A random sprite is selected each time you encounter a Pokémon.
+A random sprite is selected each time you encounter a Pokémon.
+Joke Sprites
+Joke Sprites
+Auto-selected sprites follow standard Pokémon sprites rules.
+Auto-selected sprites follow standard Pokémon sprites rules.
+Auto-selected sprites can be anything, including references, memes, jokes, etc.
+Auto-selected sprites can be anything, including references, memes, jokes, etc.
+Custom Eggs
+Custom Eggs
+Eggs have different sprites for each Pokémon.
+Eggs have different sprites for each Pokémon.
+Eggs all use the same sprite.
+Eggs all use the same sprite.
+Fusion Icons
+Fusion Icons
+Combined
+Combined
+DNA
+DNA
+Combines both Pokémon's party icons
+Combines both Pokémon's party icons
+Uses the same party icon for all fusions
+Uses the same party icon for all fusions
+Battle Type Icons
+Battle Type Icons
+Display the enemy Pokémon type in battles.
+Display the enemy Pokémon type in battles.
+Battle Animations
+Battle Animations
+Display move animations in battles
+Display move animations in battles
+Battle Movement
+Battle Movement
+Sprites move up and down slightly during battles.
+Sprites move up and down slightly during battles.
+Sprites are completely static during battles.
+Sprites are completely static during battles.
+System & Audio Options
+System & Audio Options
+System & Audio options
+System & Audio options
+Text Entry
+Text Entry
+Cursor
+Cursor
+Keyboard
+Keyboard
+Enter text by selecting letters on the screen
+Enter text by selecting letters on the screen
+Enter text by typing on the keyboard
+Enter text by typing on the keyboard
+Music Volume
+Music Volume
+Sets the volume for background music
+Sets the volume for background music
+SE Volume
+SE Volume
+Sets the volume for sound effects
+Sets the volume for sound effects
+Text Speed
+Text Speed
+Sets the speed at which the text is displayed
+Sets the speed at which the text is displayed
+Speech Frame
+Speech Frame
+Screen Size
+Screen Size
+S
+S
+M
+M
+L
+L
+XL
+XL
+Full
+Full
+Sets the size of the screen
+Sets the size of the screen
+Autosave
+Autosave
+Automatically saves when healing at Pokémon centers
+Automatically saves when healing at Pokémon centers
+Download data
+Download data
+Automatically download missing custom sprites and Pokédex entries from the internet
+Automatically download missing custom sprites and Pokédex entries from the internet
+Device
+Device
+Mobile
+Mobile
+The intended device on which to play the game.
+The intended device on which to play the game.
+Disables some options that aren't supported when playing on mobile.
+Disables some options that aren't supported when playing on mobile.
 The game is currently on {1} difficulty.
 The game is currently on {1} difficulty.
 Select a new difficulty
 Select a new difficulty
 Random
-Aleatorio
+Random
 Expert
-Experto
+Expert
 test list: {1}
 test list: {1}
 {1} -> expected: {2}, result: {3}\t{4}
 {1} -> expected: {2}, result: {3}\t{4}
-It's the weather channel! Let's see how things are looking out today.
-It's the weather channel! Let's see how things are looking out today.
-It's showing the local news. There's a berry-growing contest going on in Petalburg Town!
-It's showing the local news. There's a berry-growing contest going on in Petalburg Town!
-It’s a rerun of PokéChef Deluxe. Nothing important on the news right now.
-It’s a rerun of PokéChef Deluxe. Nothing important on the news right now.
+\hsAwesome! And how many Heart Scales would you like to convert into Heart Coins?
+\hsAwesome! And how many Heart Scales would you like to convert into Heart Coins?
+\hsPerfect!
+\hsPerfect!
+\hs{1} handed over the Heart Scales
+\hs{1} handed over the Heart Scales
+Here you go! I converted your Heart Scales into {1} \C[1]{2}\C[0]!
+Here you go! I converted your Heart Scales into {1} \C[1]{2}\C[0]!
+Come back whenever you find more Heart Scales to convert!
+Come back whenever you find more Heart Scales to convert!
+If you find some Heart Scales, bring them to me and I'll convert them for you!
+If you find some Heart Scales, bring them to me and I'll convert them for you!
+The Gym
+The Gym
+The Tunnels
+The Tunnels
+The Pokémon Center
+The Pokémon Center
+The Bicycle Shop
+The Bicycle Shop
+The PokéMart
+The PokéMart
+The Clothing Boutique
+The Clothing Boutique
+The Exp. Lab
+The Exp. Lab
+TV Mauville
+TV Mauville
+The Game Corner
+The Game Corner
+The Pokéball Workshop
+The Pokéball Workshop
+Never mind
+Never mind
+The Gym Leader in Mauville City is \C[1]Wattson\C[0]. He specializes in Electric-type Pokémon.
+The Gym Leader in Mauville City is \C[1]Wattson\C[0]. He specializes in Electric-type Pokémon.
+His Gym is located in the northwest part of the city. You can find it by exiting straight ahead and following the road, then turning left at the Pokémon Center.
+His Gym is located in the northwest part of the city. You can find it by exiting straight ahead and following the road, then turning left at the Pokémon Center.
+Mauville has an interconnected network of tunnels to make it easy to get around the city. You're in them right now!
+Mauville has an interconnected network of tunnels to make it easy to get around the city. You're in them right now!
+There is also a lower level that you can access through the stairs on the left.
+There is also a lower level that you can access through the stairs on the left.
+The Pokémon Center is right in the middle of the city!
+The Pokémon Center is right in the middle of the city!
+You can find it easily by exiting the tunnel straight ahead and following the road.
+You can find it easily by exiting the tunnel straight ahead and following the road.
+Rydel's bicycle shop is one of the most popular stores in the city! The owner is known to be very generous with Pokémon Trainers.
+Rydel's bicycle shop is one of the most popular stores in the city! The owner is known to be very generous with Pokémon Trainers.
+To get to it, just exit the tunnel straight ahead and follow the road, then turn right at the Pokémon Center. You can't miss it!
+To get to it, just exit the tunnel straight ahead and follow the road, then turn right at the Pokémon Center. You can't miss it!
+The Mauville Poké Mart sells a variety of items for Trainers. One of their top-selling items is the Cell Battery!
+The Mauville Poké Mart sells a variety of items for Trainers. One of their top-selling items is the Cell Battery!
+It's located right outside the tunnel, straight ahead.
+It's located right outside the tunnel, straight ahead.
+The Clothing Boutique is a popular store in Mauville. They sell several exclusive clothes and even offer \C[1]Dye kits\C[0] that can be used to dye your clothes and hats. It's a must-see!
+The Clothing Boutique is a popular store in Mauville. They sell several exclusive clothes and even offer \C[1]Dye kits\C[0] that can be used to dye your clothes and hats. It's a must-see!
+It's located right outside the tunnel, straight ahead, then to the right.
+It's located right outside the tunnel, straight ahead, then to the right.
+The Exp. Lab is a high-tech laboratory where they can make \C[1]Experience Candies\C[0] for your Pokémon.
+The Exp. Lab is a high-tech laboratory where they can make \C[1]Experience Candies\C[0] for your Pokémon.
+If you'd like to check it out, it's located on the upper level behind the gym, in the northernmost part of the city.
+If you'd like to check it out, it's located on the upper level behind the gym, in the northernmost part of the city.
+Most of the region's TV broadcasts are filmed right here at the TV Mauville studios.
+Most of the region's TV broadcasts are filmed right here at the TV Mauville studios. 
+The studios are free to tour! To find it, just take a left in the tunnel and head to the lower level.
+The studios are free to tour! To find it, just take a left in the tunnel and head to the lower level.
+Mauville is very well known for its Game Corner. People come from all over the region to gamble!
+Mauville is very well known for its Game Corner. People come from all over the region to gamble!
+The fastest way there is to take the stairs to the lower level of tunnel on the left and then head outside!
+The fastest way there is to take the stairs to the lower level of tunnel on the left and then head outside!
+The Pokéball Workshop is a family-owned workshop that can swap your Pokémon's Pokéball for a different one.
+The Pokéball Workshop is a family-owned workshop that can swap your Pokémon's Pokéball for a different one.
+You can find the workshop by taking a left and heading to the lower level of tunnel.
+You can find the workshop by taking a left and heading to the lower level of tunnel.
 Do you choose this Pokémon?
 Do you choose this Pokémon?
+This is the \C[1]Transfer Box\C[0].
+This is the \C[1]Transfer Box\C[0].
+This box can be used to transfer Pokémon between \C[1]Pokémon Infinite Fusion\C[0] and \C[1]Pokémon Infinite Fusion: Hoenn\C[0] or between savefiles.
+This box can be used to transfer Pokémon between \C[1]Pokémon Infinite Fusion\C[0] and \C[1]Pokémon Infinite Fusion: Hoenn\C[0] or between savefiles.
+Any Pokémon that is placed in this box will be accessible from every savefile of either game. You can deposit or withdraw Pokémon just like you would for any other box.
+Any Pokémon that is placed in this box will be accessible from every savefile of either game. You can deposit or withdraw Pokémon just like you would for any other box.
 Transfer Box
 Transfer Box
+Transfer Box (Off)
+Transfer Box (Off)
+The Transfer Box is disabled because your savefile is flagged as randomized. You can still use it as a normal PC box, but the Pokémon you put in it won't be available in your other savefiles
+The Transfer Box is disabled because your savefile is flagged as randomized. You can still use it as a normal PC box, but the Pokémon you put in it won't be available in your other savefiles
+\C[2]The Transfer Box is disabled because your savefile is flagged as randomized. You can still use it as a normal PC box, but the Pokémon you put in it won't be available in your other savefiles
+\C[2]The Transfer Box is disabled because your savefile is flagged as randomized. You can still use it as a normal PC box, but the Pokémon you put in it won't be available in your other savefiles
 Moving Pokémon in and out of the transfer box will save the game automatically. Is this okay?
 Moving Pokémon in and out of the transfer box will save the game automatically. Is this okay?
+You don't have any berries!
+You don't have any berries!
+Starting up the Berry Blender...
+Starting up the Berry Blender...
+Please select a berry from your bag to put in the Berry Blender.
+Please select a berry from your bag to put in the Berry Blender.
+Do you want to choose a berry?
+Do you want to choose a berry?
+Would you like to blend another berry?
+Would you like to blend another berry?
+Please select some berries from your bag to put in the Berry Blender.
+Please select some berries from your bag to put in the Berry Blender.
+You created {1} {2} Pokéblocks{3}!
+You created {1} {2} Pokéblocks{3}!
+Would you like to blend more berries?
+Would you like to blend more berries?
+Is it OK to throw away the {1}?
+Is it OK to throw away the {1}?
+Threw away the {1}.
+Threw away the {1}.
+Change flavor
+Change flavor
+Change feel
+Change feel
+Choose new {1} value (max. 99).
+Choose new {1} value (max. 99).
+Choose new Feel value (max. 255).
+Choose new Feel value (max. 255).
+CLOSE CASE
+CLOSE CASE
+{1} can't eat anymore.
+{1} can't eat anymore.
+{1} can't eat anymore Pokéblocks.
+{1} can't eat anymore Pokéblocks.
+{1} can't eat anymore of this type of Pokéblock.
+{1} can't eat anymore of this type of Pokéblock.
+CONDITION
+CONDITION
+♂
+♂
+♀
+♀
+Feed {1} the {2}?
+Feed {1} the {2}?
+{1} ate the {2}!
+{1} ate the {2}!
+Give Pokéblocks
+Give Pokéblocks
+Make Pokéblocks
+Make Pokéblocks
+View Condition
+View Condition
+Put Away Kit
+Put Away Kit
+Blend these berries?
+Blend these berries?
+Give up on blending?
+Give up on blending?
+Blend this berry?
+Blend this berry?
+You don't have any more of these to throw in.
+You don't have any more of these to throw in.
+Throw In
+Throw In
+Throw {1} in the blender?
+Throw {1} in the blender?
+Indigo
+Indigo
+LiteBlue
+LiteBlue
+Olive
+Olive
+Gold
+Gold
+Rainbow
+Rainbow
+You don't have any Pokéblocks!
+You don't have any Pokéblocks!
+Pokeblock/Contest Options...
+Pokeblock/Contest Options...
+Control Pokeblocks, Contest Options, etc.
+Control Pokeblocks, Contest Options, etc.
+Pokeblocks...
+Pokeblocks...
+Manipulate Pokeblocks
+Manipulate Pokeblocks
+Give Pokeblocks
+Give Pokeblocks
+Give the player simple Pokeblocks
+Give the player simple Pokeblocks
+Pokeblocks given
+Pokeblocks given
+<ac>{1} {2} Contest Winner:<<n>>{3} & {4}</ac>
+<ac>{1} {2} Contest Winner:<<n>>{3} & {4}</ac>
+Cool
+Cool
+Coolness
+Coolness
+Cute
+Cute
+Cuteness
+Cuteness
+Smart
+Smart
+Smartness
+Smartness
+Tough
+Tough
+Toughness
+Toughness
+Lisia
+Lisia
+Ali
+Ali
+Milotic
+Milotic
+Agatha
+Agatha
+Bulby
+Bulby
+Alec
+Alec
+Slokth
+Slokth
+Beau
+Beau
+Futterbe
+Futterbe
+Caitlin
+Caitlin
+Wagil
+Wagil
+Cale
+Cale
+Digle
+Digle
+Chance
+Chance
+Rikelec
+Rikelec
+Colby
+Colby
+Totdil
+Totdil
+Edith
+Edith
+Zigoon
+Zigoon
+Evan
+Evan
+Duster
+Duster
+Grant
+Grant
+Smish
+Smish
+Jimmy
+Jimmy
+Poochy
+Poochy
+Kay
+Kay
+Pideot
+Pideot
+Kelsey
+Kelsey
+Dots
+Dots
+Kylie
+Kylie
+Baledy
+Baledy
+Liam
+Liam
+Birdly
+Birdly
+Madison
+Madison
+Tatay
+Tatay
+Mariah
+Mariah
+Ronar
+Ronar
+Melanie
+Melanie
+Gulin
+Gulin
+Milo
+Milo
+Tarvitar
+Tarvitar
+Morris
+Morris
+Mahita
+Mahita
+Paige
+Paige
+Gulwee
+Gulwee
+Raymond
+Raymond
+Ninda
+Ninda
+Russell
+Russell
+ZUTZU
+ZUTZU
+Sydney
+Sydney
+Whiris
+Whiris
+Aliyah
+Aliyah
+Bliss
+Bliss
+Ariana
+Ariana
+Kecon
+Kecon
+Ashton
+Ashton
+Golden
+Golden
+Audrey
+Audrey
+Swaby
+Swaby
+Avery
+Avery
+Noone
+Noone
+Bobby
+Bobby
+Duodo
+Duodo
+Carson
+Carson
+Corpy
+Corpy
+Cassidy
+Cassidy
+Shrand
+Shrand
+Claire
+Claire
+Pinchin
+Pinchin
+Devin
+Devin
+Snubbins
+Snubbins
+Diego
+Diego
+Hitemon
+Hitemon
+Jada
+Jada
+Seeley
+Seeley
+Karina
+Karina
+Relia
+Relia
+Katrina
+Katrina
+Tado
+Tado
+Luke
+Luke
+Browlo
+Browlo
+Miles
+Miles
+Spinin
+Spinin
+Morgan
+Morgan
+Toybal
+Toybal
+Natalia
+Natalia
+Kidlek
+Kidlek
+Raul
+Raul
+Fetchin
+Fetchin
+Sandra
+Sandra
+Boboach
+Boboach
+Lenum
+Lenum
+Tylor
+Tylor
+Dreavis
+Dreavis
+Willie
+Willie
+Nacac
+Nacac
+Zeek
+Zeek
+Drowzin
+Drowzin
+Alisha
+Alisha
+Tifly
+Tifly
+Bryce
+Bryce
+Pinoc
+Pinoc
+Claudia
+Claudia
+Shifty
+Shifty
+Coltin
+Coltin
+Cubin
+Cubin
+Corbin
+Corbin
+Abso
+Abso
+Darryl
+Darryl
+Vipes
+Vipes
+Devon
+Devon
+Milkan
+Milkan
+Elias
+Elias
+Ninas
+Ninas
+Ellie
+Ellie
+Hitmon
+Hitmon
+Emilio
+Emilio
+Chokern
+Chokern
+Felicia
+Felicia
+Caster
+Caster
+Francis
+Francis
+Yena
+Yena
+Gracie
+Gracie
+Eggsor
+Eggsor
+Jade
+Jade
+Welow
+Welow
+Jamie
+Jamie
+Diltot
+Diltot
+Jorge
+Jorge
+Doomond
+Doomond
+Karla
+Karla
+Lombe
+Lombe
+Kiara
+Kiara
+Khankan
+Khankan
+Lacey
+Lacey
+Lunone
+Lunone
+Marcus
+Marcus
+Surtle
+Surtle
+Noel
+Noel
+Karpag
+Karpag
+Ronnie
+Ronnie
+Lairn
+Lairn
+Saul
+Saul
+Kingsea
+Kingsea
+Selena
+Selena
+Merail
+Merail
+Aubrey
+Aubrey
+Blossom
+Blossom
+Camille
+Camille
+Utan
+Utan
+Clara
+Clara
+Gepito
+Gepito
+Deon
+Deon
+Pedos
+Pedos
+Frankie
+Frankie
+Chupy
+Chupy
+Heath
+Heath
+Heross
+Heross
+Helen
+Helen
+Wobet
+Wobet
+Jakob
+Jakob
+Speon
+Speon
+Janelle
+Janelle
+Justina
+Justina
+Rados
+Rados
+Kailey
+Kailey
+Meowy
+Meowy
+Keaton
+Keaton
+Sling
+Sling
+Lamar
+Lamar
+Lirki
+Lirki
+Lane
+Lane
+Ursing
+Ursing
+Martin
+Martin
+Gonpor
+Gonpor
+Nigel
+Nigel
+Eyesab
+Eyesab
+Perla
+Perla
+Nyx
+Nyx
+Ralph
+Ralph
+Louderd
+Louderd
+Rosa
+Rosa
+Catted
+Catted
+Sasha
+Sasha
+Rodlect
+Rodlect
+Sergio
+Sergio
+Drite
+Drite
+Trey
+Trey
+Slowgo
+Slowgo
+Micah
+Micah
+Poochin
+Poochin
+Shannon
+Shannon
+Gonzer
+Gonzer
+Mateo
+Mateo
+Nox
+Nox
+Jordyn
+Jordyn
+Seedottie
+Seedottie
+Gianna
+Gianna
+Tailster
+Tailster
+Declan
+Declan
+Ninny
+Ninny
+Carlton
+Carlton
+Shrewmish
+Shrewmish
+Adeline
+Adeline
+Win
+Win
+Asher
+Asher
+Visikoth
+Visikoth
+Lauren
+Lauren
+Whizz
+Whizz
+Jeremiah
+Jeremiah
+Makuwaku
+Makuwaku
+Molly
+Molly
+Martinus
+Martinus
+Zoonby
+Zoonby
+Liliana
+Liliana
+Guligan
+Guligan
+Camden
+Camden
+Bolt
+Bolt
+Keira
+Keira
+Rosalie
+Rosalie
+Bentley
+Bentley
+Dodon't
+Dodon't
+Plum
+Plum
+Tracy
+Tracy
+Zachary
+Zachary
+Succulus
+Succulus
+Alyssa
+Alyssa
+Sandyclaws
+Sandyclaws
+Brody
+Brody
+Baltop
+Baltop
+Mila
+Mila
+Mel
+Mel
+Rohan
+Rohan
+Spinmaster
+Spinmaster
+Alaina
+Alaina
+Swellbell
+Swellbell
+Levi
+Levi
+Gabriella
+Gabriella
+Leon
+Leon
+Dominic
+Dominic
+Snip
+Snip
+Kaitlyn
+Kaitlyn
+Barbra
+Barbra
+Tyler
+Tyler
+Spearl
+Spearl
+Adalyn
+Adalyn
+Tad
+Tad
+Chaz
+Chaz
+Macherie
+Macherie
+Landon
+Landon
+Wonwon
+Wonwon
+Mckenzie
+Mckenzie
+Nuzlad
+Nuzlad
+Nelson
+Nelson
+Ninjackie
+Ninjackie
+Riley
+Riley
+Wollew
+Wollew
+Nathan
+Nathan
+Mighty
+Mighty
+Twyla
+Twyla
+Papi
+Papi
+Gavin
+Gavin
+The King
+The King
+Lily
+Lily
+Camelot
+Camelot
+Primo
+Primo
+Chopchop
+Chopchop
+Alejandra
+Alejandra
+Nombre
+Nombre
+Yoshinari
+Yoshinari
+Crawly
+Crawly
+Lacy
+Lacy
+Bobble
+Bobble
+Owen
+Owen
+Magi
+Magi
+Addison
+Addison
+Moony
+Moony
+Jayce
+Jayce
+Piper
+Piper
+Yoko
+Yoko
+Gyalaxy
+Gyalaxy
+Jeff
+Jeff
+Louduff
+Louduff
+Elsie
+Elsie
+Mione
+Mione
+Jaylon
+Jaylon
+Slacker
+Slacker
+Layla
+Layla
+Gorflir
+Gorflir
+Ruslan
+Ruslan
+Lia
+Lia
+Lilias
+Lilias
+Plumette
+Plumette
+Aiden
+Aiden
+Topclops
+Topclops
+Madelyn
+Madelyn
+Princess
+Princess
+Elijah
+Elijah
+Shargob
+Shargob
+Hailey
+Hailey
+Lovelynn
+Lovelynn
+Clayton
+Clayton
+Heracles
+Heracles
+Trode
+Trode
+Pinchurlink
+Pinchurlink
+Julia
+Julia
+Elizabeth
+Elizabeth
+Cannot be used in a contest.
+Cannot be used in a contest.
+Contest Move Files...
+Contest Move Files...
+Controlling the Contest Moves movesx_contest.txt PBS
+Controlling the Contest Moves movesx_contest.txt PBS
+Create Movesx_Contest PBS File
+Create Movesx_Contest PBS File
+Create the Movesx_Contest PBS File from the existing Move data. (Best if you have custom moves)
+Create the Movesx_Contest PBS File from the existing Move data. (Best if you have custom moves)
+Create movesx_contest.txt
+Create movesx_contest.txt
+File written.
+File written.
+Oh, you don't have any Pokémon!
+Oh, you don't have any Pokémon!
+Please come back when you have a Pokémon.
+Please come back when you have a Pokémon.
+Oh, you don't have a Contest Pass!
+Oh, you don't have a Contest Pass!
+Please come back when you have a Contest Pass.
+Please come back when you have a Contest Pass.
+Hello!
+Hello!
+This is the reception counter for Pokémon Contests.
+This is the reception counter for Pokémon Contests.
+Enter
+Enter
+We're currently accepting registrations for \C[1]{1}{2}\C[0]Pokémon Contests.
+We're currently accepting registrations for \C[1]{1}{2}\C[0]Pokémon Contests.
+Would you like to enter your Pokémon in a {1}{2}Contest?
+Would you like to enter your Pokémon in a {1}{2}Contest?
+Would you like to enter your Pokémon in a Contest?
+Would you like to enter your Pokémon in a Contest?
+We hope you will participate another time.
+We hope you will participate another time.
+{1} Contest
+{1} Contest
+Which Contest would you like to enter?
+Which Contest would you like to enter?
+Normal Rank
+Normal Rank
+Super Rank
+Super Rank
+Hyper Rank
+Hyper Rank
+Master Rank
+Master Rank
+Which Rank would you like to enter?
+Which Rank would you like to enter?
+Which Pokémon would you like to enter?
+Which Pokémon would you like to enter?
+Cancel participation?
+Cancel participation?
+Oh, that Ribbon...
+Oh, that Ribbon...
+Your {1} has won this Contest before, hasn't it?
+Your {1} has won this Contest before, hasn't it?
+Would you like to enter it in this Contest anyway?
+Would you like to enter it in this Contest anyway?
+Enter {1} in the Contest?
+Enter {1} in the Contest?
+Okay, your {1} will be entered in this Contest.
+Okay, your {1} will be entered in this Contest.
+{1} is Entry Number 4. The Contest will begin shortly.
+{1} is Entry Number 4. The Contest will begin shortly.
+Please, follow me.
+Please, follow me.
+Please, go in through here. Good luck!
+Please, go in through here. Good luck!
+Hello! We're just getting started with a {1}{2}Pokémon Contest.
+Hello! We're just getting started with a {1}{2}Pokémon Contest.
+We'll start with the Introduction Round!
+We'll start with the Introduction Round!
+The participating Coordinators and their Pokémon are as follows:
+The participating Coordinators and their Pokémon are as follows:
+We've just seen the four Pokémon contestants.
+We've just seen the four Pokémon contestants.
+The audience will vote on their favorite Pokémon contestants.
+The audience will vote on their favorite Pokémon contestants.
+Without any further ado, let the voting begin!
+Without any further ado, let the voting begin!
+Voting under way...
+Voting under way...
+Voting is now complete!
+Voting is now complete!
+While the votes are being tallied, let's move on to the Talent Round!
+While the votes are being tallied, let's move on to the Talent Round!
+May the contestants amaze us with superb appeals of dazzling moves!
+May the contestants amaze us with superb appeals of dazzling moves!
+Let's see a little enthusiasm! Let's appeal!
+Let's see a little enthusiasm! Let's appeal!
+<ac>Entry Number {1}<<n>>{2} & {3}</ac>
+<ac>Entry Number {1}<<n>>{2} & {3}</ac>
+{1} & {2}
+{1} & {2}
+Oh! It's wearing a {1} hat!
+Oh! It's wearing a {1} hat!
+It matches its Trainer's outfit wonderfully!
+It matches its Trainer's outfit wonderfully!
+It matches its Trainer's!
+It matches its Trainer's!
+It goes well with its Trainer's clothes!
+It goes well with its Trainer's clothes!
+\c<<[>>1<<]>>Appeal move no. #{round}. It's the last move!\<<n>>\c<<[>>0<<]>>Which move will you use?
+\c<<[>>1<<]>>Appeal move no. #{round}. It's the last move!\<<n>>\c<<[>>0<<]>>Which move will you use?
+\c<<[>>1<<]>>Appeal move no. #{round}!\<<n>>\c<<[>>0<<]>>Which move will you use?
+\c<<[>>1<<]>>Appeal move no. #{round}!\<<n>>\c<<[>>0<<]>>Which move will you use?
+Graphics/Pictures/Contest/cursor_contest
+Graphics/Pictures/Contest/cursor_contest
+Please select a move.
+Please select a move.
+APPEAL
+APPEAL
+JAMMING
+JAMMING
+\c[1]That's it! \c[0]We're all out of Appeal Time!
+\c[1]That's it! \c[0]We're all out of Appeal Time!
+That's it for the Talent Round!
+That's it for the Talent Round!
+Thank you all for a most wonderful display of quality appeals!
+Thank you all for a most wonderful display of quality appeals!
+This concludes all judging! Thank you for your fine efforts!
+This concludes all judging! Thank you for your fine efforts!
+Now, all that remains is the pulse-pounding proclamation of the winner.
+Now, all that remains is the pulse-pounding proclamation of the winner.
+The Judge looks ready to make the announcement!
+The Judge looks ready to make the announcement!
+We will now declare the winner!
+We will now declare the winner!
+{1} & {2}, congratulations!
+{1} & {2}, congratulations!
+Please come up and accept your prize!
+Please come up and accept your prize!
+We confer on you the {1} as your prize!
+We confer on you the {1} as your prize!
+As {1} already has the \c[1]{2}\c[0], we offer a complimentary prize!
+As {1} already has the \c[1]{2}\c[0], we offer a complimentary prize!
+\me[{1}]{2} received the \c[1]{3}\c[0]!\wtnp[30]
+\me[{1}]{2} received the \c[1]{3}\c[0]!\wtnp[30]
+First, the results of the Introduction Round!
+First, the results of the Introduction Round!
+Now, the results of the Talent Round!
+Now, the results of the Talent Round!
+And the winner is...
+And the winner is...
+Entry Number {1}: {2} & {3}! Congratulations!
+Entry Number {1}: {2} & {3}! Congratulations!
+A highly appealing move.
+A highly appealing move.
+Can be used repeatedly without boring the judge.
+Can be used repeatedly without boring the judge.
+Increases the users appeal by varying amounts.
+Increases the users appeal by varying amounts.
+Startles those that have made appeals.
+Startles those that have made appeals.
+Startles Pokémon that used a move of the same type.
+Startles Pokémon that used a move of the same type.
+Startles all Pokémon, more so those that made good appeals.
+Startles all Pokémon, more so those that made good appeals.
+Startles the Pokémon that has the judge's attention.
+Startles the Pokémon that has the judge's attention.
+Startles the last Pokémon to act before the user.
+Startles the last Pokémon to act before the user.
+Startles all other Pokémon. User cannot act in the next turn.
+Startles all other Pokémon. User cannot act in the next turn.
+Makes the remaining Pokémon nervous.
+Makes the remaining Pokémon nervous.
+Makes the Pokémon just after the user nervous.
+Makes the Pokémon just after the user nervous.
+Can avoid being startled by others once.
+Can avoid being startled by others once.
+Can avoid being startled by others until the turn ends.
+Can avoid being startled by others until the turn ends.
+After this move, the user is more easily startled.
+After this move, the user is more easily startled.
+Makes a great appeal, but prevents the user from taking further contest moves.
+Makes a great appeal, but prevents the user from taking further contest moves.
+Ups the user's spirit. Helps prevent nervousness.
+Ups the user's spirit. Helps prevent nervousness.
+User earns double the score in it's next appeal.
+User earns double the score in it's next appeal.
+Temporarily stops the audience from growing excited.
+Temporarily stops the audience from growing excited.
+Gets the audience going!
+Gets the audience going!
+Settles the audience down.
+Settles the audience down.
+Works better the more the audience is excited.
+Works better the more the audience is excited.
+Works better the less the audience is excited.
+Works better the less the audience is excited.
+The appeal depends on the audience's excitement.
+The appeal depends on the audience's excitement.
+Works best if the audience's excitement goes up.
+Works best if the audience's excitement goes up.
+Excites the audience in any kind of contest.
+Excites the audience in any kind of contest.
+Affected by how well the previous Pokémon's move went.
+Affected by how well the previous Pokémon's move went.
+Works better if the last appeal did poorly.
+Works better if the last appeal did poorly.
+Works better if the last appeal was good.
+Works better if the last appeal was good.
+Earns half as much as the previous Pokémon's appeal.
+Earns half as much as the previous Pokémon's appeal.
+Earns the same amount as the previous Pokémon's appeal.
+Earns the same amount as the previous Pokémon's appeal.
+Adds the score of the previous Pokémon's appeal to yours.
+Adds the score of the previous Pokémon's appeal to yours.
+Lowers the spirit of those that made appeals.
+Lowers the spirit of those that made appeals.
+Lowers the spirit of the remaining Pokémon.
+Lowers the spirit of the remaining Pokémon.
+Works well if it is the same type as the move used by the last Pokémon.
+Works well if it is the same type as the move used by the last Pokémon.
+Works well if the user's spirit is good.
+Works well if the user's spirit is good.
+The appeal works great if performed first.
+The appeal works great if performed first.
+The appeal works great if performed last.
+The appeal works great if performed last.
+The appeal works better the earlier it is performed in a turn.
+The appeal works better the earlier it is performed in a turn.
+The appeal works better the later it is performed in a turn.
+The appeal works better the later it is performed in a turn.
+Appeal is better the earlier the round.
+Appeal is better the earlier the round.
+Appeal is better the later the round.
+Appeal is better the later the round.
+Scrambles the order of appeals on the next turn.
+Scrambles the order of appeals on the next turn.
+Causes the user to move earlier on the next turn.
+Causes the user to move earlier on the next turn.
+Causes the user to move later on the next turn.
+Causes the user to move later on the next turn.
+Makes the judge expect little of other contestants.
+Makes the judge expect little of other contestants.
+{1} watches the others.\wtnp[30]
+{1} watches the others.\wtnp[30]
+{1} took a break.\wtnp[30]
+{1} took a break.\wtnp[30]
+{1} is nervous.\wtnp[30]
+{1} is nervous.\wtnp[30]
+{1} is too nervous to move!\wtnp[30]
+{1} is too nervous to move!\wtnp[30]
+{1} tried to show its appeal with {2}!\wtnp[30]
+{1} tried to show its appeal with {2}!\wtnp[30]
+{1} disappointed the Judge by repeating the move.\wtnp[30]
+{1} disappointed the Judge by repeating the move.\wtnp[30]
+The combo went over well!\wtnp[30]
+The combo went over well!\wtnp[30]
+Anticipation is swelling for a combo on the next turn!\wtnp[30]
+Anticipation is swelling for a combo on the next turn!\wtnp[30]
+The audience settled down.\wtnp[30]
+The audience settled down.\wtnp[30]
+{1}'s {2} got the audience going!\wtnp[30]
+{1}'s {2} got the audience going!\wtnp[30]
+{1}'s {2} really excited the audience!\wtnp[30]
+{1}'s {2} really excited the audience!\wtnp[30]
+Exciting the audience improved {1}'s appeal even more!\wtnp[30]
+Exciting the audience improved {1}'s appeal even more!\wtnp[30]
+{1}'s show of {2} didn't go over very well with this audience.\wtnp[30]
+{1}'s show of {2} didn't go over very well with this audience.\wtnp[30]
+It tried to startle the other Pokémon!\wtnp[30]
+It tried to startle the other Pokémon!\wtnp[30]
+But it failed!\wtnp[30]
+But it failed!\wtnp[30]
+{1} managed to avoid seeing it.\wtnp[30]
+{1} managed to avoid seeing it.\wtnp[30]
+{1} managed to avert its gaze.\wtnp[30]
+{1} managed to avert its gaze.\wtnp[30]
+{1} looked down out of distraction.\wtnp[30]
+{1} looked down out of distraction.\wtnp[30]
+{1} turned back out of distraction.\wtnp[30]
+{1} turned back out of distraction.\wtnp[30]
+{1} couldn't help leaping up.\wtnp[30]
+{1} couldn't help leaping up.\wtnp[30]
+It tried to unnerve the other Pokémon!\wtnp[30]
+It tried to unnerve the other Pokémon!\wtnp[30]
+It tried to unnerve the Pokémon waiting for their turns!\wtnp[30]
+It tried to unnerve the Pokémon waiting for their turns!\wtnp[30]
+It tried to unnerve the next Pokémon waiting for its turn!\wtnp[30]
+It tried to unnerve the next Pokémon waiting for its turn!\wtnp[30]
+It started getting prepared for its next appeal.\wtnp[30]
+It started getting prepared for its next appeal.\wtnp[30]
+{1} got even more pumped up than usual!\wtnp[30]
+{1} got even more pumped up than usual!\wtnp[30]
+{1}'s spirit won't go any higher!\wtnp[30]
+{1}'s spirit won't go any higher!\wtnp[30]
+{1} will be unable to use any moves after this!\wtnp[30]
+{1} will be unable to use any moves after this!\wtnp[30]
+It became very aware of the Pokémon going on after it.\wtnp[30]
+It became very aware of the Pokémon going on after it.\wtnp[30]
+It is completely oblivious to the other Pokémon's moves.\wtnp[30]
+It is completely oblivious to the other Pokémon's moves.\wtnp[30]
+It is feeling pretty calm and collected now.\wtnp[30]
+It is feeling pretty calm and collected now.\wtnp[30]
+{1} attracted the audience's full attention!\wtnp[30]
+{1} attracted the audience's full attention!\wtnp[30]
+{1} tried to dazzle the audience!\wtnp[30]
+{1} tried to dazzle the audience!\wtnp[30]
+{1} matched the audience's excitement!\wtnp[30]
+{1} matched the audience's excitement!\wtnp[30]
+{1} didn't show off its appeal well.\wtnp[30]
+{1} didn't show off its appeal well.\wtnp[30]
+{1} showed off a little of its appeal.\wtnp[30]
+{1} showed off a little of its appeal.\wtnp[30]
+{1} showed off its appeal pretty well!\wtnp[30]
+{1} showed off its appeal pretty well!\wtnp[30]
+{1} showed off its appeal fantastically well!\wtnp[30]
+{1} showed off its appeal fantastically well!\wtnp[30]
+{1} totally outshone the last Pokémon! What appeal!\wtnp[30]
+{1} totally outshone the last Pokémon! What appeal!\wtnp[30]
+{1} was on par with the last Pokémon.\wtnp[30]
+{1} was on par with the last Pokémon.\wtnp[30]
+{1} showed off as well as the last Pokémon! What appeal!\wtnp[30]
+{1} showed off as well as the last Pokémon! What appeal!\wtnp[30]
+The previous appeal influenced {1}'s appeal!\wtnp[30]
+The previous appeal influenced {1}'s appeal!\wtnp[30]
+It tried to taunt the Pokémon that are feeling pumped up!\wtnp[30]
+It tried to taunt the Pokémon that are feeling pumped up!\wtnp[30]
+{1} scrambled the order for the next turn!\wtnp[30]
+{1} scrambled the order for the next turn!\wtnp[30]
+{1} moved up in line so that it can go earlier next turn.\wtnp[30]
+{1} moved up in line so that it can go earlier next turn.\wtnp[30]
+{1} moved back in line so that it can go later next turn.\wtnp[30]
+{1} moved back in line so that it can go later next turn.\wtnp[30]
+{1} stole the Judge's attention from others!\wtnp[30]
+{1} stole the Judge's attention from others!\wtnp[30]
+{1} can't appeal next turn!\wtnp[30]
+{1} can't appeal next turn!\wtnp[30]
+Average
+Average
+Very Fast
+Very Fast
+Toggle Berrydex
+Toggle Berrydex
+Toggle possession of the Berrydex
+Toggle possession of the Berrydex
+Gave Berrydex.
+Gave Berrydex.
+Lost Berrydex.
+Lost Berrydex.
+BerryDex
+BerryDex
+Gathered:
+Gathered:
+Planted:
+Planted:
+Graphics/Pictures/Berrydex/plant_dirt
+Graphics/Pictures/Berrydex/plant_dirt
+Graphics/Pictures/Berrydex/preferred_weather_box
+Graphics/Pictures/Berrydex/preferred_weather_box
+Graphics/Pictures/Berrydex/flavor_selected
+Graphics/Pictures/Berrydex/flavor_selected
+Graphics/Pictures/Berrydex/bg_info
+Graphics/Pictures/Berrydex/bg_info
+{1}{2} {3}
+{1}{2} {3}
+Size
+Size
+Firm
+Firm
+{1:.1f}"
+{1:.1f}"
+{1:.1f} cm
+{1:.1f} cm
+Graphics/Pictures/Berrydex/bg_plant
+Graphics/Pictures/Berrydex/bg_plant
+Growth Time
+Growth Time
+Harvest
+Harvest
+Dry Rate
+Dry Rate
+{1:d} hrs
+{1:d} hrs
+{1:d} - {2:d}
+{1:d} - {2:d}
+Preferred Weather
+Preferred Weather
+???
+???
+{1} snow
+{1} snow
+Heavy Winds
+Heavy Winds
+Drought
+Drought
+{1} sunshine
+{1} sunshine
+{1} rain
+{1} rain
+{1} fog
+{1} fog
+{1} wind
+{1} wind
+{1} thunderstorm
+{1} thunderstorm
+Volcanic Ash
+Volcanic Ash
+{1} km/h
+{1} km/h
+{1} cm/h
+{1} cm/h
+{1} mm/h
+{1} mm/h
+{1} °C
+{1} °C
+{1} m visibility
+{1} m visibility
+Thin
+Thin
+Light
+Light
+Warm
+Warm
+Moderate
+Moderate
+Bright
+Bright
+Thick
+Thick
+Heavy
+Heavy
+Hot
+Hot
+Dense
+Dense
+Severe
+Severe
+Scorching
+Scorching
+Very dense
+Very dense
+Extreme
+Extreme
+Oh! \wt[10]Hey!\wt[10\wt[10] Aqua!\wt[10] We're Team Aqua!
+Oh! \wt[10]Hey!\wt[10\wt[10] Aqua!\wt[10] We're Team Aqua!
+Let's see, this is what we have so far.
+Let's see, this is what we have so far.
+The start of the song goes like this...
+The start of the song goes like this...
+Cool as...\wt<<[>>20<<]>>\ts<<[>>1<<]>>Something...\<<n>>\ts<<[>>4<<]>>\wt<<[>>10<<]>>Graceful like... \wt<<[>>20<<]>>\ts<<[>>1<<]>>Something else...
+Cool as...\wt<<[>>20<<]>>\ts<<[>>1<<]>>Something...\<<n>>\ts<<[>>4<<]>>\wt<<[>>10<<]>>Graceful like... \wt<<[>>20<<]>>\ts<<[>>1<<]>>Something else...
+Yeah... That's all we have so far.
+Yeah... That's all we have so far.
+So uh... What's something that's icy cool?
+So uh... What's something that's icy cool?
+Cool as...
+Cool as...
+That's right!
+That's right!
+Maybe not...
+Maybe not...
+Cool as {1}...?
+Cool as {1}...?
+Hmmm...
+Hmmm...
+Not bad! That might be the one.
+Not bad! That might be the one.
+Cool as {1}!\wt<<[>>10<<]>>\<<n>>Graceful like...\wt<<[>>20<<]>>\ts<<[>>1<<]>>Something...
+Cool as {1}!\wt<<[>>10<<]>>\<<n>>Graceful like...\wt<<[>>20<<]>>\ts<<[>>1<<]>>Something...
+Uh... Graceful like what?
+Uh... Graceful like what?
+Graceful like...
+Graceful like...
+Cool as {1}!\<<n>>Graceful like {2}!
+Cool as {1}!\<<n>>Graceful like {2}!
+That sounds pretty good, right?
+That sounds pretty good, right?
+Cool as {1}!\<<n>>\wt<<[>>10<<]>>Graceful like {2}!
+Cool as {1}!\<<n>>\wt<<[>>10<<]>>Graceful like {2}!
+Okay... On to the next part!
+Okay... On to the next part!
+Our goals
+Our goals
+Our style
+Our style
+Our strength
+Our strength
+So... What should the next line of the song be about?
+So... What should the next line of the song be about?
+Okay... What do you think of this?
+Okay... What do you think of this?
+\ts<<[>>4<<]>>\C<<[>>1<<]>>Life depends on the sea, ya see\<<n>>\wt<<[>>5<<]>>We gotta ex\wt<<[>>2<<]>>pand \wt<<[>>2<<]>>it \wt<<[>>2<<]>>to be free
+\ts<<[>>4<<]>>\C<<[>>1<<]>>Life depends on the sea, ya see\<<n>>\wt<<[>>5<<]>>We gotta ex\wt<<[>>2<<]>>pand \wt<<[>>2<<]>>it \wt<<[>>2<<]>>to be free
+\ts<<[>>4<<]>>\C<<[>>1<<]>>With our cool bandanas, we rule\<<n>>\wt<<[>>5<<]>>Our style will \wt<<[>>6<<]>>make you drool
+\ts<<[>>4<<]>>\C<<[>>1<<]>>With our cool bandanas, we rule\<<n>>\wt<<[>>5<<]>>Our style will \wt<<[>>6<<]>>make you drool
+\ts<<[>>4<<]>>\C<<[>>1<<]>>Our power is deep as the blue\<<n>>\wt<<[>>5<<]>>There's nothing\wt<<[>>5<<]>> Team Aqua can't do
+\ts<<[>>4<<]>>\C<<[>>1<<]>>Our power is deep as the blue\<<n>>\wt<<[>>5<<]>>There's nothing\wt<<[>>5<<]>> Team Aqua can't do
+Perfect
+Perfect
+Let's try something else...
+Let's try something else...
+Yeah, this rules!
+Yeah, this rules!
+The next line should talk about something that inspires us.
+The next line should talk about something that inspires us.
+Archie
+Archie
+The ocean
+The ocean
+What should we sing about?
+What should we sing about?
+Hmm... How about this?
+Hmm... How about this?
+\ts<<[>>4<<]>>\C<<[>>1<<]>>Archie's a captain bold\<<n>>\wt<<[>>5<<]>>His legend is \ts<<[>>2<<]>>yet un\wt<<[>>5<<]>>told
+\ts<<[>>4<<]>>\C<<[>>1<<]>>Archie's a captain bold\<<n>>\wt<<[>>5<<]>>His legend is \ts<<[>>2<<]>>yet un\wt<<[>>5<<]>>told
+\ts<<[>>4<<]>>\C<<[>>1<<]>>The ocean is our home\<<n>>\wt<<[>>5<<]>>We sail through \ts<<[>>2<<]>>salt and \wt<<[>>5<<]>>foam
+\ts<<[>>4<<]>>\C<<[>>1<<]>>The ocean is our home\<<n>>\wt<<[>>5<<]>>We sail through \ts<<[>>2<<]>>salt and \wt<<[>>5<<]>>foam
+\ts<<[>>4<<]>>\C<<[>>1<<]>>Water Pokémon by our side\<<n>>\wt<<[>>5<<]>>We always surf the \ts<<[>>2<<]>>\wt<<[>>5<<]>>tide
+\ts<<[>>4<<]>>\C<<[>>1<<]>>Water Pokémon by our side\<<n>>\wt<<[>>5<<]>>We always surf the \ts<<[>>2<<]>>\wt<<[>>5<<]>>tide
+I'm feeling it!
+I'm feeling it!
+Now we only need an ending line. Do you have something in mind?
+Now we only need an ending line. Do you have something in mind?
+The song's final line...
+The song's final line...
+{1}... ?
+{1}... ?
+Ma\wt<<[>>10<<]>>gma!\<<n>>\wt<<[>>5<<]>>Team Ma\wt<<[>>10<<]>>gma!
+Ma\wt<<[>>10<<]>>gma!\<<n>>\wt<<[>>5<<]>>Team Ma\wt<<[>>10<<]>>gma!
+Hot as...\wt<<[>>20<<]>>\ts<<[>>1<<]>>Something...\ts<<[>>4<<]>>\wt<<[>>10<<]>>\<<n>>Fierce like...\wt<<[>>20<<]>>\ts<<[>>1<<]>>Something else...
+Hot as...\wt<<[>>20<<]>>\ts<<[>>1<<]>>Something...\ts<<[>>4<<]>>\wt<<[>>10<<]>>\<<n>>Fierce like...\wt<<[>>20<<]>>\ts<<[>>1<<]>>Something else...
+So uh... What's something that's burning hot?
+So uh... What's something that's burning hot?
+Hot as...
+Hot as...
+Hot as {1}...?
+Hot as {1}...?
+I like it! Let's go with this!
+I like it! Let's go with this!
+Hot as {1}!\wt<<[>>10<<]>>\<<n>>Fierce like...\wt<<[>>20<<]>>\ts<<[>>1<<]>>Something...
+Hot as {1}!\wt<<[>>10<<]>>\<<n>>Fierce like...\wt<<[>>20<<]>>\ts<<[>>1<<]>>Something...
+Uh... Fierce like what?
+Uh... Fierce like what?
+Fierce like...
+Fierce like...
+Hot as {1}! Fierce like {2}!
+Hot as {1}! Fierce like {2}!
+It has a nice ring to it, don't you think?
+It has a nice ring to it, don't you think?
+Hot as {1}!\wt<<[>>10<<]>>\<<n>>Fierce like {2}!
+Hot as {1}!\wt<<[>>10<<]>>\<<n>>Fierce like {2}!
+Okay... How's this?
+Okay... How's this?
+\ts<<[>>4<<]>>\C<<[>>2<<]>>Land is the cradle of all\<<n>>\wt<<[>>5<<]>>We must ex\wt<<[>>2<<]>>pand \wt<<[>>2<<]>>its \wt<<[>>2<<]>>sprawl
+\ts<<[>>4<<]>>\C<<[>>2<<]>>Land is the cradle of all\<<n>>\wt<<[>>5<<]>>We must ex\wt<<[>>2<<]>>pand \wt<<[>>2<<]>>its \wt<<[>>2<<]>>sprawl
+\ts<<[>>4<<]>>\C<<[>>2<<]>>Our uniforms are sleek\<<n>>\wt<<[>>5<<]>>Our style is \wt<<[>>6<<]>>unique
+\ts<<[>>4<<]>>\C<<[>>2<<]>>Our uniforms are sleek\<<n>>\wt<<[>>5<<]>>Our style is \wt<<[>>6<<]>>unique
+\ts<<[>>4<<]>>\C<<[>>2<<]>>No one can match our power\<<n>>\wt<<[>>5<<]>>We grow stronger \wt<<[>>2<<]>>by \wt<<[>>2<<]>>the \wt<<[>>2<<]>>hour
+\ts<<[>>4<<]>>\C<<[>>2<<]>>No one can match our power\<<n>>\wt<<[>>5<<]>>We grow stronger \wt<<[>>2<<]>>by \wt<<[>>2<<]>>the \wt<<[>>2<<]>>hour
+That's pretty good!
+That's pretty good!
+Maxie
+Maxie
+The land
+The land
+\ts<<[>>4<<]>>\C<<[>>2<<]>>Ma\wt<<[>>2<<]>>xie's a visionary \wt<<[>>5<<]>>\<<n>>His \ts<<[>>2<<]>>intellect is \wt<<[>>5<<]>>le\wt<<[>>2<<]>>gen\wt<<[>>2<<]>>da\wt<<[>>4<<]>>ry
+\ts<<[>>4<<]>>\C<<[>>2<<]>>Ma\wt<<[>>2<<]>>xie's a visionary \wt<<[>>5<<]>>\<<n>>His \ts<<[>>2<<]>>intellect is \wt<<[>>5<<]>>le\wt<<[>>2<<]>>gen\wt<<[>>2<<]>>da\wt<<[>>4<<]>>ry
+\ts<<[>>4<<]>>\C<<[>>2<<]>>The land is our domain\wt<<[>>5<<]>>\<<n>>\ts<<[>>2<<]>>Magma flows \wt<<[>>2<<]>>through \wt<<[>>2<<]>>our \wt<<[>>2<<]>>veins
+\ts<<[>>4<<]>>\C<<[>>2<<]>>The land is our domain\wt<<[>>5<<]>>\<<n>>\ts<<[>>2<<]>>Magma flows \wt<<[>>2<<]>>through \wt<<[>>2<<]>>our \wt<<[>>2<<]>>veins
+\ts<<[>>4<<]>>\C<<[>>2<<]>>Land Po\wt<<[>>2<<]>>ké\wt<<[>>2<<]>>mon by our side\wt<<[>>5<<]>>\<<n>>The oceans \ts<<[>>2<<]>>will soon sub\wt<<[>>5<<]>>side
+\ts<<[>>4<<]>>\C<<[>>2<<]>>Land Po\wt<<[>>2<<]>>ké\wt<<[>>2<<]>>mon by our side\wt<<[>>5<<]>>\<<n>>The oceans \ts<<[>>2<<]>>will soon sub\wt<<[>>5<<]>>side
+Oh yeah that's pretty good.
+Oh yeah that's pretty good.
+{1} Quests
+{1} Quests
+{1} quests in progress
+{1} quests in progress
+{1} quest in progress
+{1} quest in progress
+L/R : LIST
+L/R : LIST
+The \C[3]{1} App\C[0] was installed in the PokéNav!
+The \C[3]{1} App\C[0] was installed in the PokéNav!
+Get into a battle against 2 wild Pokémon at once
+Get into a battle against 2 wild Pokémon at once
+Get into a battle against 3 wild Pokémon at once
+Get into a battle against 3 wild Pokémon at once
+Get into a battle against 2 different wild Pokémon at once
+Get into a battle against 2 different wild Pokémon at once
+Get into a battle against 3 different wild Pokémon at once
+Get into a battle against 3 different wild Pokémon at once
+Get into a battle against 2 wild fused Pokémon at once
+Get into a battle against 2 wild fused Pokémon at once
+Get into a battle against 2 of the same Pokémon at once
+Get into a battle against 2 of the same Pokémon at once
+Get into a battle against 3 of the same species of Pokémon at once
+Get into a battle against 3 of the same species of Pokémon at once
+Catch a Pokémon off guard
+Catch a Pokémon off guard
+Catch a curious Pokémon off guard
+Catch a curious Pokémon off guard
+Catch an aggressive Pokémon off guard
+Catch an aggressive Pokémon off guard
+Catch a skittish Pokémon off guard
+Catch a skittish Pokémon off guard
+Get a wild Pokémon to chase you for 20 steps
+Get a wild Pokémon to chase you for 20 steps
+Defeat a Pokémon in one move using a not-very-effective move
+Defeat a  Pokémon in one move using a not-very-effective move
+Defeat a wild Pokémon without inflicting any direct damage
+Defeat a wild Pokémon without inflicting any direct damage
+Get an opposing Pokémon to exactly 1 HP
+Get an opposing Pokémon to exactly 1 HP
+Make your opponent flinch during a battle
+Make your opponent flinch during a battle
+Rematch a trainer
+Rematch a trainer
+Use a healing item during a battle.
+Use a healing item during a battle.
+Use a stat-boosting move or item during a battle
+Use a stat-boosting move or item during a battle
+Sharply boost your Pokémon's stats in a battle
+Sharply boost your Pokémon's stats in a battle
+Max out one of your stats during a battle
+Max out one of your stats during a battle
+Have a Pokémon use a berry during a battle
+Have a Pokémon use a berry during a battle
+Land a One-Hit-KO move
+Land a One-Hit-KO move
+Catch a Pokémon on the first try
+Catch a Pokémon on the first try
+Catch a Pokémon at full health
+Catch a Pokémon at full health
+Catch a Pokémon without receiving any damage
+Catch a Pokémon without receiving any damage
+Catch a Pokémon using a Premier Ball
+Catch a Pokémon using a Premier Ball
+Catch a wild fused Pokémon
+Catch a wild fused Pokémon
+Catch a Pokémon on your very last ball
+Catch a Pokémon on your very last ball
+Catch a Pokémon that appears in special weather conditions
+Catch a Pokémon that appears in special weather conditions
+Fuse two Pokémon of the same species together
+Fuse two Pokémon of the same species together
+Fuse two Pokémon that share the same type
+Fuse two Pokémon that share the same type
+Fuse Pokémon 5 times
+Fuse Pokémon 5 times
+Fuse a Pokémon
+Fuse a Pokémon
+Fuse Pokémon 2 times
+Fuse Pokémon 2 times
+Unfuse Pokémon 5 times
+Unfuse Pokémon 5 times
+Unfuse Pokémon 2 times
+Unfuse Pokémon 2 times
+Unfuse a Pokémon
+Unfuse a Pokémon
+Get two wild Pokémon to fuse before a battle
+Get two wild Pokémon to fuse before a battle
+PokeNav App
+PokeNav App
+Wild Fusion Study: {1} / 3
+Wild Fusion Study: {1} / 3
+POKÉCHALLENGE
+POKÉCHALLENGE
+You finished all your PokéChallenges!
+You finished all your PokéChallenges!
+You'll be assigned new ones tomorrow.
+You'll be assigned new ones tomorrow.
+The reward can only be collected once you complete the challenge!
+The reward can only be collected once you complete the challenge!
+Collect
+Collect
+Reward
+Reward
+View Team
+View Team
+Favorites
+Favorites
+N/A
+N/A
+All
+All
+Location:
+Location:
+Average team level:
+Average team level:
+Favorite type:
+Favorite type:
+Recently caught a {1}.
+Recently caught a {1}.
+Recently evolved their {1}.
+Recently evolved their {1}.
+Recently fused their {1} and {2}\.
+Recently fused their {1} and {2}\.
+Recently unfused their {1}.
+Recently unfused their {1}.
+Recently reversed their {1}.
+Recently reversed their {1}.
+Who's That Fusion!
+Who's That Fusion!
+Play
+Play
+Score
+Score
+You beat your previous high score!
+You beat your previous high score!
+Regular (3 Rounds)
+Regular (3 Rounds)
+Regular (5 Rounds)
+Regular (5 Rounds)
+Regular (10 Rounds)
+Regular (10 Rounds)
+Advanced (3 Rounds)
+Advanced (3 Rounds)
+Advanced (5 Rounds)
+Advanced (5 Rounds)
+Advanced (10 Rounds)
+Advanced (10 Rounds)
+Unlocked a new difficulty: \C[3]{1}
+Unlocked a new difficulty: \C[3]{1}
+Regular
+Regular
+Advanced
+Advanced
+Choose a difficulty:
+Choose a difficulty:
+3 Rounds
+3 Rounds
+5 Rounds
+5 Rounds
+10 Rounds
+10 Rounds
+Choose the number of rounds:
+Choose the number of rounds:
+High Score: {1} pts
+High Score: {1} pts
+Total Points: {1}\<<n>>Games Played: {2}
+Total Points: {1}\<<n>>Games Played: {2}
+PokéRadar
+PokéRadar
+No wild Pokémon found nearby.
+No wild Pokémon found nearby.
+Stand in tall grass to start scanning.
+Stand in tall grass to start scanning.
+Currently scanning for {1}.
+Currently scanning for {1}.
+Current chain: {1}.
+Current chain: {1}.
+Very rare
+Very rare
+Uncommon
+Uncommon
+Common
+Common
+Very Common
+Very Common
+Stop Scanning
+Stop Scanning
+You are currently scanning for {1}.
+You are currently scanning for {1}.
+Scan
+Scan
+Scanning for {1}...\wtnp[5]
+Scanning for {1}...\wtnp[5]
+The Pokéradar scan failed... Try again somewhere else
+The Pokéradar scan failed... Try again somewhere else
+The battery is not charged enough for this scan!
+The battery is not charged enough for this scan!
+You need to encounter the Pokémon before you can scan for it.
+You need to encounter the Pokémon before you can scan for it.
+Battery for scan: {1}
+Battery for scan: {1}
+Unknown Pokémon
+Unknown Pokémon
+{1}/1000
+{1}/1000
+({1})
+ ({1})
+Clovers
+Clovers
+Dry Grass
+Dry Grass
+Flowers
+Flowers
+Water
+Water
+Tall Grass
+Tall Grass
+PokéRadar Chain: {1}
+PokéRadar Chain: {1}
+On the move!
+On the move!
 Rotate
 Rotate
 Put away
@@ -28146,8 +30474,8 @@ Decorate!
 Decorate!
 Pokémon Storage
 Pokémon Storage
-Put away the #{item.name}?
-Put away the #{item.name}?
+Put away the {1}?
+Put away the {1}?
 Add a decoration
 Add a decoration
 Move a decoration
@@ -28165,41 +30493,7 @@ Do you want to create a new secret base here?
 This will overwrite your current secret base. Do you still wish to continue?
 This will overwrite your current secret base. Do you still wish to continue?
 \me[{1}]You obtained a \c[1]{2}\c[0]!
-\me[{1}]¡Has obtenido a \c[1]{2}\c[0]!
-Mannequin
-Mannequin
-Decorative Plant
-Decorative Plant
-Red Chair
-Red Chair
-Fancy Carpet
-Fancy Carpet
-Fancy Carpet (Connection)
-Fancy Carpet (Connection)
-Boulder
-Boulder
-Skitty Armchair
-Skitty Armchair
-Skitty Couch
-Skitty Couch
-Wide Skitty Couch
-Wide Skitty Couch
-Large Skitty Rug
-Large Skitty Rug
-Rocky Stool
-Rocky Stool
-Rocky Statue
-Rocky Statue
-Rocky Wall
-Rocky Wall
-Large Rocky Table
-Large Rocky Table
-Rocky Armchair
-Rocky Armchair
-Small Rocky Rug
-Small Rocky Rug
-Large Rocky Rug
-Large Rocky Rug
+\me[{1}]You obtained a \c[1]{2}\c[0]!
 Share your secret base
 Share your secret base
 Import a friend's secret base
@@ -28232,8 +30526,8 @@ Refresh
 Refresh
 Enter manually
 Enter manually
-Is this your friend's Trainer ID? \C[1]#{clipboard_text}\C[0]
-Is this your friend's Trainer ID? \C[1]#{clipboard_text}\C[0]
+Is this your friend's Trainer ID? \C[1]{1}\C[0]
+Is this your friend's Trainer ID? \C[1]{1}\C[0]
 Copy your friend's ID and choose 'Refresh'. The game will detect it from your clipboard.
 Copy your friend's ID and choose 'Refresh'. The game will detect it from your clipboard.
 The Trainer ID you entered is not valid. Trainer IDs are composed of 10 numbers.
@@ -28244,18 +30538,102 @@ The game couldn't find your friend's base. Make sure that they published it and 
 The game couldn't find your friend's base. Make sure that they published it and that you wrote their trainer ID correctly.
 The base could not be uploaded
 The base could not be uploaded
+This is a special bulletin for all Pokémon Trainers!<<n>>Pokémon boasting their hidden abilities have been spotted around \C<<[>>1<<]>>{1}\C<<[>>0<<]>>! Make sure to make your way over there for rare Pokémon before they're gone!<<n>>This concludes our special bulletin.
+This is a special bulletin for all Pokémon Trainers!<<n>>Pokémon boasting their hidden abilities have been spotted around \C<<[>>1<<]>>{1}\C<<[>>0<<]>>! Make sure to make your way over there for rare Pokémon before they're gone!<<n>>This concludes our special bulletin.
+Attention all Berry enthusiasts! The Petalburg Berry Contest is now about to begin!<<n>>We'll be covering the event live in Petalburg Town, so make sure to tune in for this special broadcast!
+Attention all Berry enthusiasts! The Petalburg Berry Contest is now about to begin!<<n>>We'll be covering the event live in Petalburg Town, so make sure to tune in for this special broadcast!
+It's the weather channel! Let's see how things are looking out today.
+It's the weather channel! Let's see how things are looking out today.
+an
+an
+a
+a
+It's the trend-watcher network channel!
+It's the trend-watcher network channel!
+"Everybody's talking about it, #{current_phrase} has been all the rage all around the region!"
+"Everybody's talking about it, #{current_phrase} has been all the rage all around the region!"
+"Nobody knows where it's started, but #{current_phrase} is all that the younger people are talking about these days."
+"Nobody knows where it's started, but #{current_phrase} is all that the younger people are talking about these days."
+"Where can someone get their hands on #{adverb} #{current_phrase}? We'll continue our investigation to find out!'"
+"Where can someone get their hands on #{adverb} #{current_phrase}? We'll continue our investigation to find out!'"
+"Experts say that #{current_phrase} may just be the next big thing! Stay tuned for updates!"
+"Experts say that #{current_phrase} may just be the next big thing! Stay tuned for updates!"
+"Some say that #{current_phrase} just a fad, but others seem to think it's here to stay! Stay tuned for updates!"
+"Some say that #{current_phrase} just a fad, but others seem to think it's here to stay! Stay tuned for updates!"
+""
+""
+It's showing the local news. There's a berry-growing contest going on in Petalburg Town!
+It's showing the local news. There's a berry-growing contest going on in Petalburg Town!
+It's a rerun of PokéChef Deluxe. Nothing important on the news right now.
+It's a rerun of PokéChef Deluxe. Nothing important on the news right now.
+"...I'm currently standing in front of the Berry-growing contest in Petalburg Town. We've interviewed {1}, a local Trainer to get their thoughts on the contest!"
+"...I'm currently standing in front of the Berry-growing contest in Petalburg Town. We've interviewed {1}, a local Trainer to get their thoughts on the contest!"
+but they seemed very confident about it!
+ but they seemed very confident about it!
+and they seemed to be having fun already!
+ and they seemed to be having fun already!
+and they understandably seemed a bit nervous!
+ and they understandably seemed a bit nervous!
+but they didn't really seem very interested in it. Perhaps, they only joined for the prize?
+ but they didn't really seem very interested in it. Perhaps, they only joined for the prize?
+"This was {1}'s first time participating {2}"
+"This was {1}'s first time participating {2}"
+"Apparently, their strategy to win is to {1}. We'll see how that pays off for them!"
+"Apparently, their strategy to win is to {1}. We'll see how that pays off for them!"
+They seemed to be enjoying it a great amount!
+They seemed to be enjoying it a great amount!
+It seemed they were still having a lot of fun!
+It seemed they were still having a lot of fun!
+The novelty wore down a bit for them, but they said they're still having a good time.
+The novelty wore down a bit for them, but they said they're still having a good time.
+They didn't seem too interested in the contest when I asked them, but they still came back to participate again.
+They didn't seem too interested in the contest when I asked them, but they still came back to participate again.
+"{1} is a returning participant to the contest{2}"
+"{1} is a returning participant to the contest{2}"
+"According to them, the secret trick to growing Berries is to {1}... Who would've thought!'"
+"According to them, the secret trick to growing Berries is to {1}... Who would've thought!'"
+, it almost seems like they were having even more fun than the contestants themselves.!
+, it almost seems like they were having even more fun than the contestants themselves.!
+, but they said that it was still fun as a spectator.
+, but they said that it was still fun as a spectator.
+, they just came to check it out of curiosity.
+, they just came to check it out of curiosity.
+. They didn't seem too interested in the contest when I asked them, it seems they were just passing by.
+. They didn't seem too interested in the contest when I asked them, it seems they were just passing by.
+"{1} said they're not participating in the contest this year{2}"
+"{1} said they're not participating in the contest this year{2}"
+"I asked them to sum up the contest in one word and they said "{1}", without any hesitation! That really says it all, doesn't it?''"
+"I asked them to sum up the contest in one word and they said "{1}", without any hesitation! That really says it all, doesn't it?''"
+"This was Gabby, reporting live from Petalburg Town. We'll see you again on our next broadcast!"
+"This was Gabby, reporting live from Petalburg Town. We'll see you again on our next broadcast!"
 \C[3]Friendship increased with {1} {2}!
 \C[3]Friendship increased with {1} {2}!
 You can now trade with each other!
 You can now trade with each other!
-They will now give you items from time to time!
-They will now give you items from time to time!
+They will now give you items after rematches from time to time!
+They will now give you items after rematches from time to time!
 You can now partner up with them!
 You can now partner up with them!
-Frienship (0-100)?
-Frienship (0-100)?
+Oh, you really like bugs too, right? Well, I have something for you!
+Oh, you really like bugs too, right? Well, I have something for you!
+Hey! You know, if you're looking to catch more bugs, you should try putting this on!
+Hey! You know, if you're looking to catch more bugs, you should try putting this on!
+Ho ho! You've been hanging around while I fish for so long, you're practically an angler yourself. It's time you dressed like one!
+Ho ho! You've been hanging around while I fish for so long, you're practically an angler yourself. It's time you dressed like one!
+All these rematches are so fun! Here, you should dress like me!
+All these rematches are so fun! Here, you should dress like me!
+I give clothes to all of my friends! Here you go!
+I give clothes to all of my friends! Here you go!
+Oh my goodness, look at your clothes! This simply won't do. Here, I bought this for you!
+Oh my goodness, look at your clothes! This simply won't do. Here, I bought this for you!
+Friendship (0-100)?
+Friendship (0-100)?
 Rematch
 Rematch
+Rematch (Single)
+Rematch (Single)
+Rematch (Double)
+Rematch (Double)
 Trade Offer
 Trade Offer
 Partner up
@@ -28280,8 +30658,8 @@ You gave the {1} to {2}!
 You gave the {1} to {2}!
 The trainer is not ready to trade yet. Wait a little bit before you make your offer.
 The trainer is not ready to trade yet. Wait a little bit before you make your offer.
-{1} {2} is looking for {3}-type Pokémon. Which Pokémon do you want to trade?.
-{1} {2} is looking for {3}-type Pokémon. Which Pokémon do you want to trade?.
+{1} {2} is looking for Pokémon of the following type(s):\<<n>>{3}\<<n>>Which Pokémon do you want to trade?
+{1} {2} is looking for Pokémon of the following type(s):\<<n>>{3}\<<n>>Which Pokémon do you want to trade?
 {1} {2} does not want to trade...
 {1} {2} does not want to trade...
 {1} {2} is offering {3} (Level {4}) for your {5}.
@@ -28296,12 +30674,12 @@ Heavy rain
 Heavy rain
 Fog
 Fog
-Tier #{tier_nb}
-Tier #{tier_nb}
+Rank {1}
+Rank {1}
 Which League Rematch difficulty tier will you choose?
 Which League Rematch difficulty tier will you choose?
-{1} unlocked the \C[1]Tier {2} League Rematches\C[0]!
-{1} unlocked the \C[1]Tier {2} League Rematches\C[0]!
+{1} unlocked \C[1]Rank {2} League Rematches\C[0]!
+{1} unlocked \C[1]Rank {2} League Rematches\C[0]!
 Could not find a trading partner...
 Could not find a trading partner...
 There was an error while sending your Pokémon...
@@ -28322,6 +30700,200 @@ You can also delete the ones you don't want to replace the main sprites and rest
 You can also delete the ones you don't want to replace the main sprites and restart the game.
 Keep in mind that the game will take longer to load until these sprites are imported/removed.
 Keep in mind that the game will take longer to load until these sprites are imported/removed.
+The wind is blowing from your side.
+The wind is blowing from your side.
+The wind is blowing from the opponent's side.
+The wind is blowing from the opponent's side.
+Set Player ID
+Set Player ID
+Set a new ID for the player.
+Set a new ID for the player.
+Set the trainer ID.
+Set the trainer ID.
+Go without a hat and show off your {1}!
+Go without a hat and show off your {1}!
+It's tradition to fish a Skrelp near Dewford Town as a rite of passage. Find one and show it to the fisherman!
+It's tradition to fish a Skrelp near Dewford Town as a rite of passage. Find one and show it to the fisherman!
+Light Snow
+Light Snow
+Heavy Snow
+Heavy Snow
+Snowstorm
+Snowstorm
+Mild sunshine
+Mild sunshine
+Warm sunshine
+Warm sunshine
+Bright sunshine
+Bright sunshine
+Hot sunshine
+Hot sunshine
+Scorching sun
+Scorching sun
+Light rain
+Light rain
+Moderate rain
+Moderate rain
+Severe rain
+Severe rain
+Extreme rain
+Extreme rain
+Thin fog
+Thin fog
+Moderate fog
+Moderate fog
+Thick fog
+Thick fog
+Dense fog
+Dense fog
+Very dense fog
+Very dense fog
+Light wind
+Light wind
+Moderate wind
+Moderate wind
+Strong wind
+Strong wind
+High wind
+High wind
+Extreme wind
+Extreme wind
+Light thunderstorm
+Light thunderstorm
+Moderate thunderstorm
+Moderate thunderstorm
+Heavy thunderstorm
+Heavy thunderstorm
+Severe thunderstorm
+Severe thunderstorm
+Extreme thunderstorm
+Extreme thunderstorm
+Oh! \wt[10]Hey!\wt[10]\wt[10] Aqua!\wt[10] We're Team Aqua!
+Oh! \wt[10]Hey!\wt[10]\wt[10] Aqua!\wt[10] We're Team Aqua!
+You moved here from Johto, right? My friend from Johto wears clothes like these!
+You moved here from Johto, right? My friend from Johto wears clothes like these!
+The beach is so fun! Oh! Wear this before you go swimming in the water!
+The beach is so fun! Oh! Wear this before you go swimming in the water!
+Sailor! You're a good battler, but you need to wear something this if you want to conquer the sea!
+Sailor! You're a good battler, but you need to wear something this if you want to conquer the sea!
+Don't say anything... I know you want this.
+Don't say anything... I know you want this.
+\PN, you're a true Poké Fan like me! Here's a fun mask for you or your Pokémon!
+\PN, you're a true Poké Fan like me! Here's a fun mask for you or your Pokémon!
+(Debug) Print inventory
+(Debug) Print inventory
+Save your changes and exit.
+Save your changes and exit.
+Exit without saving your changes.
+Exit without saving your changes.
+Restore the default controls.
+Restore the default controls.
+Moves the character. Select entries and navigate menus.
+Moves the character. Select entries and navigate menus.
+Confirm a choice, check things, talk to people, and move through text.
+Confirm a choice, check things, talk to people, and move through text.
+Exit, cancel a choice or mode, and move at field in a different speed.
+Exit, cancel a choice or mode, and move at field in a different speed.
+Open the menu. Also has various functions depending on context.
+Open the menu. Also has various functions depending on context.
+Advance quickly in menus.
+Advance quickly in menus.
+Open Ready Menu, with registered items and available field moves.
+Open Ready Menu, with registered items and available field moves.
+Toggles fast-forward speed.
+Toggles fast-forward speed.
+Set the controls.
+Set the controls.
+Save & Exit
+Save & Exit
+Cancel changes
+Cancel changes
+Are you sure? You can still exit this screen without keeping the changes.
+Are you sure? You can still exit this screen without keeping the changes.
+Add key
+Add key
+Replace existing key
+Replace existing key
+Remove key
+Remove key
+What you want to do?
+What you want to do?
+Choose an assigned key.
+Choose an assigned key.
+You can't remove a key when there was only one!
+You can't remove a key when there was only one!
+Controls
+Controls
+Press a new key.
+Press a new key.
+Fill all fields!
+Fill all fields!
+Keep changes?
+Keep changes?
+Select the randomizer options for Pokémon
+Select the randomizer options for Pokémon
+Select the randomizer options for trainers
+Select the randomizer options for trainers
+Limit gym trainers to a single type
+Limit gym trainers to a single type
+Select the randomizer options for items
+Select the randomizer options for items
+The higher the number, the more random it is.
+The higher the number, the more random it is.
+Use only Pokémon that have custom sprites in trainer teams
+Use only Pokémon that have custom sprites in trainer teams
+Regular Pokémon can also be randomized into legendaries
+Regular Pokémon can also be randomized into legendaries
+Randomizes Pokémon using a one-to-one mapping of the Pokedex
+Randomizes Pokémon using a one-to-one mapping of the Pokedex
+Randomizes the encounters in each route individually
+Randomizes the encounters in each route individually
+<<[>>'Fuse everything' & starters<<]>> Include only Pokémon with a custom sprite.
+<<[>>'Fuse everything' & starters<<]>> Include only Pokémon with a custom sprite.
+Regular wild Pokémon can also be randomized into legendaries.
+Regular wild Pokémon can also be randomized into legendaries.
+Only legendaries can be randomized into legendaries
+Only legendaries can be randomized into legendaries
+The starters will always be a first evolution Pokémon
+The starters will always be a first evolution Pokémon
+The starters can be any Pokémon
+The starters can be any Pokémon
+The starters are not randomized
+The starters are not randomized
+Randomize Pokémon that appear in the overworld (including legendaries)
+Randomize Pokémon that appear in the overworld (including legendaries)
+Randomize Pokémon that are gifted to the player
+Randomize Pokémon that are gifted to the player
+All wild Pokémon will already be pre-fused
+All wild Pokémon will already be pre-fused
+Use only Pokémon that have custom sprites in gym trainers or gym leader teams
+Use only Pokémon that have custom sprites in gym trainers or gym leader teams
+Pick any possible fusion, including auto-generated sprites.
+Pick any possible fusion, including auto-generated sprites.
+Shuffle the gym types
+Shuffle the gym types
+Gym trainers and leaders have a new team each try instead of keeping the same one
+Gym trainers and leaders have a new team each try instead of keeping the same one
+Randomize the items picked up on the ground
+Randomize the items picked up on the ground
+Randomize the TMs picked up on the ground
+Randomize the TMs picked up on the ground
+Randomize the items given by NPCs (may make some quests impossible to complete)
+Randomize the items given by NPCs (may make some quests impossible to complete)
+Randomize the TMs given by NPCs
+Randomize the TMs given by NPCs
+Randomizes the items available in shops (always mapped)
+Randomizes the items available in shops (always mapped)
+Give random held items to all trainers
+Give random held items to all trainers
+MAGMA
+MAGMA
+AQUA
+AQUA
+While importing custom sprites, the game has detected that {1} new custom sprite already has a version that exist in the game.
+While importing custom sprites, the game has detected that {1} new custom sprite already has a version that exist in the game.
+While importing custom sprites, the game has detected that {1} new custom sprites already have versions that exist in the game.
+While importing custom sprites, the game has detected that {1} new custom sprites already have versions that exist in the game.
 [25]
 1
 Cool Ribbon
