@@ -11653,163 +11653,163 @@ No
 No
 [Map211]
 Ahoy there lad!
-Ahoy there lad!
+¡Ahoy, muchacho!
 [Map212]
 Which floor would you like to go to?
-Which floor would you like to go to?
+¿A qué piso te gustaría ir?
 1F
-1F
+1.º piso
 2F
-2F
+2.º piso
 3F
-3F
+3.º piso
 4F
-4F
+4.º piso
 [Map213]
 Hi! I'm professor Oak's assistant.
-Hi! I'm professor Oak's assistant.
+¡Hola! Soy el asistente del profesor Oak.
 If you fused 20 kinds of Pokémon, I'm supposed to give you an EXP.ALL!
-If you fused 20 kinds of Pokémon, I'm supposed to give you an EXP.ALL!
+¡Si fusionaste 20 tipos de Pokémon, se supone que debo darte un Repartir Exp.!
 So, \PN! Have you fused at least 20 kinds of Pokémon?
-So, \PN! Have you fused at least 20 kinds of Pokémon?
+Entonces, \PN, ¿has fusionado al menos 20 tipos de Pokémon?
 Great! You have fused \V[126] kinds of Pokémon! Congratulations!
-Great! You have fused \V[126] kinds of Pokémon! Congratulations!
+¡Genial! ¡Has fusionado \V[126] tipos de Pokémon! ¡Felicidades!
 Here you go, as promised!
-Here you go, as promised!
+Aquí tienes, ¡como lo prometí!
 That's no good. You've only fused \V[126] times!
-That's no good. You've only fused \V[126] times!
+Eso no sirve. ¡Solo has fusionado \V[126] veces!
 When you fuse 20 kinds, come back for EXP.ALL.
-When you fuse 20 kinds, come back for EXP.ALL.
+Cuando fusiones 20 tipos, vuelve por el Repartir Exp.
 Oh. I see. When you fuse 20 kinds, come back for EXP.ALL.
-Oh. I see. When you fuse 20 kinds, come back for EXP.ALL.
+Oh, ya veo. Cuando fusiones 20 tipos, vuelve por el Repartir Exp.
 Activating the Exp. All EXP gives experience points to all the Pokémon with you, even if they don't fight.
-Activating the Exp. All EXP gives experience points to all the Pokémon with you, even if they don't fight.
+Al activar el Repartir Experiencia, se reparte la experiencia obtenida a todos los Pokémon que llevas contigo, incluso si no combaten.
 But it does reduce the amount of EXP for each Pokémon. If you don't need it, you should make sure to deactivate.
-But it does reduce the amount of EXP for each Pokémon. If you don't need it, you should make sure to deactivate.
+Pero sí reduce la cantidad de experiencia que recibe cada Pokémon. Si no lo necesitas, asegúrate de desactivarlo.
 This is an information board about the local wildlife of Route 18.
-This is an information board about the local wildlife of Route 18.
+Este es un cartel informativo sobre la fauna local de la Ruta 18.
 The following Pokémon can be found on this route: Doduo, Fearow, Golbat, Raticate, Spearow, Venomoth, Zubat.
-The following Pokémon can be found on this route: Doduo, Fearow, Golbat, Raticate, Spearow, Venomoth, Zubat.
+En esta ruta se pueden encontrar los siguientes Pokémon: Doduo, Fearow, Golbat, Raticate, Spearow, Venomoth y Zubat.
 This is an information board about the local wildlife of Route 15.
-This is an information board about the local wildlife of Route 15.
+Este es un cartel informativo sobre la fauna local de la Ruta 15.
 The following Pokémon can be found on this route: Ditto, Gloom, Golbat, Grimer, Muk, Oddish, Pidgey, Pidgeotto, Poliwag, Psyduck, Slowpoke, Venonat, Weepinbell, Zubat.
-The following Pokémon can be found on this route: Ditto, Gloom, Golbat, Grimer, Muk, Oddish, Pidgey, Pidgeotto, Poliwag, Psyduck, Slowpoke, Venonat, Weepinbell, Zubat.
+En esta ruta se pueden encontrar los siguientes Pokémon: Ditto, Gloom, Golbat, Grimer, Muk, Oddish, Pidgey, Pidgeotto, Poliwag, Psyduck, Slowpoke, Venonat, Weepinbell y Zubat.
 There's an old, abandonned house in the swamp. My sister swears she saw a ghost when she entered at night.
-There's an old, abandonned house in the swamp. My sister swears she saw a ghost when she entered at night.
+Hay una casa vieja y abandonada en el pantano. Mi hermana jura que vio un fantasma cuando entró de noche.
 But I think she's just trying to scare me!
-But I think she's just trying to scare me!
+¡Pero yo creo que solo está tratando de asustarme!
 Yes
 Sí
 No
 No
 [Map214]
 This is the Pokémon nursery. We take care of the younger Pokémon.
-This is the Pokémon nursery. We take care of the younger Pokémon.
+Esta es la guardería Pokémon. Cuidamos de los Pokémon más pequeños.
 Someone abandonned this egg here. Poor thing. Won't you please take care of it?
-Someone abandonned this egg here. Poor thing. Won't you please take care of it?
+Alguien abandonó este huevo aquí. Pobrecito. ¿Podrías cuidarlo, por favor?
 Received a Pokémon Egg!
 ¡Recibiste un Huevo Pokémon!
 A trainer left it here, but we don't know who it belonged to, so please take care of it!
-A trainer left it here, but we don't know who it belonged to, so please take care of it!
+Un entrenador lo dejó aquí, pero no sabemos a quién pertenecía, así que por favor cuídalo.
 You have no room in your party to store the egg.
 No tienes espacio en tu equipo para guardar el huevo.
 Oh... This is disappointing.
-Oh... This is disappointing.
+Oh... Qué decepción.
 We've been wanting to make some arts and crafts with the Pokémon, but we've ran out of materials.
-We've been wanting to make some arts and crafts with the Pokémon, but we've ran out of materials.
+Hemos querido hacer manualidades con los Pokémon, pero se nos acabaron los materiales.
 It would really help me out if you could run to the PokéMart in Cerulean City and get me <b>5 Pretty Wings</b>.
-It would really help me out if you could run to the PokéMart in Cerulean City and get me <b>5 Pretty Wings</b>.
+Me ayudarías mucho si fueras al PokéMart de Ciudad Celeste y me consiguieras <b>5 Plumas bellas</b>.
 Oh, yes! These would be absolutely perfect. Would you please give them to me?
-Oh, yes! These would be absolutely perfect. Would you please give them to me?
+¡Oh, sí! Estas serían perfectas. ¿Podrías dármelas, por favor?
 Thank you so much! As a thanks, I'll let you have one of these Pokémon eggs!
-Thank you so much! As a thanks, I'll let you have one of these Pokémon eggs!
+¡Muchísimas gracias! Como agradecimiento, ¡te dejaré quedarte con uno de estos Huevos Pokémon!
 That's fine, of course. Try to think of us if you come across some more Pretty Wings!
-That's fine, of course. Try to think of us if you come across some more Pretty Wings!
+Está bien, por supuesto. ¡Acuérdate de nosotros si encuentras más Plumas bellas!
 Our arts and crafts is doing great but we're still missing some materials.
-Our arts and crafts is doing great but we're still missing some materials.
+Nuestras manualidades van muy bien, pero todavía nos faltan algunos materiales.
 It would really help me out if you could find me a <b>Heart Scale</b>.
-It would really help me out if you could find me a <b>Heart Scale</b>.
+Me ayudarías mucho si pudieras conseguirme una <b>Escama Corazón</b>.
 You can sometimes find them while using Rock Smash!
-You can sometimes find them while using Rock Smash!
+¡A veces puedes encontrarlas usando Golpe Roca!
 Thank you so much! As a thanks, I'll let you have one of these other Pokémon eggs!
-Thank you so much! As a thanks, I'll let you have one of these other Pokémon eggs!
+¡Muchísimas gracias! Como agradecimiento, ¡te dejaré quedarte con uno de estos otros Huevos Pokémon!
 That's fine, of course. Try to think of us if you come across some more Heart Scales!
-That's fine, of course. Try to think of us if you come across some more Heart Scales!
+Está bien, por supuesto. ¡Acuérdate de nosotros si encuentras más Escamas Corazón!
 Our arts and crafts turned out great but now the Pokémon need to have a little snack.
-Our arts and crafts turned out great but now the Pokémon need to have a little snack.
+Nuestras manualidades quedaron geniales, pero ahora los Pokémon necesitan comer algo.
 It would really help me out if you could find some <b>Honey</b>.
-It would really help me out if you could find some <b>Honey</b>.
+Me ayudarías mucho si pudieras conseguir un poco de <b>Miel</b>.
 Wild Oddish and Bellsprout can sometimes be found holding some.
-Wild Oddish and Bellsprout can sometimes be found holding some.
+A veces se puede encontrar a Oddish y Bellsprout salvajes llevando un poco.
 Oh, yes! This would be absolutely perfect. Would you please give it to me?
-Oh, yes! This would be absolutely perfect. Would you please give it to me?
+¡Oh, sí! Esto sería perfecto. ¿Podrías dármelo, por favor?
 That's fine, of course. Try to think of us if you come across some more Honey!
-That's fine, of course. Try to think of us if you come across some more Honey!
+Está bien, por supuesto. ¡Acuérdate de nosotros si encuentras más Miel!
 Thank you for helping us out. Please take good care of these Pokémon eggs!
-Thank you for helping us out. Please take good care of these Pokémon eggs!
+Gracias por ayudarnos. ¡Por favor, cuida bien de estos Huevos Pokémon!
 A voice echoed from somewhere...
-A voice echoed from somewhere...
+Una voz resonó desde algún lugar...
 \C[2]Find the next feather...
-\C[2]Find the next feather...
+\C[2]Encuentra la siguiente pluma...
 Chu!
-Chu!
+¡Chu!
 Raising baby Pokémon is challenging, but Pokémon that have been taken care of since the moment they hatched from their egg will grow stronger than most wild-caught Pokémon.
-Raising baby Pokémon is challenging, but Pokémon that have been taken care of since the moment they hatched from their egg will grow stronger than most wild-caught Pokémon.
+Criar Pokémon bebé es un reto, pero los Pokémon que han sido cuidados desde el momento en que salieron del huevo crecerán más fuertes que la mayoría de los Pokémon capturados en estado salvaje.
 All of the baby Pokémon have been having nightmares lately it seems.
-All of the baby Pokémon have been having nightmares lately it seems.
+Parece que todos los Pokémon bebé han estado teniendo pesadillas últimamente.
 Faaah!
-Faaah!
+¡Faaah!
 Boing! Boing!
-Boing! Boing!
+¡Boing! ¡Boing!
 Piih! Piipiih!
-Piih! Piipiih!
+¡Piih! ¡Piipiih!
 Yes
 Sí
 No
 No
 Blue egg
-Blue egg
+Huevo azul
 Yellow egg
-Yellow egg
+Huevo amarillo
 Pink egg
-Pink egg
+Huevo rosa
 Brown egg
-Brown egg
+Huevo marrón
 Red egg
-Red egg
+Huevo rojo
 [Map215]
 The shelves are filled with Pokemon goods!
 ¡Los estantes están llenos de productos Pokémon!
 I love to see exotic Pokémon.
-I love to see exotic Pokémon.
+Me encanta ver Pokémon exóticos.
 I'll give you something if you can show me a Pokémon that's native to the Kalos region. What do you say?
-I'll give you something if you can show me a Pokémon that's native to the Kalos region. What do you say?
+Te daré algo a cambio si puedes mostrarme un Pokémon originario de la región de Kalos. ¿Qué dices?
 Could you show me such a Pokémon?
-Could you show me such a Pokémon?
+¿Podrías mostrarme un Pokémon así?
 Hmm.. That won't do it. I need to see a Pokémon that's native to the Kalos region!
-Hmm.. That won't do it. I need to see a Pokémon that's native to the Kalos region!
+Mmm... Así no sirve. ¡Necesito ver un Pokémon que sea originario de la región de Kalos!
 Oh my! How precious, how exotic!
-Oh my! How precious, how exotic!
+¡Oh vaya! ¡Qué adorable, qué exótico!
 As a token of my appreciation, I'll teach you about some new hairstyles that I came across during my travels!
-As a token of my appreciation, I'll teach you about some new hairstyles that I came across during my travels!
+Como muestra de agradecimiento, ¡te enseñaré algunos peinados nuevos que descubrí en mis viajes!
 \C[3]\PN unlocked the Kalos outfits collection!
-\C[3]\PN unlocked the Kalos outfits collection!
+\C[3]¡\PN desbloqueó la colección de atuendos de Kalos!
 \C[3]\PN unlocked the Kalos hairstyles collection!
-\C[3]\PN unlocked the Kalos hairstyles collection!
+\C[3]¡\PN desbloqueó la colección de peinados de Kalos!
 I wish to travel across the world to see more exotic Pokémons like the one you've shown me!
-I wish to travel across the world to see more exotic Pokémons like the one you've shown me!
+¡Me gustaría viajar por todo el mundo para ver más Pokémon exóticos como el que me mostraste!
 A revive is costly, but it revives fainted Pokémon!
-A revive is costly, but it revives fainted Pokémon!
+¡Un Revivir es costoso, pero revive a los Pokémon debilitados!
 \bHello. You must be \PN.
-\bHello. You must be \PN.
+\bHola. Tú debes ser \PN.
 \bI've received a gift for you.\nHere you go!
-\bI've received a gift for you.\nHere you go!
+\bHe recibido un regalo para ti.\n¡Aquí tienes!
 \bI haven't received any other gifts for you.
-\bI haven't received any other gifts for you.
+\bNo he recibido ningún otro regalo para ti.
 \bWe look forward to your next visit.
-\bWe look forward to your next visit.
+\bEsperamos tu próxima visita.
 Sorry I need the correct password
-Sorry I need the correct password
+Lo siento, necesito la contraseña correcta.
 Meeeow!
 ¡Miaaau!
 Yes
@@ -11819,22 +11819,22 @@ No
 [Map216]
 [Map217]
 \C[5]YOU WIN!
-\C[5]YOU WIN!
+\C[5]¡GANASTE!
 \C[5]CONGRATULATIONS!
-\C[5]CONGRATULATIONS!
+\C[5]¡FELICIDADES!
 \C[5]FINAL DEATH COUNT: \V[192]
-\C[5]FINAL DEATH COUNT: \V[192]
+\C[5]MUERTES TOTALES FINALES: \V[192]
 \C[5]QUIT PLAYING\nPIKACHU'S ADVENTURE?
-\C[5]QUIT PLAYING\nPIKACHU'S ADVENTURE?
+\C[5]¿SALIR DE\nLA AVENTURA DE PIKACHU?
 \C[5]FINAL LEVEL\nDEATH COUNT: \V[192]
-\C[5]FINAL LEVEL\nDEATH COUNT: \V[192]
+\C[5]NIVEL FINAL\nMUERTES: \V[192]
 YES
-YES
+SÍ
 NO
 NO
 [Map218]
 I don't believe it! Our master plan foiled by simple child!
-¡No puede ser! ¡Un niño echó a perder nuestro plan maestro!
+¡No puede ser! ¡Nuestro plan maestro fue frustrado por un simple niño!
 And now I have to go back all the way to Goldenrod City and tell the boss...
 Y ahora tengo que volver a Ciudad Trigal para contárselo al jefe...
 Oh, he's not going to be happy about this.!
@@ -11842,194 +11842,194 @@ Oh, no va a estar nada contento con esto...
 \V[144] appears to have calmed down.
 \V[144] parece haberse calmado.
 Hah! I'm going to burn you to a crisp!
-Hah! I'm going to burn you to a crisp!
+¡Ja! ¡Voy a dejarte hecho cenizas!
 Hot! Hot! Hot!
-Hot! Hot! Hot!
+¡Quema! ¡Quema! ¡Quema!
 Don't fall into the lava or you'll burn to a crisp!
-Don't fall into the lava or you'll burn to a crisp!
+¡No caigas en la lava o quedarás hecho cenizas!
 Huh?
-Huh?
+¿Eh?
 No! You scared \V[144] away!
-No! You scared \V[144] away! 
+¡No! ¡Espantaste a \V[144]!
 And I was just about to catch it!
-And I was just about to catch it!
+¡Y estaba a punto de atraparlo!
 Humph... How very annoying.
-Humph... How very annoying.
+Hum... Qué fastidio.
 You see, we've already been able to get the two other birds back.
-You see, we've already been able to get the two other birds back. 
+Verás, ya logramos capturar a las otras dos aves.
 Team Rocket moves quicker than anyone!
-Team Rocket moves quicker than anyone!
+¡El Team Rocket se mueve más rápido que nadie!
 \V[144] was the only one remaining...\| And I'll make you pay for getting in my way!
-\V[144] was the only one remaining...\| And I'll make you pay for getting in my way!
+\V[144] era el único que faltaba...| ¡Y te haré pagar por meterte en mi camino!
 This... This can't be right!
-This... This can't be right!
+Esto... ¡Esto no puede ser cierto!
 Who let you in here?
-Who let you in here?
+¿Quién te dejó entrar aquí?
 Scorched!
-Scorched!
+¡Chamuscado!
 BOSS! I'm sorry I failed you!
-BOSS! I'm sorry I failed you!
+¡JEFE! ¡Perdón por fallarle!
 With \V[144] by our side we'll be unstoppable!
-With \V[144] by our side we'll be unstoppable!
+¡Con \V[144] de nuestro lado seremos imparables!
 Low energy!
-Low energy!
+¡Poca energía!
 You shouldn't be here. This is a Team Rocket operation.
-You shouldn't be here. This is a Team Rocket operation.
+No deberías estar aquí. Esta es una operación del Team Rocket.
 Intruder!
-Intruder!
+¡Intruso!
 I lost my balance!
-I lost my balance!
+¡Perdí el equilibrio!
 Gyaoo!
-Gyaoo!
+¡Gyaoo!
 \V[144] flew away...
-\V[144] flew away...
+\V[144] se fue volando...
 Moltres flew away...
-Moltres flew away...
+Moltres se fue volando...
 [Map219]
 Materials collecting guide:
-Materials collecting guide:
+Guía para recolectar materiales:
 Escape Rope can be purchased at Celadon's Dept. Store.
-Escape Rope can be purchased at Celadon's Dept. Store.
+La Cuerda Huida se puede comprar en el Centro Comercial Azulona.
 Pearls can be found while fishing or found on Shellder.
-Pearls can be found while fishing or found on Shellder.
+Las Perlas se pueden encontrar pescando o en Shellder.
 Diamonds can rarely be found while mining in the dark caves.
-Diamonds can rarely be found while mining in the dark caves.
+Los Diamantes se pueden encontrar rara vez al minar en las cuevas oscuras.
 Nothing interesting in there.
 No hay nada interesante ahí dentro.
 [Map220]
 [Map221]
 These questions are pretty tricky, eh?
-These questions are pretty tricky, eh?
+Estas preguntas son bastante difíciles, ¿eh?
 I just like using \V[5] Pokémon!
-I just like using \V[5] Pokémon!
+¡Simplemente me gusta usar Pokémon de tipo \V[5]!
 Too hot to handle!
-Too hot to handle!
+¡Está que arde!
 I wish there was a thief Pokémon! I'd use that!
-I wish there was a thief Pokémon! I'd use that!
+¡Ojalá existiera un Pokémon ladrón! ¡Lo usaría!
 QUESTION #6: Which TM contains the move TOMBSTONER?
-QUESTION #6: Which TM contains the move TOMBSTONER?
+PREGUNTA #6: ¿Qué MT contiene el movimiento TOMBSTONER?
 WRONG! Prepare to fight!
-WRONG! Prepare to fight!
+¡INCORRECTO! ¡Prepárate para luchar!
 Correct! Proceed to the next room.
-Correct! Proceed to the next room.
+¡Correcto! Continúa a la siguiente sala.
 Fire is weak against H2O!
-Fire is weak against H2O!
+¡El fuego es débil contra el H2O!
 Oh! Snuffed out!
-Oh! Snuffed out!
+¡Oh! ¡Se apagó!
 The correct answer was 'None'.
-The correct answer was 'None'.
+La respuesta correcta era "Ninguna".
 Proceed to next room.
-Proceed to next room.
+Continúa a la siguiente sala.
 Yo! You need to answer the question on this computer right here to open the gate.
-Yo! You need to answer the question on this computer right here to open the gate.
+¡Eh! Tienes que responder la pregunta de esta computadora para abrir la puerta.
 I was a thief, but I became straight as a trainer!
-I was a thief, but I became straight as a trainer!
+¡Antes era un ladrón, pero me reformé y me convertí en Entrenador!
 I surrender!
-I surrender!
+¡Me rindo!
 One wrong answer here and it'll be the end of you!
-One wrong answer here and it'll be the end of you!
+¡Una respuesta incorrecta y será tu fin!
 Blaine let me come up with this final question myself! I'm quite proud of it.
-Blaine let me come up with this final question myself! I'm quite proud of it.
+¡Blaine me dejó inventar esta última pregunta! ¡Estoy muy orgulloso de ella!
 \V[5] is weak against H2O!
-\V[5] is weak against H2O!
+¡El tipo \V[5] es débil contra el H2O!
 Water beats fire! But, fire melts ice Pokémon!
-Water beats fire! But, fire melts ice Pokémon!
+¡El agua vence al fuego! ¡Pero el fuego derrite a los Pokémon de tipo Hielo!
 QUESTION #1: A fusion between Charmander and Ponyta evolves at which level?
-QUESTION #1: A fusion between Charmander and Ponyta evolves at which level?
+PREGUNTA #1: ¿A qué nivel evoluciona una fusión entre Charmander y Ponyta?
 The correct answer was 16.
-The correct answer was 16.
+La respuesta correcta era 16.
 QUESTION #3: Which type is Super-effective against a Fire/Grass Pokémon?
-QUESTION #3: Which type is Super-effective against a Fire/Grass Pokémon?
+PREGUNTA #3: ¿Qué tipo es supereficaz contra un Pokémon de tipo Fuego/Planta?
 I just like using fire Pokémon!
-I just like using fire Pokémon!
+¡Simplemente me gusta usar Pokémon de tipo Fuego!
 The correct answer was Rock.
-The correct answer was Rock.
+La respuesta correcta era Roca.
 Yo! Champ in making! The hot-headed Blaine is a \V[5] Pokémon pro!
-Yo! Champ in making! The hot-headed Blaine is a \V[5] Pokémon pro!  
+¡Eh! ¡Aspirante a Campeón! ¡El temperamental Blaine es un experto en Pokémon de tipo \V[5]! 
 You better take some Burn Heals! Douse his spirits with water!
-You better take some Burn Heals! Douse his spirits with water! 
+¡Será mejor que lleves Antiquemar! ¡Apaga sus humos con agua!
 Take this!
 ¡Toma esto!
 Douse his spirits with water! You better take some Burn Heals!
-Douse his spirits with water! You better take some Burn Heals!
+¡Apaga sus humos con agua! ¡Será mejor que lleves Antiquemar!
 \PN! You beat that fire brand!
-\PN! You beat that fire brand!
+¡\PN! ¡Has derrotado a ese fanático del fuego!
 QUESTION #5: Which of these Pokémon is not Steel type?
-QUESTION #5: Which of these Pokémon is not Steel type?
+PREGUNTA #5: ¿Cuál de estos Pokémon no es de tipo Acero?
 You can't win! I have studied Pokémon totally!
-You can't win! I have studied Pokémon totally!
+¡No puedes ganar! ¡He estudiado a los Pokémon de principio a fin!
 Ow!
-Ow!
+¡Ay!
 The correct answer was Nosepass.
-The correct answer was Nosepass.
+La respuesta correcta era Nosepass.
 QUESTION #2: Which of these Pokémon is not Steel type?
-QUESTION #2: Which of these Pokémon is not Steel type?
+PREGUNTA #2: ¿Cuál de estos Pokémon no es de tipo Acero?
 Do you know how hot Pokémon fire breath can get?
-Do you know how hot Pokémon fire breath can get?
+¿Sabes qué tan caliente puede llegar a ser el aliento de fuego de un Pokémon?
 Yow! Hot, hot, hot!
-Yow! Hot, hot, hot!
+¡Ay! ¡Quema, Quema, Quema!
 Which of these Pokémon is not Steel type?
-Which of these Pokémon is not Steel type?
+¿Cuál de estos Pokémon no es de tipo Acero?
 Heheh, this next question is sure to stump you!
-Heheh, this next question is sure to stump you!
+Je, je... ¡Esta siguiente pregunta seguro te dejará pensando!
 Waah! My studies!
-Waah! My studies!
+¡Nooo! ¡Mis estudios!
 My theories are too complicated for you!
-My theories are too complicated for you!
+¡Mis teorías son demasiado complicadas para ti!
 How many types are Not Very Effective against Fire-type Pokémon?
-How many types are Not Very Effective against Fire-type Pokémon?
+¿Cuántos tipos no son muy eficaces contra los Pokémon de tipo Fuego?
 The correct answer was 6.
-The correct answer was 6.
+La respuesta correcta era 6.
 Hah! I am Blaine! I am the Leader of Cinnabar Gym!
-Hah! I am Blaine! I am the Leader of Cinnabar Gym!
+¡Ja! ¡Soy Blaine! ¡El Líder del Gimnasio de Isla Canela!
 My \V[5] Pokémon will incinerate all challengers! Hah! You better have Burn Heal!
-My \V[5] Pokémon will incinerate all challengers! Hah! You better have Burn Heal!
+¡Mis Pokémon de tipo \V[5] reducirán a cenizas a todos los aspirantes! ¡Ja! ¡Más te vale llevar un Antiquemar!
 I'll allow 4 Pokémon for this fight, so choose wisely!
-I'll allow 4 Pokémon for this fight, so choose wisely!
+Solo podrás usar 4 Pokémon en este combate, ¡así que elige bien!
 I have burnt out! You have earned the VolcanoBadge!
-I have burnt out! You have earned the VolcanoBadge!
+¡Me he quedado sin fuerzas! ¡Has conseguido la Insignia Volcán!
 I have burnt out! You have earned the Volcano Badge!
-I have burnt out! You have earned the Volcano Badge!
+¡Me he quedado sin fuerzas! ¡Has conseguido la Insignia Volcán!
 Hah! The Volcano Badge heightens the abilities of your Pokémon! Here, you can have this too!
-Hah! The Volcano Badge heightens the abilities of your Pokémon! Here, you can have this too!
+¡Ja! ¡La Insignia Volcán potencia las habilidades de tus Pokémon! ¡Toma esto también!
 TM38 contains FIRE BLAST! Teach it to fire-type Pokémon!
-TM38 contains FIRE BLAST! Teach it to fire-type Pokémon!
+¡La MT38 contiene LLAMARADA! ¡Enséñasela a un Pokémon de tipo Fuego
 \C[3]\PN obtained 3 Premium Wonder Trade ticket!
-\C[3]\PN obtained 3 Premium Wonder Trade ticket!
+¡\C[3]\PN ha obtenido 3 cupones Premium de Intercambio Prodigioso!
 Come back when you are ready to challenge me!
-¡Cuando estés listo para el desafío, vuelve a verme!
+¡Vuelve cuando estés listo para desafiarme!
 Fire Blast is the ultimate fire technique! Don't waste it on water Pokémon!
-Fire Blast is the ultimate fire technique! Don't waste it on water Pokémon!
+¡Llamarada es la técnica definitiva de tipo Fuego! ¡No la malgastes en Pokémon de tipo Agua!
 Next is question #2! It's not an easy one!
-Next is question #2! It's not an easy one!
+¡Ahora viene la pregunta n.º 2! ¡No será tan fácil!
 Do you know how hot Pokémon \V[5] breath can get?
-Do you know how hot Pokémon \V[5] breath can get?
+¿Sabes lo caliente que puede llegar a ser el aliento de un Pokémon de tipo \V[5]?
 \V[5], or to be more precise, combustion... Blah, blah, blah, blah...
-\V[5], or to be more precise, combustion... Blah, blah, blah, blah...
+\V[5], o para ser más precisos, la combustión... Bla, bla, bla...
 QUESTION #2: How many types are Not Very Effective against Fire-type Pokémon?
-QUESTION #2: How many types are Not Very Effective against Fire-type Pokémon?
+PREGUNTA #2: ¿Cuántos tipos son poco eficaces contra los Pokémon de tipo Fuego?
 QUESTION #4: A fusion with Oddish as the body and Rhyhorn as the head would have which typing?
-QUESTION #4: A fusion with Oddish as the body and Rhyhorn as the head would have which typing?
+PREGUNTA #4: ¿Qué tipos tendría una fusión con el cuerpo de Oddish y la cabeza de Rhyhorn?
 The correct answer was Ground / Poison.
-The correct answer was Ground / Poison.
+La respuesta correcta era Tierra / Veneno.
 QUESTION #5: How many types are Not Very Effective against Fire-type Pokémon?
-QUESTION #5: How many types are Not Very Effective against Fire-type Pokémon?
+PREGUNTA #5: ¿Cuántos tipos son poco eficaces contra los Pokémon de tipo Fuego?
 The correct answer was 6
-The correct answer was 6
+La respuesta correcta era 6.
 You better know how to count for this next question!
-You better know how to count for this next question!
+¡Más te vale saber contar para esta siguiente pregunta!
 I know why Blaine became a trainer!
-I know why Blaine became a trainer!
+¡Yo sé por qué Blaine se convirtió en Entrenador!
 Blaine was lost in the mountains when a fiery bird Pokémon appeared. Its light enabled Blaine to find his way down!
-Blaine was lost in the mountains when a fiery bird Pokémon appeared. Its light enabled Blaine to find his way down!
+Blaine se perdió en las montañas cuando apareció un Pokémon pájaro envuelto en llamas. Su luz le permitió encontrar el camino de regreso.
 TM28
-TM28
+MT28
 TM36
-TM36
+MT36
 TM94
-TM94
+MT94
 None
-None
+Ninguna
 28
 28
 40
@@ -12037,13 +12037,13 @@ None
 16
 16
 Does not evolve.
-Does not evolve.
+No evoluciona.
 Water
-Water
+Agua
 Rock
-Rock
+Roca
 Ground
-Ground
+Tierra
 Lucario
 Lucario
 Nosepass
@@ -12063,50 +12063,50 @@ Mawile
 6
 6
 Rock / Grass
-Rock / Grass
+Roca / Planta
 Rock / Poison
-Rock / Poison
+Roca / Veneno
 Ground / Grass
-Ground / Grass
+Tierra / Planta
 Ground / Poison
-Ground / Poison
+Tierra / Veneno
 [Map222]
 A noire movie is playing on the TV.
-A noire movie is playing on the TV.
+Están emitiendo una película de cine negro en la televisión.
 ... Better get going!
-... Better get going!
+... Será mejor que me ponga en marcha.
 Ugh... I was away for some time and trees have grown all over my garden during my absence.
-Ugh... I was away for some time and trees have grown all over my garden during my absence.
+Uf... Estuve fuera durante un tiempo y, mientras no estaba, han crecido árboles por todo mi jardín.
 I would've cut them myself if I was still a youngster like you but alas, I'm an old man now.
-I would've cut them myself if I was still a youngster like you but alas, I'm an old man now.
+Los habría cortado yo mismo si aún fuera un joven como tú, pero por desgracia ya soy un anciano.
 Would you please help an old man with his garden?
-Would you please help an old man with his garden?
+¿Podrías echarle una mano a este anciano con su jardín?
 <b>\C[3]NEW QUEST: \PN the lumberjack!</b>
-<b>\C[3]NEW QUEST: \PN the lumberjack!</b>
+<b>\C[3]¡NUEVA MISIÓN: \PN el leñador!</b>
 \C[1]Cut all of the trees from the old man's garden.
-\C[1]Cut all of the trees from the old man's garden.
+\C[1]Corta todos los árboles del jardín del anciano.
 I'm sorry for bothering you.
-I'm sorry for bothering you.
+Siento molestarte.
 You did it! Thank you so much!
-You did it! Thank you so much!
+¡Lo has conseguido! ¡Muchísimas gracias!
 Here's for all your hard work.
-Here's for all your hard work.
+Esto es por todo tu esfuerzo.
 What's this? You expected a bit more?
-What's this? You expected a bit more?
+¿Cómo? ¿Esperabas algo más?
 Fine then. How about this?
-Fine then. How about this?
+De acuerdo. ¿Qué te parece esto?
 Shears allow you to cut trees without using a Pokémon.
-Shears allow you to cut trees without using a Pokémon.
+Las Tijeras te permiten cortar árboles sin necesidad de usar un Pokémon.
 It's not much use to an old man like me, but I'm sure that a young lad like you will find it useful.
-It's not much use to an old man like me, but I'm sure that a young lad like you will find it useful.
+A un anciano como yo ya no le sirven de mucho, pero seguro que a un joven como tú le serán de utilidad.
 It's not much use to an old man like me, but I'm sure that a young lass like you will find it useful.
-It's not much use to an old man like me, but I'm sure that a young lass like you will find it useful.
+A un anciano como yo ya no le sirven de mucho, pero seguro que a una joven como tú le serán de utilidad.
 Please help me out by cutting down the trees that have grown in my garden.
-Please help me out by cutting down the trees that have grown in my garden.
+Por favor, ayúdame cortando los árboles que han crecido en mi jardín.
 You're doing good! But there are still a few trees left, don't give up.
-You're doing good! But there are still a few trees left, don't give up.
+¡Lo estás haciendo muy bien! Pero aún quedan algunos árboles. ¡No te rindas!
 There's nothing but trash here.
-There's nothing but trash here.
+Aquí no hay más que basura.
 Yes
 Sí
 No
@@ -12116,9 +12116,9 @@ No
 [Map225]
 [Map226]
 We're careful about pollution!
-We're careful about pollution! 
+Nos preocupamos por la contaminación.
 We've heard Grimer multiplies in toxic sludge!
-We've heard Grimer multiplies in toxic sludge!
+Hemos oído que Grimer se multiplica en los lodos tóxicos.
 Push the truck?
 ¿Empujar el camión?
 Gotta wonder what this truck is doing here!
@@ -12126,7 +12126,7 @@ Gotta wonder what this truck is doing here!
 VERMILION CITY\nThe Port of Exquisite Sunsets
 CIUDAD CARMÍN\nEl Puerto de los Atardeceres Inolvidables
 Did you know that Pokémon can forget HMs too, just like regular moves?
-¿Sabías que los Pokémon también pueden olvidar MTs, igual que los movimientos normales?
+¿Sabías que los Pokémon también pueden olvidar MOs, igual que los movimientos normales?
 But be careful where you do it or you could get stuck!
 Pero ten cuidado dónde lo haces o podrías quedarte atrapado.
 Vermillion Hotel
@@ -12136,37 +12136,37 @@ El mar, un hábitat tan vasto para tantos Pokémon.
 It really is beautiful, don't you think?
 Realmente es hermoso, ¿no crees?
 Did you see the S.S. Anne moored in the harbor?
-Did you see the S.S. Anne moored in the harbor?
+¿Has visto el S.S. Anne atracado en el puerto?
 I wish I could afford a ticket!
-I wish I could afford a ticket!
+¡Ojalá pudiera permitirme un billete!
 Move Experts: Make your Pokémon forget and remember their moves!
 Expertos en movimientos: ¡Haz que tus Pokémon olviden y recuerden sus ataques!
 Here, have a Pokemon chosen at random.
 Toma, un Pokémon escogido al azar para ti.
 Krrsss!
-Krrsss!
+¡Krrsss!
 The door is locked...
-The door is locked...
+La puerta está cerrada...
 Pokémon Fan Club
 Club de Fans de Pokémon
 All Pokémon fans welcome!
 ¡Todos los fans de Pokémon son bienvenidos!
 Vermillion City's Ice Preserve
-Vermillion City's Ice Preserve
+Reserva Helada de Ciudad Carmín
 Have you been to the city's gym yet?
-Have you been to the city's gym yet?
+¿Ya has ido al Gimnasio de la ciudad?
 That trash can puzzle is SO tedious! I'll never be able to beat it!
-That trash can puzzle is SO tedious! I'll never be able to beat it!
+¡Ese puzzle de las papeleras es TAN tedioso! ¡Nunca conseguiré superarlo!
 Hello there! Are you a Pokémon trainer?
 ¡Hola! ¿Eres un entrenador Pokémon?
 I'm here to inform you that you can now participate in the Trainer House challenge in Viridian City!
-I'm here to inform you that you can now participate in the Trainer House challenge in Viridian City!
+Estoy aquí para informarte de que ya puedes participar en el desafío de la Casa del Entrenador de Ciudad Verde.
 You'll be able to face teams of randomly selected Pokémon to earn Trainer Points that you can then spend on wonderful prizes!
-You'll be able to face teams of randomly selected Pokémon to earn Trainer Points that you can then spend on wonderful prizes!
+Te enfrentarás a equipos de Pokémon elegidos al azar para conseguir Puntos de Entrenador, que luego podrás canjear por magníficos premios.
 Here, take this. It'll help you get around!
 Toma esto. ¡Te servirá para desplazarte!
 See you there, champ!
-See you there, champ!
+¡Nos vemos allí, futuro Campeón!
 A Pokemon was hiding under the truck!
 ¡Un Pokémon se ocultaba bajo el camión!
 The Pokémon attacked!
@@ -12179,68 +12179,68 @@ No
 [Map228]
 [Map229]
 Gaaah Gaughhh!
-Gaaah Gaughhh!
+¡Gaaah! ¡Gaughhh!
 [Map230]
 I wonder who this could belong to...
-I wonder who this could belong to...
+Me pregunto de quién será esto...
 Ribbit ribbit!
-Ribbit ribbit!
+¡Croac, croac!
 Violet City: The City of Nostalgic Scents
-Violet City: The City of Nostalgic Scents
+CIUDAD MALVA\nLa Ciudad del Aroma de Nostalgia.
 Saffron City: Shining, Golden Land of Commerce
-Ciudad Azafrán: Tierra Dorada y Brillante de Comercio
+CIUDAD AZAFRÁN\nLa Tierra Dorada y Brillante del Comercio
 Grahh!
-Grahh!
+¡Grahh!
 You're a top trainer from Kanto? Hohoho! Then you should check out the Ruins of Alph.
-You're a top trainer from Kanto? Hohoho! Then you should check out the Ruins of Alph.
+¿Eres un gran Entrenador de Kanto? ¡Jo, jo, jo! Entonces deberías visitar las Ruinas Alfa.
 Rumor has it that there's a legendary Pokémon that no one could identify has been sighted in the area.
-Rumor has it that there's a legendary Pokémon that no one could identify has been sighted in the area.
+Dicen que han visto por la zona a un Pokémon legendario que nadie ha conseguido identificar.
 Come on, Poliwag!
-Come on, Poliwag!
+¡Vamos, Poliwag!
 \PN! What a coincidence! This must be meant to be!
-\PN! What a coincidence! This must be meant to be! 
+¡\PN! ¡Qué casualidad! ¡Esto tiene que ser cosa del destino!
 Yeah, I'm bored! Nothing to do! Oh, yeah! You wanna battle me again?
-Yeah, I'm bored! Nothing to do! Oh, yeah! You wanna battle me again?
+Sí... Estoy aburrido. No tengo nada que hacer. ¡Ah, ya sé! ¿Quieres volver a combatir conmigo?
 Awesome! I'll wait for you at the Fighting Arena in Vermillion City then. Broken promises are unforgivable, get me?
-Awesome! I'll wait for you at the Fighting Arena in Vermillion City then. Broken promises are unforgivable, get me?
+¡Genial! Entonces te esperaré en la Arena de Combate de Ciudad Carmín. Más te vale no faltar a tu palabra, ¿entendido?
 A waterfall... It runs forever, yet it doesn't move at all.
-A waterfall...  It runs forever, yet it doesn't move at all.
+Una cascada... Fluye eternamente, pero nunca se mueve de su sitio.
 It's where the stillness of water becomes an uninhibited force of nature.
-It's where the stillness of water becomes an uninhibited force of nature.
+Es donde la calma del agua se convierte en una fuerza de la naturaleza imparable.
 You can do it, Sentret!
-You can do it, Sentret!
+¡Tú puedes, Sentret!
 You again!?
-You again!?
+¡¿Otra vez tú!?
 I'm going to the Ruins of Alph for something important... Don't follow me!
-I'm going to the Ruins of Alph for something important...  Don't follow me!
+Voy a las Ruinas Alfa por un asunto importante... ¡No me sigas!
 Eusine: Out of my way!
-Eusine: Out of my way!
+Eusine: ¡Apártate de mi camino!
 Here I am always getting lost again...
-Here I am always getting lost again... 
+Ya estoy otra vez perdido... 
 Excuse me, but could you please tell me where Goldenrod City is?
-Excuse me, but could you please tell me where Goldenrod City is?
+Disculpa, ¿podrías decirme dónde está Ciudad Trigal?
 Oh, I'm sorry. I just have a terrible sense of orientation!
-Oh, I'm sorry. I just have a terrible sense of orientation!
+¡Ay, lo siento! Es que tengo un sentido de la orientación pésimo.
 It's North? Thank you! I'll head there straight away!
-It's North? Thank you! I'll head there straight away!
+¿Está al norte? ¡Gracias! ¡Iré enseguida!
 It's West? Thank you! I'll head there straight away!
-It's West? Thank you! I'll head there straight away!
+¿Está al oeste? ¡Gracias! ¡Iré enseguida!
 Falkner, from the Violet Pokémon Gym, is a young trainer.
-Falkner, from the Violet Pokémon Gym, is a young trainer.
+Pegaso, el Líder del Gimnasio Pokémon de Ciudad Malva, es un Entrenador muy joven.
 He just inherited his father's gym, but I can see him doing a great job with it.
-He just inherited his father's gym, but I can see him doing a great job with it.
+Acaba de heredar el Gimnasio de su padre, pero estoy seguro de que hará un trabajo excelente.
 That house over there... People say that it belongs to a high ranking member of Team Rocket.
-That house over there... People say that it belongs to a high ranking member of Team Rocket.
+Esa casa de allí... Dicen que pertenece a un alto cargo del Team Rocket.
 A waterfall is crashing down with a mighty roar.
-A waterfall is crashing down with a mighty roar.
+La cascada cae con un estruendo ensordecedor.
 I saw a wiggly tree up ahead! If you touch it, it squirms and dances! Cool!
-I saw a wiggly tree up ahead! If you touch it, it squirms and dances! Cool!
+¡He visto un árbol extraño más adelante! ¡Si lo tocas, se retuerce y se pone a bailar! ¡Es increíble!
 I don't know
-I don't know
+No lo sé.
 North
-North
+Norte
 West
-West
+Oeste
 [Map231]
 [Map232]
 There's a nice view on another building.
