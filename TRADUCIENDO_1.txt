@@ -16225,74 +16225,74 @@ No
 No
 [Map341]
 Er-hem! Congratulations \PN.
-Er-hem! Congratulations \PN.
+¡Ejem! Enhorabuena, \PN.
 This floor is the \C[1]Pokémon Hall of Fame\C[0]!
-This floor is the \C[1]Pokémon Hall of Fame\C[0]!
+¡Esta planta es el \C[1]Salón de la Fama Pokémon\C[0]!
 Pokémon League champions are honored for their exploits here! Their Pokémon are also recorded in the Hall of Fame.
-Pokémon League champions are honored for their exploits here! Their Pokémon are also recorded in the Hall of Fame.
+¡Aquí se rinde homenaje a los Campeones de la Liga Pokémon por sus hazañas! ¡Sus Pokémon también quedan registrados en el Salón de la Fama!
 \PN! You have endeavored hard to become the new League champion!
-\PN! You have endeavored hard to become the new League champion!
+¡\PN! ¡Has luchado con todas tus fuerzas para convertirte en el nuevo Campeón de la Liga!
 Congratulations, \PN, you and your Pokémon are Hall of Famers!
-Congratulations, \PN, you and your Pokémon are Hall of Famers!
+¡Enhorabuena, \PN! ¡Tú y tus Pokémon ya formáis parte del Salón de la Fama!
 [Map342]
 \PN! It's been a long time!
-\PN! It's been a long time!
+¡\PN! ¡Cuánto tiempo!
 I'm the guy who shared the fossils with you back in Mt. Moon, remember?
-I'm the guy who shared the fossils with you back in Mt.  Moon, remember?
+Soy el chico que compartió los fósiles contigo en el Monte Moon, ¿te acuerdas?
 We met again a few times afterwards, I'm sure you remember.
-We met again a few times afterwards, I'm sure you remember.
+Después volvimos a encontrarnos unas cuantas veces. Seguro que lo recuerdas.
 Anyway, I discovered a secret about Pokémon fossils, do you want to hear it?
-Anyway, I discovered a secret about Pokémon fossils, do you want to hear it?
+En fin, he descubierto un secreto sobre los fósiles Pokémon. ¿Quieres oírlo?
 I'll tell it to you if you can defeat me one last time. Deal?
-I'll tell it to you if you can defeat me one last time. Deal?
+Te lo contaré si consigues derrotarme una última vez. ¿Trato hecho?
 I trained hard for this. It won't be as easy as last time!
-I trained hard for this. It won't be as easy as last time!
+¡He entrenado muy duro para esto! ¡No será tan fácil como la última vez!
 All right, all right, I'll tell you.
-All right, all right, I'll tell you.
+Está bien, está bien. Te lo contaré.
 Oh... You don't care about my fossils, do you?
-Oh... You don't care about my fossils, do you?
+Oh... No te interesan mis fósiles, ¿verdad?
 Wow, you're really something, \PN.
-Wow, you're really something, \PN.
+Vaya, \PN. Eres realmente increíble.
 Okay, I'll let you in on my secret.
-Okay, I'll let you in on my secret.
+De acuerdo. Te revelaré mi secreto.
 When you use Rock Smash on rocks like these, you can sometimes find Pokémon fossils!
-When you use Rock Smash on rocks like these, you can sometimes find Pokémon fossils!
+¡Cuando usas Golpe Roca sobre rocas como estas, a veces puedes encontrar fósiles Pokémon!
 I also made this outfit for you! Wear it to display your love for paleontology to everyone!
-I also made this outfit for you! Wear it to display your love for paleontology to everyone!
+¡También he preparado este atuendo para ti! ¡Llévalo para demostrarle al mundo tu pasión por la paleontología!
 Can you believe it?
-Can you believe it?
+¿Te lo puedes creer?
+Cámara A
 Chamber A
-Chamber A
-Chamber B
+Cámara B
 Chamber B
 This Pokémon that ran out of the cave...
-This Pokémon that ran out of the cave...
+Ese Pokémon que salió corriendo de la cueva...
 It seems like it was followed by a thunderstorm... Or maybe the Pokémon was causing the storm!
-It seems like it was followed by a thunderstorm... Or maybe the Pokémon was causing the storm!
+Parece que iba acompañado de una tormenta... ¡O quizá era ese Pokémon quien la provocaba!
 Our lab has an instrument that can be used to track unusual weather... Maybe it could be useful to track down that Pokémon!
-Our lab has an instrument that can be used to track unusual weather... Maybe it could be useful to track down that Pokémon!
+En nuestro laboratorio tenemos un instrumento capaz de detectar fenómenos meteorológicos inusuales... ¡Quizá pueda servir para localizar a ese Pokémon!
 Come see us at the lab if you need more information!
-Come see us at the lab if you need more information!
+¡Ven a vernos al laboratorio si necesitas más información!
 Chamber C
-Chamber C
+Cámara C
 Chamber E
-Chamber E
+Cámara E
 Chamber D
-Chamber D
+Cámara D
 You saw Raicune!?
-You saw Raicune!?
+¡¿Has visto a Raicune!?
 It should be mine! I'm the one who assembled him, it's true!
-It should be mine! I'm the one who assembled him, it's true!
+¡Debería ser mío! ¡Yo fui quien lo creó, de verdad!
 Would you like to hear about how it came to be?
-Would you like to hear about how it came to be?
+¿Te gustaría saber cómo llegó a existir?
 Very well. This took place not very long ago, in Azalea Town.
-Very well. This took place not very long ago, in Azalea Town.
+Muy bien. Todo ocurrió hace no mucho, en Pueblo Azalea.
 Not everyone is as excited as me about legendary Pokémon I suppose.
-Not everyone is as excited as me about legendary Pokémon I suppose.
+Supongo que no todo el mundo siente el mismo entusiasmo que yo por los Pokémon legendarios.
 Thank you for listening to my story.
-Thank you for listening to my story.
+Gracias por escuchar mi historia.
 Please come see me in Cherrygrove City if you ever come across one of the legendary beasts of Johto or the legendary birds of Kanto.
-Please come see me in Cherrygrove City if you ever come across one of the legendary beasts of Johto or the legendary birds of Kanto.
+Ven a verme a Ciudad Cerezo si alguna vez te encuentras con una de las bestias legendarias de Johto o una de las aves legendarias de Kanto.
 You're on!
 ¡Acepto!
 Not right now...
@@ -16303,151 +16303,151 @@ No
 No
 [Map343]
 The following Pokémon can be found on Route 32:
-The following Pokémon can be found on Route 32:
+Los siguientes Pokémon pueden encontrarse en la Ruta 32.
 Raticate, Weepinbell, Arbok, Mareep, Flaafy, Skiploom, Jumpluff, Quagsire, Golbat
 Raticate, Weepinbell, Arbok, Mareep, Flaafy, Skiploom, Jumpluff, Quagsire, Golbat
 [Map344]
 [Map345]
 I don't understand... I'm sure this is where it went.
-I don't understand... I'm sure this is where it went.
+No lo entiendo... Estoy seguro de que vino por aquí.
 But where could it be?
-But where could it be?
+¿Pero dónde podría estar?
 Huh!? Where did that noise come from? Could it be...
-Huh!? Where did that noise come from? Could it be...
+¡¿Eh?! ¿De dónde vino ese ruido? ¿Será que...?
 Some of the text is worn-out...
-Some of the text is worn-out...
+Parte del texto está desgastado...
 A - B - _ - _ - C- _ - A
 A - B - _ - _ - C- _ - A
 -H- O--ER MUS- -- RES---T--.
--H- O--ER MUS- -- RES---T--.
+-L O---- D--- S-- R------DO.
 Touch the stone tablet?
-Touch the stone tablet?
+¿Tocar la tablilla de piedra?
 \PN touched the stone tablet...
-\PN touched the stone tablet...
+\PN tocó la tablilla de piedra...
 THE O--ER MUST -- RES---T--.
-THE O--ER MUST -- RES---T--.
+EL O--EN DEBE SER R------DO.
 Yes
 Sí
 No
 No
 [Map346]
 An old painting representing two ancient Pokémon...
-An old painting representing two ancient Pokémon...
+Una antigua pintura que representa a dos Pokémon ancestrales...
 [Map347]
 Some of the text is worn-out...
-Some of the text is worn-out...
+Parte del texto está desgastado...
 _ - B - D - E - _ - _ - A
 _ - B - D - E - _ - _ - A
 --- --DER MU-- -- RESP-----.
---- --DER MU-- -- RESP-----.
+--- -RDE- DEB- S-- RESP-----.
 Touch the stone tablet?
-Touch the stone tablet?
+¿Tocar la tablilla de piedra?
 \PN touched the stone tablet...
-\PN touched the stone tablet...
+\PN tocó la tablilla de piedra...
 Yes
 Sí
 No
 No
 [Map348]
 Some of the text is worn-out...
-Some of the text is worn-out...
+Parte del texto está desgastado...
 _ - _ - D - E - C- B - _
 _ - _ - D - E - C- B - _
 -HE ORDER ---- BE R---E-TED.
--HE ORDER ---- BE R---E-TED.
+E- ORDEN ---- DE R---E-TADO.
 Touch the stone tablet?
-Touch the stone tablet?
+¿Tocar la tablilla de piedra?
 \PN touched the stone tablet...
-\PN touched the stone tablet...
+\PN tocó la tablilla de piedra...
 Yes
 Sí
 No
 No
 [Map349]
 Outsiders like you need to show me some respect!
-Outsiders like you need to show me some respect!
+¡Los forasteros como tú deben mostrarme algo de respeto!
 I give up!
-I give up!
+¡Me rindo!
 I found this egg in the cave, want to have it?
-I found this egg in the cave, want to have it?
+Encontré este huevo en la cueva, ¿lo quieres?
 Received a Pokémon Egg!
 ¡Recibiste un Huevo Pokémon!
 No worries, mate! I'll hang on to it!
-No worries, mate! I'll hang on to it!
+¡No te preocupes, amigo! ¡Me quedaré con él!
 You're talented enough to hike! That egg should be in good hands!
-You're talented enough to hike! That egg should be in good hands!
+¡Tienes talento suficiente para explorar la montaña! ¡Ese huevo estará en buenas manos!
 Eek! Don't try anything funny in the dark!
-Eek! Don't try anything funny in the dark!
+¡Ay! ¡No intentes hacer nada raro en la oscuridad!
 It was too dark! I couldn't see a thing!
-It was too dark! I couldn't see a thing!
+¡Estaba demasiado oscuro! ¡No podía ver nada!
 I'm sure I can beat you eventually! Let's have another round!
-I'm sure I can beat you eventually! Let's have another round!
+¡Estoy seguro de que algún día podré vencerte! ¡Hagamos otro combate!
 I lost?
-I lost?
+¿He perdido?
 Well I sure won't be able to beat you if we don't fight!
-Well I sure won't be able to beat you if we don't fight!
+¡Está claro que no podré vencerte si no combatimos!
 You have Pokémon! Let's start!
-You have Pokémon! Let's start!
+¡Tienes Pokémon! ¡Empecemos!
 You play hard!
-You play hard!
+¡Te lo tomas muy en serio!
 Whew! I'm all sweaty now!
-Whew! I'm all sweaty now!
+¡Uf! ¡Estoy sudando por todas partes!
 I need something to cool me down! Got anything to drink you could give me?
-I need something to cool me down! Got anything to drink you could give me?
+¡Necesito algo para refrescarme! ¿Tienes algo de beber que puedas darme?
 Ahh! That hit the spot! Thanks a lot!
-Ahh! That hit the spot! Thanks a lot!
+¡Ahh! ¡Justo lo que necesitaba! ¡Muchas gracias!
 Here, have this as a thanks!
-Here, have this as a thanks!
+Toma, acepta esto como agradecimiento.
 I'm all drenched now, thanks!
-I'm all drenched now, thanks!
+¡Ahora estoy empapado, gracias!
 You beat me at my own game. I'll never be able to live it down!
-Me venciste en mi propio juego. ¡Nunca podré superar esta derrota!
+Me venciste en mi propio juego. ¡Nunca podré olvidarlo!
 Hey! You've almost made it out of the tunnel!
-Hey! You've almost made it out of the tunnel!
+¡Oye! ¡Casi has llegado a la salida del túnel!
 But let me teach you a thing or two about Pokémon battling before you get to the exit!
-But let me teach you a thing or two about Pokémon battling before you get to the exit!
+¡Pero déjame enseñarte un par de cosas sobre los combates Pokémon antes de que llegues a la salida!
 Okay! I'll let you through!
-Okay! I'll let you through!
+¡De acuerdo! ¡Te dejaré pasar!
 You looked cute and harmless, but you certainly know how to fight!
-You looked cute and harmless, but you certainly know how to fight!
+Parecías tierno e inofensivo, ¡pero sabes combatir muy bien!
 Want to have a rematch? I'll heal your Pokémon and use my full team this time!
-Want to have a rematch? I'll heal your Pokémon and use my full team this time!
+¿Quieres una revancha? ¡Curaré a tus Pokémon y esta vez usaré todo mi equipo!
 No forfeiting though!
-No forfeiting though!
+¡Pero nada de rendirse!
 Wow! I couldn't beat you even with a full team!
-Wow! I couldn't beat you even with a full team!
+¡Vaya! ¡Ni siquiera pude vencerte con todo mi equipo!
 What a fight! I sure am glad I ran into you!
-What a fight! I sure am glad I ran into you!
+¡Vaya combate! Me alegro mucho de haberte encontrado.
 Here, have this as a reward for defeating my entire team!
-Here, have this as a reward for defeating my entire team!
+Toma, esto es una recompensa por derrotar a todo mi equipo.
 I'll wait here for you to change your mind!
-I'll wait here for you to change your mind!
+¡Esperaré aquí por si cambias de opinión!
 This tunnel goes a long way, kid!
-This tunnel goes a long way, kid!
+¡Este túnel es muy largo, chico!
 Doh! You won!
-Doh! You won!
+¡Rayos! ¡Has ganado!
 I didn't expect a kid like you to be so strong! Want to have another battle?
-I didn't expect a kid like you to be so strong! Want to have another battle?
+¡No esperaba que alguien como tú fuera tan fuerte! ¿Quieres tener otro combate?
 I lost against a kid!?
-I lost against a kid!?
+¡¿Me ganó un niño?!
 I'll be here if you change your mind!
 ¡Estaré por aquí si cambias de opinión!
 You've come a long way, but you still have a long way to go before you reach the end of the tunnel!
-You've come a long way, but you still have a long way to go before you reach the end of the tunnel!
+¡Has recorrido un largo camino, pero todavía te queda mucho hasta llegar al final del túnel!
 Ease up! What am I doing? Which way is out?
-Ease up! What am I doing? Which way is out?
+¡Un momento! ¿Qué estoy haciendo? ¿Cuál es la salida?
 Here, I found this on the ground. You can have it!
-Here, I found this on the ground. You can have it!
+Toma, encontré esto en el suelo. ¡Puedes quedártelo!
 That sleeping POKEMON on Route 12 forced me to take this detour.
-That sleeping POKEMON on Route 12 forced me to take this detour.
+Ese POKÉMON dormido de la Ruta 12 me obligó a tomar este desvío.
 I don't often come here, but I will fight you.
-I don't often come here, but I will fight you.
+No suelo venir por aquí, pero combatiré contigo.
 Oh! I lost!
-Oh! I lost!
+¡Oh! ¡He perdido!
 I like tiny POKEMON, big ones are too scary!
-I like tiny POKEMON, big ones are too scary!
+¡Me gustan los POKÉMON pequeños, los grandes dan demasiado miedo!
 Hey, that was a fun battle we had, do you want to have another one?
-Oye, fue una batalla divertida ¿quieres tener otra?
+Oye, fue un combate divertido. ¿Quieres tener otro?
 Yes
 Sí
 No
@@ -16456,109 +16456,111 @@ No
 It's a Pokémon egg... Take it?
 Es un huevo Pokémon... ¿Lo tomas?
 Obtained a Pokémon egg!
-¡Has obtenido un huevo Pokémon!
+¡Has obtenido un Huevo Pokémon!
 You have no room in your party to store the egg.
 No tienes espacio en tu equipo para guardar el huevo.
 It's an empty Pokémon nest...
 Es un nido Pokémon vacío...
 Did you known that hikers leave twigs as trail markers?
-Did you known that hikers leave twigs as trail markers?
+¿Sabías que los excursionistas dejan ramas como señales del camino?
 Ohhh! I did my best!
-Ohhh! I did my best!
+¡Ohhh! ¡Hice todo lo que pude!
 Hey, that was a fun battle we had, do you want to have another one?
-Oye, fue una batalla divertida ¿quieres tener otra?
+Oye, fue un combate divertido. ¿Quieres tener otro?
 I lost?
-I lost?
+¿He perdido?
 I'll be here if you change your mind!
 ¡Estaré por aquí si cambias de opinión!
 Pokémon fight! Ready, go!
-Pokémon fight! Ready, go!
+¡Combate Pokémon! ¡Preparados, listos, ya!
 Game over!
-Game over!
+¡Fin de la partida!
 My Pokémon are irking to fight you again.
-My Pokémon are irking to fight you again.
+Mis Pokémon están deseando combatir contigo otra vez.
 Should we have a rematch?
-Should we have a rematch?
+¿Deberíamos tener una revancha?
 I lost against a kid!?
-I lost against a kid!?
+¡¿Me ganó un niño?!
 You have a Pokédex? I want one too!
-You have a Pokédex? I want one too!
+¿Tienes una Pokédex? ¡Yo también quiero una!
 Shoot! I'm so jealous!
-Shoot! I'm so jealous!
+¡Vaya! ¡Qué envidia!
 Let me see your Pokédex.
-Let me see your Pokédex.
+Déjame ver tu Pokédex.
 I'll give you some special Pokéball if you've caught more than 30 species of Pokémon.
-I'll give you some special Pokéball if you've caught more than 30 species of Pokémon.
+Te daré unas Pokéballs especiales si has capturado más de 30 especies de Pokémon.
 Oh that's no good. You gotta catch more Pokémon than that!
-Oh that's no good. You gotta catch more Pokémon than that!
+Oh, eso no es suficiente. ¡Tienes que capturar más Pokémon!
 With those, you'll be able to catch even more Pokémon!
-With those, you'll be able to catch even more Pokémon!
+¡Con ellas podrás capturar todavía más Pokémon!
 Dusk Balls will work really well in here because of how dark it is!
-Dusk Balls will work really well in here because of how dark it is!
+¡Las Ocaso Balls funcionan muy bien aquí debido a la oscuridad!
 I paint Pokémon when I'm home.
-I paint Pokémon when I'm home.
+Pinto Pokémon cuando estoy en casa.
 Whew! I'm exhausted!
-Whew! I'm exhausted!
+¡Uf! ¡Estoy agotado!
 It's hard to paint in the dark!
-It's hard to paint in the dark!
+¡Es difícil pintar en la oscuridad!
 Will you please trade me a Pokémon that knows the move Flash?
-Will you please trade me a Pokémon that knows the move Flash?
+¿Podrías intercambiarme un Pokémon que conozca el movimiento Destello?
 I'll trade you my Jigglyth for it. I taught it the move Sketch so that it could paint with me!
-I'll trade you my Jigglyth for it.  I taught it the move Sketch so that it could paint with me!
+Te cambiaré mi Jigglyth por él. ¡Le enseñé el movimiento Esquema para que pudiera pintar conmigo!
 Which Pokémon are you going to give me?
 ¿Qué Pokémon me vas a dar?
 I'll just paint darkness then!
-I'll just paint darkness then!
+¡Entonces pintaré la oscuridad!
 Let's do this!
-¡Empecemos esto!
+¡Hagámoslo!
 I hope you take care of Jigglyth! I taught it a move that no other Jigglyth knows!
-I hope you take care of Jigglyth! I taught it a move that no other Jigglyth knows!
+¡Espero que cuides de Jigglyth! ¡Le enseñé un movimiento que ningún otro Jigglyth conoce!
 I'll just paint in the dark then!
-I'll just paint in the dark then!
+¡Entonces pintaré en la oscuridad!
 You know that Jigglyth I traded you?
-You know that Jigglyth I traded you?
+¿Recuerdas ese Jigglyth que te intercambié?
 It knows the move Sketch! It's a move that it can't usually learn naturally!
-It knows the move Sketch! It's a move that it can't usually learn naturally!
+¡Conoce el movimiento Esquema! ¡Es un movimiento que normalmente no puede aprender de forma natural!
 I got lost, but you'll help me find my way!
-I got lost, but you'll help me find my way!
+Me he perdido, ¡pero tú me ayudarás a encontrar el camino!
 Seriously, which way is the exit?
-Seriously, which way is the exit?
+En serio, ¿por dónde está la salida?
 I'm still lost so I have plenty of time to have a battle!
-I'm still lost so I have plenty of time to have a battle!
+Sigo perdido, ¡así que tengo mucho tiempo para combatir!
 Want to have a rematch?
-Want to have a rematch?
+¿Quieres una revancha?
 Can you tell me which way is the exit?
-Can you tell me which way is the exit?
+¿Puedes decirme por dónde está la salida?
 The angry parent attacked!
+¡El padre enfadado atacó!
+EV030
 EV030
 Hit me with your best shot!
-Hit me with your best shot!
+¡Dame tu mejor golpe!
 Fired away!
-Fired away!
+¡Allá voy!
 I really love singing 80's pop-rock hits in the dark!
-I really love singing 80's pop-rock hits in the dark!
+¡Me encanta cantar éxitos de pop-rock de los 80 en la oscuridad!
 Do you have a Pokémon that knows how to sing? I'll trade you any of mine in exchange!
-Do you have a Pokémon that knows how to sing? I'll trade you any of mine in exchange!
+¿Tienes un Pokémon que sepa cantar? ¡Te cambiaré cualquiera de los míos por él!
 I'll take any Pokémon that can sing that's at least level 20!
-I'll take any Pokémon that can sing that's at least level 20!
+¡Aceptaré cualquier Pokémon que sepa cantar y que sea como mínimo de nivel 20!
 That's fine, I can sing alone just fine!
-That's fine, I can sing alone just fine!
+Está bien, puedo cantar solo sin problemas.
 Which of my Pokémon do you want?
-Which of my Pokémon do you want?
+¿Qué Pokémon mío quieres?
 Take care of my Pokémon!
-Take care of my Pokémon!
+¡Cuida de mi Pokémon!
 Oh, you don't want to do this after all?
-Oh, you don't want to do this after all?
+Oh, ¿al final no quieres hacerlo?
 That Pokémon you traded me is great at singing 80's pop- rock hits!
-That Pokémon you traded me is great at singing 80's pop- rock hits!
+¡Ese Pokémon que me intercambiaste canta muy bien éxitos de pop-rock de los 80!
 My Pokémon techniques will leave you crying!
-My Pokémon techniques will leave you crying!
+¡Mis técnicas Pokémon harán que acabes llorando!
 I give! You're a better technician!
-I give! You're a better technician!
+¡Me rindo! ¡Eres mejor técnico!
 In mountains, you'll often find rock-type POKEMON.
-In mountains, you'll often find rock-type POKEMON.
+En las montañas, es habitual encontrar POKÉMON de tipo Roca.
 Hey, do you want to have another battle?
-Hey, do you want to have another battle?
+Oye, ¿quieres tener otro combate?
 Yes
 Sí
 No
