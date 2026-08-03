@@ -15821,11 +15821,11 @@ No
 No
 [Map331]
 Welcome to Blackthorn City's hotel.
-Welcome to Blackthorn City's hotel.
+Bienvenido al hotel de Ciudad Endrino.
 \GIt's 50$ for a room. Would you like to rent a room?
-Cuesta 50$ la habitación. ¿Quieres alquilar una?
+\GCuesta 50$ la habitación. ¿Quieres alquilar una?
 \GThank you very much. I'll prepare the room for you!
-Muchas gracias. ¡Prepararé la habitación para ti!
+\GMuchas gracias. ¡Prepararé la habitación para ti!
 \PN slept for a while...
 \PN durmió un rato...
 Your Pokémon are full of energy!
@@ -15856,73 +15856,73 @@ Cancel
 Cancelar
 [Map332]
 Did you know that the Magikarp you can find in Dragon's Den are stronger than anywhere else?
-Did you know that the Magikarp you can find in Dragon's Den are stronger than anywhere else?
+¿Sabías que los Magikarp que puedes encontrar en la Guarida Dragón son más fuertes que en cualquier otro lugar?
 I'll give you something if you show me a Magikarp that's incredibly strong!
-I'll give you something if you show me a Magikarp that's incredibly strong!
+¡Te daré algo si me muestras un Magikarp increíblemente fuerte!
 Do you have a Magikarp to show me?
 ¿Tienes un Magikarp para mostrarme?
 If you ever find a Magikarp that's incredibly strong, come and show it to me.
-If you ever find a Magikarp that's incredibly strong, come and show it to me.
+Si alguna vez encuentras un Magikarp increíblemente fuerte, ven a mostrármelo.
 Hmm... This Magikarp...
-Hmm... This Magikarp...
+Mmm... Este Magikarp...
 I've never seen one as vigorous as this one!
-I've never seen one as vigorous as this one!
+¡Nunca había visto uno tan vigoroso como este!
 What an incredible specimen! Here, take this as a token of my appreciation.
-What an incredible specimen! Here, take this as a token of my appreciation.
+¡Qué ejemplar tan increíble! Toma esto como muestra de mi agradecimiento.
 It's strong, but it's not strong enough. I'm sure you could find one that's stronger!
-It's strong, but it's not strong enough. I'm sure you could find one that's stronger!
+Es fuerte, pero no lo suficiente. ¡Estoy seguro de que puedes encontrar uno aún más fuerte!
 Show me a Magikarp that's incredibly strong and I'll give you something special.
-Show me a Magikarp that's incredibly strong and I'll give you something special.
+Muéstrame un Magikarp increíblemente fuerte y te daré algo especial.
 It's not nearly strong enough! I know you can do better than that!
-It's not nearly strong enough! I know you can do better than that!
+¡Ni de cerca es lo bastante fuerte! ¡Sé que puedes conseguir uno mejor!
 A Magikarp as strong as the one you've shown me would be unstoppable if it evolved into a Gyarados.
-A Magikarp as strong as the one you've shown me would be unstoppable if it evolved into a Gyarados.
+Un Magikarp tan fuerte como el que me has mostrado sería imparable si evolucionara a Gyarados.
 It's noticeably empty.
 Está totalmente vacío.
 This Lucario is a rare Pokémon from the Sinnoh region.
-This Lucario is a rare Pokémon from the Sinnoh region.
+Este Lucario es un Pokémon muy raro de la región de Sinnoh.
 It belonged to my mother a long time ago.
-It belonged to my mother a long time ago. 
+Perteneció a mi madre hace mucho tiempo.
 But she passed away on a cruise to Cinnabar Island when the ship got caught in a storm when I was just a little girl.
-But she passed away on a cruise to Cinnabar Island when the ship got caught in a storm when I was just a little girl.
+Pero falleció durante un crucero a Isla Canela cuando el barco quedó atrapado en una tormenta. Yo apenas era una niña.
 I know it's a long shot, but if you ever find the shipwreck, could you look around and see if you could find something that belonged to her?
-I know it's a long shot, but if you ever find the shipwreck, could you look around and see if you could find something that belonged to her?
+Sé que es muy poco probable, pero si alguna vez encuentras el naufragio, ¿podrías buscar si hay algo que le haya pertenecido?
 It would mean so much to me!
-It would mean so much to me!
+¡Significaría muchísimo para mí!
 This Lucario belonged to my mother a long time ago.
-This Lucario belonged to my mother a long time ago. 
+Este Lucario perteneció a mi madre hace mucho tiempo.
 Oh my... This pendant... It's the same one that my mother used to wear when I was little.
-Oh my... This pendant... It's the same one that my mother used to wear when I was little.
+Dios mío... Este colgante... Es el mismo que mi madre solía llevar cuando yo era pequeña.
 I beg you, please give it to me. I will give you my Lucario in exchange!
-I beg you, please give it to me. I will give you my Lucario in exchange!
+Te lo suplico, por favor dámelo. ¡Te entregaré mi Lucario a cambio!
 \PN handed the old pendant.
-\PN handed the old pendant.
+\PN entregó el colgante antiguo.
 My God, I never thought I'd see it again. Lucario is yours, Please take care of it.
-My God, I never thought I'd see it again. Lucario is yours, Please take care of it.
+Dios mío... Nunca pensé que volvería a verlo. Lucario es tuyo. Por favor, cuídalo bien.
 Oh... I see. I hope you will reconsider.
-Oh... I see. I hope you will reconsider.
+Oh... Ya veo. Espero que lo reconsideres.
 I never thought I'd ever see this pendant again.
-I never thought I'd ever see this pendant again.
+Nunca pensé que volvería a ver este colgante.
 Thanks to you, I feel like mother is close to me again.
-Thanks to you, I feel like mother is close to me again.
+Gracias a ti, siento que mi madre está cerca de mí otra vez.
 Hah!
-Hah!
+¡Hah!
 Dragon-type Pokémon are my favourite. They're super STRONG!
-Dragon-type Pokémon are my favourite. They're super STRONG!
+¡Los Pokémon de tipo Dragón son mis favoritos! ¡Son súper FUERTES!
 Could you please show me fully-evolved Dragon-type Pokémon? I'll give you something cool if you do!
-Could you please show me fully-evolved Dragon-type Pokémon? I'll give you something cool if you do!
+¿Podrías mostrarme un Pokémon de tipo Dragón que haya evolucionado por completo? ¡Te daré algo genial si lo haces!
 Please show me fully-evolved Dragon-type Pokémon and I'll give you something cool!
-Please show me fully-evolved Dragon-type Pokémon and I'll give you something cool!
+¡Muéstrame un Pokémon de tipo Dragón completamente evolucionado y te daré algo genial!
 Woah!
-Woah!
+¡Guau!
 It's so big! It's like the ultimate Dragon Pokémon!
-It's so big! It's like the ultimate Dragon Pokémon!
+¡Es enorme! ¡Parece el Pokémon Dragón definitivo!
 Here, I want you to have this. I found it on the side of the road.
-Here, I want you to have this. I found it on the side of the road.
+Toma, quiero que te quedes con esto. Lo encontré al costado del camino.
 Aww... I promise, you won't be disappointed!
-Aww... I promise, you won't be disappointed!
+Aaah... ¡Te prometo que no te decepcionará!
 An X-Attack 3 is much better than a regular X-Attack. Use it wisely.
-An X-Attack 3 is much better than a regular X-Attack. Use it wisely.
+Un X Ataque 3 es mucho mejor que un X Ataque normal. Úsalo con sabiduría.
 Yes
 Sí
 No
@@ -15931,271 +15931,271 @@ No
 The shelves are filled with Pokemon goods!
 ¡Los estantes están llenos de productos Pokémon!
 A Pokéball that makes Pokémon stronger!? I can't believe it!
-A Pokéball that makes Pokémon stronger!? I can't believe it!
+¿¡Una Poké Ball que hace más fuertes a los Pokémon!? ¡No puedo creerlo!
 \bHello. You must be \PN.
-\bHello. You must be \PN.
+\bHola. Tú debes ser \PN.
 \bI've received a gift for you.\nHere you go!
-\bI've received a gift for you.\nHere you go!
+\bHe recibido un regalo para ti.\n¡Aquí tienes!
 \bI haven't received any other gifts for you.
-\bI haven't received any other gifts for you.
+\bNo he recibido más regalos para ti.
 \bWe look forward to your next visit.
-\bWe look forward to your next visit.
+\bEsperamos verte de nuevo.
 Sorry I need the correct password
-Sorry I need the correct password
+Lo siento, necesito la contraseña correcta.
 [Map334]
 I can melt metals to make them more valuable.
-I can melt metals to make them more valuable.
+Puedo fundir metales para hacerlos más valiosos.
 Do you want me to melt two Nuggets into a Big Nugget?
-Do you want me to melt two Nuggets into a Big Nugget?
+¿Quieres que funda dos Nugget para convertirlos en un Gran Nugget?
 \PN handed two nuggets
-\PN handed two nuggets
+\PN entregó dos Nugget.
 All done! Here you are!
-All done! Here you are!
+¡Listo! Aquí tienes.
 I need two Nuggets to make a big Nugget.
-I need two Nuggets to make a big Nugget.
+Necesito dos Nugget para hacer un Gran Nugget.
 Come back whenever, kid!
-Come back whenever, kid!
+¡Vuelve cuando quieras, chico!
 It's empty.
-It's empty.
+Está vacío.
 Some people will pay a lot of money for Big Nuggets!
-Some people will pay a lot of money for Big Nuggets!
+¡Hay gente que paga muchísimo dinero por los Grandes Nugget!
 Yes
 Sí
 No
 No
 [Map335]
 The Magikarp and Dratini that live in here are very lively.
-The Magikarp and Dratini that live in here are very lively.
+Los Magikarp y Dratini que viven aquí son muy enérgicos.
 They're so lively that they create whirpools everywhere! It makes a bit it hard to navigate the water.
-They're so lively that they create whirpools everywhere!  It makes a bit it hard to navigate the water.
+¡Son tan enérgicos que crean remolinos por todas partes! Eso hace que sea un poco difícil navegar por el agua.
 The bigger Magikarp live near the bottom, so you might need a fishing rod to find them.
-The bigger Magikarp live near the bottom, so you might need a fishing rod to find them.
+Los Magikarp más grandes viven cerca del fondo, así que quizá necesites una caña de pescar para encontrarlos.
 [Map336]
 \PN... Did you come here to pay your respect to Dragon Pokémon?
-\PN... Did you come here to pay your respect to Dragon Pokémon?
+\PN... ¿Has venido aquí para rendir homenaje a los Pokémon Dragón?
 You did? That's very noble, I respect that.
-You did? That's very noble, I respect that.
+¿Sí? Eso es muy noble. Lo respeto.
 You know, I think we might've gotten off on the wrong foot. I would love to have another fight with you. What do you think?
-You know, I think we might've gotten off on the wrong foot.  I would love to have another fight with you. What do you think?
+¿Sabes? Creo que empezamos con el pie izquierdo. Me encantaría volver a enfrentarme contigo. ¿Qué dices?
 Great! Meet me in Vermillion City ASAP! I won't hold back this time!
-Great! Meet me in Vermillion City ASAP! I won't hold back this time!
+¡Excelente! ¡Reúnete conmigo en Ciudad Carmín cuanto antes! ¡Esta vez no me contendré!
 Grawwrr!
-Grawwrr!
+¡Grawwrr!
 You have completed the challenge of the whirlpools.
-You have completed the challenge of the whirlpools.
+Has superado el desafío de los remolinos.
 You are worthy. I entrust you with this Dragon Pokémon.
-You are worthy. I entrust you with this Dragon Pokémon.
+Eres digno. Te confío este Pokémon Dragón.
 Did you come here to pray?
-Did you come here to pray?
+¿Has venido aquí a rezar?
 I can absolve you of your sins if you so wish.
-I can absolve you of your sins if you so wish.
+Puedo absolverte de tus pecados, si así lo deseas.
 \GFor a small donation, of course. Of, let's say, $5,000.
-\GFor a small donation, of course. Of, let's say, $5,000.
+\GClaro, a cambio de una pequeña donación. Digamos... $5000.
 \G\PN paid the donation.
-\G\PN paid the donation.
+\G\PN hizo la donación.
 By the powers of the Alpha Pokémon...
-By the powers of the Alpha Pokémon...
+Por los poderes del Pokémon Alfa...
 May you be given pardon and peace.
-May you be given pardon and peace.
+Que te sean concedidos el perdón y la paz.
 I absolve you from your sins in the name of the almighty Pokémon.
-I absolve you from your sins in the name of the almighty Pokémon.
+Te absuelvo de tus pecados en el nombre del Pokémon Todopoderoso.
 My child, you must offer money to the Lord if you want it to hear your prayers.
-My child, you must offer money to the Lord if you want it to hear your prayers. 
+Hijo mío, debes ofrecer dinero al Señor si quieres que escuche tus plegarias.
 It works in mysterious ways indeed...
-It works in mysterious ways indeed...
+Sin duda, obra de maneras misteriosas...
 No
 No
 Yes
 Sí
 [Map337]
-Champion \PN! In addition to being a specialist of Pokéball technology, Kurt is also an expert on \V[4]  Pokémon.
-Champion \PN! In addition to being a specialist of Pokéball technology, Kurt is also an expert on \V[4]  Pokémon.
+Champion \PN! In addition to being a specialist of Pokéball technology, Kurt is also an expert on \V[4] Pokémon.
+¡Campeón \PN! Además de ser un especialista en la tecnología de las Poké Balls, Kurt también es un experto en los Pokémon de tipo \V[4].
 Don't be fooled by it, he's incredibly powerful!
-Don't be fooled by it, he's incredibly powerful!
+No te dejes engañar, ¡es increíblemente poderoso!
 This should help you!
-This should help you!
-Champion \PN! In addition to be a specialist of Pokéball technology, Kurt is also an expert on \V[4]  Pokémon.
-Champion \PN! In addition to be a specialist of Pokéball technology, Kurt is also an expert on \V[4]  Pokémon.
+¡Esto debería ayudarte!
+Champion \PN! In addition to be a specialist of Pokéball technology, Kurt is also an expert on \V[4] Pokémon.
+¡Campeón \PN! Además de ser un especialista en la tecnología de las Poké Balls, Kurt también es un experto en los Pokémon de tipo \V[4].
 You beat Kurt! Not that I had any doubts about it, of course!
-You beat Kurt! Not that I had any doubts about it, of course!
+¡Derrotaste a Kurt! Aunque, claro, nunca dudé que lo lograrías.
 \V[4] Pokémon are cool and tough! I'll prove it to you!
-\V[4] Pokémon are cool and tough! I'll prove it to you!
+¡Los Pokémon de tipo \V[4] son geniales y resistentes! ¡Te lo demostraré!
 You proved how tough you are...
-You proved how tough you are...
+Has demostrado lo fuerte que eres...
 They're so cool, but most girls don't like \V[4] Pokémon. I don't know why...
-They're so cool, but most girls don't like \V[4] Pokémon. I don't know why...
+Son tan geniales... pero a la mayoría de las chicas no les gustan los Pokémon de tipo \V[4]. No sé por qué...
 I'll give you a tip if you beat me!
-I'll give you a tip if you beat me!
+¡Te daré un consejo si me derrotas!
 I bugged out!
-I bugged out!
+¡Me hicieron pedazos!
 Touch the webs in the correct order to unlock the way! Use your ears!
-Touch the webs in the correct order to unlock the way!  Use your ears!
+¡Toca las telarañas en el orden correcto para desbloquear el camino! ¡Usa tus oídos!
 You're the one who stopped the flood? Whew, you're mighty! But my Pokémon is pretty tough too!
-You're the one who stopped the flood? Whew, you're mighty!  But my Pokémon is pretty tough too!
+¿Tú fuiste quien detuvo la inundación? ¡Uf, eres muy fuerte! ¡Pero mis Pokémon también lo son!
 Urrgggh!
-Urrgggh!
+¡Urrgggh!
 I guess I should teach it better moves...
-I guess I should teach it better moves...
+Supongo que debería enseñarles mejores movimientos...
 Hello, young one. My name is Kurt, I have studied \V[5] Pokémon for my entire life.
-Hello, young one. My name is Kurt, I have studied \V[5] Pokémon for my entire life.
+Hola, joven. Mi nombre es Kurt. He estudiado a los Pokémon de tipo \V[5] durante toda mi vida.
 I will teach you not to undererstimate \V[5]-type Pokémon! Champion or not, get ready for some schooling!
-I will teach you not to undererstimate \V[5]-type Pokémon! Champion or not, get ready for some schooling!
+¡Te enseñaré a no subestimar a los Pokémon de tipo \V[5]! ¡Campeón o no, prepárate para una lección!
 Unbelievable. Very well, you can have the Hive badge.
-Unbelievable. Very well, you can have the Hive badge.
+Increíble. Muy bien, puedes quedarte con la Medalla Colmena.
 You have proved your worth! Here is the Hive Badge!
-You have proved your worth! Here is the Hive Badge!
+¡Has demostrado tu valía! ¡Aquí tienes la Medalla Colmena!
 You can also have this TM. It's an old favourite of mine!
-You can also have this TM. It's an old favourite of mine!
+También puedes quedarte con esta MT. ¡Es una de mis favoritas desde hace mucho tiempo!
 \C[3]\PN obtained 3 Premium Wonder Trade ticket!
-\C[3]\PN obtained 3 Premium Wonder Trade ticket!
+\C[3]¡\PN obtuvo 3 boletos de Intercambio Prodigioso Premium!
 You've obtained so many badges now, and at such a young age. I must say I'm impressed. Professor Oak must be very proud.
-You've obtained so many badges now, and at such a young age. I must say I'm impressed. Professor Oak must be very proud.
+Ya has conseguido muchísimas medallas, y siendo tan joven. Debo decir que estoy impresionado. El Profesor Oak debe de estar muy orgulloso de ti.
 Now excuse me, but I must leave. Come pay me a visit a my house if you fancy a chat.
-Now excuse me, but I must leave. Come pay me a visit a my house if you fancy a chat.
+Ahora, si me disculpas, debo irme. Pásate por mi casa si alguna vez te apetece conversar.
 Most \V[4] Pokémon evolve young. So they get stronger that much faster.
-Most \V[4] Pokémon evolve young. So they get stronger that much faster.
+La mayoría de los Pokémon de tipo \V[4] evolucionan muy pronto. Por eso se vuelven más fuertes mucho antes.
 Just evolving isn't enough!
-Just evolving isn't enough!
+¡Solo evolucionar no es suficiente!
 Pokémon become stronger if they evolve. Really!
-Pokémon become stronger if they evolve. Really!
+¡Los Pokémon se vuelven más fuertes al evolucionar! ¡De verdad!
 [Map338]
 The Slowpoke's well suddenly started overflowing and it flooded the entire town.
-The Slowpoke's well suddenly started overflowing and it flooded the entire town.
+El Pozo Slowpoke comenzó a desbordarse de repente e inundó todo el pueblo.
 I wonder what caused it to happen. This is very unusual...
-I wonder what caused it to happen. This is very unusual...
+Me pregunto qué habrá provocado esto. Es algo muy inusual...
 ...Hmm? What's that you say?
-...Hmm? What's that you say?
+...¿Mmm? ¿Qué dices?
 Eusine intentionally flooded it? That's horrible!
-Eusine intentionally flooded it? That's horrible!
+¿Eusine lo inundó a propósito? ¡Eso es horrible!
 Hmm... I see... The Shellder must be blocking a natural water drain in the cave system.
-Hmm... I see... The Shellder must be blocking a natural water drain in the cave system.
+Mmm... Ya veo... Los Shellder deben de estar bloqueando un desagüe natural en el sistema de cuevas.
 Then it's our duty to go help these poor Shellder!
-Then it's our duty to go help these poor Shellder!
+¡Entonces es nuestro deber ir a ayudar a esos pobres Shellder!
 Well then if we're diving into the well, you should probably teach this to one of your Pokémon.
-Well then if we're diving into the well, you should probably teach this to one of your Pokémon.
+Bueno, si vamos a sumergirnos en el pozo, probablemente deberías enseñar esta técnica a uno de tus Pokémon.
 Hello, my name is Kurt.
-Hello, my name is Kurt.
+Hola, mi nombre es Kurt.
 And I obviously know who you are... You're \PN, the Kanto league champion!
-And I obviously know who you are... You're \PN, the Kanto league champion!
+Y, por supuesto, sé quién eres... ¡Eres \PN, el Campeón de la Liga de Kanto!
 But you came to Azalea Town at an unfortunate moment.
-But you came to Azalea Town at an unfortunate moment.
+Pero llegaste a Pueblo Azalea en un momento muy desafortunado.
 The Shellder must be blocking a natural water drain in the cave system, causing the water level to raise in the well.
-The Shellder must be blocking a natural water drain in the cave system, causing the water level to raise in the well.
+Los Shellder deben de estar bloqueando un desagüe natural en el sistema de cuevas, lo que está haciendo que el nivel del agua suba en el pozo.
 You should go dive into the well and see if you can unclog it!
-You should go dive into the well and see if you can unclog it!
+¡Deberías sumergirte en el pozo y ver si puedes despejar el bloqueo!
 ......Yawn?
-......Yawn?
+......¿Bostezo?
 Water is flowing out of the well still.
-Water is flowing out of the well still.
+El agua sigue brotando del pozo.
 Dive into the well?
-Dive into the well?
+¿Sumergirse en el pozo?
 A Pokémon might be able to dive in there...
-A Pokémon might be able to dive in there...
+Un Pokémon podría sumergirse ahí...
 Azalea Town: Where People and Pokémon Live in Happy Harmony
-Azalea Town: Where People and Pokémon Live in Happy Harmony
+Pueblo Azalea: Donde las personas y los Pokémon viven en feliz armonía.
 Saffron City: Shining, Golden Land of Commerce
-Ciudad Azafrán: Tierra Dorada y Brillante de Comercio
+Ciudad Azafrán: Tierra Dorada y Brillante de Comercio.
 How does a flood like this even happen? Boy, this situation is a mess!
-How does a flood like this even happen? Boy, this situation is a mess!
+¿Cómo puede ocurrir una inundación así? Vaya, ¡qué desastre!
 Me? I've got nothing to do with this flood! Leave me alone!
-Me? I've got nothing to do with this flood! Leave me alone!
+¿Yo? ¡No tengo nada que ver con esta inundación! ¡Déjame en paz!
 I told you already. I had nothing to do with the flood! What can't you understand about this?
-I told you already. I had nothing to do with the flood! What can't you understand about this?
+¡Ya te lo dije! ¡No tuve nada que ver con la inundación! ¿Qué parte no entiendes?
 Damn it!
-Damn it!
+¡Maldicion!
 Ok, ok, you got me! I'm the one who caused it.
-Ok, ok, you got me! I'm the one who caused it.
+Está bien, está bien, ¡me atrapaste! Yo fui quien causó todo esto.
 You see, I was just tring to make an honest living selling Slowpoke Tails.
-You see, I was just tring to make an honest living selling Slowpoke Tails.
+Verás, solo intentaba ganarme la vida honradamente vendiendo Colas de Slowpoke.
 But that old man Kurk chased me away from the town because he said that cutting off the Slowpokes' tails hurt them.
-But that old man Kurk chased me away from the town because he said that cutting off the Slowpokes' tails hurt them.
+Pero ese viejo Kurt me echó del pueblo porque decía que cortarles la cola a los Slowpoke les hacía daño.
 What utter nonsense! Slowpokes are too dumb to feel pain!
-What utter nonsense! Slowpokes are too dumb to feel pain!
+¡Qué tontería! ¡Los Slowpoke son demasiado tontos para sentir dolor!
 ...But I got back at him big time!
-...But I got back at him big time!
+...¡Pero me vengué de él a lo grande!
 I went down into Slowpoke's well and jammed a Shellder in there to flood it!
-I went down into Slowpoke's well and jammed a Shellder in there to flood it!
+¡Bajé al Pozo Slowpoke y metí un Shellder para inundarlo!
 Hehehe! You don't mess with an ex-Team Rocket member!
-Hehehe! You don't mess with an ex-Team Rocket member!
+¡Je, je, je! ¡No te metas con un exmiembro del Team Rocket!
 Now scram!
-Now scram!
+¡Ahora lárgate!
 Brrrahh!
-Brrrahh!
+¡Brrrahh!
 It's locked...
 Está cerrado...
 It's horrible! The slowpoke well began overflowing and it flooded the entire town!
-It's horrible! The slowpoke well began overflowing and it flooded the entire town!
+¡Es horrible! ¡El Pozo Slowpoke comenzó a desbordarse e inundó todo el pueblo!
 All this water! It looks like it's all coming from the Slowpoke's well!
-All this water! It looks like it's all coming from the Slowpoke's well!
+¡Toda esta agua! ¡Parece que viene del Pozo Slowpoke!
 The flood ruined my latest batch of charcoal! At least the Slowpokes seem to be enjoying it...
-The flood ruined my latest batch of charcoal! At least the Slowpokes seem to be enjoying it...
+¡La inundación arruinó mi último lote de carbón! Al menos parece que los Slowpoke lo están disfrutando...
 Hey, you're that kid from Goldenrod Tunnel... I remember you.
-Hey, you're that kid from Goldenrod Tunnel... I remember you.
+Oye, tú eres ese chico del Túnel de Trigal... Te recuerdo.
 Listen, a trade's a trade. I ain't giving you back your Pokémon.
 Escucha, un trato es un trato. No te voy a devolver tu Pokémon.
 About this flood? I've got nothing to do with it! Leave me alone!
-About this flood? I've got nothing to do with it! Leave me alone!
+¿Sobre esta inundación? ¡No tengo nada que ver con ella! ¡Déjame en paz!
 No!
-No!
+¡No!
 Ok, ok, you got me !I just jammed a bunch of Shellder in that well and it all flooded. No big deal.
-Ok, ok, you got me !I just jammed a bunch of Shellder in that well and it all flooded. No big deal.
+¡Está bien, está bien, me atrapaste! Solo metí un montón de Shellder en ese pozo y se inundó todo. No es para tanto.
 Why did I do it? Well I most definitely can't tell you or you'll mess everything up.
-Why did I do it? Well I most definitely can't tell you or you'll mess everything up.
+¿Por qué lo hice? Bueno, eso definitivamente no puedo decírtelo o lo arruinarías todo.
 Look, I feel a bit bad for you, caught up in all of this, so I'll give you back your Pokémon that you traded me in Goldenrod City.
-Look, I feel a bit bad for you, caught up in all of this, so I'll give you back your Pokémon that you traded me in Goldenrod City.
+Mira, me das un poco de pena por haberte visto envuelto en todo esto, así que te devolveré el Pokémon que me intercambiaste en Ciudad Trigal.
 But now that my identity is revealed, that old Gym Leader will surely chase me away from the town. Ughh...
-But now that my identity is revealed, that old Gym Leader will surely chase me away from the town. Ughh...
+Pero ahora que mi identidad ha sido revelada, ese viejo Líder de Gimnasio seguramente me echará del pueblo. Ughh...
 Humph... You win this time. I shall leave.
-Humph... You win this time. I shall leave.
+Humph... Esta vez tú ganas. Me marcharé.
 That incident with the well... Disastrous is the only way I can describe it! Our house is the only one that was unaffected, thankfully.
-That incident with the well... Disastrous is the only way I can describe it! Our house is the only one that was unaffected, thankfully.
+Ese incidente en el pozo... ¡Desastroso es la única forma de describirlo! Por suerte, nuestra casa fue la única que no se vio afectada.
 Waah! Grandpa said I can't go swim with Slowpoke!
-Waah! Grandpa said I can't go swim with Slowpoke!
+¡Buaaa! ¡El abuelo dijo que no puedo ir a nadar con Slowpoke!
 We're trying to use this bulldozer to get rid of the water, but it's no use when water keeps flowing out of the well!
-We're trying to use this bulldozer to get rid of the water, but it's no use when water keeps flowing out of the well!
+¡Estamos intentando usar esta excavadora para sacar el agua, pero no sirve de nada mientras siga brotando del pozo!
 Yes
 Sí
 No
 No
 [Map339]
 Hello there! You are allowed to make \V[111] more Wonder Trades before you get a new badge.
-Hello there! You are allowed to make \V[111] more Wonder Trades before you get a new badge.
+¡Hola! Puedes hacer \V[111] Wonder Trades más antes de obtener una nueva medalla.
 Would you like to make Wonder Trade?
 ¿Quieres hacer un Wonder Trade?
 This will save the game automatically. Is this OK?
-Esto guardará el juego automáticamente. ¿Está bien?
+Esto guardará la partida automáticamente. ¿Está bien?
 See you again!
 Nos vemos
 Hello there! You can't make any more Wonder Trades until you get a new badge.
-Hola, no puedes hacer más Wonder Trades hasta que obtengas una nueva medalla
+¡Hola! No puedes hacer más Wonder Trades hasta que obtengas una nueva medalla.
 Hello there! You have to get a Gym badge before you're allowed to make a WonderTrade.
-Hola, debes obtener una medalla de gimnasio antes de poder hacer un WonderTrade
+¡Hola! Debes conseguir una medalla de gimnasio antes de poder hacer un Wonder Trade.
 Hello there. Would you like to make Wonder Trade?
-Hello there. Would you like to make Wonder Trade?
+Hola. ¿Quieres hacer un Wonder Trade?
 You have to wait a little bit before you're allowed to make a new WonderTrade.
-You have to wait a little bit before you're allowed to make a new WonderTrade.
+Debes esperar un poco antes de poder hacer otro Wonder Trade.
 \C[2]WONDERTRADE DEBUG MODE\C[0] 2 \V[111] more Wonder Trades before you get a new badge.
-\C[2]MODO DEBUG WONDERTRADE\C[0] 2 \V[111] Wonder Trades más antes de que obtengas una nueva medalla
+\C[2]MODO DEBUG WONDERTRADE\C[0] 2 \V[111] Wonder Trades más antes de que obtengas una nueva medalla.
 I'm sorry, but the Pokémon Trade Center is closed until the flood situation is resolved.
-I'm sorry, but the Pokémon Trade Center is closed until the flood situation is resolved.
+Lo siento, pero el Centro de Intercambio Pokémon está cerrado hasta que se resuelva la situación de la inundación.
 \^Hello, and welcome to the Pokémon Center.\wt[2.5]
 \^Hola, bienvenido al Centro Pokémon \wt[2.5]
 The town is in a bit of a bad situation, but thankfully all of our medical equipment still works.
-The town is in a bit of a bad situation, but thankfully all of our medical equipment still works.
+La situación del pueblo es un poco complicada, pero por suerte todo nuestro equipo médico sigue funcionando.
 Would you like to rest your Pokémon?
 ¿Quieres que tus Pokémon descansen?
 OK, I'll take your Pokémon for a few seconds.
-Está bien, tomaré a tus Pokémon por unos segundos
+Está bien, tomaré a tus Pokémon por unos segundos.
 \rYour Pokémon may be infected by PokeRus.
 \rTu Pokémon podría estar infectado con PokeRus.
 \rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.
 \rSe sabe poco sobre el PokeRus, salvo que son microorganismos que se adhieren a los Pokémon.
-\rWhile infected, Pokémon are said to grow exceptionally well.
+\rWhile infected, Pokémon are said to grow exceptionally bien.
 \rMientras están infectados, se dice que los Pokémon crecen excepcionalmente bien.
 Thank you for waiting.
-Gracias por esperar
+Gracias por esperar.
 We've restored your Pokémon to full health.
-Hemos restaurado la salud completa de tus Pokémon
+Hemos restaurado por completo la salud de tus Pokémon.
 We hope to see you again!
 ¡Esperamos verte de nuevo!
 \rWe hope to see you again!
@@ -16206,19 +16206,19 @@ No
 No
 [Map340]
 A shellder is stuck in the hole, blocking the water from flowing out of the well.
-A shellder is stuck in the hole, blocking the water from flowing out of the well.
+Un Shellder está atascado en el agujero, impidiendo que el agua salga del pozo.
 The water appears to be draining!
-The water appears to be draining!
+¡Parece que el agua está drenándose!
 The well has returned to normal!
-The well has returned to normal!
+¡El pozo ha vuelto a la normalidad!
 Return to the surface?
-Return to the surface?
+¿Volver a la superficie?
 Pull it out?
-Pull it out?
+¿Sacarlo?
 Shellder swam away.
-Shellder swam away.
+Shellder salió nadando.
 The current is too strong to go any further,
-The current is too strong to go any further,
+La corriente es demasiado fuerte para seguir avanzando.
 Yes
 Sí
 No
