@@ -16339,7 +16339,7 @@ Parte del texto está desgastado...
 _ - B - D - E - _ - _ - A
 _ - B - D - E - _ - _ - A
 --- --DER MU-- -- RESP-----.
---- -RDE- DEB- S-- RESP-----.
+-- -RDE- DEB- S-- RESP-----.
 Touch the stone tablet?
 ¿Tocar la tablilla de piedra?
 \PN touched the stone tablet...
@@ -16571,157 +16571,157 @@ Voltix
 Voltix
 [Map351]
 Using your Pokémon to climb up waterfalls, that's pretty clever!
-Using your Pokémon to climb up waterfalls, that's pretty clever!
+Usar a tus Pokémon para subir cascadas, eso es bastante ingenioso.
 Do you want to know how I do it without a Pokémon?
-Do you want to know how I do it without a Pokémon?
+¿Quieres saber cómo lo hago yo sin un Pokémon?
 Show me a Pokémon that knows the moves \C[1]Aqua Jet, Waterfall\C[0] and \C[1]Fly\C[0] and I'll teach you the secret!
-Show me a Pokémon that knows the moves \C[1]Aqua Jet, Waterfall\C[0] and \C[1]Fly\C[0] and I'll teach you the secret!
+Muéstrame un Pokémon que conozca los movimientos \C[1]Aqua Jet, Cascada\C[0] y \C[1]Vuelo\C[0], y te enseñaré el secreto.
 No, no, no! It needs to know all three moves!
-No, no, no! It needs to know all three moves!
+¡No, no, no! ¡Tiene que conocer los tres movimientos!
 That's it! You're obviously a connoisseur of water sports, so I'm surprised you didn't know already.
-That's it! You're obviously a connoisseur of water sports, so I'm surprised you didn't know already.
+¡Eso es! Obviamente eres un experto en deportes acuáticos, así que me sorprende que no lo supieras.
 But anyway, the secret to climb waterfalls is to use a water propelled \C[1]Jetpack\C[0] like this one!
-But anyway, the secret to climb waterfalls is to use a water propelled \C[1]Jetpack\C[0] like this one!
+Pero, en fin, ¡el secreto para subir cascadas es usar un \C[1]Jetpack\C[0] propulsado por agua como este!
 And it's super fun to use too!
-And it's super fun to use too!
+¡Y además es divertidísimo de usar!
 This \C[1]Jetpack\C[0] I gave you allows you to go up waterfalls without a Pokémon.
-This \C[1]Jetpack\C[0] I gave you allows you to go up waterfalls without a Pokémon.
+Este \C[1]Jetpack\C[0] que te di te permite subir cascadas sin necesidad de un Pokémon.
 And it's also totally rad!
-And it's also totally rad!
+¡Y además es genial!
 [Map352]
 Some of the text is worn-out...
-Some of the text is worn-out...
+Parte del texto está desgastado...
 A - B - D - E - _ - _ - _
 A - B - D - E - _ - _ - _
 --- ----- ---- BE RESPECTED.
---- ----- ---- BE RESPECTED.
+-- ----- ---- SER RESPETADO.
 Touch the stone tablet?
-Touch the stone tablet?
+¿Tocar la tablilla de piedra?
 \PN touched the stone tablet...
-\PN touched the stone tablet...
+\PN tocó la tablilla de piedra...
 Yes
 Sí
 No
 No
 [Map353]
 Some of the text is worn-out...
-Some of the text is worn-out...
+Parte del texto está desgastado...
 _ - _ - D - E - _- B - A
 _ - _ - D - E - _- B - A
 THE ORDER MU-- -- ---------.
-THE ORDER MU-- -- ---------.
+EL ORDEN DE-- --- ---------.
 Touch the stone tablet?
-Touch the stone tablet?
+¿Tocar la tablilla de piedra?
 \PN touched the stone tablet...
-\PN touched the stone tablet...
+\PN tocó la tablilla de piedra...
 Yes
 Sí
 No
 No
 [Map354]
 It's all complicated words and numbers that make no sense.
-It's all complicated words and numbers that make no sense.
+Solo son palabras complicadas y números que no tienen ningún sentido.
 We do research on an ancient Pokémon called Unown. We're trying to uncover its secrets!
-We do research on an ancient Pokémon called Unown.  We're trying to uncover its secrets!
+Investigamos a un antiguo Pokémon llamado Unown. ¡Estamos intentando descubrir sus secretos!
 I can tell you what type of Hidden Power your Pokémon will learn. Do you want to know?
-I can tell you what type of Hidden Power your Pokémon will learn. Do you want to know?
+Puedo decirte de qué tipo será el Poder Oculto de tu Pokémon. ¿Quieres saberlo?
 I see.\nDo come visit again.
-I see.\nDo come visit again.
+Ya veo.\nVuelve a visitarnos.
 Hmm... Your \V[4]...
-Hmm... Your \V[4]...
+Hmm... Tu \V[4]...
 Hidden Power appears to function differently with the Pokémon Unown according to my research.
-Hidden Power appears to function differently with the Pokémon Unown according to my research.
+Según mis investigaciones, Poder Oculto funciona de manera diferente con los Unown.
 It deals neutral damage to everything. Regardless of type!
-It deals neutral damage to everything. Regardless of type!
+¡Hace daño neutro a todo, sin importar el tipo!
 Its Hidden Power would be \C[1]\V[5] type\C[0]. Yes, I'm fairly certain of it!
-Its Hidden Power would be \C[1]\V[5] type\C[0]. Yes, I'm fairly certain of it!
+Su Poder Oculto sería de \C[1]\V[5] tipo \C[0]. ¡Sí, estoy casi completamente seguro!
 Our latest data suggests that there's currently an unusual thunderstorm around \V[1].
-Our latest data suggests that there's currently an unusual thunderstorm around \V[1].
+Nuestros datos más recientes indican que actualmente hay una tormenta eléctrica inusual cerca de \V[1].
 That might be where that rare Pokémon is hiding!
-That might be where that rare Pokémon is hiding!
+¡Puede que ese Pokémon raro se esté escondiendo allí!
 You can use this device to help track it down.
-You can use this device to help track it down.
+Puedes usar este dispositivo para ayudar a encontrarlo.
 I'll keep you informed if we get any more information concerning the unusual weather patterns.
-I'll keep you informed if we get any more information concerning the unusual weather patterns.
+Te mantendré informado si obtenemos más información sobre estos inusuales patrones climáticos.
 You can use this Weather Tracker to track down any unusual weather patterns.
-You can use this Weather Tracker to track down any unusual weather patterns.
+Puedes usar este Rastreador Meteorológico para localizar cualquier patrón climático inusual.
 Yes
 Sí
 No
 No
 [Map355]
 Hello, would you like me to heal your Pokémon?
-Hello, would you like me to heal your Pokémon?
+Hola, ¿quieres que cure a tus Pokémon?
 Your Pokémon are fully healed!
-Your Pokémon are fully healed!
+¡Tus Pokémon están completamente recuperados!
 Which Pokémon needs tutoring?
 ¿Qué Pokémon necesita tutoría?
 If your Pokémon need to learn a move, come back with $500.
-If your Pokémon need to learn a move, come back with $500.
+Si tus Pokémon necesitan aprender un movimiento, vuelve con $500.
 Huh? There isn't a single move that I can teach an egg.
-Huh? There isn't a single move that I can teach an egg.
+¿Eh? No hay ni un solo movimiento que pueda enseñarle a un Huevo.
 No way, I don't want to go near a Shadow Pokémon..
-No way, I don't want to go near a Shadow Pokémon..
+¡De ninguna manera! No quiero acercarme a un Pokémon Oscuro...
 Sorry...
 Lo siento...
 It doesn't appear as if I have any move I can teach to your \v[3].
-Parece que no tengo ningún movimiento para enseñarle a tu \v[3]
+Parece que no tengo ningún movimiento que pueda enseñarle a tu \v[3].
 Which move should I teach to your \v[3]?
 ¿Qué movimiento quieres que le enseñe a tu \v[3]?
 \G\PN paid $500 in exchange.
-\G\PN paid $500 in exchange.
+\G\PN pagó $500.
 \GIf your Pokémon need to learn a move, come back with another $500!.
-\GIf your Pokémon need to learn a move, come back with another $500!.
+\GSi tus Pokémon necesitan aprender un movimiento, ¡vuelve con otros $500!
 Which Pokémon should forget a move?
 ¿Qué Pokémon debería olvidar un movimiento?
 Come again if there are moves that need to be forgotten.
-Pasa de nuevo si quieres que tu Pokémon olvide algún movimiento.
+Vuelve si hay movimientos que deban olvidarse.
 What? No Egg should know any moves.
-What?  No Egg should know any moves.
+¿Cómo? Ningún Huevo debería conocer movimientos.
 \v[3] seems to know only one move...
-\v[3] solo sabe un movimiento...
+\v[3] parece que solo conoce un movimiento...
 Which move should be forgotten?
-¿Cuál movimiento quieres que se olvide?
+¿Qué movimiento debería olvidarse?
 Hm! \v[3]'s \v[4]? That move should be forgotten?
-Hm!  \v[3]'s \v[4]?  That move should be forgotten?
+¡Hmm! ¿El movimiento \v[4] de \v[3]? ¿Ese movimiento debería olvidarse?
 It worked to perfection!
 ¡Funcionó a la perfección!
 \v[3] has forgotten \v[4] completely.
-\v[3] ha olvidado completamente \v[4].
+\v[3] ha olvidado por completo \v[4].
 Would you like to test your Pokémon in a Single Battle?
-Would you like to test your Pokémon in a Single Battle?
+¿Te gustaría probar a tus Pokémon en un combate individual?
 Maximum BST?
-Maximum BST?
+¿BST máximo?
 Thank you.
-Thank you.
+Gracias.
 \GWhat would you like to do?
-\GWhat would you like to do?
+\G¿Qué te gustaría hacer?
 \GYour balance has been updated.
-\GYour balance has been updated.
+\GTu saldo ha sido actualizado.
 Would you like to receive a new Pokémon?
-Would you like to receive a new Pokémon?
+¿Te gustaría recibir un nuevo Pokémon?
 Please choose a Pokémon to receive.
-Please choose a Pokémon to receive.
+Elige el Pokémon que quieres recibir.
 Input Pokémon's dex number.
-Input Pokémon's dex number.
+Introduce el número de la Pokédex del Pokémon.
 Input Pokémon's level
-Input Pokémon's level
+Introduce el nivel del Pokémon.
 The maximum Pokédex number allowed is 340...
-The maximum Pokédex number allowed is 340...
+El número máximo permitido de la Pokédex es 340...
 Hello! How can I help you?
-Hello! How can I help you?
+¡Hola! ¿En qué puedo ayudarte?
 Did you want to fight a specific Pokémon? I can help you with that!
-Did you want to fight a specific Pokémon? I can help you with that!
+¿Querías enfrentarte a un Pokémon específico? ¡Puedo ayudarte con eso!
 Body Pokémon
-Body Pokémon
+Pokémon del cuerpo
 Head Pokémon
-Head Pokémon
+Pokémon de la cabeza
 Which level?
-Which level?
+¿Qué nivel?
 The chosen Pokémon is invalid...
 El Pokémon elegido no es válido...
 Would you like to test your Pokémon in a Double Battle?
-Would you like to test your Pokémon in a Double Battle?
+¿Quieres probar a tus Pokémon en un combate doble?
 252<<t>>: Azurill\n253<<t>>: Wynaut 254<<t>>: Ambipom 255<<t>>: Mismagius
 252<<t>>: Azurill\n253<<t>>: Wynaut 254<<t>>: Ambipom 255<<t>>: Mismagius
 256<<t>>: Honchkrow\n257<<t>>: Bonsly 258<<t>>: Mime Jr.
@@ -16737,108 +16737,108 @@ Would you like to test your Pokémon in a Double Battle?
 272<<t>>: Glaceon\n273<<t>>: Gliscor 274<<t>>: Mamoswine 275<<t>>: Porygon-Z
 272<<t>>: Glaceon\n273<<t>>: Gliscor 274<<t>>: Mamoswine 275<<t>>: Porygon-Z
 Kadabra -> Alakazam<<t>>: Level 40 Machoke -> Machamp<<t>>: Level 40 Graveler -> Golem<<t>>: Level 40 Haunter<<t>>-><<t>>Gengar<<t>>:<<t>>Level 40
-Kadabra -> Alakazam<<t>>: Level 40 Machoke -> Machamp<<t>>: Level 40 Graveler -> Golem<<t>>: Level 40 Haunter<<t>>-><<t>>Gengar<<t>>:<<t>>Level 40
+Kadabra -> Alakazam<<t>>: Nivel 40 Machoke -> Machamp<<t>>: Nivel 40 Graveler -> Golem<<t>>: Nivel 40 Haunter<<t>>-><<t>>Gengar<<t>>:<<t>>Nivel 40
 Poliwhirl -> Politoed<<t>>: lv37 Slowpoke -> Slowking<<t>>: Water Stone Onix -> Steelix<<t>>: Level 40 Scyther -> Scizor<<t>>: Level 40
-Poliwhirl -> Politoed<<t>>: lv37 Slowpoke -> Slowking<<t>>: Water Stone Onix -> Steelix<<t>>: Level 40 Scyther -> Scizor<<t>>: Level 40
+Poliwhirl -> Politoed<<t>>: Nv. 37 Slowpoke -> Slowking<<t>>: Piedra Agua Onix -> Steelix<<t>>: Nivel 40 Scyther -> Scizor<<t>>: Nivel 40
 Rhydon -> Rhyperior<<t>>: Level 55 Seadra -> Kingdra<<t>>: Level 45
-Rhydon -> Rhyperior<<t>>: Level 55 Seadra -> Kingdra<<t>>: Level 45
+Rhydon -> Rhyperior<<t>>: Nivel 55 Seadra -> Kingdra<<t>>: Nivel 45
 Porygon -> Porygon 2<<t>>: Upgrade* Porygon 2 -> Porygon Z<<t>>: Dubious disc* (Upgrade and Dubious Disc now act like stones)
-Porygon -> Porygon 2<<t>>: Upgrade* Porygon 2 -> Porygon Z<<t>>: Dubious disc* (Upgrade and Dubious Disc now act like stones)
+Porygon -> Porygon 2<<t>>: Mejora* Porygon 2 -> Porygon Z<<t>>: Disco Dudoso* (La Mejora y el Disco Dudoso ahora funcionan como piedras evolutivas)
 Magneton -> Magnezone<<t>>: Thunder stone Gligar -> Gliscor<<t>>: Dusk stone Sneasel -> Weavile<<t>>: Ice stone
-Magneton -> Magnezone<<t>>: Thunder stone Gligar -> Gliscor<<t>>: Dusk stone Sneasel -> Weavile<<t>>: Ice stone
+Magneton -> Magnezone<<t>>: Piedra Trueno Gligar -> Gliscor<<t>>: Piedra Noche Sneasel -> Weavile<<t>>: Piedra Hielo
 Electabuzz -> Electivire<<t>>: Level 40 Magmar -> Magmortar<<t>>: Level 40 Elekid -> Electabuzz<<t>>: Happiness Magby -> Magmar<<t>>: Happiness
-Electabuzz -> Electivire<<t>>: Level 40 Magmar -> Magmortar<<t>>: Level 40 Elekid -> Electabuzz<<t>>: Happiness Magby -> Magmar<<t>>: Happiness
+Electabuzz -> Electivire<<t>>: Nivel 40 Magmar -> Magmortar<<t>>: Nivel 40 Elekid -> Electabuzz<<t>>: Amistad Magby -> Magmar<<t>>: Amistad
 Eevee -> Espeon<<t>>: Sun stone Eevee -> Umbreon<<t>>: Moon stone Eevee -> Leafeon<<t>>: Leaf stone Eevee -> glaceon<<t>>: Ice stone
-Eevee -> Espeon<<t>>: Sun stone Eevee -> Umbreon<<t>>: Moon stone Eevee -> Leafeon<<t>>: Leaf stone Eevee -> glaceon<<t>>: Ice stone
+Eevee -> Espeon<<t>>: Piedra Solar Eevee -> Umbreon<<t>>: Piedra Lunar Eevee -> Leafeon<<t>>: Piedra Hoja Eevee -> Glaceon<<t>>: Piedra Hielo
 Yes
 Sí
 No
 No
 Learn Moves
-Learn Moves
+Aprender movimientos
 Forget Moves
-Forget Moves
+Olvidar movimientos
 Cancel
 Cancelar
 Withdraw money
-Withdraw money
+Retirar dinero
 Deposit money
-Deposit money
+Depositar dinero
 Regular Pokémon
-Regular Pokémon
+Pokémon normales
 Fused Pokémon
-Fused Pokémon
+Pokémon fusionados
 Never mind
 Olvídalo
 Modified dex numbers
-Modified dex numbers
+Números de la Pokédex modificados
 Modified evolution methods
-Modified evolution methods
+Métodos de evolución modificados
 [Map356]
 \V[1] switched to the Sensu Style
-\V[1] switched to the Sensu Style
+\V[1] cambió a la Forma Sensu
 \V[1] switched to the Pom-Pom Style
-\V[1] switched to the Pom-Pom Style
+\V[1] cambió a la Forma Pom-Pom
 Obtain specific outfit?
-Obtain specific outfit?
+¿Obtener un atuendo específico?
 \V[1] switched to the Pa'u Style
-\V[1] switched to the Pa'u Style
+\V[1] cambió a la Forma Pa'u
 I am the triple fusion generator. This is an experimental feature.
-I am the triple fusion generator. This is an experimental feature.
+Soy el generador de fusiones triples. Esta es una función experimental.
 Select 3 Pokémon and I'll try to combine them.
-Select 3 Pokémon and I'll try to combine them.
+Selecciona 3 Pokémon e intentaré fusionarlos.
 \V[1] switched to the Baile Style
-\V[1] switched to the Baile Style
+\V[1] cambió a la Forma Baile
 GRAAAAH!!!
-GRAAAAH!!!
+¡GRAAAAH!
 custom sprites battle m8
-custom sprites battle m8
+sprites personalizados de batalla, m8
 Darn it, you're good!
-Darn it, you're good!
+¡Rayos, eres bueno!
 Hello, would you like to learn how to use the DEBUG mode?
-Hello, would you like to learn how to use the DEBUG mode?
+Hola, ¿te gustaría aprender a usar el modo DEBUG?
 When DEBUG mode is activated, you can hold CTRL to walk anywhere or to skip any battles.
-When DEBUG mode is activated, you can hold CTRL to walk anywhere or to skip any battles. 
+Cuando el modo DEBUG esté activado, puedes mantener presionada la tecla CTRL para caminar por cualquier lugar o saltarte cualquier combate.
 You can also press F9 to bring up the Debug menu.
-You can also press F9 to bring up the Debug menu.
+También puedes presionar F9 para abrir el menú DEBUG.
 You can select any option in the menu. Be careful however, since some of these options can probably crash your game or ruin your savefile indefinitely.
-You can select any option in the menu. Be careful however, since some of these options can probably crash your game or ruin your savefile indefinitely.
+Puedes seleccionar cualquier opción del menú. Sin embargo, ten cuidado, ya que algunas de ellas podrían bloquear el juego o arruinar tu archivo de guardado de forma permanente.
 It is wise to make a backup of your savefile before exploring the various options of the Debug menu.
-It is wise to make a backup of your savefile before exploring the various options of the Debug menu.
+Es recomendable hacer una copia de seguridad de tu archivo de guardado antes de explorar las distintas opciones del menú DEBUG.
 You can talk to my colleague if you need help creating a backup file.
-You can talk to my colleague if you need help creating a backup file.
+Puedes hablar con mi colega si necesitas ayuda para crear una copia de seguridad.
 Battle from egg group (both fused same egg group)
-Battle from egg group (both fused same egg group)
+Combate por grupo huevo (ambas fusiones del mismo grupo huevo)
 \ch[1,0,\V[2]]
 \ch[1,0,\V[2]]
 \C[3]Do you want me to take you back to Celadon City?
-\C[3]Do you want me to take you back to Celadon City?
+\C[3]¿Quieres que te lleve de regreso a Ciudad Azulona?
 Ah! Can you feel the energy in here? The rain brings out the power of \V[2]-type Pokémon!
-Ah! Can you feel the energy in here? The rain brings out the power of \V[2]-type Pokémon!
+¡Ah! ¿Puedes sentir la energía de este lugar? ¡La lluvia potencia el poder de los Pokémon de tipo \V[2]!
 I'm what you could call an expert on \V[2]-Pokémon. I've grown with them for all of my life.
-I'm what you could call an expert on \V[2]-Pokémon. I've grown with them for all of my life.
+Podría decirse que soy un experto en los Pokémon de tipo \V[2]. He convivido con ellos toda mi vida.
 Do you think you could handle a type expert? I'll give you my \C[5]special outfit\C[0] if you can defeat my team using only \V[2]-type Pokémon.
-Do you think you could handle a type expert? I'll give you my \C[5]special outfit\C[0] if you can defeat my team using only \V[2]-type Pokémon. 
+¿Crees que puedes enfrentarte a un experto en tipos? Te daré mi \C[5]atuendo especial\C[0] si derrotas a mi equipo usando únicamente Pokémon de tipo \V[2].
 Select your team! Remember, only \V[2]-type Pokémon are allowed!
-Select your team! Remember, only \V[2]-type Pokémon are allowed!
+¡Elige a tu equipo! Recuerda, ¡solo se permiten Pokémon de tipo \V[2]!
 I'm all dried up!
-I'm all dried up!
+¡Estoy completamente seco!
 Woah! You beat me at my own specialty!
-Woah! You beat me at my own specialty! 
+¡Guau! ¡Me venciste en mi propia especialidad!
 It's a true testament to your mastery of Pokémon typings!
-It's a true testament to your mastery of Pokémon typings!
+¡Es una verdadera prueba de tu dominio sobre los tipos de Pokémon!
 Well then, I'll keep my word. You can have this very special outfit!
-Well then, I'll keep my word. You can have this very special outfit!
+Muy bien, cumpliré mi palabra. ¡Puedes quedarte con este atuendo tan especial!
 When you wear this outfit, you can sometimes find \V[2]-type related items after battles!
-When you wear this outfit, you can sometimes find \V[2]-type related items after battles!
+Cuando lleves puesto este atuendo, a veces encontrarás objetos relacionados con el tipo \V[2] después de los combates.
 Remember, you're only allowed to use \V[2]-type Pokémon!
-Remember, you're only allowed to use \V[2]-type Pokémon!
+Recuerda, ¡solo puedes usar Pokémon de tipo \V[2]!
 You beat me at my own game. I'll never be able to live it down!
 Me venciste en mi propio juego. ¡Nunca podré superar esta derrota!
 Clothes
-Clothes
+Ropa
 Hat
-Hat
+Sombrero
 Cancel
 Cancelar
 Ok
@@ -16851,44 +16851,44 @@ No
 No
 [Map357]
 The shelves are filled with Pokémon goods!
-The shelves are filled with Pokémon goods!
+¡Los estantes están llenos de productos Pokémon!
 Thank you for using the \C[1]Trainer Card Printer\C[0].
-Thank you for using the \C[1]Trainer Card Printer\C[0].
+Gracias por usar la \C[1]Impresora de Tarjetas de Entrenador\C[0].
 \GWould you like to purchase a new background for your Trainer Card? The current price is \C[5]$\V[329]\C[0].
-\GWould you like to purchase a new background for your Trainer Card? The current price is \C[5]$\V[329]\C[0].
+\G¿Te gustaría comprar un nuevo fondo para tu Tarjeta de Entrenador? El precio actual es de \C[5]$\V[329]\C[0].
 Welcome! Would you like to purchase a hat?
-Welcome! Would you like to purchase a hat?
+¡Bienvenido! ¿Te gustaría comprar un sombrero?
 Oh, my, my. what a lovely young Trainer we have here...
-Oh, my, my. what a lovely young Trainer we have here...
+Vaya, vaya... Qué joven Entrenador tan encantador tenemos aquí...
 But something's not quite right. Yes, yes, it's your hair! It lacks a certain mystique.
-But something's not quite right. Yes, yes, it's your hair! It lacks a certain mystique.
+Pero hay algo que no termina de encajar. Sí, sí, ¡es tu cabello! Le falta cierto aire místico.
 Hee hee. I can give you the look of the Hex Maniac! It's a style that reflects the otherworldly. What do you say, dearie?
-Hee hee. I can give you the look of the Hex Maniac! It's a style that reflects the otherworldly. What do you say, dearie? 
+Je, je. ¡Puedo darte el aspecto de una Ocultista! Es un estilo que refleja lo sobrenatural. ¿Qué dices, cariño?
 Pika....
 Pika....
 Pikachu seems sad about its lost hat.
-Pikachu seems sad about its lost hat.
+Pikachu parece triste por haber perdido su sombrero.
 Hand the \C[1]Partner Hat\C[0] to Pikachu?
-Hand the \C[1]Partner Hat\C[0] to Pikachu?
+¿Entregarle el \C[1]Sombrero de Compañero\C[0] a Pikachu?
 Pika?
-Pika?
+¿Pika?
 Pika Pika!!
-Pika Pika!!
+¡Pika, pika!
 Pika! Pikachu!!
-Pika! Pikachu!!
+¡Pika! ¡Pikachu!
 Pikachu looks happy!
-Pikachu looks happy!
+¡Pikachu parece feliz!
 \C[5]You unlocked the ability to put hats on Pokémon!
-\C[5]You unlocked the ability to put hats on Pokémon!
+\C[5]¡Has desbloqueado la habilidad de ponerles sombreros a los Pokémon!
 \C[5]You can now do so from a new option in your party screen for any of your unlocked hats.
-\C[5]You can now do so from a new option in your party screen for any of your unlocked hats.
+\C[5]Ahora puedes hacerlo desde una nueva opción en el menú de tu equipo con cualquiera de los sombreros que hayas desbloqueado.
 It might be somewhere in \C[1]Viridian Forest\C[0]...
-It might be somewhere in \C[1]Viridian Forest\C[0]...
+Podría estar en algún lugar del \C[1]Bosque Verde\C[0]...
 Welcome! Would you like to buy some new clothes?
-Welcome! Would you like to buy some new clothes?
+¡Bienvenido! ¿Te gustaría comprar ropa nueva?
 I'm in a good mood, so I'll donate all of the clothes I've collected during my adventure to the store.
-I'm in a good mood, so I'll donate all of the clothes I've collected during my adventure to the store.
+Estoy de buen humor, así que donaré toda la ropa que he conseguido durante mi aventura a la tienda.
 Maybe this'll inspire others to go our on some adventures of their own!
-Maybe this'll inspire others to go our on some adventures of their own!
+¡Quizá esto inspire a otros a salir y vivir sus propias aventuras!
 \C[3]\PN unlocked the Johto outfits collection!
-\C[3]\PN unlocked the Johto outfits collection!
+\C[3]¡\PN ha desbloqueado la colección de atuendos de Johto!
