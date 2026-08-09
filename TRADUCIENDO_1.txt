@@ -3915,7 +3915,7 @@ Oh, ¿acaso ese chico de al lado no va a recibir también su primer Pokémon hoy
 Hmmm... What is that name that everyone calls him again?
 Mmm... ¿Cómo se llamaba ese chico?
 Oh yes, that's right! Well I'm sure that you and \V[12] will have a ton of fun on your Pokémon journey together!
-Oh, ¿acaso ese chico de al lado no va a recibir también su primer Pokémon hoy? Escuché al Profesor Oak hablar sobre ello.
+¡Ah, sí, es verdad! Bueno, ¡estoy segura de que tú y \V[12] se divertirán muchísimo juntos en su aventura Pokémon!
 Well, that's it dear! I'm not holding you here any longer. Go have fun on your adventure!
 Bueno, eso es todo, cariño. No te retendré más. ¡Ve y diviértete en tu aventura!
 You should go see Professor Oak to get your first Pokémon, honey!
