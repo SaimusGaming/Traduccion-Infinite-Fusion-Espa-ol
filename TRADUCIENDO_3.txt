@@ -48,7 +48,7 @@ Happiness
 Happiness
 243
 Thunder
-Thunder
+Trueno
 244
 Volcano
 Volcano
@@ -120,7 +120,7 @@ Vine
 Vine
 267
 Thunderbolt
-Thunderbolt
+Rayo
 268
 Blast
 Blast
@@ -462,7 +462,7 @@ DNA
 DNA
 381
 Wish
-Wish
+Deseo
 382
 Trainee
 Trainee
@@ -483,10 +483,10 @@ Ball Whale
 Ball Whale
 388
 Flash
-Flash
+Destello
 389
 Spark
-Spark
+Chispa
 390
 Iron Armor
 Iron Armor
@@ -573,7 +573,7 @@ TinyRobin
 TinyRobin
 418
 Ember
-Ember
+Ascuas
 419
 Torch
 Torch
@@ -823,6 +823,231 @@ Jewel
 501
 Rendezvous
 Rendezvous
+502
+Bite
+Mordisco
+503
+Bite
+Mordisco
+504
+Tiny Raccoon
+Tiny Raccoon
+505
+Rushing
+Rushing
+506
+Worm
+Worm
+507
+Cocoon
+Cocoon
+508
+Butterfly
+Butterfly
+509
+Cocoon
+Cocoon
+510
+Poison Moth
+Poison Moth
+511
+Acorn
+Acorn
+512
+Wily
+Wily
+513
+Wicked
+Wicked
+514
+Tiny Swallow
+Tiny Swallow
+515
+Swallow
+Tragar
+516
+Seagull
+Seagull
+517
+Water Bird
+Water Bird
+518
+Pond Skater
+Pond Skater
+519
+Eyeball
+Eyeball
+520
+Whisper
+Whisper
+521
+Big Voice
+Big Voice
+522
+Loud Noise
+Loud Noise
+523
+Guts
+Guts
+524
+Arm Thrust
+Empujón
+525
+Kitten
+Kitten
+526
+Prim
+Prim
+527
+Meditate
+Meditación
+528
+Meditate
+Meditación
+529
+Lightning
+Lightning
+530
+Discharge
+Chispazo
+531
+Cheering
+Cheering
+532
+Cheering
+Cheering
+533
+Firefly
+Firefly
+534
+Firefly
+Firefly
+535
+Stomach
+Stomach
+536
+Poison Bag
+Poison Bag
+537
+Numb
+Numb
+538
+Eruption
+Estallido
+539
+Bounce
+Bote
+540
+Manipulate
+Manipulate
+541
+Spot Panda
+Spot Panda
+542
+Cat Ferret
+Cat Ferret
+543
+Fang Snake
+Fang Snake
+544
+Meteorite
+Meteorite
+545
+Meteorite
+Meteorite
+546
+Whiskers
+Whiskers
+547
+Whiskers
+Whiskers
+548
+Ruffian
+Ruffian
+549
+Rogue
+Rogue
+550
+Clay Doll
+Clay Doll
+551
+Clay Doll
+Clay Doll
+552
+Weather
+Weather
+553
+Weather
+Weather
+554
+Weather
+Weather
+555
+Weather
+Weather
+556
+Fruit
+Fruit
+557
+Bell
+Bell
+558
+Wind Chime
+Wind Chime
+559
+Clap
+Clap
+560
+Ball Roll
+Ball Roll
+561
+Ice Break
+Ice Break
+562
+Bivalve
+Bivalve
+563
+Deep Sea
+Deep Sea
+564
+South Sea
+South Sea
+565
+Longevity
+Longevity
+566
+Bat
+Bat
+567
+Courting
+Courting
+568
+EleFish
+EleFish
+569
+EleFish
+EleFish
+570
+EleFish
+EleFish
+571
+Mock Kelp
+Mock Kelp
+572
+Mock Kelp
+Mock Kelp
+573
+Sea Slug
+Sea Slug
+574
+Sea Slug
+Sea Slug
+575
+Sea Slug
+Sea Slug
+576
+Sea Slug
+Sea Slug
 999999
 Triple Bird
 Triple Bird
@@ -866,11 +1091,11 @@ Triple Starter
 Triple Starter
 Triple Starter
 1000013
-Leaf
-Leaf
+Triple Starter
+Triple Starter
 1000014
-Leaf
-Leaf
+Triple Starter
+Triple Starter
 1000015
 Triple Starter
 Triple Starter
@@ -916,6 +1141,18 @@ Triple Starter
 1000029
 Triple Starter
 Triple Starter
+1000030
+Cardboard
+Cardboard
+1000031
+Triple Space Rock
+Triple Space Rock
+1000032
+Triple Space Rock
+Triple Space Rock
+1000033
+Triple Fish
+Triple Fish
 [3]
 1
 Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.
@@ -2420,6 +2657,231 @@ A sudden transformation of Carbink, its pink, glimmering body is said to be the 
 501
 Luvdisc make the branches of Corsola their nests. There is a custom from long ago of giving a Luvdisc as a gift to express one's feelings of love.
 Luvdisc make the branches of Corsola their nests. There is a custom from long ago of giving a Luvdisc as a gift to express one's feelings of love.
+502
+It savagely threatens foes with bared fangs. It chases after fleeing targets tenaciously. It turns tail and runs, however, if the foe strikes back.
+It savagely threatens foes with bared fangs. It chases after fleeing targets tenaciously. It turns tail and runs, however, if the foe strikes back.
+503
+In the wild, Mightyena live in a pack. They never defy their leader's orders. They defeat foes with perfectly coordinated teamwork.
+In the wild, Mightyena live in a pack. They never defy their leader's orders. They defeat foes with perfectly coordinated teamwork.
+504
+Rubbing its nose against the ground, it always wanders about back and forth in search of something. It is distinguished by the zigzag footprints it leaves.
+Rubbing its nose against the ground, it always wanders about back and forth in search of something. It is distinguished by the zigzag footprints it leaves.
+505
+It is exceedingly fast if it only has to run in a straight line. When it spots pond- dwelling prey underwater, it quickly leaps in and catches it with its sharp claws.
+It is exceedingly fast if it only has to run in a straight line. When it spots pond- dwelling prey underwater, it quickly leaps in and catches it with its sharp claws.
+506
+It sticks to tree branches and eats leaves. The thread it spits from its mouth becomes gooey when it touches air and slows the movement of its foes.
+It sticks to tree branches and eats leaves. The thread it spits from its mouth becomes gooey when it touches air and slows the movement of its foes.
+507
+It prepares for evolution using the energy it stored while it was a Wurmple. It keeps watch over the surroundings with its two eyes.
+It prepares for evolution using the energy it stored while it was a Wurmple. It keeps watch over the surroundings with its two eyes.
+508
+Its colorfully patterned wings are its most prominent feature. It flies through flower-covered fields collecting pollen. It attacks ferociously when angered.
+Its colorfully patterned wings are its most prominent feature. It flies through flower-covered fields collecting pollen. It attacks ferociously when angered.
+509
+To avoid detection by its enemies, it hides motionlessly beneath large leaves and in the gaps of branches. It also attaches dead leaves to its body for camouflage.
+To avoid detection by its enemies, it hides motionlessly beneath large leaves and in the gaps of branches. It also attaches dead leaves to its body for camouflage.
+510
+It is a nocturnal Pokémon that flies from fields and mountains to the attraction of streetlights at night. It looses highly toxic powder from its wings.
+It is a nocturnal Pokémon that flies from fields and mountains to the attraction of streetlights at night. It looses highly toxic powder from its wings.
+511
+It hangs off branches and absorbs nutrients. When it finishes eating, its body becomes so heavy that it drops to the ground with a thump.
+It hangs off branches and absorbs nutrients. When it finishes eating, its body becomes so heavy that it drops to the ground with a thump.
+512
+A forest-dwelling Pokémon that is skilled at climbing trees. Its long and pointed nose is its weak point. It loses power if the nose is gripped.
+A forest-dwelling Pokémon that is skilled at climbing trees. Its long and pointed nose is its weak point. It loses power if the nose is gripped.
+513
+It is said to arrive on chilly, wintry winds. Feared from long ago as the guardian of forests, this Pokémon lives in a deep forest where people do not venture.
+It is said to arrive on chilly, wintry winds. Feared from long ago as the guardian of forests, this Pokémon lives in a deep forest where people do not venture.
+514
+Although it is small, it is very courageous. It will take on a larger Skarmory on an equal footing. However, its will weakens if it becomes hungry.
+Although it is small, it is very courageous. It will take on a larger Skarmory on an equal footing. However, its will weakens if it becomes hungry.
+515
+A Swellow dives upon prey from far above. It never misses its targets. It takes to the skies in search of lands with a warm climate.
+A Swellow dives upon prey from far above. It never misses its targets. It takes to the skies in search of lands with a warm climate.
+516
+It makes its nest on a sheer cliff at the edge of the sea. It has trouble keeping its wings flapping in flight. Instead, it soars on updrafts.
+It makes its nest on a sheer cliff at the edge of the sea. It has trouble keeping its wings flapping in flight. Instead, it soars on updrafts.
+517
+It skims the tops of waves as it flies. When it spots prey, it uses its large beak to scoop up the victim with water. It protects its eggs in its beak.
+It skims the tops of waves as it flies. When it spots prey, it uses its large beak to scoop up the victim with water. It protects its eggs in its beak.
+518
+They gather on puddles after evening downpours, gliding across the surface of water as if sliding. It secretes honey with a sweet aroma from its head.
+They gather on puddles after evening downpours, gliding across the surface of water as if sliding. It secretes honey with a sweet aroma from its head.
+519
+It intimidates foes with the large eyelike patterns on its antennae. Because it can't fly if its wings get wet, it shelters from rain under large trees and eaves.
+It intimidates foes with the large eyelike patterns on its antennae. Because it can't fly if its wings get wet, it shelters from rain under large trees and eaves.
+520
+Its cries equal a jet plane in volume. It inhales through its ear canals. Because of this system, it can cry continually without having to catch its breath.
+Its cries equal a jet plane in volume. It inhales through its ear canals. Because of this system, it can cry continually without having to catch its breath.
+521
+It positions the round speakers on its head to assail foes with ultrasonic waves at massive volume. It builds power by stomping the ground.
+It positions the round speakers on its head to assail foes with ultrasonic waves at massive volume. It builds power by stomping the ground.
+522
+It has sound-generating organs all over its body. It communicates with others by adjusting the tone and volume of the cries it emits.
+It has sound-generating organs all over its body. It communicates with others by adjusting the tone and volume of the cries it emits.
+523
+It loves to toughen up its body above all else. If you hear quaking rumbles in a cave, it is the sound of Makuhita undertaking strenuous training.
+It loves to toughen up its body above all else. If you hear quaking rumbles in a cave, it is the sound of Makuhita undertaking strenuous training.
+524
+It has the habit of challenging others without hesitation to tests of strength. It's been known to stand on train tracks and stop trains using forearm thrusts.
+It has the habit of challenging others without hesitation to tests of strength. It's been known to stand on train tracks and stop trains using forearm thrusts.
+525
+A Skitty's adorably cute behavior makes it highly popular. In battle, it makes its tail puff out. It threatens foes with a sharp growl.
+A Skitty's adorably cute behavior makes it highly popular. In battle, it makes its tail puff out. It threatens foes with a sharp growl.
+526
+Rather than keeping a permanent lair, it habitually seeks comfortable spots and sleeps there. It is nocturnal and becomes active at dusk.
+Rather than keeping a permanent lair, it habitually seeks comfortable spots and sleeps there. It is nocturnal and becomes active at dusk.
+527
+It continually meditates for hours every day. As a result of rigorous and dedicated yoga training, it has tempered its spiritual power so much it can fly.
+It continually meditates for hours every day. As a result of rigorous and dedicated yoga training, it has tempered its spiritual power so much it can fly.
+528
+Through crushingly harsh yoga training, it gained the power to foretell its foe's actions. It battles with elegant, dance- like movement.
+Through crushingly harsh yoga training, it gained the power to foretell its foe's actions. It battles with elegant, dance- like movement.
+529
+It generates electricity using friction from the atmosphere. In seasons with especially arid air, its entire body blazes with violent showers of sparks.
+It generates electricity using friction from the atmosphere. In seasons with especially arid air, its entire body blazes with violent showers of sparks.
+530
+Because lightning falls in their vicinities, Manectric were thought to have been born from lightning. In battle, they create thunderclouds.
+Because lightning falls in their vicinities, Manectric were thought to have been born from lightning. In battle, they create thunderclouds.
+531
+It has the trait of cheering on its fellow Pokémon. By shorting out the electricity it releases from its paws, it creates pom-poms for cheering.
+It has the trait of cheering on its fellow Pokémon. By shorting out the electricity it releases from its paws, it creates pom-poms for cheering.
+532
+At a meeting of Pokémon academics, it was announced that simultaneous exposure to electricity from a Plusle and Minun will promote circulation and boost vitality.
+At a meeting of Pokémon academics, it was announced that simultaneous exposure to electricity from a Plusle and Minun will promote circulation and boost vitality.
+533
+With their taillights lit, Volbeat fly in a swarm, drawing geometric designs in the night sky. They move their nests if their pond water becomes dirty.
+With their taillights lit, Volbeat fly in a swarm, drawing geometric designs in the night sky. They move their nests if their pond water becomes dirty.
+534
+A nocturnal Pokémon that becomes active upon nightfall. It leads a Volbeat swarm to draw patterns in the night sky. Over 200 different patterns have been seen.
+A nocturnal Pokémon that becomes active upon nightfall. It leads a Volbeat swarm to draw patterns in the night sky. Over 200 different patterns have been seen.
+535
+This Pokémon's stomach fluid can even digest scrap iron. In one gulp, it can swallow something that is as large as itself.
+This Pokémon's stomach fluid can even digest scrap iron. In one gulp, it can swallow something that is as large as itself.
+536
+Its powerful stomach acid is capable of digesting almost anything. The one thing in the whole world a Swalot can't digest is its own stomach.
+Its powerful stomach acid is capable of digesting almost anything. The one thing in the whole world a Swalot can't digest is its own stomach.
+537
+A Numel stores boiling magma in the hump on its back. It is a hardy Pokémon that can transport a 220-pound load. It has served humans at work since long ago.
+A Numel stores boiling magma in the hump on its back. It is a hardy Pokémon that can transport a 220-pound load. It has served humans at work since long ago.
+538
+A Pokémon that lives in the crater of a volcano. Every 10 years, the volcanoes on its back erupt violently. Research is under way on the cause of eruption.
+A Pokémon that lives in the crater of a volcano. Every 10 years, the volcanoes on its back erupt violently. Research is under way on the cause of eruption.
+539
+A Pokémon that manipulates psychic power at will. It doesn't stop bouncing even when it is asleep. It loves eating mushrooms that grow underground.
+A Pokémon that manipulates psychic power at will. It doesn't stop bouncing even when it is asleep. It loves eating mushrooms that grow underground.
+540
+It stores power in the black pearls on its forehead. When it uses psychic power, it performs an odd dance step. Its style of dancing became hugely popular overseas.
+It stores power in the black pearls on its forehead. When it uses psychic power, it performs an odd dance step. Its style of dancing became hugely popular overseas.
+541
+It is distinguished by a pattern of spots that is always different. Its unsteady, tottering walk has the effect of fouling its foe's aim.
+It is distinguished by a pattern of spots that is always different. Its unsteady, tottering walk has the effect of fouling its foe's aim.
+542
+When it battles, it stands on its hind legs and attacks with its sharply clawed forelegs. Its fur bristles if it encounters any Seviper.
+When it battles, it stands on its hind legs and attacks with its sharply clawed forelegs. Its fur bristles if it encounters any Seviper.
+543
+Seviper and Zangoose are eternal rivals. It counters a Zangoose's dazzling agility with its swordlike tail, which also oozes a horrible poison.
+Seviper and Zangoose are eternal rivals. It counters a Zangoose's dazzling agility with its swordlike tail, which also oozes a horrible poison.
+544
+It becomes very active on the night of a full moon. This Pokémon was first discovered 40 years ago at the site of a meteor strike.
+It becomes very active on the night of a full moon. This Pokémon was first discovered 40 years ago at the site of a meteor strike.
+545
+Solar energy is the source of this Pokémon's power. On sunny days, groups of Solrock line up facing the sun and absorb its light.
+Solar energy is the source of this Pokémon's power. On sunny days, groups of Solrock line up facing the sun and absorb its light.
+546
+Its body is covered with a slimy film. The film acts as a barrier to prevent germs in muddy water from entering the Barboach's body.
+Its body is covered with a slimy film. The film acts as a barrier to prevent germs in muddy water from entering the Barboach's body.
+547
+Mysteriously, it can foretell earthquakes. In the daytime, it sleeps in mud at the bottom of a pond. When it awakens, it continually feeds throughout the night.
+Mysteriously, it can foretell earthquakes. In the daytime, it sleeps in mud at the bottom of a pond. When it awakens, it continually feeds throughout the night.
+548
+Once it grips prey with its large pincers, it will never let go, no matter what. It is a hardy Pokémon that can thrive in any environment.
+Once it grips prey with its large pincers, it will never let go, no matter what. It is a hardy Pokémon that can thrive in any environment.
+549
+A brutish Pokémon that loves to battle. A veteran Crawdaunt that has prevailed in hundreds of battles has giant pincers marked with countless scars.
+A brutish Pokémon that loves to battle. A veteran Crawdaunt that has prevailed in hundreds of battles has giant pincers marked with countless scars.
+550
+A Baltoy moves by spinning on its single foot. It has been depicted in murals adorning the walls of a once-bustling city in an ancient age.
+A Baltoy moves by spinning on its single foot. It has been depicted in murals adorning the walls of a once-bustling city in an ancient age.
+551
+A Claydol sleeps while hovering in midair. Its arms are separate from its body. They are kept floating by the Pokémon's manipulation of psychic power.
+A Claydol sleeps while hovering in midair. Its arms are separate from its body. They are kept floating by the Pokémon's manipulation of psychic power.
+552
+It alters its form depending on the weather. Changes in the climate such as the temperature and humidity appear to affect its cellular structure.
+It alters its form depending on the weather. Changes in the climate such as the temperature and humidity appear to affect its cellular structure.
+553
+It alters its form depending on the weather. Changes in the climate such as the temperature and humidity appear to affect its cellular structure.
+It alters its form depending on the weather. Changes in the climate such as the temperature and humidity appear to affect its cellular structure.
+554
+It alters its form depending on the weather. Changes in the climate such as the temperature and humidity appear to affect its cellular structure.
+It alters its form depending on the weather. Changes in the climate such as the temperature and humidity appear to affect its cellular structure.
+555
+It alters its form depending on the weather. Changes in the climate such as the temperature and humidity appear to affect its cellular structure.
+It alters its form depending on the weather. Changes in the climate such as the temperature and humidity appear to affect its cellular structure.
+556
+It flies by flapping its broad leaves. The bunch of fruit that grows around its neck is deliciously sweet. In the spring, it scatters pollen from its neck.
+It flies by flapping its broad leaves. The bunch of fruit that grows around its neck is deliciously sweet. In the spring, it scatters pollen from its neck.
+557
+It emits cries by agitating an orb at the back of its throat. It moves with flouncing hops.
+It emits cries by agitating an orb at the back of its throat. It moves with flouncing hops.
+558
+They fly about very actively when the hot season arrives. They communicate among themselves using seven different and distinguishing cries.
+They fly about very actively when the hot season arrives. They communicate among themselves using seven different and distinguishing cries.
+559
+It is completely covered with plushy fur. As a result, it never feels the cold even when it is rolling about on ice floes or diving in the sea.
+It is completely covered with plushy fur. As a result, it never feels the cold even when it is rolling about on ice floes or diving in the sea.
+560
+Sealeo live in herds on ice floes. Using its powerful flippers, it shatters ice. It dives into the sea to hunt prey five times a day.
+Sealeo live in herds on ice floes. Using its powerful flippers, it shatters ice. It dives into the sea to hunt prey five times a day.
+561
+To protect its herd, the leader battles anything that invades its territory, even at the cost of its life. Its tusks may snap off in battle.
+To protect its herd, the leader battles anything that invades its territory, even at the cost of its life. Its tusks may snap off in battle.
+562
+A Clamperl slams its shell closed on prey to prevent escape. The pearl it creates upon evolution is said to be infused with a mysterious energy.
+A Clamperl slams its shell closed on prey to prevent escape. The pearl it creates upon evolution is said to be infused with a mysterious energy.
+563
+To withstand the crushing water pressure deep under the sea, its spine is very thick and sturdy. Its tail, which is shaped like a small fish, has eyes that light up.
+To withstand the crushing water pressure deep under the sea, its spine is very thick and sturdy. Its tail, which is shaped like a small fish, has eyes that light up.
+564
+A Gorebyss siphons the body fluids of prey through its thin, tubular mouth. Its light pink body color turns vivid when it finishes feeding.
+A Gorebyss siphons the body fluids of prey through its thin, tubular mouth. Its light pink body color turns vivid when it finishes feeding.
+565
+A Pokémon that was once believed to be extinct. The species has not changed its form for 100 million years. It walks on the seafloor using its pectoral fins.
+A Pokémon that was once believed to be extinct. The species has not changed its form for 100 million years. It walks on the seafloor using its pectoral fins.
+566
+Suction from its nostrils enables it to stick to cave walls during sleep. It leaves a heart-shaped mark behind.
+Suction from its nostrils enables it to stick to cave walls during sleep. It leaves a heart-shaped mark behind.
+567
+Anyone who comes into contact with the ultrasonic waves emitted by a courting male experiences a positive mood shift.
+Anyone who comes into contact with the ultrasonic waves emitted by a courting male experiences a positive mood shift.
+568
+These Pokémon move in schools. They have an electricity-generating organ, so they discharge electricity if in danger.
+These Pokémon move in schools. They have an electricity-generating organ, so they discharge electricity if in danger.
+569
+These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.
+These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.
+570
+With their sucker mouths, they suck in prey. Then they use their fangs to shock the prey with electricity.
+With their sucker mouths, they suck in prey. Then they use their fangs to shock the prey with electricity.
+571
+Camouflaged as rotten kelp, they spray liquid poison on prey that approaches unawares and then finish it off.
+Camouflaged as rotten kelp, they spray liquid poison on prey that approaches unawares and then finish it off.
+572
+Their poison is strong enough to eat through the hull of a tanker, and they spit it indiscriminately at anything that enters their territory.
+Their poison is strong enough to eat through the hull of a tanker, and they spit it indiscriminately at anything that enters their territory.
+573
+Its colors and shapes differ from region to region. In the Sinnoh region, two types are confirmed.
+Its colors and shapes differ from region to region. In the Sinnoh region, two types are confirmed.
+574
+It has a pliable body without any bones. If any part of its body is torn off, it grows right back.
+It has a pliable body without any bones. If any part of its body is torn off, it grows right back.
+575
+Its colors and shapes differ from region to region. In the Sinnoh region, two types are confirmed.
+Its colors and shapes differ from region to region. In the Sinnoh region, two types are confirmed.
+576
+It has a pliable body without any bones. If any part of its body is torn off, it grows right back.
+It has a pliable body without any bones. If any part of its body is torn off, it grows right back.
 999999
 Zapmolcuno is a three-way fusion between Articuno, Zapdos and Moltres that was created using Team Rocket's fusion machine. Further improvements by Colress has made the fusion stable enough to be used in battles.
 Zapmolcuno is a three-way fusion between Articuno, Zapdos and Moltres that was created using Team Rocket's fusion machine. Further improvements by Colress has made the fusion stable enough to be used in battles.
@@ -2513,6 +2975,18 @@ POKENAME is a three-way fusion between the second stages of the Kalos starters t
 1000029
 POKENAME is a three-way fusion between the final stages of the Kalos starters that was created using Team Rocket's fusion machine. Further improvements by Colress has made the fusion stable enough to be use in battles.
 POKENAME is a three-way fusion between the final stages of the Kalos starters that was created using Team Rocket's fusion machine. Further improvements by Colress has made the fusion stable enough to be use in battles.
+1000030
+"Hi! I'm the official mascot of TV Mauville!"
+"Hi! I'm the official mascot of TV Mauville!"
+1000031
+POKENAME is a three-way fusion between three celestial Pokémon that was created using Team Rocket's fusion machine. Further improvements by Colress has made the fusion stable enough to be use in battles.
+POKENAME is a three-way fusion between three celestial Pokémon that was created using Team Rocket's fusion machine. Further improvements by Colress has made the fusion stable enough to be use in battles.
+1000032
+POKENAME is a three-way fusion between three celestial Pokémon that was created using Team Rocket's fusion machine. Further improvements by Colress has made the fusion stable enough to be use in battles.
+POKENAME is a three-way fusion between three celestial Pokémon that was created using Team Rocket's fusion machine. Further improvements by Colress has made the fusion stable enough to be use in battles.
+1000033
+POKENAME is a three-way fusion between three fish Pokémon that was created using Team Rocket's fusion machine. Further improvements by Colress has made the fusion stable enough to be use in battles.
+POKENAME is a three-way fusion between three fish Pokémon that was created using Team Rocket's fusion machine. Further improvements by Colress has made the fusion stable enough to be use in battles.
 [4]
 430
 Baile Style
@@ -2535,6 +3009,30 @@ Aria Forme
 489
 Small Size
 Tamaño pequeño
+552
+Normal Form
+Normal Form
+553
+Normal Form
+Normal Form
+554
+Normal Form
+Normal Form
+555
+Normal Form
+Normal Form
+573
+West Sea
+West Sea
+574
+West Sea
+West Sea
+575
+West Sea
+West Sea
+576
+West Sea
+West Sea
 [5]
 1
 Megahorn
@@ -6620,7 +7118,7 @@ A fake move developped by Team Rocket that is used to trick people into buying c
 [7]
 1
 Repel
-Repel
+Repelente
 2
 Super Repel
 Super Repel
@@ -6701,10 +7199,10 @@ Black Apricorn
 Black Apricorn
 28
 Helix Fossil
-Helix Fossil
+Fósil hélix
 29
 Dome Fossil
-Dome Fossil
+Fósil Domo
 30
 Old Amber
 Old Amber
@@ -6923,7 +7421,7 @@ Expert Belt
 Expert Belt
 102
 Metronome
-Metronome
+Metrónomo
 103
 Muscle Band
 Muscle Band
@@ -7316,7 +7814,7 @@ Revive
 Revive
 233
 Max Revive
-Max Revive
+Revivir Máximo
 234
 Berry Juice
 Berry Juice
@@ -7562,7 +8060,7 @@ TM27
 TM27
 315
 TM28
-TM28
+MT28
 316
 TM29
 TM29
@@ -7586,7 +8084,7 @@ TM35
 TM35
 323
 TM36
-TM36
+MT36
 324
 TM37
 TM37
@@ -7760,7 +8258,7 @@ TM93
 TM93
 381
 TM94
-TM94
+MT94
 382
 TM95
 TM95
@@ -8609,7 +9107,7 @@ Box Link
 Box Link
 664
 Jaw Fossil
-Jaw Fossil
+Fósil Mandíbula
 665
 Assault Vest
 Assault Vest
@@ -8657,7 +9155,7 @@ Strange Fruit
 Strange Fruit
 680
 Sail Fossil
-Sail Fossil
+Fósil Aleta
 681
 Necrozium
 Necrozium
@@ -8703,6 +9201,36 @@ Hat Dye Kit
 695
 Clothing Dye Kit
 Clothing Dye Kit
+696
+Devon Parts
+Devon Parts
+697
+Mossy Spores
+Mossy Spores
+698
+Field Sleeping Bag
+Field Sleeping Bag
+699
+Exp. Candy
+Exp. Candy
+700
+Seaweed
+Seaweed
+701
+Resoli Berry
+Resoli Berry
+702
+Spray Can
+Spray Can
+703
+Spawner
+Spawner
+704
+Present
+Presente
+705
+Thing
+Thing
 [8]
 1
 Repels
@@ -10789,6 +11317,36 @@ Hat Dye Kits
 695
 Clothing Dye Kits
 Clothing Dye Kits
+696
+Devon Parts
+Devon Parts
+697
+Mossy Spores
+Mossy Spores
+698
+Field Sleeping Bags
+Field Sleeping Bags
+699
+Exp. Candies
+Exp. Candies
+700
+Seaweeds
+Seaweeds
+701
+Resoli Berries
+Resoli Berries
+702
+Spray Can
+Spray Can
+703
+Spawners
+Spawners
+704
+Presents
+Presents
+705
+Things
+Things
 [9]
 1
 An item that prevents weak wild Pokémon from appearing for 100 steps after its use.
@@ -12875,6 +13433,36 @@ A nifty kit that can be used to dye your hats in different colours from the Outf
 695
 A nifty kit that can be used to dye your clothes in different colours from the Outfits menu
 A nifty kit that can be used to dye your clothes in different colours from the Outfits menu
+696
+A case that contains mechanical parts of some sort made by the Devon Corporation.
+A case that contains mechanical parts of some sort made by the Devon Corporation.
+697
+Delicate spores harvested from a large mushroom in Petalburg Woods. It might have some use...
+Delicate spores harvested from a large mushroom in Petalburg Woods. It might have some use...
+698
+A handy field sleeping bag that can be used to nap anywhere.
+A handy field sleeping bag that can be used to nap anywhere.
+699
+A candy that is packed with energy. If consumed, it grants a Pokémon a small number of Exp. Points. 
+A candy that is packed with energy. If consumed, it grants a Pokémon a small number of Exp. Points. 
+700
+A bunch of seaweed that's common in the Hoenn region.
+A bunch of seaweed that's common in the Hoenn region.
+701
+Weakens a supereffective Fairy-type attack against the holding Pokémon.
+Weakens a supereffective Fairy-type attack against the holding Pokémon.
+702
+A can of colored spray paint that can be used to paint on walls.
+A can of colored spray paint that can be used to paint on walls.
+703
+Debug tool for spawning Pokémon.
+Debug tool for spawning Pokémon.
+704
+A small gift box that contains coins.
+A small gift box that contains coins.
+705
+Some kind of object. You're not too sure what it is...
+Some kind of object. You're not too sure what it is...
 [10]
 1
 Stench
@@ -14290,10 +14878,10 @@ Poison
 Poison
 4
 Ground
-Ground
+Tierra
 5
 Rock
-Rock
+Roca
 6
 Bug
 Bug
@@ -14311,7 +14899,7 @@ Fire
 Fire
 11
 Water
-Water
+Agua
 12
 Grass
 Grass
@@ -14320,7 +14908,7 @@ Electric
 Electric
 14
 Psychic
-Psychic
+Psíquico
 15
 Ice
 Ice
@@ -14360,6 +14948,12 @@ Bug/Steel/Psychic
 27
 Ice/Rock/Steel
 Ice/Rock/Steel
+28
+PSYCHIC/FLYING
+PSYCHIC/FLYING
+29
+Ground/Electric/Psychic
+Ground/Electric/Psychic
 [13]
 0
 Pokémon Trainer
@@ -14486,10 +15080,10 @@ Pokémon Ranger
 Pokémon Ranger
 41
 Psychic
-Psychic
+Psíquico
 42
 Psychic
-Psychic
+Psíquico
 43
 Swimmer
 Swimmer
@@ -14994,8 +15588,6 @@ Robin
 Robin
 Ben
 Ben
-Jamal
-Jamal
 Isaiah
 Isaiah
 Virgil
@@ -15788,8 +16380,8 @@ Pedro
 Pedro
 Blaze
 Blaze
-Ivy
-Ivy
+Basil
+Basil
 Crystal
 Crystal
 Slate
@@ -15798,8 +16390,8 @@ Marina
 Marina
 Gale
 Gale
-Raven
-Raven
+Gerard
+Gerard
 Silvia
 Silvia
 Evangeline
@@ -17003,6 +17595,8 @@ I LIKE A TRAINER THAT'S REFRESHING
 I LIKE A TRAINER THAT'S REFRESHING
 I CAUSE OUTRAGE AS A TRAINER
 I CAUSE OUTRAGE AS A TRAINER
+Are you up for a rematch? Or maybe you want to trade...
+Are you up for a rematch? Or maybe you want to trade...
 [16]
 I AM STRONG AREN'T I ?
 I AM STRONG AREN'T I ?
@@ -17163,7 +17757,7 @@ I ONLY COLLECT NORMAL VERSION TOYS
 TOO EASY ! I AM SO COOL
 TOO EASY ! I AM SO COOL
 YES
-YES
+SÍ
 DON'T BE DISAPPOINTED I AM PERFECT
 DON'T BE DISAPPOINTED I AM PERFECT
 YOU WERE A SURPRISE TO ME !
@@ -18991,9 +19585,6 @@ TEST
 204
 Farmhouse
 Farmhouse
-205
-Pallet Town
-Pallet Town
 206
 Cinnabar Lab
 Cinnabar Lab
@@ -19065,7 +19656,7 @@ Goldenrod City
 Ciudad Trigal
 239
 Pokémon Center
-Pokémon Center
+Centro Pokémon
 240
 Goldenrod Tunnel
 Goldenrod Tunnel
@@ -19134,7 +19725,7 @@ Gate
 Gate
 264
 Pokémon Center
-Pokémon Center
+Centro Pokémon
 265
 Route 34
 Route 34
@@ -19176,7 +19767,7 @@ Azalea Town
 Azalea Town
 279
 Pokémon Center
-Pokémon Center
+Centro Pokémon
 280
 PokeMart
 PokeMart
@@ -19206,7 +19797,7 @@ Route 32
 Route 32
 289
 Pokémon Center
-Pokémon Center
+Centro Pokémon
 290
 BW2
 BW2
@@ -19248,7 +19839,7 @@ Gate
 Gate
 303
 Indigo Plateau
-Indigo Plateau
+Meseta añil 
 304
 Victory Road
 Victory Road
@@ -19329,7 +19920,7 @@ Blackthorn City
 Ciudad Endrino
 330
 Pokémon Center
-Pokémon Center
+Centro Pokémon
 331
 Blackthorn Hotel
 Blackthorn Hotel
@@ -19353,7 +19944,7 @@ Azalea Town
 Azalea Town
 339
 Pokémon Center
-Pokémon Center
+Centro Pokémon
 340
 Slowpoke Well (flooded)
 Slowpoke Well (flooded)
@@ -19380,7 +19971,7 @@ Chamber B
 Chamber B
 348
 Chamber C
-Chamber C
+Cámara C
 349
 Rock Tunnel
 Rock Tunnel
@@ -19392,10 +19983,10 @@ Route 9
 Route 9
 352
 Chamber D
-Chamber D
+Cámara D
 353
 Chamber E
-Chamber E
+Cámara E
 354
 Ruins of Alph
 Ruins of Alph
@@ -19419,10 +20010,10 @@ Pokémon School
 Pokémon School
 361
 Navel Rock
-Navel Rock
+Roca Ombligo
 362
 Navel Rock
-Navel Rock
+Roca Ombligo
 363
 Violet City Gym
 Violet City Gym
@@ -19437,7 +20028,7 @@ Cherrygrove City
 Cherrygrove City
 368
 Pokémon Center
-Pokémon Center
+Centro Pokémon
 370
 PokeMart
 PokeMart
@@ -19500,7 +20091,7 @@ Pokemon Center
 Pokemon Center
 392
 Pokémon Center
-Pokémon Center
+Centro Pokémon
 393
 Celadon City
 Celadon City
@@ -19890,7 +20481,7 @@ Pinkan Forest
 Pinkan Forest
 532
 Pokémon Center
-Pokémon Center
+Centro Pokémon
 533
 Knot Island
 Knot Island
@@ -19914,7 +20505,7 @@ Blackthorn City
 Ciudad Endrino
 542
 Celadon City Gym
-Celadon City Gym
+Gimnasio de Ciudad Azulona
 544
 Cerulean Cave WTF
 Cerulean Cave WTF
@@ -19965,10 +20556,10 @@ Resort Gorgeous
 Resort Gorgeous
 567
 Pokémon Center
-Pokémon Center
+Centro Pokémon
 568
 Pokémon Center
-Pokémon Center
+Centro Pokémon
 569
 Ruby Chamber
 Ruby Chamber
@@ -19983,7 +20574,7 @@ Ecruteak Hotel
 Ecruteak Hotel
 577
 Pokémon Center
-Pokémon Center
+Centro Pokémon
 579
 Ecruteak City
 Ciudad Malva
@@ -20052,7 +20643,7 @@ Chrono Island
 Chrono Island
 604
 Pokémon Center
-Pokémon Center
+Centro Pokémon
 605
 Chrono Island Harbor
 Chrono Island Harbor
@@ -20127,7 +20718,7 @@ Mahogany Town
 Pueblo Hojaverde
 632
 Pokémon Center
-Pokémon Center
+Centro Pokémon
 633
 Sky Pillar
 Sky Pillar
@@ -20205,13 +20796,13 @@ Oak's Lab _Custom
 Oak's Lab _Custom
 660
 2F
-2F
+2.º piso
 661
 3F
-3F
+3.º piso
 662
 4F
-4F
+4.º piso
 663
 5F
 5F
@@ -20454,7 +21045,7 @@ Route 40
 Route 40
 770
 Pokémon Center
-Pokémon Center
+Centro Pokémon
 771
 Celadon City
 Celadon City
@@ -20652,16 +21243,16 @@ Elevator
 Elevator
 839
 1F
-1F
+1.º piso
 840
 2F
-2F
+2.º piso
 841
 3F
-3F
+3.º piso
 842
 4F
-4F
+4.º piso
 843
 5F
 5F
@@ -20679,44 +21270,46 @@ Oak's Lab_backup
 Oak's Lab_backup
 [22]
 How are your Pokémon doing?\mMy \TP's really energetic. It's a handful!\mOh yeah, I managed to beat a tough \TE.\mI need to make my party stronger.
-How are your Pokémon doing?\mMy \TP's really energetic.  It's a handful!\mOh yeah, I managed to beat a tough \TE.\mI need to make my party stronger.
+How are your Pokémon doing?\mMy \TP's really energetic. It's a handful!\mOh yeah, I managed to beat a tough \TE.\mI need to make my party stronger.
 My \TP's looking really awesome.\mI wish I could show you.\mHey, listen! I almost caught a \TE the other day.\mOh, it was sooooooo close, too!
-My \TP's looking really awesome.\mI wish I could show you.\mHey, listen!  I almost caught a \TE the other day.\mOh, it was sooooooo close, too!
+My \TP's looking really awesome.\mI wish I could show you.\mHey, listen! I almost caught a \TE the other day.\mOh, it was sooooooo close, too!
 Want to battle? It's not going to be a repeat of the last time we met.\mI'll be waiting for you around \TM.
-Want to battle?  It's not going to be a repeat of the last time we met.\mI'll be waiting for you around \TM.
+Want to battle? It's not going to be a repeat of the last time we met.\mI'll be waiting for you around \TM.
 Do you want to battle? I'm going to win this time!\mI'll be waiting for you around \TM.\mLook for me, OK? My \TP will be expecting you.
-Do you want to battle?  I'm going to win this time!\mI'll be waiting for you around \TM.\mLook for me, OK?  My \TP will be expecting you.
+Do you want to battle? I'm going to win this time!\mI'll be waiting for you around \TM.\mLook for me, OK? My \TP will be expecting you.
 Good morning, \PN.\mThis is \TN. Did I wake you?
-Good morning, \PN.\mThis is \TN.  Did I wake you?
+Good morning, \PN.\mThis is \TN. Did I wake you?
 \PN, good evening! Hi.\mThis is \TN.
-\PN, good evening!  Hi.\mThis is \TN.
+\PN, good evening! Hi.\mThis is \TN.
 Hello. This is \TN.
-Hello.  This is \TN.
+Hello. This is \TN.
 Good day, \PN! Hi. This is \TN.
-Good day, \PN!  Hi.  This is \TN.
+Good day, \PN! Hi. This is \TN.
 How are you doing? \PN, howdy! This is \TN. Isn't it nice out?
-How are you doing? \PN, howdy!  This is \TN.  Isn't it nice out?
+How are you doing? \PN, howdy! This is \TN. Isn't it nice out?
 \PN, good day! It's me, \TN. Got a minute?
-\PN, good day!  It's me, \TN.  Got a minute?
+\PN, good day! It's me, \TN. Got a minute?
 Hello, \PN. This is \TN. How are things?
-Hello, \PN.  This is \TN.  How are things?
+Hello, \PN. This is \TN. How are things?
 How are your Pokémon doing?\mMy \TP's really energetic. It's a handful!
-How are your Pokémon doing?\mMy \TP's really energetic.  It's a handful!
+How are your Pokémon doing?\mMy \TP's really energetic. It's a handful!
 How are your Pokémon doing?\mI always keep my \TP in top shape by going to Pokémon Centers.
 How are your Pokémon doing?\mI always keep my \TP in top shape by going to Pokémon Centers.
 My \TP's looking really awesome. I wish I could show you.
-My \TP's looking really awesome.  I wish I could show you.
+My \TP's looking really awesome. I wish I could show you.
 I dressed my \TP and it looks even cuter than before.
 I dressed my \TP and it looks even cuter than before.
 Oh yeah, I managed to beat a tough \TE.\mI need to make my party stronger.
 Oh yeah, I managed to beat a tough \TE.\mI need to make my party stronger.
 You have to hear this! I battled \TE the other day.\mIt was easy! I had a type advantage.
-You have to hear this!  I battled \TE the other day.\mIt was easy!  I had a type advantage.
+You have to hear this! I battled \TE the other day.\mIt was easy! I had a type advantage.
 Hey, listen! I almost caught \TE the other day.\mOh, it was sooooooo close, too!
-Hey, listen!  I almost caught \TE the other day.\mOh, it was sooooooo close, too!
+Hey, listen! I almost caught \TE the other day.\mOh, it was sooooooo close, too!
 Guess what happened the other day. I missed catching \TE again.\mMaybe I'm not very good at this.
-Guess what happened the other day.  I missed catching \TE again.\mMaybe I'm not very good at this.
+Guess what happened the other day. I missed catching \TE again.\mMaybe I'm not very good at this.
 [23]
+...
+...
 [24]
 Bill
 Bill
@@ -20738,46 +21331,46 @@ Key Items
 Key Items
 zero
 zero
-un
-un
-deux
-deux
-trois
-trois
-quatre
-quatre
-cinq
-cinq
+one
+one
+two
+two
+three
+three
+four
+four
+five
+five
 six
 six
-sept
-sept
-huit
-huit
-neuf
-neuf
-dix
-dix
-onze
-onze
-douze
-douze
-treize
-treize
-quatorze
-quatorze
-quinze
-quinze
-seize
-seize
-dix-sept
-dix-sept
-dix-huit
-dix-huit
-dix-neuf
-dix-neuf
-vingt
-vingt
+seven
+seven
+eight
+eight
+nine
+nine
+ten
+ten
+eleven
+eleven
+twelve
+twelve
+thirteen
+thirteen
+fourteen
+fourteen
+fifteen
+fifteen
+sixteen
+sixteen
+seventeen
+seventeen
+eighteen
+eighteen
+nineteen
+nineteen
+twenty
+twenty
 Expected a section at the beginning of the file (line {1})
 Expected a section at the beginning of the file (line {1})
 Can't find {1}
@@ -20792,12 +21385,24 @@ Section {1} has an odd number of entries (section was recognized as a hash becau
 Section {1} has an odd number of entries (section was recognized as a hash because its first line is not a number)
 Expected a number in section {1}, got {2} instead
 Expected a number in section {1}, got {2} instead
-Mauvaise syntaxe de ligne (syntaxe attendue comme XXX=YYY)<<n>>{1}
-Mauvaise syntaxe de ligne (syntaxe attendue comme XXX=YYY)<<r>><<n>>{1}
-La méthode est censée être
-<<n>>La méthode est censée être
-Utilise "{1}" plutôt.
-<<n>>Utilise "{1}" plutôt.
+Plugin '{1}' requires plugin '{2}' version {3} or higher, but the installed version is {4}.
+Plugin '{1}' requires plugin '{2}' version {3} or higher, but the installed version is {4}.
+Bad line syntax (expected syntax like XXX=YYY)<<n>>{1}
+Bad line syntax (expected syntax like XXX=YYY)<<r>><<n>>{1}
+WARN: usage of deprecated method '{1}' or its alias.
+WARN: usage of deprecated method '{1}' or its alias.
+The method is slated to be
+<<n>>The method is slated to be
+Use "{1}" instead.
+<<n>>Use "{1}" instead.
+No starting position was set in the map editor.
+No starting position was set in the map editor.
+Map {1} was not found.
+Map {1} was not found.
+The map was not found. The game cannot continue.
+The map was not found. The game cannot continue.
+The map is corrupt. The game cannot continue.
+The map is corrupt. The game cannot continue.
 %I:%M %p
 %I:%M %p
 Your name?
@@ -20826,6 +21431,10 @@ ${1}
 ${1}
 Money:<<n>><ar>{1}</ar>
 Money:<<n>><ar>{1}</ar>
+{2}:<<n>><ar>{1}</ar>
+{2}:<<n>><ar>{1}</ar>
+{1}
+{1}
 {1}:<<n>><ar>{2}</ar>
 {1}:<<n>><ar>{2}</ar>
 {1}:<ar>{2}</ar><<n>>{3}:<ar>{4}</ar>
@@ -20949,7 +21558,7 @@ White
 Pink
 Pink
 None
-None
+Ninguna
 Grassland
 Grassland
 Forest
@@ -21069,7 +21678,7 @@ Puddle
 Underwater
 Underwater
 Rock
-Rock
+Roca
 Sand
 Sand
 Forest grass
@@ -21088,14 +21697,16 @@ Space
 Space
 Ultra Space
 Ultra Space
+Bridge
+Bridge
 Sun
 Sun
 Rain
 Rain
 Sandstorm
-Sandstorm
+Tormenta Arena
 Hail
-Hail
+Granizo
 Harsh Sun
 Harsh Sun
 Heavy Rain
@@ -21111,7 +21722,7 @@ Grassy
 Misty
 Misty
 Psychic
-Psychic
+Psíquico
 User
 User
 Near Ally
@@ -21144,6 +21755,8 @@ Foe Side
 Foe Side
 Both Sides
 Both Sides
+Are you up for a rematch? Or maybe you want to trade...
+Are you up for a rematch? Or maybe you want to trade...
 The trainers need to be re-shuffled.
 The trainers need to be re-shuffled.
 Map ID and X and Y coordinates of where the player goes if no Pokémon Center was entered after a loss.
@@ -21750,6 +22363,8 @@ The effects of the {1} prevent status moves from being used!
 {1} must recharge!
 {1} appears incapable of using its power!
 {1} appears incapable of using its power!
+{1} was caught off guard and couldn't move!
+{1} was caught off guard and couldn't move!
 {1} flinched and couldn't move!
 {1} flinched and couldn't move!
 {1} is confused!
@@ -21800,10 +22415,18 @@ It doesn't affect {1} because of its {2}.
 {1} became Ash-Greninja!
 {1} is unaffected because of {2}'s {3}!
 {1} is unaffected because of {2}'s {3}!
+It's extremely effective on {1}!
+It's extremely effective on {1}!
+It's extremely effective!
+It's extremely effective!
 It's super effective on {1}!
 It's super effective on {1}!
 It's super effective!
 It's super effective!
+It's mostly ineffective on {1}...
+It's mostly ineffective on {1}...
+It's mostly ineffective...
+It's mostly ineffective...
 It's not very effective on {1}...
 It's not very effective on {1}...
 It's not very effective...
@@ -21831,7 +22454,7 @@ Its disguise served it as a decoy!
 {1} hung on using its Focus Band!
 {1} hung on using its Focus Band!
 Struggle
-Struggle
+Forcejeo
 {1} is damaged by recoil!
 {1} is damaged by recoil!
 {1}'s stats won't go any higher!
@@ -22290,6 +22913,10 @@ Mysterious strong winds are protecting Flying-type Pokémon!
 Mysterious strong winds are protecting Flying-type Pokémon!
 A shadow sky appeared!
 A shadow sky appeared!
+The harsh sunlight faded!
+The harsh sunlight faded!
+The heavy rain has lifted!
+The heavy rain has lifted!
 An electric current runs across the battlefield!
 An electric current runs across the battlefield!
 Grass grew to cover the battlefield!
@@ -22300,18 +22927,12 @@ The battlefield got weird!
 The battlefield got weird!
 Can't have battles larger than 2v2 where both sides have multiple trainers
 Can't have battles larger than 2v2 where both sides have multiple trainers
-Player-side trainer {1} has no battler position for their Pokémon to go (trying {2}v{3} battle)
-Player-side trainer {1} has no battler position for their Pokémon to go (trying {2}v{3} battle)
-Opposing trainer {1} has no battler position for their Pokémon to go (trying {2}v{3} battle)
-Opposing trainer {1} has no battler position for their Pokémon to go (trying {2}v{3} battle)
-Player-side trainer {1} has no able Pokémon
-Player-side trainer {1} has no able Pokémon
-Opposing trainer {1} has no able Pokémon
-Opposing trainer {1} has no able Pokémon
-Couldn't lower either side's size any further, battle isn't possible
-Couldn't lower either side's size any further, battle isn't possible
+Couldn't reduce battle size any further, battle isn't possible
+Couldn't reduce battle size any further, battle isn't possible
 Battler index {1} already exists
 Battler index {1} already exists
+The wild {1} was caught off guard!
+The wild {1} was caught off guard!
 Oh! A wild {1} appeared!
 Oh! A wild {1} appeared!
 Oh! A wild {1} and {2} appeared!
@@ -22362,6 +22983,10 @@ Mist swirls about the battlefield!
 Mist swirls about the battlefield!
 The battlefield is weird!
 The battlefield is weird!
+You got some {1} for winning!
+You got some {1} for winning!
+You got ${1} and some {2} for winning!
+You got ${1} and some {2} for winning!
 You got ${1} for winning!
 You got ${1} for winning!
 You picked up ${1}!
@@ -22739,7 +23364,7 @@ Skill
 Body
 Cuerpo
 Judgment
-Judgment
+Sentencia
 REFEREE: {1} VS {2}!<<n>>Commence battling!\wtnp<<[>>20<<]>>
 REFEREE: {1} VS {2}!<<n>>Commence battling!\wtnp<<[>>20<<]>>
 REFEREE: That's it! We will now go to judging to determine the winner!\wtnp[20]
@@ -22770,10 +23395,6 @@ The game has detected that the battery is low. You should save soon to avoid los
 {1} fainted...
 You have no more Pokémon that can fight!<<1>>
 You have no more Pokémon that can fight!<<1>>
-Key item get
-Key item get
-Item get
-Item get
 \me[{1}]You found some \c[1]{2}\c[0]!\wtnp[30]
 \me[{1}]You found some \c[1]{2}\c[0]!\wtnp[30]
 \me[{1}]You found \c[1]{2} {3}\c[0]!\wtnp[30]
@@ -22950,6 +23571,10 @@ The sweet scent faded for some reason...
 The sweet scent faded for some reason...
 There appears to be nothing here...
 There appears to be nothing here...
+The fog cleared out!
+The fog cleared out!
+There's no fog to clear.
+There's no fog to clear.
 A wall of water is crashing down with a mighty roar.
 A wall of water is crashing down with a mighty roar.
 It's a large waterfall. Would you like to use Waterfall?
@@ -22984,8 +23609,8 @@ It's soft, loamy soil.<<n>>Plant a berry?
 It's soft, loamy soil.<<n>>Plant a berry?
 {1} planted a {2} in the soft loamy soil.
 {1} planted a {2} in the soft loamy soil.
-A {1} was planted here.
-A {1} was planted here.
+{1} {2} was planted here.
+{1} {2} was planted here.
 The {1} has sprouted.
 The {1} has sprouted.
 The {1} plant is growing bigger.
@@ -23028,8 +23653,8 @@ No room to deposit a Pokémon
 No room to deposit a Pokémon
 There's no Pokémon here...
 There's no Pokémon here...
-Can't store the Pokémon...
-Can't store the Pokémon...
+{1} was sent to the PC.
+{1} was sent to the PC.
 {1:s} (♂, Lv.{2:d})
 {1:s} (♂, Lv.{2:d})
 {1:s} (♀, Lv.{2:d})
@@ -23038,12 +23663,16 @@ Can't store the Pokémon...
 {1:s} (Lv.{2:d})
 CANCEL
 CANCEL
-Can't store the egg.
-Can't store the egg.
 Day-Care Couple
 Day-Care Couple
 Egg
 Egg
+The egg was transferred to the PC.
+The egg was transferred to the PC.
+Your challenge options prevent you from reviving Pokémon, but you need to have at least one Pokémon in your party.
+Your challenge options prevent you from reviving Pokémon, but you need to have at least one Pokémon in your party.
+The first Pokémon in your party will revived at 1 HP.
+The first Pokémon in your party will revived at 1 HP.
 \w[]\wm\c[8]\l[3]Hey, are you okay over there? Let me take you back to the dock.
 \w[]\wm\c[8]\l[3]Hey, are you okay over there? Let me take you back to the dock.
 \w[]\wm\c[8]\l[3]Hey, are you okay over there? Let me take you back to the beach.
@@ -23078,6 +23707,8 @@ Encounter type out of range
 {1}'s level remained unchanged.
 {1} dropped to Lv. {2}!
 {1} dropped to Lv. {2}!
+Your challenge options prevent healing!
+Your challenge options prevent healing!
 {1}'s HP was restored by {2} points.
 {1}'s HP was restored by {2} points.
 You can't dismount your Bike here.
@@ -23166,8 +23797,8 @@ The {1}'s indicating something right underfoot!
 The {1}'s indicating something right underfoot!
 Huh? The {1}'s responding!<<1>>
 Huh? The {1}'s responding!<<1>>
-There's an item buried around here!
-There's an item buried around here!
+There's an item around here!
+There's an item around here!
 Coins: {1}
 Coins: {1}
 The Exp Share was turned off.
@@ -23176,6 +23807,8 @@ The Exp Share was turned on.
 The Exp Share was turned on.
 {1} became healthy.
 {1} became healthy.
+Your challenge options prevent you from reviving fainted Pokémon!
+Your challenge options prevent you from reviving fainted Pokémon!
 PP was restored.
 PP was restored.
 Boost PP of which move?
@@ -23194,6 +23827,16 @@ Boost PP of which move?
 {1}'s Special Defense increased.
 {1}'s Speed increased.
 {1}'s Speed increased.
+\How many would you like to use?<br>({1} in bag)
+\How many would you like to use?<br>({1} in bag)
+Use an {1} on {2}?
+Use an {1} on {2}?
+Use {1} {2} on {3}?
+Use {1} {2} on {3}?
+{1} grew to level {2}!
+{1} grew to level {2}!
+{1} gained some experience.
+{1} gained some experience.
 {1} adores you! Its base HP fell!
 {1} adores you! Its base HP fell!
 {1} became more friendly. Its base HP can't go lower.
@@ -23272,8 +23915,6 @@ All Pokémon were roused by the tune!
 All Pokémon were roused by the tune!
 {1} recovered from fainting!
 {1} recovered from fainting!
-{1}
-{1}
 \me[Register phone]Registered {1} in the Pokégear.
 \me[Register phone]Registered {1} in the Pokégear.
 Let me register you.
@@ -23284,6 +23925,10 @@ The Trainer is close by.<<n>>Talk to the Trainer in person!
 The Trainer is close by.<<n>>Talk to the Trainer in person!
 The Trainer is out of range.
 The Trainer is out of range.
+......\wt[5] ......
+......\wt[5] ......
+Click!\wt<<[>>10<<]>><<n>>......\wt<<[>>5<<]>> ......
+Click!\wt<<[>>10<<]>><<n>>......\wt<<[>>5<<]>> ......
 The battery has run dry!<<n>>For it to recharge, you need to walk another {1} steps.
 The battery has run dry!<<n>>For it to recharge, you need to walk another {1} steps.
 Nothing happened...
@@ -23296,8 +23941,14 @@ Stop giving the Pokémon Mail?
 Stop giving the Pokémon Mail?
 Invalid pocket: {1}
 Invalid pocket: {1}
+The Pokémon's data was copied to the clipboard.
+The Pokémon's data was copied to the clipboard.
 The level number ({1}) is invalid.
 The level number ({1}) is invalid.
+Attempted to set {1} as Pokémon status
+Attempted to set {1} as Pokémon status
+Invalid value {1} given
+Invalid value {1} given
 Unknown happiness-changing method: {1}
 Unknown happiness-changing method: {1}
 Evolve head!
@@ -23306,6 +23957,8 @@ Evolve body!
 Evolve body!
 Don't evolve
 Don't evolve
+\f[{2}]Both halves of {1} are ready to evolve!
+\f[{2}]Both halves of {1} are ready to evolve!
 Expected Shadow moves or Shadow Rush to be defined, but they weren't.
 Expected Shadow moves or Shadow Rush to be defined, but they weren't.
 {1} can now be purified!
@@ -23460,8 +24113,8 @@ Graffiti
 Graffiti
 Ruins
 Ruins
-Digital
-Digital
+Marsh
+Marsh
 Galactic
 Galactic
 Sinnoh
@@ -23494,6 +24147,8 @@ Nostalgic 4
 Nostalgic 4
 Dark Forest
 Dark Forest
+My Bud Skipun
+My Bud Skipun
 The player is not on a map, so the region could not be determined.
 The player is not on a map, so the region could not be determined.
 The current map has no region set. Please set the MapPosition metadata setting for this map.
@@ -23526,8 +24181,8 @@ Please see the documentation to learn how to set up the trainer player.
 Please see the documentation to learn how to set up the trainer player.
 Pokédex
 Pokédex
-Pokégear
-Pokégear
+PokéNav
+PokéNav
 Outfit
 Outfit
 Balls: {1}
@@ -23619,7 +24274,7 @@ Put on hat
 Remove hat
 Remove hat
 Back
-Back
+Volver
 {1} put on a hat!
 {1} put on a hat!
 Remove {1}'s hat?
@@ -23641,7 +24296,7 @@ Evolve!
 Switch
 Switch
 Hat
-Hat
+Sombrero
 Item
 Item
 Nickname
@@ -24025,7 +24680,7 @@ Withdraw Pokémon
 Deposit Pokémon
 Deposit Pokémon
 See ya!
-See ya!
+¡Nos vemos!
 Organize the Pokémon in Boxes and in your party.
 Organize the Pokémon in Boxes and in your party.
 Move Pokémon stored in Boxes to your party.
@@ -24091,7 +24746,7 @@ Quit shopping.
 {2}:<<n>><r>{1}
 {2}:<<r>><<n>><r>{1}
 In Bag:<r>{1}
-In Bag:<r>{1}  
+In Bag:<r>{1}
 x{1}<r>$ {2}
 x{1}<r>$ {2}
 You don't have enough money.
@@ -24181,9 +24836,9 @@ EDIT
 SWITCH
 SWITCH
 {1} Lv.{2} {3}
-{1}  Lv.{2}  {3}
+{1} Lv.{2} {3}
 {1} Lv.{2} {3}/{4}
-{1}  Lv.{2}  {3}/{4}
+{1} Lv.{2} {3}/{4}
 FLOW
 FLOW
 TEMPO
@@ -24251,7 +24906,7 @@ Search for public gifts
 Redeem from a code
 Redeem from a code
 What would you like to do?
-What would you like to do?
+¿Qué te gustaría hacer?
 Enter code to redeem
 Enter code to redeem
 No testable gift was found. Make sure that your Json doesn't have any formatting errors. You can use any online json validator to make sure!
@@ -24371,7 +25026,7 @@ Welcome to the Hall of Fame!
 Entered the Hall of Fame!
 Entered the Hall of Fame!
 (Rematch Tier {1})
- (Rematch Tier {1})
+(Rematch Tier {1})
 Classic mode
 Classic mode
 Remix mode
@@ -24393,7 +25048,7 @@ Hall of Fame
 \se[PC access]Accessed the Hall of Fame.
 \se[PC access]Accessed the Hall of Fame.
 <ac>PIF2 (Part 1) - Completion </ac>
-<ac>PIF2 (Part 1) - Completion                                   </ac>
+<ac>PIF2 (Part 1) - Completion </ac>
 {1} ({2})<br>
 {1} ({2})<br>
 Pokédex:<r>{1} / {2}<br>
@@ -24481,7 +25136,7 @@ Game Freak
 Sprite: {1}
 Sprite: {1}
 Entry: {1}
-Entry:  {1}
+Entry: {1}
 No custom Pokédex entry available for this Pokémon. Please consider submitting an entry for this Pokémon on the game's Discord. Auto-generated Pokédex entries can be enabled in the options menu.
 No custom Pokédex entry available for this Pokémon. Please consider submitting an entry for this Pokémon on the game's Discord. Auto-generated Pokédex entries can be enabled in the options menu.
 Area unknown
@@ -24511,7 +25166,7 @@ Reverse
 Store
 Store
 Withdraw
-Withdraw
+Refugio
 Release
 Release
 Which one will you choose?
@@ -24761,9 +25416,9 @@ One {1} was obtained.\se[Mining item get]\wtnp[30]
 One {1} was found, but you have no room for it.
 One {1} was found, but you have no room for it.
 PA: Ding-dong!<<1>>
-PA:  Ding-dong!<<1>>
+PA: Ding-dong!<<1>>
 PA: Your safari game is over!
-PA:  Your safari game is over!
+PA: Your safari game is over!
 Announcer: You're out of Safari Balls! Game over!
 Announcer: You're out of Safari Balls! Game over!
 Bug Catcher Ed
@@ -24787,11 +25442,11 @@ No encounters for map {1}, so can't judge contest
 Too few bug catching contestants
 Too few bug catching contestants
 ANNOUNCER: BEEEEEP!
-ANNOUNCER:  BEEEEEP!
+ANNOUNCER: BEEEEEP!
 Time's up!
 Time's up!
 ANNOUNCER: The Bug-Catching Contest is over!
-ANNOUNCER:  The Bug-Catching Contest is over!
+ANNOUNCER: The Bug-Catching Contest is over!
 Number of rounds is 0 or less.
 Number of rounds is 0 or less.
 Choose a battle.
@@ -24873,7 +25528,7 @@ YES, USE EXISTING
 YES, USE NEW
 YES, USE NEW
 YES
-YES
+SÍ
 Choose a challenge.
 Choose a challenge.
 This challenge will use the Pokémon list from {1}.
@@ -25051,7 +25706,7 @@ Choose an evolution method.
 \ts[]Do what with this evolution?
 \ts[]Do what with this evolution?
 Change species
-Change species
+Cambiar especie
 Change method
 Change method
 Change parameter
@@ -25361,7 +26016,7 @@ Delete Frame
 Properties...
 Properties...
 Cut
-Cut
+Corte
 Copy
 Copy
 Paste
@@ -25743,7 +26398,7 @@ Fix Invalid Tiles
 Scans all maps and erases non-existent tiles.
 Scans all maps and erases non-existent tiles.
 map id?
-map id?
+¿ID del mapa?
 type
 type
 List
@@ -26407,7 +27062,7 @@ Here you go!
 You have no room left in the Bag.
 You have no room left in the Bag.
 \GHere you go!
-\GHere you go!
+\GAquí tienes
 \GYou have no room left in the Bag.
 \GYou have no room left in the Bag.
 \GYou don't have enough money.
@@ -26643,7 +27298,7 @@ Shift down
 Default
 Default
 Never Mind
-Never Mind
+Olvídalo
 Swap base color
 Swap base color
 Remove dye
@@ -26749,17 +27404,17 @@ Ah! Can you feel the energy in here? This place is great for {1}-Pokémon!
 I'm what you could call an expert on {1}-Pokémon. I've grown with them for all of my life.
 I'm what you could call an expert on {1}-Pokémon. I've grown with them for all of my life.
 I'll give you my \C[5]special outfit\C[0] if you can defeat my team using only {1}-Pokémon.
-I'll give you my \C[5]special outfit\C[0] if you can defeat my team using only {1}-Pokémon. 
+I'll give you my \C[5]special outfit\C[0] if you can defeat my team using only {1}-Pokémon.
 Do you think you can handle that?
 Do you think you can handle that?
 Select your team! Remember, only {1}-type Pokémon are allowed!
 Select your team! Remember, only {1}-type Pokémon are allowed!
 Woah! You beat me at my own specialty!
-Woah! You beat me at my own specialty! 
+¡Guau! ¡Me venciste en mi propia especialidad!
 It's a true testament to your mastery of Pokémon typings!
-It's a true testament to your mastery of Pokémon typings!
+¡Es una verdadera prueba de tu dominio sobre los tipos de Pokémon!
 Well then, I'll keep my word. You can have this very special outfit!
-Well then, I'll keep my word. You can have this very special outfit!
+Muy bien, cumpliré mi palabra. ¡Puedes quedarte con este atuendo tan especial!
 When you wear it, you can sometimes find {1}-type related items after battles!
 When you wear it, you can sometimes find {1}-type related items after battles!
 Remember, you're only allowed to use {1}-type Pokémon!
@@ -26793,7 +27448,7 @@ This flag stands as a tribute to the artists who have devoted their talents to p
 Team {1} overall completion: \C[3]{2}%\C[0]
 Team {1} overall completion: \C[3]{2}%\C[0]
 ({1} sprites)
- ({1} sprites)
+({1} sprites)
 Team {1} top contributors:<br>{2}
 Team {1} top contributors:<br>{2}
 Team 500,000
@@ -26985,7 +27640,7 @@ Fuse the newly obtained {1} with {2}?
 Your birthday is on
 Your birthday is on
 You chose
-You chose 
+You chose
 Which month?
 Which month?
 Which day?
@@ -27013,7 +27668,7 @@ What's more is that it's reusable, so you can go completely wild with it if you 
 Which dye kit would you like to purchase?
 Which dye kit would you like to purchase?
 Oh, you don't have enough money...
-Oh, you don't have enough money...
+Oh, no tienes suficiente dinero...
 Here you go! Have fun dyeing your hats!
 Here you go! Have fun dyeing your hats!
 \PN purchased the dye kit.
@@ -27027,7 +27682,7 @@ Neutral
 The game has detected that your previous savefile was from an earlier build of the game.
 The game has detected that your previous savefile was from an earlier build of the game.
 In order to play this version, your Pokémon need to be converted to their new Pokédex numbers.
-In order to play this version, your Pokémon need to be converted to their new Pokédex numbers. 
+In order to play this version, your Pokémon need to be converted to their new Pokédex numbers.
 If you were playing Randomized mode, the trainers and wild Pokémon will also need to be reshuffled.
 If you were playing Randomized mode, the trainers and wild Pokémon will also need to be reshuffled.
 Convert your Pokémon?
@@ -27035,13 +27690,13 @@ Convert your Pokémon?
 What is the last version of the game you played?
 What is the last version of the game you played?
 4.7 (September 2020)
-4.7        (September 2020)
+4.7 (September 2020)
 4.5-4.6.2 (2019-2020)
-4.5-4.6.2        (2019-2020)
+4.5-4.6.2 (2019-2020)
 4.2-4.4 (2019)
-4.2-4.4           (2019)
+4.2-4.4 (2019)
 4.0-4.1 (2018-2019)
-4.0-4.1           (2018-2019)
+4.0-4.1 (2018-2019)
 3.x or earlier (2015-2018)
 3.x or earlier (2015-2018)
 Invalid Pokémon detected in box {1}:<<n>>num. {2}, {3} (lv. {4})
@@ -27075,9 +27730,9 @@ The game couldn't find a "sprite_preferences.json" file in the Data/sprites fold
 Export the sprites settings from the Update Man NPC and place the file in this folder to import them.
 Export the sprites settings from the Update Man NPC and place the file in this folder to import them.
 Easy
-Easy
+Fácil
 Hard
-Hard
+Difícil
 Normal
 Normal
 The game could not open the link in the browser
@@ -27091,7 +27746,7 @@ I did my best!
 You're too strong!
 You're too strong!
 You win!
-You win!
+¡Tú ganas!
 What a fight!
 What a fight!
 That was fun!
@@ -27105,21 +27760,21 @@ So much for that!
 Should've seen that coming!
 Should've seen that coming!
 I can't believe it!
-I can't believe it!
+¡No puedo creerlo!
 What a surprise!
 What a surprise!
 total rematched trainers:
-total rematched trainers: 
+total rematched trainers:
 nb times:
-nb times: 
+nb times:
 lvl up every {1} times
-lvl up every {1}  times
+lvl up every {1} times
 original level:
-original level: 
+original level:
 new level:
-new level: 
+new level:
 level cap:
-level cap: 
+level cap:
 Exp to extract:
 Exp to extract:
 Price:
@@ -27211,11 +27866,11 @@ Please report the glitch on the game's Discord, in the #bug-reports channel.
 1 hour
 1 hour
 6 hours
-6 hours
+6 horas
 12 hours
-12 hours
+12 horas
 24 hours
-24 hours
+24 horas
 Sleep for how long?
 Sleep for how long?
 {1} slept for a while...
@@ -27423,19 +28078,19 @@ Type with your keyboard
 Woah! A Pokémon jumped out of the flower!
 Woah! A Pokémon jumped out of the flower!
 It's a flower with pink nectar.
-It's a flower with pink nectar. 
+It's a flower with pink nectar.
 {1} picked some of the pink flowers.
 {1} picked some of the pink flowers.
 It's a flower with red nectar.
-It's a flower with red nectar. 
+It's a flower with red nectar.
 {1} picked some of the red flowers.
 {1} picked some of the red flowers.
 It's a flower with blue nectar.
-It's a flower with blue nectar. 
+It's a flower with blue nectar.
 {1} picked some of the blue flowers.
 {1} picked some of the blue flowers.
 It's a flower with yellow nectar.
-It's a flower with yellow nectar. 
+It's a flower with yellow nectar.
 Show it to a Pokémon?
 Show it to a Pokémon?
 {1} flipped the seashell over...
@@ -27461,7 +28116,7 @@ Incorrect!\wtnp[40]
 What do you think? Do you think any of these have any potential?
 What do you think? Do you think any of these have any potential?
 Not really...
-Not really...
+No, la verdad...
 It's a vending machine. What do you want to buy?
 It's a vending machine. What do you want to buy?
 Purchase anything else?
@@ -27531,9 +28186,9 @@ Legendary Quests
 \C[3]NEW MAIN OBJECTIVE: \
 \C<<[>>3<<]>>NEW MAIN OBJECTIVE: \<<n>>
 \C[{1}]{2} MISSION:
-\C[{1}]{2} MISSION: 
+\C[{1}]{2} MISSION:
 \C[6]NEW QUEST:
-\C[6]NEW QUEST: 
+\C[6]NEW QUEST:
 \C<<[>>3<<]>>Main quest completed:\<<n>>\C<<[>>6<<]>>{1}
 \C<<[>>3<<]>>Main quest completed:\<<n>> \C<<[>>6<<]>>{1}
 \C[6]Quest completed!
@@ -27547,29 +28202,29 @@ Completed quests: \C[1]{1}
 In-progress: \C[1]{1}
 In-progress: \C[1]{1}
 Also, there's one more thing...
-Also, there's one more thing...
+Además, hay una cosa más...
 As a gift for having helped so many people, I want to give you this.
-As a gift for having helped so many people, I want to give you this.
+Como regalo por haber ayudado a tantas personas, quiero darte esto.
 I have no more rewards to give you! Thanks for helping all these people!
-I have no more rewards to give you! Thanks for helping all these people!
+¡No tengo más recompensas para darte! ¡Gracias por ayudar a toda esta gente!
 Help {1} more person and I'll give you something good!
 Help {1} more person and I'll give you something good!
 Help {1} more people and I'll give you something good!
 Help {1} more people and I'll give you something good!
 This HM will allow you to illuminate dark caves and should help you to progress in your journey!
-This HM will allow you to illuminate dark caves and should help you to progress in your journey!
+Esta MT te permitirá iluminar cuevas oscuras y te ayudará a avanzar en tu viaje.
 This item will allows you to get twice the money in a battle if the Pokémon holding it took part in it!
-This item will allows you to get twice the money in a battle if the Pokémon holding it took part in it!
+Este objeto te permitirá ganar el doble de dinero en una batalla si el Pokémon que lo lleva participó en ella.
 This will allow you to illuminate caves without having to use a HM! Practical, isn't it?
-This will allow you to illuminate caves without having to use a HM! Practical, isn't it?
+Esto te permitirá iluminar cuevas sin tener que usar una MT. ¡Práctico, ¿no?!
 This strange cable triggers the evolution of Pokémon that typically evolve via trade. I know you'll put it to good use!
-This strange cable triggers the evolution of Pokémon that typically evolve via trade. I know you'll put it to good use!
+Este extraño cable provoca la evolución de Pokémon que normalmente evolucionan por intercambio. ¡Sé que le darás buen uso!
 This handy item will allow you to sleep anywhere you want. You won't even need hotels anymore!
-This handy item will allow you to sleep anywhere you want. You won't even need hotels anymore!
+Este objeto práctico te permitirá dormir donde quieras. ¡Ya no necesitarás hoteles!
 This rare stone can evolve any Pokémon, regardless of their level or evolution method. Use it wisely!
-This rare stone can evolve any Pokémon, regardless of their level or evolution method. Use it wisely!
+Esta rara piedra puede hacer evolucionar a cualquier Pokémon, sin importar su nivel o método de evolución. ¡Úsala con sabiduría!
 This mysterious ball is rumored to be the key to call upon the protector of Ilex Forest. It's a precious relic.
-This mysterious ball is rumored to be the key to call upon the protector of Ilex Forest.  It's a precious relic.
+Se rumorea que esta bola misteriosa es la clave para invocar al guardián del Bosque Encinar. Es una reliquia muy valiosa.
 This rare ball can catch any Pokémon. Don't waste it!
 This rare ball can catch any Pokémon. Don't waste it!
 This doubles the money you get in Pokémon battles. Maybe it'll help finance the show!
@@ -27633,7 +28288,7 @@ Lost Medicine
 A youngster in Pewter City needs your help to find a lost Revive. He lost it by sitting on a bench somewhere in Pewter City.
 A youngster in Pewter City needs your help to find a lost Revive. He lost it by sitting on a bench somewhere in Pewter City.
 Bug Evolution
-Bug Evolution 
+Bug Evolution
 A Bug Catcher in Pewter City wants you to show him a fully-evolved Bug Pokémon.
 A Bug Catcher in Pewter City wants you to show him a fully-evolved Bug Pokémon.
 Nectar garden
@@ -27679,11 +28334,11 @@ Unusual Types 1
 A woman at the hotel wants you to show her a Water/Fire-type Pokémon
 A woman at the hotel wants you to show her a Water/Fire-type Pokémon
 Seafood Cocktail
-Seafood Cocktail 
+Seafood Cocktail
 Get some steamed Krabby legs from the S.S. Anne's kitchen and bring them back to the hotel before they get cold
 Get some steamed Krabby legs from the S.S. Anne's kitchen and bring them back to the hotel before they get cold
 Building Materials
-Building Materials 
+Building Materials
 Get some wooden planks from Viridian City and some Bricks from Pewter City.
 Get some wooden planks from Viridian City and some Bricks from Pewter City.
 Waiter on the Water
@@ -27781,7 +28436,7 @@ Safari Souvenir!
 Bring back a souvenir from the Fuchsia City Safari Zone
 Bring back a souvenir from the Fuchsia City Safari Zone
 Goldenrod City
-Goldenrod City
+Ciudad Trigal
 The Cursed Forest
 The Cursed Forest
 A child wants you to find a floating tree stump in Ilex Forest. What could she be talking about?
@@ -27799,7 +28454,7 @@ Defuse the Pinecones!
 Get rid of all the Pineco on Route 31 and Route 30
 Get rid of all the Pineco on Route 31 and Route 30
 Violet City
-Violet City
+Ciudad Violeta
 Find Slowpoke's Tail!
 Find Slowpoke's Tail!
 Find a SlowpokeTail in some flowers, somewhere around Violet City!
@@ -27809,7 +28464,7 @@ Dragon Evolution
 A Dragon Tamer in Blackthorn City wants you to show her a fully-evolved Dragon Pokémon.
 A Dragon Tamer in Blackthorn City wants you to show her a fully-evolved Dragon Pokémon.
 Blackthorn City
-Blackthorn City
+Ciudad Endrino
 Sunken Treasure!
 Sunken Treasure!
 Find an old memorabilia on a sunken ship near Cinnabar Island.
@@ -27823,7 +28478,7 @@ Ghost Evolution
 A girl in Ecruteak City wants you to show her a fully-evolved Ghost Pokémon.
 A girl in Ecruteak City wants you to show her a fully-evolved Ghost Pokémon.
 Ecruteak City
-Ecruteak City
+Ciudad Malva
 Banana Slamma!
 Banana Slamma!
 Collect 30 bananas
@@ -27961,7 +28616,7 @@ Recover a package stolen by Team Magma!
 Steven's Letter
 Steven's Letter
 Deliver a letter from the Devon Corp. president to Steven in Granite Cave.
-Deliver a letter from the Devon Corp. president to Steven in Granite Cave. 
+Deliver a letter from the Devon Corp. president to Steven in Granite Cave.
 Granite Cave
 Granite Cave
 Devon Parts Delivery
@@ -28199,7 +28854,7 @@ Completed
 Not Completed
 Not Completed
 \C[{1}]NEW MISSION:
-\C[{1}]NEW MISSION: 
+\C[{1}]NEW MISSION:
 \C[2]Mission completed!
 \C[2]Mission completed!
 \C[2]Mission Failed...
@@ -28285,7 +28940,7 @@ Near Cerulean City
 Near Cinnabar Island
 Near Cinnabar Island
 I don't know
-I don't know
+No lo sé.
 Do you even know anything? This has been such a waste of time!
 Do you even know anything? This has been such a waste of time!
 How can you not know where it was sighted? Do you know how unhelpful this is to me?
@@ -28357,7 +29012,7 @@ Unknown Location
 Secret Base
 Secret Base
 Experimental options
-Experimental options
+Opciones experimentales
 Expert mode (beta)
 Expert mode (beta)
 Changes all of the trainer teams to make them as challenging as possible!
@@ -28367,41 +29022,41 @@ No levels mode
 All Pokémon use their base stats, regardless of levels.
 All Pokémon use their base stats, regardless of levels.
 Reversed mode
-Reversed mode
+Modo Invertido
 Inverts the fusions of all the trainers in the game.
 Inverts the fusions of all the trainers in the game.
 Classic
-Classic
+Clásico
 Remix Mode
-Remix Mode
+Modo Remix
 Randomized Mode
-Randomized Mode
+Modo Randomizado
 Legendary Mode
-Legendary Mode
+Modo Legendario
 Expert Mode
 Expert Mode
 Which mode would you like to play?
-Which mode would you like to play?
+¿Qué modo te gustaría jugar?
 Play Classic Mode
-Play Classic Mode
+Jugar modo clásico
 \C[1]Classic\C[0] is the default game mode. All of the player teams and encounters are based on the original games. Every Pokémon is still available.
 \C[1]Classic\C[0] is the default game mode. All of the player teams and encounters are based on the original games. Every Pokémon is still available.
 Play Remix Mode
-Play Remix Mode
+Jugar en Modo Remix
 \C[1]Remix mode\C[0] is a special mode made by some members of the community that changes all of the trainer teams and wild encounters to showcase more Pokémon from the newer generations.
-\C[1]Remix mode\C[0] is a special mode made by some members of the community that changes all of the trainer teams and wild encounters to showcase more Pokémon from the newer generations.
+\C[1]Modo remix\C[0] es un modo especial creado por algunos miembros de la comunidad que cambia todos los equipos de entrenadores y encuentros salvajes para mostrar más Pokémon de las generaciones más nuevas.
 Play Randomized Mode
-Play Randomized Mode
+Jugar en Modo Randomizado
 In \C[1]Randomized mode\C[0] all of the trainers, wild encounters and items can be randomized. You'll get to customize exactly how you want everything to be randomized.
-In \C[1]Randomized mode\C[0] all of the trainers, wild encounters and items can be randomized. You'll get to customize exactly how you want everything to be randomized.
+En \C[1]modo aleatorio\C[0], todos los entrenadores, encuentros salvajes y objetos pueden ser aleatorizados. Podrás personalizar exactamente cómo quieres que todo sea aleatorizado.
 Play Legendary Mode
-Play Legendary Mode
+Jugar en Modo Legendario
 In \C[1]Legendary mode\C[0], every trainer Pokémon gets fused with a legendary Pokémon. You also start with an egg of every legendary Pokémon in your PC and get a legendary starter.
 In \C[1]Legendary mode\C[0], every trainer Pokémon gets fused with a legendary Pokémon. You also start with an egg of every legendary Pokémon in your PC and get a legendary starter.
 Play Expert Mode
 Play Expert Mode
 \C[1]Expert mode\C[0] mode is similar to Classic mode, but it changes all of the trainer teams to make them as challenging as possible. This is for veteran Pokémon trainers only!
-\C[1]Expert mode\C[0] mode is similar to Classic mode, but it changes all of the trainer teams to make them as challenging as possible. This is for veteran Pokémon trainers only!
+El modo \C[1]experto\C[0] es similar al modo clásico, pero cambia todos los equipos de entrenadores para hacerlos lo más desafiantes posible. ¡Este es solo para entrenadores Pokémon veteranos!
 Update sprites manually
 Update sprites manually
 Clear sprite cache
@@ -28501,17 +29156,17 @@ Fusion: {1}<<n>>
 {1} Nature
 {1} Nature
 {1} HP /
-{1} HP / 
+{1} HP /
 {1} Atk /
-{1} Atk / 
+{1} Atk /
 {1} Def /
-{1} Def / 
+{1} Def /
 {1} SpA /
-{1} SpA / 
+{1} SpA /
 {1} SpD /
-{1} SpD / 
+{1} SpD /
 {1} Spe /
-{1} Spe / 
+{1} Spe /
 {1} Spe
 {1} Spe
 Autosave settings
@@ -28853,7 +29508,7 @@ The game is currently on {1} difficulty.
 Select a new difficulty
 Select a new difficulty
 Random
-Random
+Aleatorio
 Expert
 Expert
 test list: {1}
@@ -28893,7 +29548,7 @@ The Game Corner
 The Pokéball Workshop
 The Pokéball Workshop
 Never mind
-Never mind
+Olvídalo
 The Gym Leader in Mauville City is \C[1]Wattson\C[0]. He specializes in Electric-type Pokémon.
 The Gym Leader in Mauville City is \C[1]Wattson\C[0]. He specializes in Electric-type Pokémon.
 His Gym is located in the northwest part of the city. You can find it by exiting straight ahead and following the road, then turning left at the Pokémon Center.
@@ -28923,7 +29578,7 @@ The Exp. Lab is a high-tech laboratory where they can make \C[1]Experience Candi
 If you'd like to check it out, it's located on the upper level behind the gym, in the northernmost part of the city.
 If you'd like to check it out, it's located on the upper level behind the gym, in the northernmost part of the city.
 Most of the region's TV broadcasts are filmed right here at the TV Mauville studios.
-Most of the region's TV broadcasts are filmed right here at the TV Mauville studios. 
+Most of the region's TV broadcasts are filmed right here at the TV Mauville studios.
 The studios are free to tour! To find it, just take a left in the tunnel and head to the lower level.
 The studios are free to tour! To find it, just take a left in the tunnel and head to the lower level.
 Mauville is very well known for its Game Corner. People come from all over the region to gamble!
@@ -30279,7 +30934,7 @@ Catch a skittish Pokémon off guard
 Get a wild Pokémon to chase you for 20 steps
 Get a wild Pokémon to chase you for 20 steps
 Defeat a Pokémon in one move using a not-very-effective move
-Defeat a  Pokémon in one move using a not-very-effective move
+Defeat a Pokémon in one move using a not-very-effective move
 Defeat a wild Pokémon without inflicting any direct damage
 Defeat a wild Pokémon without inflicting any direct damage
 Get an opposing Pokémon to exactly 1 HP
@@ -30395,9 +31050,9 @@ Advanced (10 Rounds)
 Unlocked a new difficulty: \C[3]{1}
 Unlocked a new difficulty: \C[3]{1}
 Regular
-Regular
+Normal
 Advanced
-Advanced
+Avanzado
 Choose a difficulty:
 Choose a difficulty:
 3 Rounds
@@ -30451,7 +31106,7 @@ Unknown Pokémon
 {1}/1000
 {1}/1000
 ({1})
- ({1})
+({1})
 Clovers
 Clovers
 Dry Grass
@@ -30459,7 +31114,7 @@ Dry Grass
 Flowers
 Flowers
 Water
-Water
+Agua
 Tall Grass
 Tall Grass
 PokéRadar Chain: {1}
@@ -30523,7 +31178,7 @@ There was a problem, your friend's secret base was not imported.
 The trainer ID you copied is your own! You need to have your friend copy theirs and send it to you.
 The trainer ID you copied is your own! You need to have your friend copy theirs and send it to you.
 Refresh
-Refresh
+Alivio
 Enter manually
 Enter manually
 Is this your friend's Trainer ID? \C[1]{1}\C[0]
@@ -30569,13 +31224,13 @@ It's a rerun of PokéChef Deluxe. Nothing important on the news right now.
 "...I'm currently standing in front of the Berry-growing contest in Petalburg Town. We've interviewed {1}, a local Trainer to get their thoughts on the contest!"
 "...I'm currently standing in front of the Berry-growing contest in Petalburg Town. We've interviewed {1}, a local Trainer to get their thoughts on the contest!"
 but they seemed very confident about it!
- but they seemed very confident about it!
+but they seemed very confident about it!
 and they seemed to be having fun already!
- and they seemed to be having fun already!
+and they seemed to be having fun already!
 and they understandably seemed a bit nervous!
- and they understandably seemed a bit nervous!
+and they understandably seemed a bit nervous!
 but they didn't really seem very interested in it. Perhaps, they only joined for the prize?
- but they didn't really seem very interested in it. Perhaps, they only joined for the prize?
+but they didn't really seem very interested in it. Perhaps, they only joined for the prize?
 "This was {1}'s first time participating {2}"
 "This was {1}'s first time participating {2}"
 "Apparently, their strategy to win is to {1}. We'll see how that pays off for them!"
@@ -30669,7 +31324,7 @@ Trade away {1} for {2} {3}'s {4}?
 Storm
 Storm
 Blizzard
-Blizzard
+Ventisca
 Heavy rain
 Heavy rain
 Fog
@@ -31413,7 +32068,7 @@ A rugged masculine outfit, perfect for adventuring out into the wilderness.
 Bug Shirt
 Bug Shirt
 A lime green shirt with a bug head logo
-A lime green shirt with a bug head logo 
+A lime green shirt with a bug head logo
 Dark Shirt
 Dark Shirt
 A black shirt with a new moon logo
@@ -31449,7 +32104,7 @@ A purple shirt with a spirit logo
 Grass Shirt
 Grass Shirt
 A green shirt with a leaf logo
-A green shirt with a leaf logo 
+A green shirt with a leaf logo
 Ground Shirt
 Ground Shirt
 A brown shirt with a plate logo
@@ -31465,7 +32120,7 @@ A grey shirt with a rather plain logo
 Poison Shirt
 Poison Shirt
 A violet shirt with a skull and bones logo
-A violet shirt with a skull and bones logo 
+A violet shirt with a skull and bones logo
 Psychic Shirt
 Psychic Shirt
 A pink shirt with a third eye logo
@@ -31485,7 +32140,7 @@ A blue shirt with a water drop logo
 Biker Outfit
 Biker Outfit
 A rugged outfit made of leather and jeans. It's often worn by bikers.
-A rugged outfit made of leather and jeans. It's often worn by bikers. 
+A rugged outfit made of leather and jeans. It's often worn by bikers.
 Black Jacket
 Black Jacket
 A black jacket imported from Kalos, ideal for biking.
@@ -31581,7 +32236,7 @@ A jumper suit with a beautiful floral pattern.
 Flying Outfit
 Flying Outfit
 An aerodynamic outfit for gliding through the air. It captures the essence of Flying-type Pokémon.
-An aerodynamic outfit for gliding through the air.  It captures the essence of Flying-type Pokémon.
+An aerodynamic outfit for gliding through the air. It captures the essence of Flying-type Pokémon.
 Frosted ski outfit
 Frosted ski outfit
 A comfortable and well insulated ski outfit reminiscent of an ice type moth.
@@ -32123,7 +32778,7 @@ Slicked-back medium-length straight hair, in a very traditional cut. The style w
 Waist-Length Hair
 Waist-Length Hair
 Long, flowing waist-length hair with short, chunky bangs.
-Long, flowing waist-length hair with short, chunky bangs. 
+Long, flowing waist-length hair with short, chunky bangs.
 Wild Upwards Spikes
 Wild Upwards Spikes
 Upwards-facing wild spikes. Very bold! The style was popularized by Elite Four Lance.
@@ -32139,7 +32794,7 @@ Medium-length hair styled into two puffy pigtails, giving a cheerful and youthfu
 Poofy Hair
 Poofy Hair
 Long, poofy hair popular with young women.
-Long, poofy hair popular with young women. 
+Long, poofy hair popular with young women.
 Shaggy Hair Bangs
 Shaggy Hair Bangs
 Shoulder length shaggy hair that's been kept in check by constantly wearing a hat.
@@ -32243,7 +32898,7 @@ Short, shaggy spikes that go well with visor-type hats. The style is popular wit
 Accessorized Corn Rows
 Accessorized Corn Rows
 Long corn rows with accesories, the last in kalosian fashion
-Long corn rows with accesories, the last in kalosian fashion 
+Long corn rows with accesories, the last in kalosian fashion
 Shaggy Ponytail
 Shaggy Ponytail
 A long, low ponytail that gives off a mysterious air. The style is popular with trainers in Unova.
@@ -32299,7 +32954,7 @@ Short spiky hair that's been flattened by constantly wearing a hat.
 Edgy Asymmetrical Cut
 Edgy Asymmetrical Cut
 An edgy, asymmetrical hairstyle with a highlight in the center.
-An edgy, asymmetrical hairstyle with a highlight in the center. 
+An edgy, asymmetrical hairstyle with a highlight in the center.
 Combover
 Combover
 A sleek, neatly styled combover with a side part that creates a polished and refined appearance.
@@ -32759,7 +33414,7 @@ Pink horns that resemble those of a Gligar.
 Glitched Mask
 Glitched Mask
 An odd mask that makes you look like you just stepped out of a corrupted save file.
-An odd mask that makes you look like you just stepped out of a corrupted save file. 
+An odd mask that makes you look like you just stepped out of a corrupted save file.
 Pompom Beret
 Pompom Beret
 A dark green beret with a white pompom. It's popular with fledgling trainers in Galar.
@@ -32817,7 +33472,7 @@ A Lucha Libre mask that looks like the one worm by a Hawlucha.
 Jaw Helmet
 Jaw Helmet
 A fearsome helmet crafted in the shape of a Haxorus's jaw. It is sure to intimidate your enemies!
-A fearsome helmet crafted in the shape of a Haxorus's jaw. It is sure to intimidate your enemies! 
+A fearsome helmet crafted in the shape of a Haxorus's jaw. It is sure to intimidate your enemies!
 Simple Headband
 Simple Headband
 It's a cute headband. It's commonly used as an accessory in Pokémon Contests.
@@ -33193,7 +33848,7 @@ A few Poké Balls that permanently levitate with psychokinetic energy.
 Sandshrew Beanie
 Sandshrew Beanie
 A cozy beanie fashioned after the rugged hide of a Sandshrew.
-A cozy beanie fashioned after the rugged hide of a Sandshrew. 
+A cozy beanie fashioned after the rugged hide of a Sandshrew.
 Festive Hat
 Festive Hat
 A warm, snug stocking cap worn during a festive holiday season.
@@ -33405,7 +34060,7 @@ A hat worn by safari zone groundskeepers.
 Whiscash bowl hat
 Whiscash bowl hat
 An elegant hat that looks just like a Whishcash.
-An elegant hat that looks just like a Whishcash. 
+An elegant hat that looks just like a Whishcash.
 White Domino Mask
 White Domino Mask
 It's a cool mask. It's commonly used as an accessory in Pokémon Contests.
@@ -33670,6 +34325,6 @@ Super Hard
 Very Soft
 Very Soft
 Hard
-Hard
+Difícil
 Very Hard
 Very Hard
