@@ -2878,7 +2878,7 @@ The stairs won't come down? Lt. Surge always was cautious!
 Keep on going, young one. You've got potential that's for sure!
 Sigue adelante, joven. Tienes potencial, sin duda.
 Hey, kid! What do you think you're doing here? You won't live long in combat! That's for sure!
-Hey, kid! What do you think you're doing here? You won't live long in combat! That's for sure!
+¡Oye, chico! ¿Qué crees que haces aquí? ¡Seguro que no durarás mucho en combate!
 I tell you kid, \V[5] Pokémon saved me during the war! They \V[1] my enemies into paralysis! The same as I'll do to you!
 Te digo, chico, ¡los Pokémon de \V[5] me salvaron durante la guerra! ¡\V[1] a mis enemigos dejándolos paralizados! ¡Lo mismo que haré contigo!
 I'm using three Pokémon for this battle, so choose the ones you're going to use!
@@ -2913,15 +2913,15 @@ A diferencia de la mayoría de entrenadores, me gustan mis Pokémon de raza pura
 So... Did you come visit to hear about my POKEMON?
 Entonces... ¿Viniste a escucharme hablar sobre mis POKÉMON?
 Good! Then listen up! My favorite Rapidash..
-Good! Then listen up! My favorite Rapidash..
+¡Bien! ¡Entonces escucha! Mi Rapidash favorito...
 It...cute...lovely... smart...plus...amazing...you think so?
 Es... lindo... encantador... inteligente... además... increíble... ¿no crees?
 ...oh yes...it...stunning... kindly...love it!
-...oh yes...it...stunning... kindly...love it!
+...oh, sí... es... hermoso... tan amable... ¡me encanta!
 Hug it...when...sleeping...warm and cuddly... spectacular...ravishing... ..
-Abrázalo... cuando... duerme... cálido y acogedor... espectacular... fascinante... ..
+Abrazarlo... cuando... duerme... cálido y acogedor... espectacular... ¡fascinante!...
 ...Oops! Look at the time! I kept you too long!
-...Oops! Look at the time! I kept you too long!
+...¡Ups! ¡Mira la hora! ¡Te he entretenido demasiado!
 Thanks for hearing me out! I want you to have this!
 ¡Gracias por escucharme! ¡Quiero que tengas esto!
 \b\PN recieved the Bike Voucher!
@@ -2929,23 +2929,23 @@ Thanks for hearing me out! I want you to have this!
 Exchange that for a bicycle in Cerulean City!
 Cámbialo por una bicicleta en Ciudad Celeste.
 Don't worry about me, my Fearow will fly me anywhere! So, I don't need a bicycle!
-Don't worry about me, my Fearow will fly me anywhere! So, I don't need a bicycle!
+¡No te preocupes por mí! ¡Mi Fearow puede llevarme volando a cualquier lugar! Así que no necesito una bicicleta.
 I hope you like cycling!
 ¡Espero que te guste andar en bicicleta!
 Oh. Come back when you want to hear my story!
 Oh. Vuelve cuando quieras escuchar mi historia.
 Hello, \PN! Did you come see me about my Pokémon again? No? Too bad!
-Hello, \PN! Did you come see me about my Pokémon again? No? Too bad!
+¡Hola, \PN! ¿Viniste a verme otra vez por mis Pokémon? ¿No? ¡Qué lástima!
 Bzzz!
 ¡Bzzz!
 Essss!
 ¡Essss!
 Heyah! I love my Voltorb!
-Heyah! I love my Voltorb!
+¡Hey! ¡Me encanta mi Voltorb!
 I will not trade it for anything else than for an Ekans!
-No lo cambiaré por nada que no sea un Ekans.
+¡No lo cambiaré por nada que no sea un Ekans!
 Do you have an Ekans for my Voltorb?
-Do you have an Ekans for my Voltorb?
+¿Tienes un Ekans para cambiarlo por mi Voltorb?
 Oh, you changed your mind?
 ¿Oh, cambiaste de opinión?
 Very good, let's get started!
@@ -3173,31 +3173,31 @@ You, mon petit!
 You, ma petite!
 ¡Tú, ma petite!
 Will you take ze orders for me? Ze chef will be eternally grateful!
-¿Tomarías los pedidos por mí? ¡Ze chef te estará eternamente agradecido!
+¿Podrías tomar los pedidos por mí? ¡Le chef te estará eternamente agradecido!
 Oh la la, what will we do?
 Oh la la, ¿qué haremos?
 Mon petit, will you take ze orders for me? Ze chef will be eternally grateful!
-Mon petit, ¿tomarías los pedidos por mí? ¡Ze chef te estará eternamente agradecido!
+Mon petit, ¿podrías tomar los pedidos por mí? ¡Le chef te estará eternamente agradecido!
 Ma petite, will you take ze orders for me? Ze chef will be eternally grateful!
-Ma petite, ¿tomarías los pedidos por mí? ¡Ze chef te estará eternamente agradecida!
+Ma petite, ¿podrías tomar los pedidos por mí? ¡Le chef te estará eternamente agradecida!
 There iz a small closet over there where you can find your uniform to wear.
-Hay un pequeño armario allí donde puedes encontrar tu uniforme para ponerte.
+Hay un pequeño armario por allí donde puedes encontrar tu uniforme para ponerte, oui.
 I can't zank you enough, I will be right back. Tout de suite!
-No puedo zankarte lo suficiente, volveré enseguida. ¡Tout de suite!
+¡No puedo agradecerte lo suficiente, mon ami! ¡Volveré enseguida, tout de suite!
 I am back wiz ze new cake. Zank you so much for helping me. I am incredibly grateful.
-He vuelto wiz el nuevo pastel. Muchas zank you por ayudarme. Estoy increíblemente agradecido.
+He vuelto viz el nuevo pastel. ¡Grasias muchízimas por ayudarme! Estoy increíblemente agradecido.
 You did not mix up any of ze orders, you truly are a <i>naturel</i>!
-No confundiste ningún pedido, ¡de verdad eres un <i>naturel</i>!
+No confundiste ninguno de los pedidos, ¡de verdad tienes un <i>talent naturel</i>!
 For zis, you deserve a petit bonus!
-Por zis, ¡mereces un petit bonus!
+¡Por zis, te mereces un pequeño bonus!
 You mixed up ze orders \V[1] times, but zat's okay!
-Confundiste los pedidos \V[1] veces, ¡pero está bien!
+Confundiste los pedidos \V[1] veces, ¡pero zatá bien!
 And you are wearing ze correcte uniform!
-¡Y estás usando ze uniforme correcte!
+¡Y llevas el uniforme correcte!
 Oh, but you did not wear ze uniform. Zat iz a bit unprofesionnal...
-Oh, pero no llevabas ze uniforme. Zat es un poco unprofesionnal…
+Oh, pero no llevabas el uniforme. Zat es un poco unprofesionnel...
 \GHere iz a little bit of money for helping.
-\GAquí tienes un poco de dinero por ayudar.
+\G¡Aquí viz tienes un poco de dinero por ayudar!
 \G\PN obtained $\V[2]
 \G\PN obtuvo $\V[2]
 I was able to catch ze pesky Swirlix before it got to the new <i>gâteau</i>.
@@ -3879,157 +3879,157 @@ Eso es una TV.
 Mom has been cooking up some food. Smells delicious!
 Mamá ha estado cocinando algo. ¡Huele delicioso!
 A comfortable breeze is coming from the window.
-A comfortable breeze is coming from the window.
+Una brisa agradable entra por la ventana.
 It's the box your running shoes came in. There are some instructions:
-It's the box your running shoes came in. There are some instructions:
+Es la caja en la que venían tus zapatillas para correr. Hay unas instrucciones:
 Press 'Z' to run or set autorun in the options menu.
-Press 'Z' to run or set autorun in the options menu.
+Pulsa «Z» para correr o activa la opción de correr automáticamente en el menú de opciones.
 \PN!
 ¡\PN!
 Oh, you're still in your pajamas. Go get dressed, I have something to show you!
-Oh, you're still in your pajamas. Go get dressed, I have something to show you!
+¡Oh, todavía estás en pijama! ¡Ve a vestirte, tengo algo que mostrarte!
 We received a letter for you! It's from the Pokémon League!
-We received a letter for you! It's from the Pokémon League!
+¡Recibimos una carta para ti! ¡Es de la Liga Pokémon!
 Here! Open it!
-Here! Open it!
+¡Aquí tienes! ¡Ábrela!
 Dear \PN, \|\nWe are pleased to announce that your Pokémon League application has been accepted.
-Dear \PN, \|\nWe are pleased to announce that your Pokémon League application has been accepted.
+Estimado/a \PN: |\nNos complace informarte que tu solicitud para formar parte de la Liga Pokémon ha sido aceptada.
 You are hereby recognized as an official Pokémon trainer and you now earn badges to take part in the Pokémon League Challenge.
-You are hereby recognized as an official Pokémon trainer and you now earn badges to take part in the Pokémon League Challenge.
+Por la presente, se te reconoce como Entrenador Pokémon oficial y ahora podrás obtener medallas para participar en el Desafío de la Liga Pokémon.
 You will find your Trainer card attached to this letter.
-You will find your Trainer card attached to this letter.
+Encontrarás tu Tarjeta de Entrenador adjunta a esta carta.
 We wish you the best of luck!\| - The Pokémon League Admission Board -
-We wish you the best of luck!\| - The Pokémon League Admission Board -
+¡Te deseamos mucha suerte!\| - Comité de Admisión de la Liga Pokémon -
 \PN obtained the Trainer Card!
-\PN obtained the Trainer Card!
+¡\PN obtuvo la Tarjeta de Entrenador!
 So, what did it say?
-So, what did it say?
+Entonces, ¿qué decía?
 They accepted your Pokémon trainer application?
-They accepted your Pokémon trainer application?
+¿Aceptaron tu solicitud para ser Entrenador Pokémon?
 \PN, that's amazing!
-\PN, that's amazing!
+¡\PN, qué increíble!
 I'm so proud of you!
-I'm so proud of you!
+¡Estoy muy orgullosa de ti!
 Oh isn't that boy next door receiving his first Pokémon today as well? I overheard Professor Oak talking about it.
 Oh isn't that boy next door receiving his first Pokémon today as well? I overheard Professor Oak talking about it.
 Hmmm... What is that name that everyone calls him again?
 Hmmm... What is that name that everyone calls him again?
 Oh yes, that's right! Well I'm sure that you and \V[12] will have a ton of fun on your Pokémon journey together!
-Oh yes, that's right! Well I'm sure that you and \V[12] will have a ton of fun on your Pokémon journey together!
+Oh, ¿acaso ese chico de al lado no va a recibir también su primer Pokémon hoy? Escuché al Profesor Oak hablar sobre ello.
 Well, that's it dear! I'm not holding you here any longer. Go have fun on your adventure!
-Well, that's it dear! I'm not holding you here any longer. Go have fun on your adventure!
+Bueno, eso es todo, cariño. No te retendré más. ¡Ve y diviértete en tu aventura!
 You should go see Professor Oak to get your first Pokémon, honey!
-You should go see Professor Oak to get your first Pokémon, honey!
+¡Deberías ir a ver al Profesor Oak para recibir tu primer Pokémon, cariño!
 Oh \PN, It looks like your hair could use a little touch-up. I can give you a quick trim if you want!
 Oh \PN, Parece que a tu cabello le vendría bien un pequeño retoque. ¡Puedo hacerte un recorte rápido si quieres!
 Your Pokémon look tired! Rest here while they recover.
 ¡Tu Pokémon parece cansado! Descanse aquí mientras se recuperan.
 Take care of yourself, sweetie!
-Take care of yourself, sweetie!
+¡Cuídate mucho, cariño!
 I heard about you beating the Elite Four! It's all they're talking about on TV!
-I heard about you beating the Elite Four! It's all they're talking about on TV!
+¡Escuché que derrotaste al Alto Mando! ¡Es de lo único que hablan en la televisión!
 I'm so proud of you! And to think you've only become a trainer recently. You've grown so much since!
-I'm so proud of you! And to think you've only become a trainer recently. You've grown so much since!
+¡Estoy tan orgullosa de ti! Y pensar que te convertiste en Entrenador hace tan poco... ¡Has crecido muchísimo desde entonces!
 Anyway, Professor Oak called and he said he wanted to talk to you. Something about a legendary Pokémon...
-Anyway, Professor Oak called and he said he wanted to talk to you. Something about a legendary Pokémon...
+Por cierto, el Profesor Oak llamó y dijo que quería hablar contigo. Algo sobre un Pokémon legendario...
 You should go see him at the lab!
-You should go see him at the lab!
+¡Deberías ir a verlo al laboratorio!
 Oh \PN, your Pokémon look tired! Rest here while they recover.
-Oh \PN, your Pokémon look tired! Rest here while they recover.
+¡Oh, \PN! ¡Tus Pokémon parecen cansados! Descansa aquí mientras se recuperan.
 Oh my! You're here!
-Oh my! You're here!
+¡Oh, vaya! ¡Estás aquí!
 Cynthia said that you vanished out of thin air when you stepped into that portal on Mt. Silver.
-Cynthia said that you vanished out of thin air when you stepped into that portal on Mt. Silver.
+Cynthia dijo que desapareciste de la nada cuando atravesaste ese portal en el Monte Plateado.
 You've been gone for days! We all thought we had lost you!
-You've been gone for days! We all thought we had lost you!
+¡Has estado desaparecido durante días! ¡Todos pensamos que te habíamos perdido!
 I'm so glad that you're all safe and sound!
-I'm so glad that you're all safe and sound!
+¡Me alegra muchísimo que estés sano y salvo!
 Cynthia had to go back to her home region, but she left us something. I'd like you to have it.
-Cynthia had to go back to her home region, but she left us something. I'd like you to have it.
+Cynthia tuvo que volver a su región natal, pero nos dejó algo. Me gustaría que lo tuvieras.
 I'm not sure what it does, but it sure looks valuable!
-I'm not sure what it does, but it sure looks valuable!
+No sé para qué sirve, ¡pero parece muy valioso!
 Better wash your hands before going off on an adventure!
-Better wash your hands before going off on an adventure!
+¡Será mejor que te laves las manos antes de salir de aventura!
 ...
 ...
 ...It's awesome that you're finally becoming a trainer, sis!
-...It's awesome that you're finally becoming a trainer, sis!
+...¡Es genial que por fin te conviertas en Entrenadora, hermanita!
 Sis, you're really going out adventuring in these clothes?
-Sis, you're really going out adventuring in these clothes?
+Hermanita, ¿de verdad vas a salir de aventura con esa ropa?
 You should wear these instead, you'll look a lot tougher!
-You should wear these instead, you'll look a lot tougher!
+Deberías ponerte esto en su lugar, ¡te verás mucho más ruda!
 ...Woah, \PN! Looks like you've become quite the trainer already!
-...Woah, \PN! Looks like you've become quite the trainer already!
+...¡Guau, \PN! ¡Parece que ya te has convertido en toda una Entrenadora!
 Here, I wanted to give you something.
-Here, I wanted to give you something.
+Toma, quería darte algo.
 Received a Pokémon Egg!
 ¡Recibiste un Huevo Pokémon!
 You have no room in your party to store the egg.
 No tienes espacio en tu equipo para guardar el huevo.
 Keep going, never give up!
-Keep going, never give up!
+¡Sigue adelante, nunca te rindas!
 Sis, you've really been out adventuring in these clothes all this time?
-Sis, you've really been out adventuring in these clothes all this time?
+Hermanita, ¿de verdad has estado saliendo de aventura con esta ropa todo este tiempo?
 ...It's awesome that you're finally becoming a trainer, bro!
-...It's awesome that you're finally becoming a trainer, bro!
+...¡Es genial que por fin te conviertas en Entrenador, hermanito!
 Bro, you're really going out adventuring in these clothes?
-Bro, you're really going out adventuring in these clothes?
+Hermanito, ¿de verdad vas a salir de aventura con esta ropa?
 You should wear these instead, you'll look a lot cuter!
-You should wear these instead, you'll look a lot cuter!
+Deberías ponerte esto en su lugar, ¡te verás mucho más lindo!
 Bro, you've really been out adventuring in these clothes all this time?
-Bro, you've really been out adventuring in these clothes all this time?
+Hermanito, ¿de verdad has estado saliendo de aventura con esta ropa todo este tiempo?
 The fridge is nearly empty!
-The fridge is nearly empty!
+¡El refrigerador está casi vacío!
 [Map44]
 I wonder how it would feel to ride on this Pokemon.
-I wonder how it would feel to ride on this Pokemon.
+Me pregunto qué se sentirá montar a este Pokémon.
 You should visit the Safari Zone. It's full of exotic Pokémon.
-You should visit the Safari Zone. It's full of exotic Pokémon.
+Deberías visitar la Zona Safari. Está llena de Pokémon exóticos.
 It feels like you're on the other side of the world!
-It feels like you're on the other side of the world!
+¡Es como si estuvieras al otro lado del mundo!
 The Safari Zone is much too intense for my old nerves.
-The Safari Zone is much too intense for my old nerves.
+La Zona Safari es demasiado intensa para mis nervios de viejo.
 Thankfully I can still come to this zoo to relax while watching exotic Pokemon.
-Thankfully I can still come to this zoo to relax while watching exotic Pokemon.
+Por suerte, todavía puedo venir a este zoológico a relajarme mientras observo Pokémon exóticos.
 Need to fly somewhere?! Use this!
-Need to fly somewhere?! Use this!
+¿Necesitas volar a algún sitio? ¡Usa esto!
 How is Fly?
-How is Fly?
+¿Cómo es Vuelo?
 They say this Pokemon is from a faraway region called Unova.
-They say this Pokemon is from a faraway region called Unova.
+Dicen que este Pokémon proviene de una región lejana llamada Teselia.
 I've never seen anything like it!
-I've never seen anything like it!
+¡Nunca había visto nada parecido!
 This Pokemon lives in cold climates. It's quite fascinating.
-This Pokemon lives in cold climates. It's quite fascinating.
+Este Pokémon vive en climas fríos. Es bastante fascinante.
 Woah! That's a huge Pokemon!
-Woah! That's a huge Pokemon!
+¡Guau! ¡Qué Pokémon tan enorme!
 Wow, a real live Gyarados! I didn't think I'd ever get to see one!
-Wow, a real live Gyarados! I didn't think I'd ever get to see one!
+¡Vaya, un Gyarados de verdad! ¡No pensé que alguna vez llegaría a ver uno!
 [Map45]
 He almost got pinched! This was much too risky of a mission!
-He almost got pinched! This was much too risky of a mission!
+¡Casi lo atrapan! ¡Esta misión fue demasiado arriesgada!
 She almost got pinched! This was much too risky of a mission!
-She almost got pinched! This was much too risky of a mission!
+¡Casi la atrapan! ¡Esta misión fue demasiado arriesgada!
 Don't you think I know that? Why do you think I sent a newbie? It was a calculated risk!
-Don't you think I know that? Why do you think I sent a newbie? It was a calculated risk!
+¿Crees que no lo sé? ¿Por qué crees que envié a un novato? ¡Fue un riesgo calculado!
 We never should've made that deal with that Pokémon collector... Now the police is all up in our business.
-We never should've made that deal with that Pokémon collector... Now the police is all up in our business.
+Nunca debimos hacer ese trato con ese coleccionista de Pokémon... Ahora la policía está metiendo las narices en nuestros asuntos.
 You know this could disturb our plans for...
-You know this could disturb our plans for...
+Sabes que esto podría poner en peligro nuestros planes para...
 Oh, hello \V[25]. We were just talking about you. You did very well on your last mission.
-Oh, hello \V[25]. We were just talking about you. You did very well on your last mission.
+Oh, hola, \V[25]. Justamente estábamos hablando de ti. Lo hiciste muy bien en tu última misión.
 That run-in with the police was unfortunate, but you handled it with the finesse of a Team Rocket Admin. I'm pleased with your work so far.
-That run-in with the police was unfortunate, but you handled it with the finesse of a Team Rocket Admin. I'm pleased with your work so far.
+Ese encuentro con la policía fue desafortunado, pero lo manejaste con la astucia de un Administrador del Team Rocket. Estoy muy satisfecho con tu trabajo hasta ahora.
 I have a new mission to assign you to. This'll be your most important mission up to this point.
-I have a new mission to assign you to. This'll be your most important mission up to this point.
+Tengo una nueva misión para ti. Esta será tu misión más importante hasta ahora.
 Come and see me as soon as you're ready.
-Come and see me as soon as you're ready.
+Ven a verme en cuanto estés listo.
 Apparently, some kid teamed up with the Gym Leader and infiltrated the hideout... No, that can't be right.
-Apparently, some kid teamed up with the Gym Leader and infiltrated the hideout... No, that can't be right.
+Al parecer, un mocoso se alió con el Líder de Gimnasio y se infiltró en el escondite... No, eso no puede ser.
 Why does the captain like you more than me?
-Why does the captain like you more than me?
+¿Por qué le agradas más al capitán que yo?
 Man, I can't believe we messed up that mission.
-Man, I can't believe we messed up that mission.
+¡Vaya, no puedo creer que arruináramos esa misión!
 Archer is tough with us, but he's fair.
 Archer es duro con nosotros, pero es justo.
 You were pretty good on that mission. But of course, I had the hardest job.
@@ -13979,14 +13979,14 @@ The shelves are filled with Pokemon goods!
 \bI've received a gift for you.\nHere you go!
 \bHe recibido un regalo para ti.\n¡Aquí tienes!
 \bI haven't received any other gifts for you.
-\bNo he recibido más regalos para ti.
+\bNo he recibido ningún otro regalo para ti.
 \bWe look forward to your next visit.
-\bEsperamos su próxima visita.
+\bEsperamos tu próxima visita.
 Sorry I need the correct password
 Lo siento, necesito la contraseña correcta.
 [Map276]
-Puuu!
-Puuu!
+¡Puuu!
+¡Puuu!
 It's full of trash.
 Está llena de basura.
 Hey! Where do you think you're going?
@@ -14046,8 +14046,8 @@ Slowpoke evolves into Slowbro when a Shellder bites its tail.
 Slowpoke evoluciona a Slowbro cuando un Shellder le muerde la cola.
 I wonder if I could get this Shellder to evolve by feeding it a SlowpokeTail.
 Me pregunto si podría hacer evolucionar a este Shellder dándole de comer una Cola de Slowpoke.
-Schwaah!
-Schwaah!
+¡Schwaah!
+¡Schwaah!
 I know all about Bug-type Pokémon!
 ¡Lo sé todo sobre los Pokémon de tipo Bicho!
 When I'm older, I want to be a Gym Leader like uncle Kurt!
@@ -14474,9 +14474,9 @@ Gracias por usar la \C[1]Impresora de Tarjetas de Entrenador\C[0].
 \GWould you like to purchase a new background for your Trainer Card? The current price is \C[5]$\V[329]\C[0].
 \G¿Te gustaría comprar un nuevo fondo para tu Tarjeta de Entrenador? El precio actual es de \C[5]$\V[329]\C[0].
 The elevator's not working so I have to take these upstairs using the stairs.
-The elevator's not working so I have to take these upstairs using the stairs.
+El ascensor no funciona, así que tengo que subir esto por las escaleras.
 This might take a while...
-This might take a while...
+Esto puede tardar un rato...
 The elevator's broken! Someone is supposed to come to fix it soon...
 The elevator's broken! Someone is supposed to come to fix it soon...
 I heard some weird noise coming from the store's basement. Hopefully, everything's alright down there.
@@ -15947,7 +15947,7 @@ A Pokéball that makes Pokémon stronger!? I can't believe it!
 \bI've received a gift for you.\nHere you go!
 \bHe recibido un regalo para ti.\n¡Aquí tienes!
 \bI haven't received any other gifts for you.
-\bNo he recibido más regalos para ti.
+\bNo he recibido ningún otro regalo para ti.
 \bWe look forward to your next visit.
 \bEsperamos verte de nuevo.
 Sorry I need the correct password
@@ -16019,13 +16019,13 @@ Yes
 Sí
 [Map337]
 Champion \PN! In addition to being a specialist of Pokéball technology, Kurt is also an expert on \V[4]  Pokémon.
-Champion \PN! In addition to being a specialist of Pokéball technology, Kurt is also an expert on \V[4]  Pokémon.
+¡Campeón \PN! Además de ser un especialista en tecnología de Poké Balls, Kurt también es un experto en Pokémon de \V[4].
 Don't be fooled by it, he's incredibly powerful!
 No te dejes engañar, ¡es increíblemente poderoso!
 This should help you!
 ¡Esto debería ayudarte!
 Champion \PN! In addition to be a specialist of Pokéball technology, Kurt is also an expert on \V[4]  Pokémon.
-Champion \PN! In addition to be a specialist of Pokéball technology, Kurt is also an expert on \V[4]  Pokémon.
+¡Campeón \PN! Además de ser un especialista en tecnología de Poké Balls, Kurt también es un experto en Pokémon de \V[4].
 You beat Kurt! Not that I had any doubts about it, of course!
 ¡Derrotaste a Kurt! Aunque, claro, nunca dudé que lo lograrías.
 \V[4] Pokémon are cool and tough! I'll prove it to you!
@@ -16272,9 +16272,9 @@ I also made this outfit for you! Wear it to display your love for paleontology t
 Can you believe it?
 ¿Te lo puedes creer?
 Chamber A
-Chamber A
+Cámara A
 Chamber B
-Chamber B
+Cámara B
 This Pokémon that ran out of the cave...
 Ese Pokémon que salió corriendo de la cueva...
 It seems like it was followed by a thunderstorm... Or maybe the Pokémon was causing the storm!
@@ -16869,7 +16869,7 @@ Hola. Debes ser \PN.
 I've received a gift for you.\nHere you go!
 He recibido un regalo para ti.\n¡Aquí tienes!
 I haven't received any other gifts for you.
-I haven't received any other gifts for you.
+No he recibido ningún otro regalo para ti.
 Have a nice day!
 ¡Que tengas un buen día!
 Welcome! Would you like to purchase a hat?
