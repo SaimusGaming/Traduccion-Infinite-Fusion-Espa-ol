@@ -3893,7 +3893,7 @@ We received a letter for you! It's from the Pokémon League!
 Here! Open it!
 ¡Aquí tienes! ¡Ábrela!
 Dear \PN, \|\nWe are pleased to announce that your Pokémon League application has been accepted.
-Estimado/a \PN: |\nNos complace informarte que tu solicitud para formar parte de la Liga Pokémon ha sido aceptada.
+Estimado/a \PN: \nNos complace informarte que tu solicitud para formar parte de la Liga Pokémon ha sido aceptada.
 You are hereby recognized as an official Pokémon trainer and you now earn badges to take part in the Pokémon League Challenge.
 Por la presente, se te reconoce como Entrenador Pokémon oficial y ahora podrás obtener medallas para participar en el Desafío de la Liga Pokémon.
 You will find your Trainer card attached to this letter.
@@ -3911,9 +3911,9 @@ They accepted your Pokémon trainer application?
 I'm so proud of you!
 ¡Estoy muy orgullosa de ti!
 Oh isn't that boy next door receiving his first Pokémon today as well? I overheard Professor Oak talking about it.
-Oh isn't that boy next door receiving his first Pokémon today as well? I overheard Professor Oak talking about it.
+Oh, ¿acaso ese chico de al lado no va a recibir también su primer Pokémon hoy? Escuché al Profesor Oak hablar sobre ello.
 Hmmm... What is that name that everyone calls him again?
-Hmmm... What is that name that everyone calls him again?
+Mmm... ¿Cómo se llamaba ese chico?
 Oh yes, that's right! Well I'm sure that you and \V[12] will have a ton of fun on your Pokémon journey together!
 Oh, ¿acaso ese chico de al lado no va a recibir también su primer Pokémon hoy? Escuché al Profesor Oak hablar sobre ello.
 Well, that's it dear! I'm not holding you here any longer. Go have fun on your adventure!
