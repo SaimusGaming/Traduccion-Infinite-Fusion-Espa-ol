@@ -240,7 +240,7 @@ Ya está. \V[3] ahora te considera su entrenador original.
 You cannot afford my services. I'm sorry.
 No puedes pagar mis servicios. Lo siento.
 \V[5] is your own name. Should I convince your Pokémon that it originally belonged to someone else named \V[5]?
-\V[5] is your own name. Should I convince your Pokémon that it originally belonged to someone else named \V[5]?
+\V[5] es tu propio nombre. ¿Debería convencer a tu Pokémon de que originalmente pertenecía a otra persona llamada \V[5]?
 Honest mistake. Please come see me again when you can.
 Un error honesto. Vuelve a verme cuando puedas.
 It is done. \V[3] now believes it was originally traded from a trainer named \V[5].
@@ -266,7 +266,7 @@ What do you say?
 I'll be here if you change your mind.
 Estaré aquí si cambias de opinión.
 It's only interested by metallic objects. Maybe I should go get a gym badge and give it to it!
-It's only interested by metallic objects. Maybe I should go get a gym badge and give it to it!
+Solo le interesan los objetos metálicos. ¡Quizás debería conseguir una medalla de gimnasio y dársela!
 I wonder what Beldum evolves into... I bet it's strong!
 Me pregunto en qué evolucionará Beldum... ¡Apuesto a que será fuerte!
 No
@@ -341,7 +341,7 @@ Try not to lose your footing!
 Strong winds blow in this gym. Run as fast as you can on the first floor, but walk very carefully on the second!
 En este gimnasio soplan fuertes vientos. ¡Corre lo más rápido que puedas en el primer piso, pero camina con mucho cuidado en el segundo!
 \PN! You beat that \V[5] brand!
-\PN! You beat that \V[5] brand!
+¡\PN! ¡Derrotaste a ese \V[5] de marca!
 Don't be scared, let the wind carry you!
 ¡No tengas miedo, deja que el viento te lleve!
 Blew it!
@@ -360,7 +360,7 @@ Esto no está bien... Esa roca debió caer durante la noche.
 We might be able to blow it up with some dynamite. 3 sticks should do the trick.
 Podríamos hacerla volar con un poco de dinamita. Con 3 cartuchos debería bastar.
 You got me some?! Great! I knew you looked like a dependable kid.
-You got me some?! Great! I knew you looked like a dependable kid.
+¿¡Me conseguiste algunos!? ¡Genial! Sabía que parecías un chico de confianza.
 Well okay then, let's get excavating. Stand back!
 Muy bien, ¡manos a la obra! ¡Aléjate!
 Cover your ears!
@@ -435,7 +435,7 @@ Will you please let me add it to my collection? I will buy it from you!
 Thank you so much! \V[5] will be a very valuable addition to my collection indeed.
 ¡Muchísimas gracias! \V[5] será una incorporación muy valiosa para mi colección.
 \V[5] is the last Pokémon in your party. Transaction cancelled!
-\V[5] is the last Pokémon in your party. Transaction cancelled!
+¡\V[5] es el último Pokémon de tu equipo! ¡Transacción cancelada!
 I see... Please come and see me if you change your mind.
 Ya veo... Vuelve a verme si cambias de opinión.
 Thank you for helping me fill out my collection, \PN.
@@ -504,7 +504,7 @@ Los Pokémon salvajes pueden saber si un entrenador tiene experiencia o no.
 That's why weak Pokémon stay away when they see a strong trainer.
 Por eso los Pokémon débiles se mantienen alejados cuando ven a un entrenador fuerte.
 You can continue East from here to meet the world- renowned Pokémon professor, Professor Elm!
-You can continue East from here to meet the world- renowned Pokémon professor, Professor Elm!
+¡Puedes continuar hacia el este desde aquí para conocer al famoso Profesor Pokémon de renombre mundial, el Profesor Elm!
 I just started my Pokémon journey. Professor Elm gave me a Totodile, but it keeps biting me!
 Recién comencé mi aventura Pokémon. El Profesor Elm me dio un Totodile, ¡pero no deja de morderme!
 Grrrrah!
