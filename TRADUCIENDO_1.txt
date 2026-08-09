@@ -6567,7 +6567,7 @@ What can all this noise possibly be about?
 Is this where all the commotion was coming from?
 ¿De aquí venía todo el alboroto?
 There I was, grooming Mangela's vines, when the poor thing got startled by a loud noise and tore one of its vines!
-There I was, grooming Mangela's vines, when the poor thing got startled by a loud noise and tore one of its vines!
+Ahí estaba yo, arreglando las lianas de Tangela, cuando la pobre se asustó por un ruido fuerte y ¡se arrancó una de sus lianas!
 Oh, but it will grow back, don't worry... Did I hear that Team Rocket was causing trouble again?
 Oh, pero volverá a crecer, no te preocupes... ¿Escuché que el Team Rocket está causando problemas otra vez?
 Sigh, they've been all over the city lately. Rumor has it that they made their base somewhere in the sewers.
@@ -7618,9 +7618,9 @@ Fusioné mis Pokémon favoritos, pero el resultado fue horrible.
 But then I went ahead and edited the sprite. Now it looks perfect!
 Pero luego edité el sprite y ahora se ve perfecto.
 Team Rocket... Uhm... Right away!
-Team Rocket... Uhm... Right away!
+¡Team Rocket... Mmm... ¡Enseguida!
 \GWhat do you want to order?
-\GWhat do you want to order?
+\G¿Qué quieres pedir?
 You don't have enough money!
 ¡No tienes suficiente dinero!
 Sorry, Team Rocket made it very clear, we can't serve anyone who isn't wearing the Team Rocket uniform.
@@ -8271,13 +8271,13 @@ No
 No
 [Map129]
 \GWould you like to purchase more Wonder Trade tickets?
-\GWould you like to purchase more Wonder Trade tickets?
+\G¿Te gustaría comprar más boletos de Intercambio Prodigioso?
 Hello there, I'm the Update Man! I'm here to make sure that everything with your game is up to date if you upgraded from a previous save file.
 Hola, soy el Update Man. Estoy aquí para asegurar que todo en tu juego esté actualizado si migraste desde una partida anterior.
 First of all, are you doing a Nuzlocke run?
 Primero, ¿estás haciendo una partida Nuzlocke?
 There is no Nuzlocke mode integrated into the game. However, this will affect some events.
-There is no Nuzlocke mode integrated into the game. However, this will affect some events.
+No hay un modo Nuzlocke integrado en el juego. Sin embargo, esto afectará algunos eventos.
 Here are a few things.
 Aquí hay algunas cosas:
 And I also need to make a few other adjustements...
@@ -8287,7 +8287,7 @@ All good to go! Enjoy the new update!
 The more badges you get, the more WonderTrades you're allowed to make!
 Cuantas más medallas obtienes, más WonderTrades puedes hacer
 I don't know how this all works, but when I trade a strong Pokémon, I also tend to get a strong Pokémon in return.
-I don't know how this all works, but when I trade a strong Pokémon, I also tend to get a strong Pokémon in return.
+No sé muy bien cómo funciona esto, pero cuando intercambio un Pokémon fuerte, también suelo recibir un Pokémon fuerte a cambio.
 There's a rumor going around that the Pokemon you get from WonderTrade aren't from an actual real person.
 Corre el rumor de que los Pokémon que recibes en WonderTrade no son de personas reales
 But I mean, it's still pretty neat one way or the other!
@@ -8317,7 +8317,7 @@ Fue caro, pero será una buena inversión a largo plazo
 I wanted to make more Wonder Trades, but I ran out of Wonder Tickets!
 Quería hacer más Wonder Trades, pero me quedé sin boletos Wonder
 Hello there, I'm the Move Teacher.
-Hello there, I'm the Move Teacher.
+¡Hola! Soy el Maestro de Movimientos.
 I know every single move that Pokemon learn growing up.
 Conozco todos los movimientos que los Pokémon aprenden al crecer
 \GFor $1000 I can teach a move to one of your Pokémon.
@@ -8327,7 +8327,7 @@ Conozco todos los movimientos que los Pokémon aprenden al crecer
 Which Pokémon needs tutoring?
 ¿Qué Pokémon necesita tutoría?
 If your Pokémon need to learn a move, come back to see me!
-If your Pokémon need to learn a move, come back to see me!
+Si tus Pokémon necesitan aprender un movimiento, ¡vuelve a verme!
 Huh? There isn't a single move that I can teach an Egg.
 ¿Eh? No hay ningún movimiento que pueda enseñar a un huevo
 Sorry...
@@ -8361,15 +8361,15 @@ Para saber más, revisa el \C[1]discord oficial de Pokémon Infinite Fusion\C[0]
 Your team has been copied to your clipboard!
 Tu equipo ha sido copiado al portapapeles
 You can import your team into Showdown by clicking on \C[1]"New team"\C[0], and then \C[1]"Import from text or URL"\C[0] in the \C[3]Teambuilder\C[0] tab
-Puedes importar tu equipo en Showdown haciendo clic en \C[1]"New team"\C[0] y luego en \C[1]"Import from text or URL"\C[0] en la pestaña \C[3]Teambuilder\C[0]
+Puedes importar tu equipo en Showdown haciendo clic en \C[1]"Nuevo equipo"\C[0] y luego en \C[1]"Importar desde texto o URL"\C[0], dentro de la pestaña \C[3]Constructor de equipos\C[0].
 Hello there! You have to get a Gym badge before you're allowed to make a Wonder Trade.
-Hello there! You have to get a Gym badge before you're allowed to make a Wonder Trade.
+¡Hola! Tienes que conseguir una medalla de Gimnasio antes de poder hacer un Wonder Trade.
 Hello there! I can see that you've obtained a Wonder Trade ticket!
 Hola, veo que has obtenido un boleto de Wonder Trade
 Wonder Trades allow you to trade a Pokémon with a random trainer from around the world!
 Wonder Trades te permiten intercambiar un Pokémon con un entrenador aleatorio de todo el mundo
 You can get free WonderTrade Tickets by defeating Gym Leaders, but you can also buy additional ones from my colleague.
-You can get free WonderTrade Tickets by defeating Gym Leaders, but you can also buy additional ones from my colleague.
+Puedes conseguir boletos de Wonder Trade gratis al derrotar a los Líderes de Gimnasio, pero también puedes comprar más a mi colega.
 Oh, I'm sorry but you don't seem to have any Wonder Trade tickets. You may purchase some with my colleague if you'd like.
 Lo siento, pero parece que no tienes boletos de Wonder Trade. Puedes comprarlos con mi colega si quieres
 Would you like to make Wonder Trade?
@@ -8391,7 +8391,7 @@ Sí
 No
 No
 Buy a ticket ($8,000)
-Buy a ticket ($8,000)
+Comprar un boleto ($8.000)
 Cancel
 Cancelar
 Learn more
@@ -8407,7 +8407,7 @@ Discord Pokéathlon
 Back
 Volver
 Go to teambuilder
-Ir al teambuilder
+Ir al Constructor de equipos
 Premium
 Premium
 Standard
@@ -8426,9 +8426,9 @@ Qué lástima. Vuelve con $\V[15] si quieres que se lo enseñe a uno de tus Pok�
 You don't have eough money. Come back with $\V[15] if you want me to teach it to one of your Pokémon!
 No tienes suficiente dinero. Vuelve con $\V[15] si quieres que se lo enseñe a uno de tus Pokémon.
 Eeeeeeeeee!
-Eeeeeeeeee!
+¡Eeeeeeeeee!
 Bleep!
-Bleep!
+¡Bleep!
 Cinnabar's Gym's Blaine is an odd man who has lived here for decades.
 Blaine, el líder del gimnasio de Carmín, es un hombre extraño que ha vivido aquí por décadas
 Hello, and welcome to the Pokémon Center.
@@ -10551,13 +10551,13 @@ Nada
 [Map178]
 [Map179]
 Grrrrr.... Bark!
-Grrrrr.... Bark!
+¡Grrrrr...! ¡Guau!
 Woof!
-Woof!
+¡Woof!
 Hm... no.
 Hm... no.
 Meeow!
-Meeow!
+¡Meeow!
 I'm innocent, please believe me! I need to get my Pokémon back from the daycare!
 ¡Soy inocente, por favor créeme! ¡Necesito recuperar a mis Pokémon de la guardería!
 There's an arrest record for someone affiliated with Team Rocket.
@@ -10565,9 +10565,9 @@ Hay un registro de arresto de alguien afiliado al Team Rocket.
 \V[25]! You traitor! Come bust me out of here!
 ¡\V[25]! ¡Traidor! ¡Ven a sacarme de aquí!
 You're lucky we can't legally do anything to stop you...
-You're lucky we can't legally do anything to stop you...
+Tienes suerte de que legalmente no podamos hacer nada para detenerte...
 I think it's best you leave.
-I think it's best you leave.
+Creo que será mejor que te vayas.
 We want to stop Team Rocket, but we can't do much about it.
 Queremos detener al Team Rocket, pero no podemos hacer mucho al respecto.
 None of what they're doing is technically illegal since they respect the rules of Pokémon battling.
@@ -10583,7 +10583,7 @@ Me descuidé y me atraparon. No cometas el mismo error que yo, \V[25].
 A song about donuts is playing on the radio.
 Está sonando en la radio una canción sobre donas.
 Team Rocket is even recruiting kids now?! What has this world come to...
-Team Rocket is even recruiting kids now?! What has this world come to...
+¡¿Ahora el Team Rocket también está reclutando niños?! ¿¡En qué se ha convertido este mundo...?!
 The city isn't safe for a kid like you these days.
 La ciudad no es segura para un niño como tú hoy en día.
 You made the city a bit safer for everyone. You're a good kid.
@@ -10987,7 +10987,7 @@ Ho! Stay and train at Karate with us!
 Hooh!
 ¡Hooh!
 Hoohah! You're trespassing in our \V[5] Dojo!
-Hoohah! You're trespassing in our \V[5] Dojo!
+¡Hoohah! ¡Estás entrando sin permiso en nuestro Dojo \V[5]!
 Oof! I give up!
 ¡Uf! ¡Me rindo!
 The prime fighters across the land train here.
@@ -12409,7 +12409,7 @@ I'm out of here!
 Here I am always getting lost again...
 Ya estoy otra vez perdido... 
 Excuse me, but could you please tell me where Violet City is?
-Excuse me, but could you please tell me where Violet City is?
+Disculpa, ¿podrías decirme dónde está Ciudad Violeta?
 Oh, I'm sorry. I just have a terrible sense of orientation!
 ¡Ay, lo siento! Es que tengo un sentido de la orientación pésimo.
 It's East? Thank you! I'll head there straight away!
