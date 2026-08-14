@@ -15149,134 +15149,135 @@ You should head to Azalea Town for a taste of what they're capable of!
 ¡Deberías dirigirte a Pueblo Azalea para comprobar como de capaces son!
 [Map311]
 I started my Pokémon journey in New Bark Town.
-Yo empecé mi aventura Pokémon en Pueblo Primavera.
+Comencé mi aventura Pokémon en Pueblo Primavera.
 I've been training my Pokémon in this very grass to make sure it's high level enough for my first gym battle.
-I've been training my Pokémon in this very grass to make sure it's high level enough for my first gym battle.
+He estado entrenando a mi pokémon es esta misma hierba alta para estar seguro de que está a un nivel alto para mi primer combate de gimnasio.
 Do you think I'm ready for Falkner?
 ¿Crees que estoy listo para Pegaso?
 I still don't think I'm ready for my first gym battle. Please help me train some more!
-¡Aún no creo estar listo para mi primer combate de gimnasio! ¡Por favor, ayúdame a entrenar más!
+No creo que estar listo para mi primer combate de gimnasio. ¡Por favor, ayúdame a entrenar un poco más!
 Grinding is life!
-¡Trabajar duro es vida!
+¡Grindear es vida!
 I'll be here if you change your mind!
 ¡Estaré por aquí si cambias de opinión!
 Yes! A new trainer! Want to learn how to catch a Pokémon?
-Yes! A new trainer! Want to learn how to catch a Pokémon?
+¡Si! ¡Un entrenador Pokémon! ¿Quieres aprender como capturar Pokémon?
 Let's see...
 Veamos...
 Yes, this'll do perfectly.
-Yes, this'll do perfectly.
+Si. Este será perfecto.
 Uh? You're not a new trainer at all!?
-Uh? You're not a new trainer at all!?
+¿Eh? ¿¡No eres un entrenador novato!?
 Well then you can keep this Pokémon... I'm just good at catching Pokémon, not training them. It'll be better off with you!
-Well then you can keep this Pokémon... I'm just good at catching Pokémon, not training them. It'll be better off with you!
+Bueno. Entonces puedes quedarte este pokemon... Simplemente soy bueno atrapando Pokémon, no entrenándolos. ¡Estará mejor contigo! 
 Oh. Fine, then. Anyway, if you want to catch Pokémon, you have to walk a lot.
-Oh. Fine, then. Anyway, if you want to catch Pokémon, you have to walk a lot.
+Oh. Genial, entonces. como sea. Si necesitas atrapar Pokémon, tienes que caminar un poco.
 Keep it up and you'll be a pro like me in no time!
-Keep it up and you'll be a pro like me in no time!
+¡Tómalo y serás tan bueno como yo en nada de tiempo!
 You should've told me you weren't a new trainer before I made a fool of myself!
-You should've told me you weren't a new trainer before I made a fool of myself!
+¡Deberías haberme dicho antes que no eras un entrenador novato antes de que hiciese el ridículo!
 Yes
 Sí
 No
 No
 [Map312]
 The large Pokémon appears to be sleeping...
-The large Pokémon appears to be sleeping...
+El gran pokemon parece estar durmiendo...
 Wake it up?
-Wake it up?
+¿Despertarlo?
 \PN played the PokéFlute
-\PN played the PokéFlute
+\PN tocó la Pokéflauta.
 \PN poked the Pokémon.
-\PN poked the Pokémon.
+\PN empujó al Pokémon.
 The large Pokémon woke up,
-The large Pokémon woke up,
+El gran Pokémon despertó,
 The large Pokémon attacked!
-The large Pokémon attacked!
+¡El gran Pokémon atacó!
 Gaagaugh!
 ¡Gaagaugh!
 The wild Pokémon fled...
 ¡El Pokémon salvaje huyó!
 That big sleeping Pokémon over there... It looks scary strong.
-That big sleeping Pokémon over there... It looks scary strong.
+Ese Pokémon grande que está durmiendo allí... parece increiblemente fuerte.
 Humph... I hiked all the way over here, but I guess this is a dead end.
-Humph... I hiked all the way over here, but I guess this is a dead end.
+Humph... Recorrí todo el camino hasta aquí, pero supongo que es un callejón sin salida.
 Looks like the only way to Blackthorn City is through Dark Cave then...
-Looks like the only way to Blackthorn City is through Dark Cave then...
+Entonces parece que el único caminó a Ciudad Endrino es recorrer la Cueva Oscura...
 Yes
 Sí
 No
 No
 [Map313]
 What's in there? Nothing, that's what!
-What's in there? Nothing, that's what!
-The following Pokémon can be found on Route 46:
-The following Pokémon can be found on Route 46:
+¿Que hay aquí? ¡Nada! ¡Eso es lo que hay!
+The following Pokémon can be found on Route 
+6:
+Se pueden encontrar los siguientes Pokémon en la Ruta 46:
 Graveler, Fearow, Wigglytuff, Donphan, Skarmory, Gligar
 Graveler, Fearow, Wigglytuff, Donphan, Skarmory, Gligar
 [Map314]
 Enter the Pokémon League challenge?
-¿Quieres participar en el desafío de la Liga Pokémon?
+Entrar en  el desafío de  la Liga Pokémon?
 D'ya know what's it mean locking eyes with me? Think yerself ready to unlock my Hard Mode?
-D'ya know what's it mean locking eyes with me? Think yerself ready to unlock my Hard Mode?
+¿Entiende' que pasa al cruza' la mirá conmigo? ¿Crees que pue' desbloquear mi Modo Difícil?
 Well, ye look tough, but ye gotta prove yerself first.
-Well, ye look tough, but ye gotta prove yerself first.
+Bueno, Te ves duro, pero va' tener que probar tu valía primero.
 Rematch every Gym Leader and beat the champion again. Maybe then I'll let you in into my secret club!
-Rematch every Gym Leader and beat the champion again. Maybe then I'll let you in into my secret club!
+Toma la revancha contra todos los líderes de gimnasio y vence al campeón otra vez. Quizás te deje entrar en mi club secreto.
 Hey, yer \PN, right?
-Hey, yer \PN, right?
+Hey, ere' \PN, verdad?
 So, ye got the invitation I sent you?
-So, ye got the invitation I sent you?
+¿'tonces recibiste la invitación que te envié?
 Lessee if ya got what it takes. You'll only get a taste!
-Lessee if ya got what it takes. You'll only get a taste!
+'Amos a ver si tienes lo que hace falta. ¡Solo tendrás una pequeña muestra! 
 Heh. Yer not half bad! Y'might actually do alright! I have enabled Hard Mode for you. Ya can talk to me anytime if ya want to disable it.
-Heh. Yer not half bad! Y'might actually do alright! I have enabled Hard Mode for you. Ya can talk to me anytime if ya want to disable it.
+Je. ¡No eres tan malo! ¡Puede que te vaya bastante bien! He activado el Modo Dificil pa' ti. puedes hablarme siempre que quieras pa' desactivarlo.
 Or just wear this and everyone'll know that ya mean business!
-Or just wear this and everyone'll know that ya mean business!
+¡O simplemente ponte esto y to's sabrán que hablas en serio!
 \PN put on Dem's Badge.
-\PN put on Dem's Badge.
+\PN se puso la medalla de Dem.
 While wearing Dem's Badge, Gym Leaders, and the Elite 4 will now use their ultimate teams against you.
-While wearing Dem's Badge, Gym Leaders, and the Elite 4 will now use their ultimate teams against you.
+Mientras lleves la medalla Dem, los líderes de gimnasio y el Alto Mando podrán usar su equipo definitivo contra tí.
 Nope, not enough bruh. If ya can't handle this, the rest will be unhealthy for ya.
-Nope, not enough bruh. If ya can't handle this, the rest will be unhealthy for ya.
+Nop, no e' suficiente, colega. Si no pue's manejar esto, lo demás va' ser matador pa' ti.
 I'm lookin' out for ya, see? Come back when yer stronger.
-I'm lookin' out for ya, see? Come back when yer stronger.
+'toy pendiente de ti, ¿Viste? Vuelve por aquí cuando seas más fuerte.
 Wise choice. If you barge in unknown territory unprepared, you'll only get hurt.
-Wise choice. If you barge in unknown territory unprepared, you'll only get hurt.
+Sabia decisión. Si irrumpes en territorio desconocido sin haberte preparado solo saldrás herido.
 Do ya wanna protec yerself? Or deal some damage?
-Do ya wanna protec yerself? Or deal some damage?
+¿Quiere' protegerte? ¿O inflingir más daño?
 He protec,\nhe attac,\nbut most importantly,\nhe take Hard Mode bac.
-He protec,\nhe attac,\nbut most importantly,\nhe take Hard Mode bac.
+El protege,\nEl ataca,\npero lo más importante,\nEl trae de vuelta el Modo Difícil.
 Heh. Yer catchin' on. I like ya.
-Heh. Yer catchin' on. I like ya.
+Je. Te vas coscando. Me caes bien.
 He protec,\nhe attack,\nbut most importantly,\nHard Mode is bac! Yeah baby!
-He protec,\nhe attack,\nbut most importantly,\nHard Mode is bac! Yeah baby!
+El protege,\nEl ataca,\npero lo más importante,\nel Modo Difícil ha vuelto! Si, nena!
 THATS A LOTTA DAMAGE!
-THATS A LOTTA DAMAGE!
+¡ES UN MONTÓN DE DAÑO!
 THATS A LOT-
-THATS A LOT-
+ES UN MONTÓN-
 ...huh? Ya beat Hard Mode Gold?\n'KAY THAN 'TIS TIEM FOR LEGEND SPAM!
-...huh? Ya beat Hard Mode Gold?\n'KAY THAN 'TIS TIEM FOR LEGEND SPAM!
+...¿Eh? Superaste el modo difícil?\n'¡TA' BIEN! ¡ES HORA DE SPAMEAR LEYENDAS!
 Yer good, kid. Yer really good.
-Yer good, kid. Yer really good.
+Eres fuerte, Eres realmente fuerte.
 Go see that ol' professor Oak and show him yer Gold Emblem.
-Go see that ol' professor Oak and show him yer Gold Emblem.
+Ve a enseñarle esto al viejo profesor Oak y enséñale esta Medalla Dorada.
 Huh? Alrighty then.\nYa can talk to me anytime if ya want to swap modes, or just spar.
-Huh? Alrighty then.\nYa can talk to me anytime if ya want to swap modes, or just spar.
+¿Eh? ta' bien.\nPue' s hablar conmigo cuando quieras cambiar modos, o solo palique.
 Hello there, I'm the Move Teacher.
-Hello there, I'm the Move Teacher.
+Hola. Soy el Tutor de Movimientos.
 I know every single move that Pokemon learn growing up.
 Conozco todos los movimientos que los Pokémon aprenden al crecer
 \GFor $2000 I can teach a move to one of your Pokémon.
-\GFor $2000 I can teach a move to one of your Pokémon.
+\GPor $2000 puedo enseñar un movimiento a uno de tus Pokémon.
 \GWhat do you think?
 \G¿Qué opinas?
 Which Pokémon needs tutoring?
-¿Qué Pokémon necesita tutoría?
+¿Qué Pokémon necesita que le enseñe?
 If your Pokémon need to learn a move, come back to see me!
-If your Pokémon need to learn a move, come back to see me!
+¡Si tus Pokémon necesitan aprender un movimiento, vuelve a verme!
 Huh? There isn't a single move that I can teach an Egg.
-¿Eh? No hay ningún movimiento que pueda enseñar a un huevo
+¿Eh? No hay ningún movimiento que pueda enseñar a un huevo.
 Sorry...
 Lo siento...
 It doesn't appear as if I have any move I can teach to your \v[3].
@@ -15284,25 +15285,25 @@ Parece que no tengo ningún movimiento para enseñarle a tu \v[3]
 Which move should I teach to your \v[3]?
 ¿Qué movimiento quieres que le enseñe a tu \v[3]?
 \G\PN paid $2000 in exchange.
-\G\PN paid $2000 in exchange.
+\G\PN pagó $2000 a cambio.
 \GIf your Pokémon need to learn a move, come back with another $2000!.
-\GIf your Pokémon need to learn a move, come back with another $2000!.
+\GSi tu pokemon necesita aprender un movimiento, vuelve con $2000!.
 If your Pokémon need to learn a move, come back with $2000.
-If your Pokémon need to learn a move, come back with $2000.
+Si tu Pokémon necesita aprender un movimiento vuelve con $2000.
 Oh, but you don't have enough money!
-Oh, pero no tienes suficiente dinero
+Oh, pero no tienes suficiente dinero.
 Are you done with your shopping? Is your party all healed up?
-Are you done with your shopping? Is your party all healed up?
+¿Has terminado con tus compras? ¿Has curado a tu equipo?
 This is the big challenge, so you want to make sure you're fully prepared!
-This is the big challenge, so you want to make sure you're fully prepared!
+¡Este es el gran desafío, así que necesitas estar seguro de que estás preparado!
 I can't even beat the first member of the Elite Four...
-I can't even beat the first member of the Elite Four...
+Ni siquiera puedo derrotar al primer miembro del Alto Mando...
 So this is the Pokémon League... The most skilled trainers...
-So this is the Pokémon League... The most skilled trainers...
+Así que esta es la Liga Pokémon... Los entrenadores más habilidosos.
 If you go on ahead, you'll face the Elite Four one by one.
-If you go on ahead, you'll face the Elite Four one by one.
+Si te adentras, Te enfrentarás a la Élite 4 uno por uno.
 If you win, a door opens to the next trainer. Good luck!
-If you win, a door opens to the next trainer. Good luck!
+Si ganas, una puerta se abrirá hacia el siguiente entrenador. ¡Buena suerte!
 \^Hello, and welcome to the Pokémon Center.\wt[2.5]
 \^Hola, bienvenido al Centro Pokémon \wt[2.5]
 \^We restore your tired Pokémon to full health.\wt[2.5]
@@ -15310,7 +15311,7 @@ If you win, a door opens to the next trainer. Good luck!
 Would you like to rest your Pokémon?
 ¿Quieres que tus Pokémon descansen?
 OK, I'll take your Pokémon for a few seconds.
-Está bien, tomaré a tus Pokémon por unos segundos
+Está bien, tomaré a tus Pokémon por unos segundos.
 \rYour Pokémon may be infected by PokeRus.
 \rTu Pokémon podría estar infectado con PokeRus.
 \rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.
@@ -15318,9 +15319,9 @@ Está bien, tomaré a tus Pokémon por unos segundos
 \rWhile infected, Pokémon are said to grow exceptionally well.
 \rMientras están infectados, se dice que los Pokémon crecen excepcionalmente bien.
 Thank you for waiting.
-Gracias por esperar
+Gracias por esperar.
 We've restored your Pokémon to full health.
-Hemos restaurado la salud completa de tus Pokémon
+Hemos restaurado la salud completa de tus Pokémon.
 We hope to see you again!
 ¡Esperamos verte de nuevo!
 \rWe hope to see you again!
@@ -15330,188 +15331,188 @@ Sí
 No
 No
 Yeah!
-Yeah!
+¡Si!
 Maybe later
-Maybe later
+Quizás más tarde
 Protec...
-Protec...
+Proteger...
 ...Attac?
-...Attac?
+...Atacar?
 Damage!
-Damage!
+¡Daño!
 On second thought...
-On second thought...
+Pensándolo bien...
 [Map315]
 Welcome to Pokémon League! I am Lorelei of the Elite Four!
-Welcome to Pokémon League! I am Lorelei of the Elite Four!
+¡Te doy la bienvenida a la Liga Pokémon! ¡Yo soy Lorelei de l Alto Mando!
 No one can best me when it comes to \V[5] Pokémon! Freezing moves are powerful!
-No one can best me when it comes to \V[5] Pokémon! Freezing moves are powerful!
+Nadie me supera con los Pokémon de tipo \V[5] ! ¡Los movimientos que hielan son muy potentes!
 Your Pokémon will be at my mercy when they are frozen solid! Hahaha! Are you ready?
-Your Pokémon will be at my mercy when they are frozen solid! Hahaha! Are you ready?
+¡Tus Pokémon estarán a mi merced cuando los congele! ¡Jajajaja! ¿Preparados?
 How dare you!
-How dare you!
+¡Cómo te atreves!
 You're better than I thought! Go on ahead!
-You're better than I thought! Go on ahead!
+¡Eres mejor de lo que pensaba! ¡Adelante!
 You only got a taste of Pokémon League power!
-You only got a taste of Pokémon League power!
+¡Solo has probado un poco del poder de la Liga Pokemon!
 Welcome to Pokémon League!
-Welcome to Pokémon League!
+¡Te doy la bienvenida a la Liga Pokémon!
 Hey, fantastic timing! I was just thinking how I'd like to battle you.
-Hey, fantastic timing! I was just thinking how I'd like to battle you.
+¡Eh, en que buen momento! Justo estaba pensando en como me gustaría combatir contra ti.
 I may have lost to you, but I'll never give up on \V[5] Pokémon.
-I may have lost to you, but I'll never give up on \V[5] Pokémon.
+Puede que haya perdido contra ti, pero nunca me rendiré con los pokemon tipo \V[5] .
 Come on, go on ahead now!
-Come on, go on ahead now!
+Vamos. ¡Ahora adelante!
 It's locked. You have to defeat the Elite Trainer first.
-It's locked. You have to defeat the Elite Trainer first.
+Está cerrado. Tienes que derrotar al entrenador del Alto Mando primero.
 [Map316]
 I am Bruno of the Elite Four! Through rigorous training, people and Pokémon can become stronger!
-I am Bruno of the Elite Four! Through rigorous training, people and Pokémon can become stronger!
+¡Soy Bruno del Alto Mando! ¡Tras un riguroso entrenamiento, la gente y los Pokémon pueden fortalecerse!
 I've weight trained with my \V[5]-type Pokémon. \PN! We will grind you down with our superior power! Hoo hah!
-I've weight trained with my \V[5]-type Pokémon. \PN! We will grind you down with our superior power! Hoo hah!
+He entrenado a fondo con mis pokémon tipo \V[5]. ¡\PN! ¡Te tumbaremos con nuestro poder superior! ¡Kia!
 Why? How could I lose?
-Why? How could I lose?
+¿Por que? ¿Como pude perder?
 My job is done! Go face your next challenge!
-My job is done! Go face your next challenge!
+¡Mi trabajo ya está hecho! ¡Enfréntate a tu próximo desafío!
 I could feel the intensity of your battle with Lorelei, even from here!
-I could feel the intensity of your battle with Lorelei, even from here!
+¡He podido sentir la intensidad de tu combate contra Lorelei desde aquí!
 I've been training a lot since the last time I saw you and my \V[5]-type Pokémon are tougher than ever.
-I've been training a lot since the last time I saw you and my \V[5]-type Pokémon are tougher than ever.
+He estado entrenando desde la última vez que te vi y mis pokemon tipo \V[5] son más duros que nunca.
 I'll crush you with pure muscle! Hoo hah!
-I'll crush you with pure muscle! Hoo hah!
+¡Te destrozaré con puro músculo! Kia!
 Ugh! No! So my training is still lacking, is that it?
-Ugh! No! So my training is still lacking, is that it?
+¡Ugh! ¡No! ¿Entonces mi entrenamiento es insuficiente? ¿Es eso?
 ...Go. Do not trouble yourself on my behald. Continue to move forward!
-...Go. Do not trouble yourself on my behald. Continue to move forward!
+...Vamos. No te preocupes por mi. ¡Sigue adelante!
 It's locked. You have to defeat the Elite Trainer first.
-It's locked. You have to defeat the Elite Trainer first.
+Está cerrado. tienes que derrotar al entrenador del Alto Mando primero.
 [Map317]
 It's locked. You have to defeat the Elite Trainer first.
-It's locked. You have to defeat the Elite Trainer first.
+Está cerrado. Tienes que derrotar al entrenador del Alto Mando primero.
 I am Agatha of the Elite Four! Oak's taken a lot of interest in you, child!
-I am Agatha of the Elite Four! Oak's taken a lot of interest in you, child!
+¡Soy Agatha, del Alto Mando! ¡Oak se ha interesado un poco en ti, joven!
 That old duff was once tough and handsome! That was decades ago! Now he just wants to fiddle with his Pokédex! He's wrong! Pokémon are for fighting!
-That old duff was once tough and handsome! That was decades ago! Now he just wants to fiddle with his Pokédex! He's wrong! Pokémon are for fighting!
+Ese viejo idiota una vez fue duro y guapo! ¡Eso fue hace décadas! Ahora solo juguetea con su pokedex! ¡Está equivocado! ¡Los Pokémon son para luchar!
 \PN, I'll show you how a \V[5]-type master fights!
-\PN, I'll show you how a \V[5]-type master fights!
+\PN, ¡Te voy a mostrar como lucha un maestro entrenador de tipo \V[5]!
 Oh ho! You're something special, child!
-Oh ho! You're something special, child!
+¡Oh ho! ¡Eres alguien especial, joven!
 You win! I see what the old duff sees in you now! I have nothing else to say! Run along now, child!
-You win! I see what the old duff sees in you now! I have nothing else to say! Run along now, child!
+¡Has ganado! Ya veo lo que ese viejo ve en ti! ¡No tengo nada más que decir! ¡Corre, joven!
 So, you've come!
-So, you've come!
+¡Asi que has venido!
 You know, I didn't become the oldest Elite 4 member for no reason.
-You know, I didn't become the oldest Elite 4 member for no reason.
+Ya sabes, no me he convertido en el miembro del Alto Mando por nada.
 It's not in my character to lose over and over. Give this battle everything you've got!
-It's not in my character to lose over and over. Give this battle everything you've got!
+No va con mi personalidad perder una y otra vez. ¡Da en este combate todo lo que tienes!
 Small wonder that old timer's taken such an interest in you.
-Small wonder that old timer's taken such an interest in you.
+No es de extrañar que los veteranos muestren tanto interés en ti.
 Oak and I used to be rivals back in the day, you know.
-Oak and I used to be rivals back in the day, you know.
+Oak y yo fuimos rivales por aquel entonces. Ya sabes.
 Well, what are you waiting for? Head on to the next room!
-Well, what are you waiting for? Head on to the next room!
+Bueno. ¿A que esperas? ¡Dirígete a la siguiente sala!
 \PN, I'll show you how a real trainer fights!
-\PN, I'll show you how a real trainer fights!
+¡\PN! ¡Te mostraré como lucha un verdadero entrenador!
 [Map318]
 It's locked. You have to defeat the Elite Trainer first.
-It's locked. You have to defeat the Elite Trainer first.
+Está cerrado. Tienes que derrotar al entrenador del Alto Mando primero.
 Ah! I heard about you \PN. As you may know, I lead the Elite Four! You can call me Lance the \V[5] trainer!
-Ah! I heard about you \PN. As you may know, I lead the Elite Four! You can call me Lance the \V[5] trainer!
+¡Ah! he oido hablar de ti, \PN. como quizá sepas, ¡Lidero el Alto Mando! Puedes llamarme Lance, el entrenador de tipo \V[5]!
 You know that \V[5]s are mythical Pokémon! They're hard to catch and raise, but their powers are superior! They're virtually indestructible!
-You know that \V[5]s are mythical Pokémon! They're hard to catch and raise, but their powers are superior! They're virtually indestructible!
+¡Ya sabes que los \V[5]s son Pokémon míticos! ¡Son difíciles de capturar y entrenar, pero su poder es muy superior! ¡Son virtualmente indestructibles!
 Well, are you ready to lose? Your league challenge ends with me, \PN!
-Well, are you ready to lose? Your league challenge ends with me, \PN!
+Bueno, ¿Estás listo para perder? Tu desafio en la Liga termina conmigo, \PN!
 That's it! I hate to admit it, but you are a Pokémon master!
-That's it! I hate to admit it, but you are a Pokémon master!
+¡Eso es todo! ¡Odio admitirlo, pero eres un maestro Pokémon!
 I still can't believe my dragons lost to you, \PN! You are now the Pokémon League champion!
-I still can't believe my dragons lost to you, \PN! You are now the Pokémon League champion!
+No puedo creer que mis dragones perdiesen contra ti, \PN! Ahora eres el campeón de la Liga Pokemon!
 ...Or, you would have been, but you have one more challenge ahead.
-...Or, you would have been, but you have one more challenge ahead.
+...O lo habrías sido pero tienes un desafío más frente a ti.
 You have to face another trainer! His name is... \V[12].
-You have to face another trainer! His name is... \V[12].
+¡Tienes que enfrentarte a un entrenador más! su nombre es... \V[12].
 He beat the Elite Four before you! He is the real Pokémon League champion!
-He beat the Elite Four before you! He is the real Pokémon League champion!
+¡El derrotó al Alto Mando antes que tú! El es el verdadero campeón de la Liga Pokémon!
 You've come! I knew I would see you again \PN.
-You've come! I knew I would see you again \PN.
+¡Has venido! Sabía que te vería de nuevo, \PN.
 You've come far, but I've been training my dragons. I'll put a stop to your league challenge now!
-You've come far, but I've been training my dragons. I'll put a stop to your league challenge now!
+Has llegado lejos, pero he estado entrenando a mis dragones. ¡Voy a poner fin a tu desafío en  la Liga!
 There's no way my dragon brigade is weak.
-There's no way my dragon brigade is weak.
+De ninguna manera mi equipo de dragones es débil.
 ...What I'm saying is that means your strength is truly incredible!
-...What I'm saying is that means your strength is truly incredible!
+...Lo que quiero decir es que tu fuerza es realmente increible.
 Now then, \PN! You already know what's next, don't you?
-Now then, \PN! You already know what's next, don't you?
+¡Ahora bien, \PN! Ahora sabes qué sigue, ¿Verdad?
 Go on, the champion is waiting for you!
-Go on, the champion is waiting for you!
+Continúa. ¡El campeón te está esperando!
 I still can't believe my dragons lost to you, \PN! Now go face your last challenge!
-I still can't believe my dragons lost to you, \PN! Now go face your last challenge!
+Todavía no puedo creee que mis dragones perdiesen contra tí, \PN! Ahora ve a enfrentarte a tu último desafío!
 [Map319]
 It's quite empty.
-It's quite empty.
+Está bastante vacío.
 Hello! Aren't you the new Pokémon League champion?
-Hello! Aren't you the new Pokémon League champion?
+¡Hola! No eres el nuevo campeón de la Liga Pokémon?
 Yes you are! It's you \PN, the league champion, there's no mistaking it!
-Yes you are! It's you \PN, the league champion, there's no mistaking it!
+¡Si, lo eres! ¡Eres tú! ¡\PN, el campeón de la Liga! ¡No hay duda!
 They call me Mr. Pokémon. I do research on rare Pokémon with Professor Elm from New Bark Town.
-They call me Mr. Pokémon. I do research on rare Pokémon with Professor Elm from New Bark Town.
+Me llaman Sr. Pokémon. Realizo investigaciones sobre Pokémon raros con el profesor Elm de Pueblo Primavera.
 I'm investigating a rare Pokémon that has been sighted in the area.
-I'm investigating a rare Pokémon that has been sighted in the area.
+Estoy investigando un Pokémon raro que fue avistado por la zona.
 It has been scaring away wild Pokémon so it must be quite powerful.
-It has been scaring away wild Pokémon so it must be quite powerful.
+Ha estado ahuyentando a los pokemon salvajes, por lo que debe ser bastante fuerte.
 What was that?
-What was that?
+¿Que ha sido eso?
 A load roar?! This must be it! Come, we must be quick!
-A load roar?! This must be it! Come, we must be quick!
+¿Un rugido? ¡Debe ser eso! ¡Ven! ¡Debemos ser rápidos!
 You should come and see me if you come across a rare Pokémon!
-You should come and see me if you come across a rare Pokémon!
+¡Deberías venir a verme si te encuentras con un Pokémon raro!
 I made the rare Pokémon run away because I couldn't keep myself from talking. What a missed opportunity!
-I made the rare Pokémon run away because I couldn't keep myself from talking. What a missed opportunity!
+Ahuyenté al Pokémon raro porque no pude contenerme hablando. ¡Menuda oportunidad perdida!
 But the way the Pokémon was looking at you... I've never seen anything like this!
-But the way the Pokémon was looking at you... I've never seen anything like this!
+Pero la forma en que ese Pokémon te miraba... Nunca antes vi nada parecido!
 It's probably roaming around here somewhere. I'm sure that you could track it down now that you've had a good look at it!
-It's probably roaming around here somewhere. I'm sure that you could track it down now that you've had a good look at it!
+Probablemente esté merodeando por aquí en alguna parte. ¡Estoy seguro de que podrás localizarlo ahora que ya le has echado un buen vistazo!
 The way this rare Pokémon was looking at you... I've never seen anything like this!
-The way this rare Pokémon was looking at you... I've never seen anything like this!
+La forma en que este Pokémon raro te miraba... ¡Nunca antes vi nada parecido!
 It's probably roaming around here somewhere. If anyone can track it down, it's probably you!
-It's probably roaming around here somewhere. If anyone can track it down, it's probably you!
+Probablemente esté merodeando por aquí en alguna parte. ¡Si alguien puede localizarlo, seguramente seas tú!
 It's full of complicated formulas... Better not touch it!
-It's full of complicated formulas... Better not touch it!
+Está lleno de fórmulas complicadas... ¡Mejor no tocarlo!
 Unown, the ruins of Alph, and Arceus...
-Unown, the ruins of Alph, and Arceus...
+Unown, las Ruinas Alfa y arceus...
 The mystery deepens...
-The mystery deepens...
+El misterio se profundiza...
 It has made me even more inquisitive!
-It has made me even more inquisitive!
+¡Eso me da más curiosidad!
 ...!
 ...!
 No way! Is this really the Pokémon from Sinnoh legends? The one they call Arceus?
-No way! Is this really the Pokémon from Sinnoh legends? The one they call Arceus?
+¡No puede ser! ¿De verdad es este el Pokémon de las leyendas de Sinnoh? ¿Aquel al que llaman Arceus?
 Arceus may be the key to solving the mystery of the Unown and the ruins of Alph...
-Arceus may be the key to solving the mystery of the Unown and the ruins of Alph...
+Arceus puede ser la clave para resolver el misterio de los Unown y las Ruinas Alfa...
 Can you come to the ruins of Alph with me? Please! You must!
-Can you come to the ruins of Alph with me? Please! You must!
+¿Puedes venir a las Ruinas Alfa conmigo? ¡Por favor! ¡Deberías venir!
 I am trembling with excitement. I think something is about to happen!
-I am trembling with excitement. I think something is about to happen!
+Estoy temblando de la emoción. ¡Creo que algo está a punto de ocurrir!
 I beg you, you and Arceus must come to the ruins of Alph with me!
-I beg you, you and Arceus must come to the ruins of Alph with me!
+Te lo ruego, ¡Arceus y tú debeis venir a las Ruinas Alfa conmigo!
 You... You've had an encounter with the mythical Pokémon Arceus... I can sense it.
-You... You've had an encounter with the mythical Pokémon Arceus... I can sense it.
+Tú... Has tenido un encuentro con el Pokémon mítico Arceus... Puedo sentirlo.
 Could you perhaps bring it here? I beg you!
-Could you perhaps bring it here? I beg you!
+Tal vez podrías traerlo aquí? ¡Te lo suplico!
 I have been researching a mysterious Pokémon called Arceus.
-I have been researching a mysterious Pokémon called Arceus.
+He estado estudiando un misterioso Pokémon llamado Arceus.
 Apparently, it responds only to the sound of a rare glass flute.
-Apparently, it responds only to the sound of a rare glass flute.
+Aparentemente, responde solo al sonido de una rara flauta de cristal.
 ... Your Azure Flute... It looks just like the one that is described in legends.
-... Your Azure Flute... It looks just like the one that is described in legends.
+... Tu Flauta Azur... Es tal como la que se describe en las leyendas.
 According to the myths, playing its melody on top of the region's highest peak will reveal a staircase to Arceus.
-According to the myths, playing its melody on top of the region's highest peak will reveal a staircase to Arceus.
+De acuerdo con los mitos, tocando su melodía en la cima más alta de la región aparecerán las escaleras a Arceus.
 I believe that Arceus could be the key required to open a door to alternate dimensions.
-I believe that Arceus could be the key required to open a door to alternate dimensions.
+Creo que Arceus podría ser la llave necesaria para abrir puertas a dimensiones alternativas.
 Please come and see me if you ever learn anything about it.
-Please come and see me if you ever learn anything about it.
+Por favor ven a verme si descubres algo al respecto.
 It looks complicated. Better not touch it!
-It looks complicated. Better not touch it!
+Parece complejo. ¡Mejor no tocarlo!
 Yes
 Sí
 No
