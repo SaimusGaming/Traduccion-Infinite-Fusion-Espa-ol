@@ -1401,17 +1401,17 @@ Your \v[2] is super friendly to you! I'm a bit jealous!
 [Map390]
 [Map391]
 Sometimes you can find abandoned eggs of rare Pokémon in the wilds.
-Sometimes you can find abandoned eggs of rare Pokémon in the wilds.
+A veces puedes encontrar huevos abandonados de Pokémon raros en las zonas salvajes.
 Someone told me that there's a nest somewhere in Rock Tunnel...
-Someone told me that there's a nest somewhere in Rock Tunnel...
+Alguien me dijo que hay un nido en alguna parte del tunel roca...
 I used to work at the old Power Plant just South of here, but then it closed.
-I used to work at the old Power Plant just South of here, but then it closed.
+Solía trabajar en la vieja Central de Energía al sur de aquí, pero luego cerró.
 I haven't been since, but I've heard it's overrun with Pokémon now!
-I haven't been since, but I've heard it's overrun with Pokémon now!
+¡No he vuelto desde entonces, pero escuché que ahora está infestada de Pokémon!
 I tried going through Rock Tunnel, but it was much too dark. I couldn't see a thing!
-I tried going through Rock Tunnel, but it was much too dark. I couldn't see a thing!
+Intenté ir por el Tunel Roca, pero estaba demasiado oscuro. ¡No podía ver nada!
 Apparently someone will give you a move that will help with that if you complete a certain number of hotel quests.
-Apparently someone will give you a move that will help with that if you complete a certain number of hotel quests.
+Aparentemente alguien te dará un movimiento que te ayudará con eso si completas un determinado número de misiones del hotel.
 \rHello, and welcome to the Pokémon Center.
 \rHola, bienvenido al Centro Pokémon.
 \rWe restore your tired Pokémon to full health.
@@ -1438,39 +1438,39 @@ No
 No
 [Map392]
 Maaaaaaaaa!
-Maaaaaaaaa!
+¡Maaaaaaaaa!
 Ooh ooh!
-Ooh ooh!
+¡Ooh, ooh!
 Pewter City's bigger than Viridian City and Pallet Town.
-Pewter City's bigger than Viridian City and Pallet Town.
+Ciudad Plateada es más grande que Ciudad Verde y Pueblo Paleta.
 The Pokémon Center is a lot busier!
-The Pokémon Center is a lot busier!
+¡El centro Pokémon está mucho más ajetreado!
 You can do it Rattata! With enough training, we can finally defeat Brock!
-You can do it Rattata! With enough training, we can finally defeat Brock!
+¡Puedes hacerlo, Rattata! ¡Suficiente entrenamiento! ¡Por fin podemos derrotar a Brock!
 Upstairs is the Pokémon Trade Center.
-Upstairs is the Pokémon Trade Center.
+En la planta alta está el Centro de Intercambio Pokémon.
 You can get random Pokémon from trainers all around the world, it's fantastic!
-You can get random Pokémon from trainers all around the world, it's fantastic!
+¡Puedes conseguir Pokémon aleatorios de entrenadores de todo el mundo, es fantástico!
 Eeek! Eeek! Eeek! Eeek!
-Eeek! Eeek! Eeek! Eeek!
+¡Keee! ¡Keee! ¡Keee! ¡Keee!
 I tried battling Brock so many times, but he's just too tough!
-I tried battling Brock so many times, but he's just too tough!
+¡He intentado enfrentarme a Brock muchas veces, pero el es demasiado duro!
 I keep having to come back here to heal my Pokémon!
-I keep having to come back here to heal my Pokémon!
+¡Sigo teniendo que volver aquí a curar a mis Pokémon!
 I saw you looking at my Tyrogue here!
-I saw you looking at my Tyrogue here!
+¡Te vi fijándote en mi Tyrogue aquí!
 I'll trade it to you for a Mankey! What do you think?
-I'll trade it to you for a Mankey! What do you think?
+¡Te lo intercambiaré por un Mankey! ¿Qué te parece?
 Oh man! Tyrogue is a sweet Pokémon. It evolves into a different Pokémon depending on which Pokémon you fused it with!
-Oh man! Tyrogue is a sweet Pokémon. It evolves into a different Pokémon depending on which Pokémon you fused it with!
+¡Oh, tío! Tyroge es un Pokémon genial. ¡Evoluciona en un Pokémon diferente dependiendo de con que Pokémon lo fusiones!
 Super sweet! This Pokémon will help me out a lot against Brock!
-Super sweet! This Pokémon will help me out a lot against Brock!
+¡Super genial! ¡Este Pokémon me ayudará mucho contra Brock!
 Oh yeah!
-Oh yeah!
+¡Oh si!
 Oh well, this is too bad. I'll never be able to find a Mankey!
-Oh well, this is too bad. I'll never be able to find a Mankey!
+Oh, bueno. Que mal. ¡Nunca podré encontrar un mankey!
 This is awesome! With this Mankey by my side, Brock won't stand a chance against me!
-This is awesome! With this Mankey by my side, Brock won't stand a chance against me!
+¡Esto es fantástico! ¡Con este Mankey a mi lado, Brock no tendrá ninguna oportunidad contra mi!
 \^Hello, and welcome to the Pokémon Center.\wt[2.5]
 \^Hola, bienvenido al Centro Pokémon \wt[2.5]
 \^We restore your tired Pokémon to full health.\wt[2.5]
@@ -1478,17 +1478,17 @@ This is awesome! With this Mankey by my side, Brock won't stand a chance against
 Would you like to rest your Pokémon?
 ¿Quieres que tus Pokémon descansen?
 OK, I'll take your Pokémon for a few seconds.
-Está bien, tomaré a tus Pokémon por unos segundos
+Está bien, tomaré a tus Pokémon por unos segundos.
 Your Pokémon may be infected by PokeRus.
-Your Pokémon may be infected by PokeRus.
+Tu Pokémon podría estar infectado por PokeRus.
 Little is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.
-Little is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.
+Se sabe poco sobre el PokeRus, salvo que son microorganismos que se adhieren a los Pokémon.
 While infected, Pokémon are said to grow exceptionally well.
-While infected, Pokémon are said to grow exceptionally well.
+Mientras están infectados, se dice que los Pokémon crecen excepcionalmente bien.
 Thank you for waiting.
 Gracias por esperar
 We've restored your Pokémon to full health.
-Hemos restaurado la salud completa de tus Pokémon
+Hemos restaurado la salud completa de tus Pokémon.
 We hope to see you again!
 ¡Esperamos verte de nuevo!
 \rWe hope to see you again!
@@ -1501,17 +1501,17 @@ No
 Hello there, trainer!
 ¡Hola, entrenador!
 \GDo you want me to teach the move Roost to one of your Pokémon for $\V[15]
-\GDo you want me to teach the move Roost to one of your Pokémon for $\V[15]
+\GNecesitas que le enseñe el movimiento Respiro a uno de tus Pokémon por $\V[15]
 Ta-da! Come back if you want me to teach it to another of your Pokémon!
-¡Tachán! Vuelve si quieres que se lo enseñe a otro de tus Pokémon.
+¡Tachán! ¡Vuelve si quieres que se lo enseñe a otro de tus Pokémon!
 That's too bad. Come back with $\V[15] if you want me to teach it to one of your Pokémon!
-Qué lástima. Vuelve con $\V[15] si quieres que se lo enseñe a uno de tus Pokémon.
+Qué lástima. ¡Vuelve con $\V[15] si quieres que se lo enseñe a uno de tus Pokémon!
 You don't have enough money. Come back with $\V[15] if you want me to teach it to one of your Pokémon!
-No tienes suficiente dinero. Vuelve con $\V[15] si quieres que se lo enseñe a uno de tus Pokémon.
+No tienes suficiente dinero. ¡Vuelve con $\V[15] si quieres que se lo enseñe a uno de tus Pokémon!
 What do you think of my rare Dratini?
-What do you think of my rare Dratini?
+¿Que opinas de mi raro Dratini?
 I bought it with all the coins I won at the slots!
-I bought it with all the coins I won at the slots!
+¡Lo compré con todas las fichas que gané en las máquinas tragaperras!
 Frahhh! Rahraaa!
 Frahhh! Rahraaa!
 Yes
@@ -1520,58 +1520,58 @@ No
 No
 [Map394]
 It's remarkably empty.
-It's remarkably empty.
+Está remarcablemente vacío.
 I'm the Fishing Guru! I simply Looove fishing!
-I'm the Fishing Guru! I simply Looove fishing!
+¡Soy el Gurú Pescador! ¡Simplemente me encaaanta pescar!
 Do you like to fish?
 ¿Te gusta pescar?
 Grand! I like your style! Take this and fish, young one!
 ¡Magnífico! ¡Me gusta tu estilo! ¡Toma esto y sal a pescar, joven!
 This Old Rod won't reel in any strong Pokémon, but Vermillion City has a lot of aquatic Pokémon so you might be able to land a rare one!
-This Old Rod won't reel in any strong Pokémon, but Vermillion City has a lot of aquatic Pokémon so you might be able to land a rare one!
+Esta Caña Vieja no servirá para pescar ningún Pokémon fuerte, ¡Pero Ciudad Carmín tiene muchos Pokémon acuáticos, así que podrías pescar uno raro!
 Oh... That's so disappointing...
 Oh... Qué decepción...
 Hello there, \PN! How are the fish biting?
-Hello there, \PN! How are the fish biting?
+¡Hola, \PN! ¿Qué tal va la pesca?
 Fishing is a way of life! From the seas to rivers, go out and land the big one, young one!
-Fishing is a way of life! From the seas to rivers, go out and land the big one, young one!
+¡Pescar es un estilo de vida! Desde los mares hasta los ríos. ¡Ve y pesca el pez gordo, joven!
 You won the fishing contest with the rod I gave you?
-You won the fishing contest with the rod I gave you?
+¿Ganaste el concurso de pesca con la caña que te di?
 Sniff, they grow up so fast... I knew you had it in you! Go out and land the big one!
-Sniff, they grow up so fast... I knew you had it in you! Go out and land the big one!
+Sniff, Crecen tan rápido... ¡Sabía que lo llevabas dentro! ¡Ve y pesca el pez gordo!
 Yes
 Sí
 No
 No
 [Map395]
 There's a game show on tv...
-There's a game show on tv...
+Hay un concurso en la tele...
 Better get going!
 ¡Más vale que me ponga en marcha!
 Someone is looking at you through the window... Spooky!
-Someone is looking at you through the window... Spooky!
+¡Alguien te está mirando por la ventana... Escalofriante!
 It's remarkably empty.
-It's remarkably empty.
+está remarcablemente vacío.
 Hi! Do you have a Spearow?
-Hi! Do you have a Spearow?
+¡Hola! ¿Tienes un Spearow?
 Want to trade it for Farfetch'd?
-Want to trade it for Farfetch'd?
+¿Quieres intercambiarlo por Farfetch'd?
 I'll find someone else then.
-I'll find someone else then.
+¡Buscaré a otra persona entonces.
 Perfect, let's get started!
 ¡Perfecto, comencemos!
 I need a strong trainer to take care of my Farfetch'd!
-I need a strong trainer to take care of my Farfetch'd!
+¡Necesito un entrenador fuerte para que cuide a mi Farfetch'd!
 Farfetch'd doesn't look like it, but it can be quite the powerhouse!
-Farfetch'd doesn't look like it, but it can be quite the powerhouse!
+¡Farfetch'd no lo parece, pero puede ser un buen integrante!
 It is true that a higher level Pokémon will be more powerful...
-It is true that a higher level Pokémon will be more powerful...
+Es cierto que un Pokémon de nivel alto será más poderoso...
 But, all Pokémon will have weak points against specific types. So, there is no universally strong Pokémon
-But, all Pokémon will have weak points against specific types. So, there is no universally strong Pokémon
+Pero todos los Pokémon van a tener puntos débiles contra tipos específicos, así que no es un Pokémon universalmente fuerte.
 Fwaah Fwaah!
-Fwaah Fwaah!
+¡Fwaah Fwaah!
 Shpeeeeee!
-Shpeeeeee!
+¡Shpeeeeee!
 Yes
 Sí
 No
@@ -1580,51 +1580,51 @@ No
 There's nothing but trash in there, what did you expect?
 No hay más que basura ahí dentro, ¿qué esperabas?
 People often lose things in the underground.
-People often lose things in the underground.
+La gente suele perder cosas en la vía subterránea.
 [Map397]
 There's nothing but trash in there, what did you expect?
 No hay más que basura ahí dentro, ¿qué esperabas?
 You can use DNA Splicers on fused Pokémon to unfuse them, but it'll cost you a DNA Splicer.
-You can use DNA Splicers on fused Pokémon to unfuse them, but it'll cost you a DNA Splicer.
+Puedes usar Puntas ADN en Pokémon fusionados para separarlos, pero gastarás una Punta ADN.
 And the Pokémon will lose their moves and some of their experience too, so be careful!
-And the Pokémon will lose their moves and some of their experience too, so be careful!
+¡Y el Pokémon perderá sus movimientos y parte de la experiencia también, así que ten cuidado!
 [Map398]
 Dih Didididi!
-Dih Didididi!
+¡Dih Didididi!
 Have you ever seen what Diglett looks like under the ground?
-Have you ever seen what Diglett looks like under the ground?
+¿Alguna vez has visto cómo es Diglett bajo tierra?
 I have! But I'm not telling!
-I have! But I'm not telling!
+¡Yo si! ¡Pero no lo voy a decir!
 This tunnel is so convenient!
-This tunnel is so convenient!
+¡Este tunel es muy conveniente!
 I used it to go retrieve the fossil I left at Pewter City's museum!
-I used it to go retrieve the fossil I left at Pewter City's museum!
+¡Lo usé para ir a recoger el fósil que dejé en el museo de Ciudad Plateada!
 [Map399]
 Woah, did you come from the tunnel?
-Woah, did you come from the tunnel?
+Vaya. ¿Has venido por el túnel?
 I bet you found tons of Pokemon in there!
-I bet you found tons of Pokemon in there!
+¡Apuesto a que encontraste un montón de Pokémon por allí!
 [Map400]
 My poor Growlithe. Why did you have to die?
-My poor Growlithe. Why did you have to die?
+Mi pobre Growlithe. ¿Por que has tenido que morir?
 Did you come to pay respects? Bless you!
-Did you come to pay respects? Bless you!
+¿Has venido a dar tus respetos? ¡Bendito seas!
 The Pokémon Tower was erected in the memory of the Pokémon that have died.
-The Pokémon Tower was erected in the memory of the Pokémon that have died.
+La Torre Pokémon fue eregida en memoria de los Pokémon que han fallecido.
 I came to pray for my Clefairy.
-I came to pray for my Clefairy.
+Vine a rezar por mi Clefairy.
 Sniff! I can't stop crying...
-Sniff! I can't stop crying...
+¡Sniff! No puedo dejar de llorar...
 I came to see grandma and I found this weird rock next to her.
-I came to see grandma and I found this weird rock next to her.
+Vine a ver a la abuela y encontré esta piedra rara junto a ella.
 I can hear it speak when I put it close to my ear... But grandma says that it's cursed. She won't let me keep it!
-I can hear it speak when I put it close to my ear... But grandma says that it's cursed. She won't let me keep it!
+Puedo oirla hablar cuando la acerco a mi oido... Pero la abuela dice que está maldita. ¡No va a dejar que me la quede!
 Do you want it?
-Do you want it?
+¿La quieres?
 Grandma doesn't like the weird stone for some reason.
-Grandma doesn't like the weird stone for some reason.
+A la abuela no le gusta la piedra rara por alguna razón.
 I can hear Grandma speak to me when I put my ears next to her.
-I can hear Grandma speak to me when I put my ears next to her.
+Puedo oir a la abuela hablándome cuando pongo los oidos a su lado.
 Yes
 Sí
 No
