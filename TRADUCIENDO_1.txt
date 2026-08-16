@@ -3923,7 +3923,7 @@ You should go see Professor Oak to get your first Pokémon, honey!
 Oh \PN, It looks like your hair could use a little touch-up. I can give you a quick trim if you want!
 Oh \PN, Parece que a tu cabello le vendría bien un pequeño retoque. ¡Puedo hacerte un recorte rápido si quieres!
 Your Pokémon look tired! Rest here while they recover.
-¡Tu Pokémon parece cansado! Descanse aquí mientras se recuperan.
+¡Tus Pokémon parecen cansados! Descansa aquí mientras se recuperan.
 Take care of yourself, sweetie!
 ¡Cuídate mucho, cariño!
 I heard about you beating the Elite Four! It's all they're talking about on TV!
