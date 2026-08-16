@@ -3959,7 +3959,7 @@ Hermanita, ¿de verdad vas a salir de aventura con esa ropa?
 You should wear these instead, you'll look a lot tougher!
 Deberías ponerte esto en su lugar, ¡te verás mucho más ruda!
 ...Woah, \PN! Looks like you've become quite the trainer already!
-...¡Guau, \PN! ¡Parece que ya te has convertido en toda una Entrenadora!
+...¡Guau, \PN! ¡Parece que ya te has convertido en todo un Entrenador!
 Here, I wanted to give you something.
 Toma, quería darte algo.
 Received a Pokémon Egg!
