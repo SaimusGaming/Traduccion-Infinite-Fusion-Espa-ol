@@ -12254,28 +12254,28 @@ Oeste
 There's a nice view on another building.
 Hay una bonita vista desde otro edificio.
 It's trash.
-It's trash.
+Es basura.
 It's a picture of yourself... Wait, what?
-It's a picture of yourself... Wait, what?
+Es una foto tuya... Espera, ¿qué?
 W-Wha-
-W-Wha-
+¿Q-Qué?
 How did you get in here?
-How did you get in here?
+¿Cómo entraste aquí?
 Did you... Did you climb through the window?
-Did you... Did you climb through the window?
+¿Tú... Trepaste por la ventana?
 Very well, take this and leave.
-Very well, take this and leave.
+Muy bien, toma esto y vete.
 You can leave through the window. The same way as you got in.
-You can leave through the window. The same way as you got in.
+Puedes salir por la ventana. De la misma forma en que entraste.
 [Map233]
 There's nothing there.
 No hay nada allí.
 The entrance to the cave is blocked.
-The entrance to the cave is blocked.
+La entrada a la cueva está bloqueada.
 Hah! I must be strong! I'm the only trainer on this Route!
 ¡Ja! ¡Debo ser fuerte! ¡Soy el único entrenador en esta ruta!
 Not the only trainer anymore...
-Not the only trainer anymore...
+Ya no eres el único entrenador...
 Why did you need to ruin my day??
 ¿Por qué tuviste que arruinarme el día?
 [Map234]
@@ -12285,199 +12285,199 @@ Una antigua pintura que representa a dos Pokémon ancestrales...
 Hmm...
 Hmm...
 I have been studying the ruins for many years, but something feels... different.
-I have been studying the ruins for many years, but something feels... different.
+He estado estudiando las ruinas durante muchos años, pero algo se siente... diferente.
 The Unown pictures on the wall... It feels like they're staring at me!
-The Unown pictures on the wall... It feels like they're staring at me!
+¡Las imágenes de Unown en la pared... ¡Siento que me están mirando!
 There is something eerie that is making my legs shiver. I can't stop them!
-There is something eerie that is making my legs shiver. I can't stop them!
+Hay algo inquietante que hace que me tiemblen las piernas. ¡No puedo parar!
 \PN was transported to a mysterious place...
-\PN was transported to a mysterious place...
+\PN fue transportado a un lugar misterioso...
 Oh? Are you alright?
-Oh? Are you alright?
+¿Oh? ¿Estás bien?
 You disappeared right in front of me. I was so surprised!
-You disappeared right in front of me. I was so surprised!
+Desapareciste justo frente a mí. ¡Me sorprendí muchísimo!
 I see.
-I see.
+Ya veo.
 The power of Arceus and Unown affected each other to create a huge energy, which sent you to the Sinjoh ruins...?
-The power of Arceus and Unown affected each other to create a huge energy, which sent you to the Sinjoh ruins...?
+¿El poder de Arceus y Unown interactuó entre sí para crear una enorme energía que te envió a las ruinas de Sinjoh...?
 Unown, the ruins of Alph, and Arceus...
-Unown, the ruins of Alph, and Arceus...
+Unown, las ruinas de Alph y Arceus...
 The mystery deepens...
-The mystery deepens...
+El misterio se hace más profundo...
 It has made me even more inquisitive!
-It has made me even more inquisitive!
+¡Esto ha despertado aún más mi curiosidad!
 Roaaaar!!
-Roaaaar!!
+¡Grrrrr!!
 The mysterious beast fled...
-The mysterious beast fled...
+La misteriosa bestia huyó...
 [Map236]
 [Map237]
 This heist is gonna make us rich!
-This heist is gonna make us rich!
+¡Este atraco nos hará ricos!
 GOLDENROD CITY\nThe Festive City of Opulent Charm
-GOLDENROD CITY\nThe Festive City of Opulent Charm
+CIUDAD TRIGAL\nLa Ciudad Festiva de Encanto Opulento
 Team Rocket is preparing a heist on \C[5]Pinkan Island \C[0]. We must stop them before it's too late!
-Team Rocket is preparing a heist on \C[5]Pinkan Island \C[0]. We must stop them before it's too late!
+El Team Rocket está preparando un atraco en \C[5]Isla Rosa \C[0]. ¡Debemos detenerlos antes de que sea demasiado tarde!
 I'm really sorry, but the previous Gym Leader has left unexpectedly to move to the Hoenn region with his family.
-I'm really sorry, but the previous Gym Leader has left unexpectedly to move to the Hoenn region with his family.
+Lo siento mucho, pero el anterior Líder de Gimnasio se ha ido inesperadamente para mudarse a la región de Hoenn con su familia.
 You'll have to bear with us and wait until we find someone to replace him.
-You'll have to bear with us and wait until we find someone to replace him.
+Tendrás que tener paciencia y esperar hasta que encontremos a alguien que lo reemplace.
 It smells pretty gross.
-It smells pretty gross.
+Huele bastante mal.
 I need to get a new bike, but the nearest shop is all the way in Kanto!
-I need to get a new bike, but the nearest shop is all the way in Kanto!
+¡Necesito comprar una bicicleta nueva, pero la tienda más cercana está en Kanto!
 There's no way I'm getting a train ticket for this. Why can't they just open a shop in this city instead?
-There's no way I'm getting a train ticket for this. Why can't they just open a shop in this city instead?
+Ni de broma voy a comprar un boleto de tren para esto. ¿Por qué no pueden simplemente abrir una tienda en esta ciudad?
 Kid, I get that you were trying to take down Team Rocket from within, but you can't wear their uniform for this!
-Kid, I get that you were trying to take down Team Rocket from within, but you can't wear their uniform for this!
+¡Chico, entiendo que intentabas acabar con el Team Rocket desde dentro, pero no puedes llevar su uniforme para esto!
 Team Rocket is planning some kind of heist on an island called \C[5]Pinkan Island\C[0] and we need to stop them!
-Team Rocket is planning some kind of heist on an island called \C[5]Pinkan Island\C[0] and we need to stop them!
+¡El Team Rocket está planeando algún tipo de atraco en una isla llamada \C[5]Isla Rosa\C[0] y tenemos que detenerlos!
 We don't know exactly what they're after, but this island is a nature preserve that's full of rare Pokémon where no one is allowed to step foot.
-We don't know exactly what they're after, but this island is a nature preserve that's full of rare Pokémon where no one is allowed to step foot.
+No sabemos exactamente qué buscan, pero esta isla es una reserva natural llena de Pokémon raros donde no se permite la entrada a nadie.
 There's also a rare kind of berry that grows on the island. It wouldn't surprise me if this was what Team Rocket was after...
-There's also a rare kind of berry that grows on the island. It wouldn't surprise me if this was what Team Rocket was after...
+También hay un tipo raro de baya que crece en la isla. No me sorprendería que esto fuera lo que busca el Team Rocket...
 One last thing before we leave, \C[5]Pinkan Island\C[0] is a Pokémon sanctuary, so we cannot bring any Pokémon that aren't native to the island.
-One last thing before we leave, \C[5]Pinkan Island\C[0] is a Pokémon sanctuary, so we cannot bring any Pokémon that aren't native to the island.
+Una última cosa antes de irnos, \C[5]Isla Rosa\C[0] es un santuario Pokémon, así que no podemos llevar ningún Pokémon que no sea nativo de la isla.
 We'll lend you a Pokémon to use once we're there. Are you ready to go?
-We'll lend you a Pokémon to use once we're there. Are you ready to go?
+Te prestaremos un Pokémon para que lo uses una vez que lleguemos. ¿Estás listo para ir?
 \C[2]You're about to begin a longer sidequest that might take up to a few hours to complete.
-\C[2]You're about to begin a longer sidequest that might take up to a few hours to complete.
+\C[2]Estás a punto de comenzar una misión secundaria más larga que podría tardar varias horas en completarse.
 \C[2]If you leave before completing the event, your progress will <b>not</b> be saved and you will have to start over next time.
-\C[2]If you leave before completing the event, your progress will <b>not</b> be saved and you will have to start over next time.
+\C[2]Si te vas antes de completar el evento, tu progreso <b>no</b> se guardará y tendrás que empezar de nuevo la próxima vez.
 \C[2]Do you wish to start the sidequest?
-\C[2]Do you wish to start the sidequest?
+\C[2]¿Deseas comenzar la misión secundaria?
 Let's not waste anymore time then! I'll take your bag and your Pokémon for safeskeeping. Let's go!
-Let's not waste anymore time then! I'll take your bag and your Pokémon for safeskeeping. Let's go!
+¡No perdamos más tiempo entonces! Guardaré tu mochila y tus Pokémon. ¡Vamos!
 Take the time you need to prepare! Once we're on the island, we won't be able to come back until this is all dealt with.
-Take the time you need to prepare! Once we're on the island, we won't be able to come back until this is all dealt with.
+¡Tómate el tiempo que necesites para prepararte! Una vez que estemos en la isla, no podremos regresar hasta que todo esto se haya resuelto.
 The Radio Tower is old and creaky. They should replace it with a more modern one.
-The Radio Tower is old and creaky. They should replace it with a more modern one.
+La Torre de Radio es vieja y chirriante. Deberían reemplazarla por una más moderna.
 I like coming here at night. This city is just as vibrant as Saffron City, yet very different.
-I like coming here at night. This city is just as vibrant as Saffron City, yet very different.
+Me gusta venir aquí de noche. Esta ciudad es tan animada como Ciudad Azafrán, aunque muy diferente.
 Anyway... How are you doing, \PN? You.. You'll become even stronger than you are now, I know it...
-Anyway... How are you doing, \PN? You.. You'll become even stronger than you are now, I know it...
+En fin... ¿Cómo estás, \PN? Tú... Te volverás aún más fuerte de lo que eres ahora, lo sé...
 ...And you will come battle me in Vermillion City. I know you will.
-...And you will come battle me in Vermillion City. I know you will.
+...Y vendrás a luchar conmigo en Ciudad Carmín. Sé que lo harás.
 Meet me at the Fighting Arena.
-Meet me at the Fighting Arena.
+Encuéntrame en la Arena de Combate.
 I know there's a Pokéball Workshop somewhere around here, but I can't find it anywhere.
-I know there's a Pokéball Workshop somewhere around here, but I can't find it anywhere.
+Sé que por aquí hay un Taller de Poké Balls, pero no puedo encontrarlo por ningún lado.
 Huh? You're that kid from Goldenrod Tunnel...
-Huh? You're that kid from Goldenrod Tunnel...
+¿Eh? Tú eres el chico del Túnel Trigal...
 Listen, a trade's a trade. I ain't giving you back your Pokémon.
 Escucha, un trato es un trato. No te voy a devolver tu Pokémon.
 Humph... I'm out of here!
-Humph... me largo de aquí
+Humph... ¡Me largo de aquí!
 Humph... Alright then, here's your Pokemon back... It wasn't even that strong anyway.
-Humph... Muy bien, aquí tienes tu Pokémon de vuelta... de todos modos no era tan fuerte.
+Humph... Muy bien, aquí tienes tu Pokémon de vuelta... De todos modos, ni siquiera era tan fuerte.
 Hi! Are you a new trainer?
-Hi! Are you a new trainer?
+¡Hola! ¿Eres un entrenador nuevo?
 Today is the big day! It's the Goldenrod City Gym's grand reopening!
-Today is the big day! It's the Goldenrod City Gym's grand reopening!
+¡Hoy es el gran día! ¡Es la gran reapertura del Gimnasio de Ciudad Trigal!
 We're looking for challengers, so please come and pay us a visit!
-We're looking for challengers, so please come and pay us a visit!
+¡Estamos buscando retadores, así que ven a visitarnos!
 We even prepared some gifts to hand out to new challengers!
-We even prepared some gifts to hand out to new challengers!
+¡Incluso hemos preparado algunos regalos para entregar a los nuevos retadores!
 We hope to see you there! Byyye!
-We hope to see you there! Byyye!
+¡Esperamos verte allí! ¡Chaaao!
 I heard music in the underground tunnel the other day!
-I heard music in the underground tunnel the other day!
+¡El otro día escuché música en el túnel subterráneo!
 \C[2]Would you like to play through the Pinkan Island events again? (Police side)
-\C[2]Would you like to play through the Pinkan Island events again? (Police side)
+\C[2]¿Quieres volver a jugar los eventos de la Isla Pinkan? (Lado de la policía)
 \C[2]You party and bag will be returned to you once you leave the island.
-\C[2]You party and bag will be returned to you once you leave the island.
+\C[2]Tu equipo y tu bolsa te serán devueltos una vez que abandones la isla.
 \C[2]You can abandon at any time, but you will not be able to keep any of the Pokémon you've caught unless you complete the challenge. Is that OK?
-\C[2]You can abandon at any time, but you will not be able to keep any of the Pokémon you've caught unless you complete the challenge. Is that OK?
+\C[2]Puedes abandonar en cualquier momento, pero no podrás conservar ninguno de los Pokémon que hayas atrapado a menos que completes el desafío. ¿Está bien?
 \C[2]Would you like to play through the Pinkan Island events again? (Team Rocket side)
-\C[2]Would you like to play through the Pinkan Island events again? (Team Rocket side)
+\C[2]¿Quieres volver a jugar los eventos de la Isla Pinkan? (Lado del Team Rocket)
 This is Bill's house, the famous inventor of the PC system.
-This is Bill's house, the famous inventor of the PC system.
+Esta es la casa de Bill, el famoso inventor del sistema de PC.
 He's not often here, but sometimes his family comes and visit.
-He's not often here, but sometimes his family comes and visit.
+Él no suele estar aquí, pero a veces su familia viene de visita.
 Sometimes local musicians go to the underground tunnel to perform.
-Sometimes local musicians go to the underground tunnel to perform.
+A veces los músicos locales van al túnel subterráneo a tocar.
 What? I'm not giving back your Pokémon, we traded it fair and square.
-What? I'm not giving back your Pokémon, we traded it fair and square.
+¿Qué? No te voy a devolver tu Pokémon, lo intercambiamos de manera justa.
 Leave me alone!
 ¡Déjame en paz!
 Oh, man...
-Oh, man...
+Oh, vaya...
 Look, I don't want any trouble. You can have it back I don't care. I didn't really need it in the first place.
-Look, I don't want any trouble. You can have it back I don't care. I didn't really need it in the first place.
+Mira, no quiero problemas. Puedes recuperarlo, no me importa. En primer lugar, realmente no lo necesitaba.
 I'm out of here!
-I'm out of here!
+¡Me largo de aquí!
 Here I am always getting lost again...
-Ya estoy otra vez perdido... 
+Ya estoy otra vez perdido...
 Excuse me, but could you please tell me where Violet City is?
 Disculpa, ¿podrías decirme dónde está Ciudad Violeta?
 Oh, I'm sorry. I just have a terrible sense of orientation!
 ¡Ay, lo siento! Es que tengo un sentido de la orientación pésimo.
 It's East? Thank you! I'll head there straight away!
-¿En el Este? ¡Gracias, voy para allá ahora mismo!
+¿Está al este? ¡Gracias! ¡Iré para allá de inmediato!
 It's South? Thank you! I'll head there straight away!
 ¿Está al sur? ¡Gracias! ¡Iré para allá de inmediato!
 It's locked...
 Está cerrado...
 \V[25], what are you doing?
-\V[25], what are you doing?
+\V[25], ¿qué estás haciendo?
 You need to wear your uniform at all times!
-You need to wear your uniform at all times!
+¡Debes llevar tu uniforme en todo momento!
 \V[25]! As I was telling the other grunts, there's gonna be a lot of police on the island.
-\V[25]! As I was telling the other grunts, there's gonna be a lot of police on the island.
+\V[25] ¡Como les decía a los demás reclutas, habrá muchos policías en la isla!
 We can't risk them tracking us down, so you'll have to leave your bag and your Pokémon here.
-We can't risk them tracking us down, so you'll have to leave your bag and your Pokémon here.
+No podemos arriesgarnos a que nos sigan el rastro, así que tendrás que dejar aquí tu bolsa y tus Pokémon.
 Looks like we're all set. Everyone ready?
-Looks like we're all set. Everyone ready?
+Parece que ya está todo listo. ¿Todos preparados?
 For the glory of Team Rocket!
-For the glory of Team Rocket!
+¡Por la gloria del Team Rocket!
 Hurry up! We gotta go soon if we want to get a head start on the police!
-Hurry up! We gotta go soon if we want to get a head start on the police!
+¡Date prisa! ¡Tenemos que irnos pronto si queremos adelantarnos a la policía!
 \V[154]
 \V[154]
 I've been thinking of opening a Game Corner in this city. Hmm...
-I've been thinking of opening a Game Corner in this city. Hmm...
+He estado pensando en abrir un Casino en esta ciudad. Hmm...
 Now, which of these buildings would make a good location?
-Now, which of these buildings would make a good location?
+Ahora, ¿cuál de estos edificios sería un buen lugar?
 Thank you for helping us thwart Team Rocket on Pinkan Island. You're a good kid.
-Thank you for helping us thwart Team Rocket on Pinkan Island. You're a good kid.
+Gracias por ayudarnos a frustrar los planes del Team Rocket en la Isla Pinkan. Eres un buen chico.
 You came all the way from Pallet Town in Kanto? That's awfully far from here!
-You came all the way from Pallet Town in Kanto? That's awfully far from here!
+¿Viniste desde Pueblo Paleta, en Kanto? ¡Está bastante lejos de aquí!
 This is exciting!
-This is exciting!
+¡Esto es emocionante!
 Ugh, this is getting worse by the day. First Celadon City and now they're stirring trouble offshore too!
-Ugh, this is getting worse by the day. First Celadon City and now they're stirring trouble offshore too!
+Uf, esto empeora cada día. ¡Primero Ciudad Azulona y ahora también están causando problemas mar adentro!
 Yeah, it's a nature preserve! They think they can just barge in and take what they want? Not on our watch.
-Yeah, it's a nature preserve! They think they can just barge in and take what they want? Not on our watch.
+¡Sí, es una reserva natural! ¿Creen que pueden entrar y llevarse lo que quieran? No mientras nosotros estemos aquí.
 Oh! This is the Celadon kid I told you about!
-Oh! This is the Celadon kid I told you about!
+¡Oh! ¡Este es el chico de Azulona del que te hablé!
 Hey kid! Did you think about what I asked you back in Celadon? We need all the help we can get for this next mission.
-Hey kid! Did you think about what I asked you back in Celadon? We need all the help we can get for this next mission.
+¡Oye, chico! ¿Pensaste en lo que te pedí en Azulona? Necesitamos toda la ayuda posible para esta próxima misión.
 Hmm.. Wait a second...
-Hmm.. Wait a second...
+Hmm... Espera un segundo...
 Hmm... hold on. I recognize you! You're the kid who reported those crimes!
-Hmm... hold on. I recognize you! You're the kid who reported those crimes!
+Hmm... espera. ¡Te reconozco! ¡Eres el chico que denunció esos crímenes!
 I recognize you! You're the kid who reported that crime!
-I recognize you! You're the kid who reported that crime!
+¡Te reconozco! ¡Eres el chico que denunció ese crimen!
 So you've been working undercover, trying to take down Team Rocket from within, huh? That's pretty impressive for someone your age.
-So you've been working undercover, trying to take down Team Rocket from within, huh? That's pretty impressive for someone your age.
+Así que has estado trabajando de incógnito, intentando acabar con el Team Rocket desde dentro, ¿eh? Es bastante impresionante para alguien de tu edad.
 How about putting those skills to better use? We've got an important mission coming up, and we could use someone with your talent.
-How about putting those skills to better use? We've got an important mission coming up, and we could use someone with your talent.
+¿Qué te parece usar esas habilidades para algo mejor? Tenemos una misión importante próximamente y nos vendría bien alguien con tu talento.
 Hey kid! Did you think about what I asked you about? We need all the help we can get for this next mission.
-Hey kid! Did you think about what I asked you about? We need all the help we can get for this next mission.
+¡Oye, chico! ¿Pensaste en lo que te pregunté? Necesitamos toda la ayuda posible para esta próxima misión.
 Excellent, put this on and come with us.
-Excellent, put this on and come with us.
+Excelente, ponte esto y ven con nosotros.
 We'll be leaving soon, just come and see us if you change your mind.
-We'll be leaving soon, just come and see us if you change your mind.
+Nos iremos pronto, solo ven a vernos si cambias de opinión.
 Okay, here's what we know: Team Rocket is planning some kind of heist on an island called \C[5]Pinkan Island\C[0].
-Okay, here's what we know: Team Rocket is planning some kind of heist on an island called \C[5]Pinkan Island\C[0].
+Bien, esto es lo que sabemos: el Team Rocket está planeando algún tipo de atraco en una isla llamada \C[5]Isla Pinkan\C[0].
 Whatever they're up to, it's our job to stop them!
-Whatever they're up to, it's our job to stop them!
+¡Sea lo que sea que estén planeando, es nuestro trabajo detenerlos!
 Once we're on the island, we won't be able to come back until this is all dealt with. We'll leave whenever you're ready!
-Once we're on the island, we won't be able to come back until this is all dealt with. We'll leave whenever you're ready!
+Una vez que estemos en la isla, no podremos volver hasta que todo esto se resuelva. ¡Nos iremos cuando estés listo!
 Let's go!
 ¡Vamos!
 I need more time
-I need more time
+Necesito más tiempo
 Yes
 Sí
 No
@@ -12491,71 +12491,71 @@ Sur
 [Map238]
 [Map239]
 Guh guhugaugh!
-Guh guhugaugh!
+¡Guh guhugaugh!
 Sluuuuuuurp!
-Sluuuuuuurp!
+¡Sluuuuuuurp!
 You should check out The Radio Tower's Guess The Fusion quiz show.
-You should check out The Radio Tower's Guess The Fusion quiz show.
+Deberías probar el concurso Adivina la Fusión de la Torre de Radio.
 They say they're giving out a great prize to anyone who can score over 5,000 points!
-They say they're giving out a great prize to anyone who can score over 5,000 points!
+¡Dicen que darán un gran premio a cualquiera que consiga más de 5.000 puntos!
 Hello! I'm professor Elm's assistant. He's the Pokémon professor here in the Johto region.
-Hello! I'm professor Elm's assistant. He's the Pokémon professor here in the Johto region.
+¡Hola! Soy el asistente del profesor Elm. Él es el profesor Pokémon de la región de Johto.
 He tasked me with giving a starter Pokémon to anyone who fused 40 kinds of Pokémon!
-He tasked me with giving a starter Pokémon to anyone who fused 40 kinds of Pokémon!
+¡Me encargó entregar un Pokémon inicial a cualquiera que haya fusionado 40 tipos de Pokémon!
 So, \PN! Have you fused at least 40 kinds of Pokémon?
-So, \PN! Have you fused at least 40 kinds of Pokémon?
+Entonces, ¡\PN! ¿Has fusionado al menos 40 tipos de Pokémon?
 Great! You have fused \V[126] kinds of Pokémon! Congratulations!
 ¡Genial! ¡Has fusionado \V[126] tipos de Pokémon! ¡Felicidades!
 So... Which one did you want?
-So... Which one did you want?
+Entonces... ¿Cuál querías?
 Very well. I have to go now so I'll see you around!
-Very well. I have to go now so I'll see you around!
+Muy bien. Tengo que irme, así que nos vemos.
 That's no good. You've only fused \V[126] times!
 No es suficiente. ¡Solo has fusionado \V[126] veces!
 When you fuse 40 kinds, come back for a starter Pokémon from Johto!
-When you fuse 40 kinds, come back for a starter Pokémon from Johto!
+¡Cuando fusiones 40 tipos, vuelve por un Pokémon inicial de Johto!
 Oh. I see. When you fuse 40 kinds, come back for a starter Pokémon from Johto!
-Oh. I see. When you fuse 40 kinds, come back for a starter Pokémon from Johto!
+Oh. Ya veo. ¡Cuando fusiones 40 tipos, vuelve por un Pokémon inicial de Johto!
 Woah! You're the Pokémon League champion!?
-Woah! You're the Pokémon League champion!?
+¡Vaya! ¿¡Eres el campeón de la Liga Pokémon!?
 You should test your skills against our local Gym Leaders here in Johto!
-You should test your skills against our local Gym Leaders here in Johto!
+¡Deberías poner a prueba tus habilidades contra nuestros Líderes de Gimnasio de Johto!
 Bill worked together with Silph. Co. to develop Fusion techology.
-Bill worked together with Silph. Co. to develop Fusion techology.
+Bill trabajó junto con Silph. Co. para desarrollar la tecnología de fusión.
 He was the one who came up with the initial concept!
-He was the one who came up with the initial concept!
+¡Él fue quien tuvo la idea inicial!
 Oh my, you're one lively looking young trainer. You remind me a bit of myself when I was younger.
-Oh my, you're one lively looking young trainer. You remind me a bit of myself when I was younger.
+Vaya, eres un joven entrenador muy enérgico. Me recuerdas un poco a mí cuando era más joven.
 Do you like my Sneasel? It's quite rare around here.
-Do you like my Sneasel? It's quite rare around here.
+¿Te gusta mi Sneasel? Es bastante raro por aquí.
 I can trade it to you for a Lickitung. What do you think?
-I can trade it to you for a Lickitung. What do you think?
+Puedo intercambiártelo por un Lickitung. ¿Qué te parece?
 Lickitung is quite a rare Pokémon as well.
-Lickitung is quite a rare Pokémon as well.
+Lickitung también es un Pokémon bastante raro.
 Let's get started!
 ¡Vamos a empezar!
 I completely understand. May our paths cross again someday.
-I completely understand. May our paths cross again someday.
+Lo entiendo completamente. Espero que nuestros caminos vuelvan a cruzarse algún día.
 Never give up on your dreams!
-Never give up on your dreams!
-\^Hello, and welcome to the Pokémon Center.\wt[2.5]
-\^Hola, bienvenido al Centro Pokémon \wt[2.5]
-\^We restore your tired Pokémon to full health.\wt[2.5]
-\Restauramos la salud completa de tus Pokémon cansados \wt[2.5]
+¡Nunca renuncies a tus sueños!
+^Hello, and welcome to the Pokémon Center.\wt[2.5]
+^Hola, bienvenido al Centro Pokémon.\wt[2.5]
+^We restore your tired Pokémon to full health.\wt[2.5]
+^Restauramos por completo la salud de tus Pokémon cansados.\wt[2.5]
 Would you like to rest your Pokémon?
 ¿Quieres que tus Pokémon descansen?
 OK, I'll take your Pokémon for a few seconds.
-Está bien, tomaré a tus Pokémon por unos segundos
+Está bien, tomaré tus Pokémon por unos segundos.
 \rYour Pokémon may be infected by PokeRus.
-\rTu Pokémon podría estar infectado con PokeRus.
+\rPuede que tu Pokémon esté infectado con PokeRus.
 \rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.
 \rSe sabe poco sobre el PokeRus, salvo que son microorganismos que se adhieren a los Pokémon.
 \rWhile infected, Pokémon are said to grow exceptionally well.
 \rMientras están infectados, se dice que los Pokémon crecen excepcionalmente bien.
 Thank you for waiting.
-Gracias por esperar
+Gracias por esperar.
 We've restored your Pokémon to full health.
-Hemos restaurado la salud completa de tus Pokémon
+Hemos restaurado por completo la salud de tus Pokémon.
 We hope to see you again!
 ¡Esperamos verte de nuevo!
 \rWe hope to see you again!
@@ -12572,123 +12572,123 @@ Totodile
 Totodile
 [Map240]
 Hmm... On which day does this musician come here to play again?
-Hmm... On which day does this musician come here to play again?
+Hmm... ¿Qué día viene de nuevo este músico a tocar aquí?
 Woah! Look at it spin!
-Woah! Look at it spin!
+¡Vaya! ¡Mira cómo gira!
 I wonder where Wigglytop went.
-I wonder where Wigglytop went.
+Me pregunto adónde se fue Wigglytop.
 Zzzzzz.....
 Zzzzzz.....
 It's locked...
 Está cerrado...
 Psst... You're with Team Rocket?
-Psst... You're with Team Rocket?
+Psst... ¿Eres del Team Rocket?
 Alright, come in...
-Alright, come in...
+Está bien, pasa...
 Welcome! I sell rare artifacts from an ancient time. Are you interested?
-Welcome! I sell rare artifacts from an ancient time. Are you interested?
+¡Bienvenido! Vendo artefactos raros de tiempos antiguos. ¿Te interesa?
 Welcome! I sell all kinds of hats!
-Welcome! I sell all kinds of hats!
+¡Bienvenido! ¡Vendo todo tipo de sombreros!
 The shops here are different depending on the time of the day so make sure to come back later too!
-The shops here are different depending on the time of the day so make sure to come back later too!
+¡Las tiendas de aquí cambian según la hora del día, así que asegúrate de volver más tarde!
 At night, it's a whole different set of shops.
-At night, it's a whole different set of shops.
+Por la noche, hay un conjunto de tiendas completamente diferente.
 Psst you, you're a Pokémon trainer, right?
-Psst you, you're a Pokémon trainer, right?
+Psst, tú, eres entrenador Pokémon, ¿verdad?
 You must've heard of Team Rocket, right? We're trying to rebuild the organization and we're recruiting new grunts for a mission.
-You must've heard of Team Rocket, right? We're trying to rebuild the organization and we're recruiting new grunts for a mission.
+Seguro que has oído hablar del Team Rocket, ¿verdad? Estamos intentando reconstruir la organización y estamos reclutando nuevos reclutas para una misión.
 You look like you can handle yourself. Do you want to join us?
-You look like you can handle yourself. Do you want to join us?
+Parece que sabes cuidarte solo. ¿Quieres unirte a nosotros?
 That's the spirit!
-That's the spirit!
+¡Así se habla!
 \C[1]Captain Archer\C[0] is right behind that door. He's the one you want to talk to to get your first mission.
-\C[1]Captain Archer\C[0] is right behind that door. He's the one you want to talk to to get your first mission.
+\C[1]El Capitán Archer\C[0] está justo detrás de esa puerta. Él es con quien debes hablar para recibir tu primera misión.
 Here's your uniform. Put it on and I'll let you in!
-Here's your uniform. Put it on and I'll let you in!
+Aquí tienes tu uniforme. ¡Póntelo y te dejaré entrar!
 Pfft, don't go crying once we take over the region.
-Pfft, don't go crying once we take over the region.
+Pfft, no vayas a llorar cuando nos apoderemos de la región.
 DAYTIME BUSKING TIMESLOTS:
-DAYTIME BUSKING TIMESLOTS:
+HORARIOS DE MÚSICOS CALLEJEROS DURANTE EL DÍA:
 <b>MON: </b>AVAILABLE<r><b>TUE: </b>AVAILABLE\n <b>WED: </b>AVAILABLE<r><b>THU: </b>AVAILABLE\n <b>FRI: </b>TAKEN<r><b>SAT: </b>AVAILABLE\n <b>SUN: </b>AVAILABLE
-<b>MON: </b>AVAILABLE<r><b>TUE: </b>AVAILABLE\n <b>WED: </b>AVAILABLE<r><b>THU: </b>AVAILABLE\n <b>FRI: </b>TAKEN<r><b>SAT: </b>AVAILABLE\n <b>SUN: </b>AVAILABLE
+<b>LUN: </b>DISPONIBLE<r><b>MAR: </b>DISPONIBLE\n <b>MIÉ: </b>DISPONIBLE<r><b>JUE: </b>DISPONIBLE\n <b>VIE: </b>OCUPADO<r><b>SÁB: </b>DISPONIBLE\n <b>DOM: </b>DISPONIBLE
 \GThere's a bit of money in the case.
-\GThere's a bit of money in the case.
+\GHay un poco de dinero en el estuche.
 The case is empty
-The case is empty
+El estuche está vacío
 \G\PN took $1000 from the case while the Pokémon wasn't looking.
-\G\PN took $1000 from the case while the Pokémon wasn't looking.
+\G\PN sacó $1000 del estuche mientras el Pokémon no miraba.
 \G\PN put $1000 in the case.
-\G\PN put $1000 in the case.
+\G\PN puso $1000 en el estuche.
 \G\PN took $1000 from the case.
-\G\PN took $1000 from the case.
+\G\PN sacó $1000 del estuche.
 Pu?
-Pu?
+¿Pu?
 Your wallet feels slightly lighter...
-Your wallet feels slightly lighter...
+Tu billetera se siente un poco más ligera...
 Pu puuu!
-Pu puuu!
+¡Pu puuu!
 Hello dear, I sell exotic food from all around the nation. Won't you give it a taste?
-Hello dear, I sell exotic food from all around the nation. Won't you give it a taste?
+Hola, cariño. Vendo comida exótica de todo el país. ¿No quieres probarla?
 Welcome! I sell all kinds of masks!
-Welcome! I sell all kinds of masks!
+¡Bienvenido! ¡Vendo todo tipo de máscaras!
 Congratulations! You beat our 5 contest trainers! You just earned a fabulous prize!
 ¡Felicidades! ¡Has derrotado a nuestros 5 entrenadores del concurso! ¡Acabas de ganar un premio fabuloso!
 Congratulations! You beat our 5 contest trainers!
 ¡Felicidades! ¡Has derrotado a nuestros 5 entrenadores del concurso!
 By the way, would you like to join Team Rocket? We're a group dedicated to evil using Pokémon! Want to join?
-Por cierto... ¿te gustaría unirte al Team Rocket? Somos un grupo dedicado a usar Pokémon para fines malvados. ¿Qué dices? ¿Te unes?
+Por cierto, ¿te gustaría unirte al Team Rocket? ¡Somos un grupo dedicado a hacer el mal usando Pokémon! ¿Quieres unirte?
 Are you sure? Come on, join us!
-¿Está seguro? ¡Vamos, únete a nosotros!
+¿Estás seguro? ¡Vamos, únete a nosotros!
 I'm telling you to join!
-¡Te digo que te unas!
+¡Te estoy diciendo que te unas!
 OK, you need convincing! I'll make you an offer you can't refuse!
-¡Vaya, necesitas convencerte! ¡Te haré una oferta que no podrás rechazar!
+¡Está bien, necesitas convencerte! ¡Te haré una oferta que no podrás rechazar!
 Arrgh! You are good!
 ¡Argh! ¡Eres bueno!
 Great. You can just sign here and...
-Excelente. Puedes firmar aquí y ...
+Genial. Solo tienes que firmar aquí y...
 Very good heheh. Here's your uniform. Put it on and go report to \C[2]Captain Petrel\C[0] at the HQ in Cerulean City.
-Muy bien, jejeje. Aquí está tu uniforme. Póntelo y preséntate con el \C[2]Capitán Petrel\C[0] en el cuartel general de Ciudad Celeste.
+Muy bien, jejeje. Aquí está tu uniforme. Póntelo y preséntate ante el \C[2]Capitán Petrel\C[0] en el cuartel general de Ciudad Celeste.
 With your ability, you could become a top leader in Team Rocket!
-¡Con tu habilidad, podrías convertirte en un líder del Team Rocket!
+¡Con tu habilidad, podrías convertirte en un alto líder del Team Rocket!
 Are you sure that you don't want to join our ranks? We could use someone with your talent.
-¿Seguro que no quieres unirte a nuestras filas? Podríamos aprovechar tu talento.
+¿Seguro que no quieres unirte a nuestras filas? Podríamos aprovechar el talento que tienes.
 That's a shame...
-Es una pena ...
+Es una lástima...
 With your ability, you'll climb up the ranks of Team Rocket in no time!
-¡Con tu habilidad, ascenderás rápidamente en el Team Rocket!
+¡Con tu habilidad, ascenderás rápidamente en las filas del Team Rocket!
 Go report to \C[2]Captain Petrel\C[0] in Cerulean City to get assigned a mission.
-Preséntate con el \C[2]Capitán Petrel\C[0] en Ciudad Celeste para que te asignen una misión.
+Ve con el \C[2]Capitán Petrel\C[0] en Ciudad Celeste para que te asignen una misión.
 Hey! You're on Team Rocket duty now, so put on your uniform and go report to \C[2]Captain Petrel\C[0] in Cerulean City!
-¡Oye! Ahora eres del Team Rocket, así que ponte el uniforme y ve con el \C[2]Capitán Petrel\C[0] en Ciudad Celeste.
+¡Oye! Ahora estás al servicio del Team Rocket, así que ponte el uniforme y ve con el \C[2]Capitán Petrel\C[0] en Ciudad Celeste.
 Hello, dear. I sell inexpensive herbal medicine. They're good, but a trifle bitter.
-Hello, dear. I sell inexpensive herbal medicine. They're good, but a trifle bitter.
+Hola, cariño. Vendo medicinas herbales económicas. Son buenas, aunque un poquito amargas.
 Your Pokémon may not like them. Hehehehe...
-Your Pokémon may not like them. Hehehehe...
+Puede que a tus Pokémon no les gusten. Jejejeje...
 Welcome! I sell all kinds of cold weather clothes!
-Welcome! I sell all kinds of cold weather clothes!
+¡Bienvenido! ¡Vendo todo tipo de ropa para clima frío!
 I bought this golden statue on a whim from the merchant over there.
-I bought this golden statue on a whim from the merchant over there.
+Compré esta estatua dorada por impulso al comerciante de allí.
 It was quite expensive too so it better not be a fake!
-It was quite expensive too so it better not be a fake!
+¡Además, fue bastante cara, así que más le vale no ser una falsificación!
 I bought this diamond on a whim from the old man over there.
-I bought this diamond on a whim from the old man over there.
+Compré este diamante por impulso al anciano de allí.
 The underground is like a flea market where all kinds of people come to sell their stuff.
-The underground is like a flea market where all kinds of people come to sell their stuff.
+El subterráneo es como un mercado de pulgas donde todo tipo de personas vienen a vender sus cosas.
 <b>MON: </b>AVAILABLE<r><b>TUE: </b>AVAILABLE\n <b>WED: </b>AVAILABLE<r><b>THU: </b>AVAILABLE\n <b>FRI: </b>AVAILABLE<r><b>SAT: </b>AVAILABLE\n <b>SUN: </b>AVAILABLE
-<b>MON: </b>AVAILABLE<r><b>TUE: </b>AVAILABLE\n <b>WED: </b>AVAILABLE<r><b>THU: </b>AVAILABLE\n <b>FRI: </b>AVAILABLE<r><b>SAT: </b>AVAILABLE\n <b>SUN: </b>AVAILABLE
+<b>LUN: </b>DISPONIBLE<r><b>MAR: </b>DISPONIBLE\n <b>MIÉ: </b>DISPONIBLE<r><b>JUE: </b>DISPONIBLE\n <b>VIE: </b>DISPONIBLE<r><b>SÁB: </b>DISPONIBLE\n <b>DOM: </b>DISPONIBLE
 Welcome! I sell rare items that nobody else carries. Won't you have a look?
-Welcome! I sell rare items that nobody else carries. Won't you have a look?
+¡Bienvenido! Vendo objetos raros que nadie más tiene. ¿Quieres echarles un vistazo?
 Welcome! I sell all kinds of warm weather clothes!
-Welcome! I sell all kinds of warm weather clothes!
+¡Bienvenido! ¡Vendo todo tipo de ropa para clima cálido!
 The sellers here are all independent so you can buy a lot of goodies that you won't find anywhere else!
-The sellers here are all independent so you can buy a lot of goodies that you won't find anywhere else!
+¡Los vendedores de aquí son independientes, así que puedes comprar muchas cosas que no encontrarás en ningún otro lugar!
 Humph.. I forgot my key again. And no one's around to let me in this time.
-Humph.. I forgot my key again. And no one's around to let me in this time.
+Humph... Volví a olvidar mi llave. Y esta vez no hay nadie cerca que pueda dejarme entrar.
 I guess I'll have to go through the Department Store to get in now.
-I guess I'll have to go through the Department Store to get in now.
+Supongo que ahora tendré que entrar por los grandes almacenes.
 Huh? What do you want? Leave me alone!
-Huh? What do you want? Leave me alone!
+¿Eh? ¿Qué quieres? ¡Déjame en paz!
 Waaa ta ta waaa!
 Waaa ta ta waaa!
 Wee?
@@ -12700,45 +12700,45 @@ Li! Lee la taaa!
 Waaa ta!
 Waaa ta!
 Wigglytop pointed at the guitar case.
-Wigglytop pointed at the guitar case.
+Wigglytop señaló el estuche de la guitarra.
 Woooop!
-Woooop!
+¡Wooo!
 Puuuu!
-Puuuu!
+¡Puuu!
 Wigglytop is so cool!
-Wigglytop is so cool!
+¡Wigglytop es genial!
 Woah! Wigglytop sure seemed to be in a hurry!
-Woah! Wigglytop sure seemed to be in a hurry!
+¡Vaya! ¡Wigglytop parecía tener mucha prisa!
 Hello, I sell rare Pokémon Feathers that have incredible effects. Would you like to have a look at my products?
-Hello, I sell rare Pokémon Feathers that have incredible effects. Would you like to have a look at my products?
+Hola, vendo Plumas Pokémon raras con efectos increíbles. ¿Quieres echar un vistazo a mis productos?
 Welcome! I sell all kinds of hair accessories!
-Welcome! I sell all kinds of hair accessories!
+¡Bienvenido! ¡Vendo todo tipo de accesorios para el cabello!
 Goldenrod Underground. Please register with the head office if you want to set up a shop.
-Goldenrod Underground. Please register with the head office if you want to set up a shop.
+Subterráneo de Ciudad Trigal. Regístrate en la oficina central si quieres abrir una tienda.
 This Wigglytop is special! It knows electric-type moves!
-This Wigglytop is special! It knows electric-type moves!
+¡Este Wigglytop es especial! ¡Conoce movimientos de tipo Eléctrico!
 Now that I think about it, that busker seemed a bit familiar...
-Now that I think about it, that busker seemed a bit familiar...
+Ahora que lo pienso, ese músico callejero me resultaba un poco familiar...
 Welcome! I sell several types of hand-crafted glass flutes. Would you be interested in buying?
-Welcome! I sell several types of hand-crafted glass flutes. Would you be interested in buying?
+¡Bienvenido! Vendo varios tipos de flautas de vidrio hechas a mano. ¿Te interesaría comprar una?
 Welcome! I sell all kinds of glasses!
-Welcome! I sell all kinds of glasses!
+¡Bienvenido! ¡Vendo todo tipo de gafas!
 Hello. My name is Eusine. I've always had a special interest in legendary Pokémon.
-Hello. My name is Eusine. I've always had a special interest in legendary Pokémon.
+Hola. Me llamo Eusine. Siempre he tenido un interés especial en los Pokémon legendarios.
 During my travels, I have come across several legendary Pokémon you know...
-During my travels, I have come across several legendary Pokémon you know...
+Durante mis viajes, me he encontrado con varios Pokémon legendarios que seguramente conoces...
 Hey! That \V[5] of yours looks pretty strong.
-Hey! That \V[5] of yours looks pretty strong.
+¡Oye! Ese \V[5] tuyo parece bastante fuerte.
 You want to trade it for my Mewtwo?
-You want to trade it for my Mewtwo?
+¿Quieres cambiarlo por mi Mewtwo?
 I'm no fraud! You're missing out on the deal of a lifetime.
-I'm no fraud! You're missing out on the deal of a lifetime.
+¡No soy ningún estafador! Te estás perdiendo el negocio de tu vida.
 Yeah... Let's do this, hehe!
-Yeah... Let's do this, hehe!
+Sí... Hagámoslo, jeje.
 WHAT? I'm no fraud! You're missing out on the deal of a lifetime.
-WHAT? I'm no fraud! You're missing out on the deal of a lifetime.
+¿¡QUÉ!? ¡No soy ningún estafador! Te estás perdiendo el negocio de tu vida.
 Take care of my Mewtwo, hehehe! Well I'm out of here.
-Take care of my Mewtwo, hehehe! Well I'm out of here.
+Cuida bien de mi Mewtwo, jejeje. Bueno, me largo de aquí.
 Zzzzz....
 Zzzzz....
 Yes
@@ -12746,9 +12746,9 @@ Sí
 No
 No
 Give money
-Give money
+Dar dinero
 Take money
-Take money
+Sacar dinero
 Cancel
 Cancelar
 [Map241]
