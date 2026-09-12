@@ -92,7 +92,7 @@ Dormir por:
 \V[2] was caught in a \V[3]
 \V[2] fue atrapado en una \V[3]
 Which PokéBall would you like to swap it for?
-¿Por qué Pokeball te gustaría cambiarla?
+¿Cual Pokeball te gustaría cambiarla?
 You don't have any Poké Balls! You can purchase some with my colleague over here.
 ¡No tienes ninguna Pokeball! Puedes comprar algunas con mi colega de aquí al lado.
 \V[2] is already in a \V[5]
