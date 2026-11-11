@@ -202,11 +202,11 @@ El rango de estadísticas para Pokémon salvajes es \V[197]
 \C[6]Increase the BST range if you want more variety. The recommended range is between 5 and 30.
 \C[6]Aumenta el rango de BST si quieres más variedad. El rango recomendado está entre 5 y 30.
 The wild Pokémon have been shuffled.\wtnp[20]
-The wild Pokémon have been shuffled.\wtnp[20]
+Los Pokémon salvajes han sido aleatorizados.\wtnp[20]
 The trainers have been shuffled.\wtnp[20]
-The trainers have been shuffled.\wtnp[20]
+Los entrenadores han sido aleatorizados.\wtnp[20]
 \^Shuffling dex... \nThis may take a while...\wtnp[20]
-\^Shuffling dex... \nThis may take a while...\wtnp[20]
+\^Aleatorizando la Pokédex... \nEsto puede tardar un rato...\wtnp[20]
 Arceus looked up at the sky and shouted loudly!
 Arceus miró hacia el cielo y gritó fuertemente
 A loud noise echoed from underground...
@@ -2809,119 +2809,121 @@ No
 No
 [Map21]
 Oh, hello \PN. It's me, Kurt from Azalea Town! Remember me?
-Oh, hello \PN. It's me, Kurt from Azalea Town! Remember me?
+¡Oh, hola, \PN! ¡Soy yo, Kurt, de Pueblo Azalea! ¿Me recuerdas?
 Viridian Forest is host to many Bug-type Pokémon that can't be found in Johto, so I came here to study them.
-Viridian Forest is host to many Bug-type Pokémon that can't be found in Johto, so I came here to study them.
+El Bosque Verde alberga muchos Pokémon de tipo Bicho que no se encuentran en Johto, así que vine a estudiarlos.
 What's that? You'd like to have a rematch? Why of course!
-What's that? You'd like to have a rematch? Why of course!
+¿Cómo dices? ¿Quieres volver a combatir? ¡Por supuesto!
 We can meet up in Vermillion City, at the Fighting Arena. See you there!
-We can meet up in Vermillion City, at the Fighting Arena. See you there!
+Podemos encontrarnos en Ciudad Carmín, en la Arena de Combate. ¡Nos vemos allí!
 The rocks appear to have a nice shine to them.
-The rocks appear to have a nice shine to them.
+Las rocas parecen tener un brillo especial.
 There doesn't seem to be much left...
-There doesn't seem to be much left...
+Parece que ya no queda mucho...
 \PN inspected the web...
-\PN inspected the web...
+\PN examinó la telaraña...
 There doesn't seem to be anything.
-There doesn't seem to be anything.
+No parece haber nada.
 Bug Pokémon are totally great. Let me show you what they can do!
-Bug Pokémon are totally great. Let me show you what they can do!
+¡Los Pokémon de tipo Bicho son geniales! ¡Déjame mostrarte de lo que son capaces!
 No! How could this happen?
-No! How could this happen?
+¡No! ¿Cómo pudo pasar esto?
 My Pokémon gained a level when I was fighting you!
-My Pokémon gained a level when I was fighting you!
+¡Mis Pokémon subieron de nivel mientras combatía contigo!
 Do you want to help me some more?
-Do you want to help me some more?
+¿Quieres seguir ayudándome?
 If I train hard enough, I'll be able to defeat Brock!
-If I train hard enough, I'll be able to defeat Brock!
+¡Si entreno lo suficiente, podré derrotar a Brock!
 You want to help me?
-You want to help me?
+¿Quieres ayudarme?
 Great! Just let me heal my Pokemon.
-Great! Just let me heal my Pokemon.
+¡Genial! Déjame curar a mis Pokémon.
 ...
 ...
 Ok, I'm all ready. Let's do this!
-Ok, I'm all ready. Let's do this!
+¡Bien, ya estoy listo! ¡Vamos allá!
 Another great battle. But you're way too strong for me!
-Another great battle. But you're way too strong for me!
+¡Otro gran combate! ¡Pero eres demasiado fuerte para mí!
 I don't think I could handle it anyway!
-I don't think I could handle it anyway!
+¡De todas formas, Igual creo que no podría con eso!
 Oh, are you looking for mushrooms too?
-Oh, are you looking for mushrooms too?
+¡Oh! ¿Tú también estás buscando hongos?
 Mushrooms grow back every day in this forest.
-Mushrooms grow back every day in this forest.
+Los hongos vuelven a crecer cada día en este bosque.
 So don't sweat it if you couldn't find what you were looking for. Just go spend a night at the hotel and come back tomorrow!
-So don't sweat it if you couldn't find what you were looking for. Just go spend a night at the hotel and come back tomorrow!
+Así que no te preocupes si no encuentras lo que buscas. ¡Solo pasa la noche en el hotel y vuelve mañana!
 You did it! You got rid of the Beedrill!
-You did it! You got rid of the Beedrill!
+¡Lo lograste! ¡Te deshiciste de los Beedrill!
 Now let's go check out that amber!
-Now let's go check out that amber!
+¡Ahora vamos a echarle un vistazo a ese ámbar!
 Wow! There's even more amber than I remembered!
-Wow! There's even more amber than I remembered!
+¡Guau! ¡Hay incluso más ámbar del que recordaba!
 I know! I'll give you some as a thank you gift for helping me getting rid of the Beedrill!
-I know! I'll give you some as a thank you gift for helping me getting rid of the Beedrill!
+¡Ya sé! ¡Te daré un poco como agradecimiento por ayudarme a deshacerme de los Beedrill!
 Bring it to the lab in Cinnabar Island to have it examined.
-Bring it to the lab in Cinnabar Island to have it examined.
+Llévalo al laboratorio de Isla Canela para que lo examinen.
 Who knows, they might be able to turn it into a living Pokémon!
-Who knows, they might be able to turn it into a living Pokémon!
+¡Quién sabe! ¡Quizás puedan convertirlo en un Pokémon vivo!
 Ah! There you are!
-Ah! There you are!
+¡Ah! ¡Ahí estás!
 The amber is just up ahead.
-The amber is just up ahead.
+El ámbar está justo más adelante.
 I'm not coming with you, I'm much too scared of these Beedrill!
-I'm not coming with you, I'm much too scared of these Beedrill!
+No voy contigo, ¡les tengo demasiado miedo a estos Beedrill!
 Yo! You can't jam out if you're a Pokémon trainer!
-Yo! You can't jam out if you're a Pokémon trainer!
+¡Oye! ¡No puedes rendirte si eres un entrenador Pokémon!
 Ay! Did you want to trade with me?
-Ay! Did you want to trade with me?
+¡Oye! ¿Querías intercambiar conmigo?
 I'll take any bug type Pokemon in exchange for one of my Pokémon!
-I'll take any bug type Pokemon in exchange for one of my Pokémon!
+¡Te daré uno de mis Pokémon a cambio de cualquier Pokémon de tipo Bicho!
 So. Which of my Pokémon did you want?
-So. Which of my Pokémon did you want?
+Entonces... ¿Cuál de mis Pokémon quieres?
 Sure, which Pokemon are you going to give me?
-Sure, which Pokemon are you going to give me?
+De acuerdo, ¿qué Pokémon me vas a dar a cambio?
 That's too bad!
 ¡Qué mala suerte!
 Perfect, let's get started!
 ¡Perfecto, comencemos!
 Take good care of Caterbat!
-Take good care of Caterbat!
+¡Cuida mucho de Caterbat!
 You don't want to trade? Aww,,,
-You don't want to trade? Aww,,,
+¿No quieres intercambiar? ¡Awww...!
 Yeah! Let's get started!
-Yeah! Let's get started!
+¡Sí! ¡Comencemos!
 Take good care of Weebat!
-Take good care of Weebat!
+¡Cuida mucho de Weebat!
 Aww shucks! Well let me know if you change your mind!
-Aww shucks! Well let me know if you change your mind!
+¡Qué lástima! ¡Avísame si cambias de opinión!
 The bug Pokemon you gave me is so cool!
-The bug Pokemon you gave me is so cool!
+¡El Pokémon Bicho que me diste es genial!
 I promise I'll take good care of it!
-I promise I'll take good care of it!
+¡Te prometo que lo cuidaré muy bien!
 Viridian Forest\nNorth: Pewter City\nSouth: Viridian City
-Viridian Forest\nNorth: Pewter City\nSouth: Viridian City
+Bosque Verde\nNorte: Ciudad Plateada\nSur: Ciudad Verde
 It's an empty Pokémon nest.
-It's an empty Pokémon nest.
+Es un nido Pokémon vacío.
 The angry parent attacked!
+¡El padre enfurecido ha atacado!
+EV030
 EV030
 This is a dead end... Let's battle!
-This is a dead end... Let's battle!
+¡Este camino no tiene salida...! ¡Combatamos!
 Just you wait until my Pokémon evolves!
-Just you wait until my Pokémon evolves!
+¡Ya verás cuando mi Pokémon evolucione!
 Are you lost?
-Are you lost?
+¿Te has perdido?
 I'd love to help you, but I'm just as lost as you are!
-I'd love to help you, but I'm just as lost as you are!
+Me encantaría ayudarte, ¡pero estoy tan perdido como tú!
 Hopefully this can help a little!
-Hopefully this can help a little!
+¡Espero que esto te sirva de ayuda!
 Come with me, we'll have it examined at the lab!
-Come with me, we'll have it examined at the lab!
+¡Ven conmigo! Haremos que lo examinen en el laboratorio.
 Hey, look at my cool bug Pokemon!
-Hey, look at my cool bug Pokemon!
+¡Oye, mira qué genial es mi Pokémon Bicho!
 Wow, that was a good battle. Say, you want to have another one?
-Wow, that was a good battle. Say, you want to have another one?
+¡Guau, fue un buen combate! Oye, ¿te gustaría tener otro?
 Whoo, great battle, once again!
-Whoo, great battle, once again!
+¡Uoooh, otro gran combate!
 You beat me at my own game. I'll never be able to live it down!
 Me venciste en mi propio juego. ¡Nunca podré superar esta derrota!
 It's a Pokémon egg... Take it?
