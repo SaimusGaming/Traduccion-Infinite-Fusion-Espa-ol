@@ -2904,8 +2904,6 @@ It's an empty Pokémon nest.
 Es un nido Pokémon vacío.
 The angry parent attacked!
 ¡El padre enfurecido ha atacado!
-EV030
-EV030
 This is a dead end... Let's battle!
 ¡Este camino no tiene salida...! ¡Combatamos!
 Just you wait until my Pokémon evolves!
@@ -3016,15 +3014,15 @@ Se han reiniciado los botones.
 The first lock was deactivated!
 ¡La primera llave de seguridad fue desactivada!
 There's nothing but trash...
-There's nothing but trash...
+No hay más que basura...
 Yo! Champ in making! Lt. Surge has a nickname. People refer to him as the Lightning American! He's an expert on \V[5] Pokémon!
-¡Yo! ¡Futuro campeón! ¡El Teniente Surge tiene un apodo! ¡La gente lo llama el Americano Rayo! ¡Es un experto en Pokémon de \V[5]!
+¡Oye! ¡Futuro campeón! ¡El Teniente Surge tiene un apodo! ¡La gente lo llama el Rayo Americano! ¡Es un experto en Pokémon de \V[5]!
 Lt. Surge is very cautious! You'll have to break a code to get to him!
 ¡El Teniente Surge es muy precavido! ¡Tendrás que descifrar un código para llegar hasta él!
 Take this!
 ¡Toma esto!
 Yo! Champ in making! Lt. Surge has a nickname. People refer to him as the Lightning American! He's an expert on \V[5]  Pokémon!
-¡Yo! ¡Futuro campeón! ¡El Teniente Surge tiene un apodo! ¡La gente lo llama el Americano Rayo! ¡Es un experto en Pokémon de \V[5]!
+¡Oye! ¡Futuro campeón! ¡El Teniente Surge tiene un apodo! ¡La gente lo llama el Americano Rayo! ¡Es un experto en Pokémon de \V[5]!
 Whew! That match was \V[5]!
 ¡Uf! ¡Ese combate estuvo \V[5]!
 This is no place for kids!
@@ -4062,7 +4060,7 @@ On your command!
 Grunts, now that you've all received your Pokémon, I have a mission to assign you.
 Reclutas, ahora que todos habéis recibido vuestros Pokémon, tengo una misión que asignaros.
 Lately. the Game Corner's supply of TMs has been running low. As you know, the Game Corner is vital to finance our operations here in Celadon City...
-Lately. the Game Corner's supply of TMs has been running low. As you know, the Game Corner is vital to finance our operations here in Celadon City...
+Últimamente, el Casino se está quedando sin existencias de MT. Como sabes, el Casino es fundamental para financiar nuestras operaciones aquí en Ciudad Azulona...
 Now, it just so happens that the Celadon Department Store is expecting a new shipment of TMs this week.
 Pues resulta que los grandes almacenes de Ciudad Azulona esperan recibir un nuevo cargamento de MT esta semana.
 I will need you to intercept the shipment, then to pose as the delivery person and deliver these fake TMs instead.
@@ -4636,7 +4634,7 @@ That's a great specimen! Are you sure you want to release it? You won't be able 
 Thank you, \V[2] will live a happy life in the wilds of Pinkan Island! Here's a little something for your trouble.
 Gracias, \V[2] vivirá feliz en la naturaleza de la Isla Pinkan. ¡Aquí tienes algo por tu ayuda!
 Let me heal your Pokémon, too.
-Let me heal your Pokémon, too.
+Déjame curar también a tus Pokémon.
 Come back to me if you decide to release your Pokémon.
 Ven a verme si decides liberar a tus Pokémon.
 Wait- no. Pinkan Island is a dangerous place, you need to keep at least one Pokémon with you.
@@ -5066,7 +5064,7 @@ No
 Keep my company 'til I get a hit!
 ¡Acompáñame hasta que logre acertar!
 That burned some time.
-That burned some time.
+Eso nos hizo perder algo de tiempo.
 You beat me at Pokémon, but I'm good at fishing!
 ¡Me ganaste en la batalla, pero nadie me supera pescando!
 Here, have those. They'll help you at fishing!
@@ -5076,7 +5074,7 @@ Oh wait! I got a bite! Yeah!
 Hey, don't scare away the fish!
 ¡Eh, no asustes a los peces!
 Sorry! I didn't mean it!
-Sorry! I didn't mean it!
+¡Lo siento! ¡No fue mi intención!
 I was just angry that I couldn't catch anything.
 Es que me enojé porque no pude atrapar nada.
 Here, take this. I found it earlier, but I have no use for it.
@@ -5084,7 +5082,7 @@ Toma, quédate con esto. Lo encontré antes, pero no me sirve.
 Right now, I'm in a triathlon meet!
 ¡En este momento participo en un triatlón!
 Pant...pant...pant...
-Pant...pant...pant...
+Jadeo... jadeo... jadeo...
 So, should we have a rematch?
 Entonces, ¿hacemos una revancha?
 Yes! Let's do this!
@@ -5108,7 +5106,7 @@ Put on some sunscreen or you'll get sunburnt!
 You want to know if the fish are biting?
 ¿Quieres saber si hoy muerden los peces?
 Dang!
-Dang!
+¡Rayos!
 I can't catch anything good! Let's battle again!
 ¡No logro pescar nada bueno! ¡Vamos a combatir de nuevo!
 I'll be here if you need to train up!
@@ -5555,7 +5553,7 @@ Es un globo terráqueo de aspecto complejo. Mejor no tocarlo.
 This is Professor Oak's Pokeball. Better not touch it!
 Esta es la Pokéball del Profesor Oak. No la toques.
 Do you want to choose \V[5]?
-Do you want to choose \V[5]?
+¿Quieres elegir \V[5]?
 There's nothing in here, what did you expect?
 No hay nada aquí, ¿qué esperabas?
 A soap opera is playing on the TV...
@@ -5815,9 +5813,9 @@ We also carry Pokeballs for catching Pokemon!
 Sorry buddy, but the Gym Leader is out of town. You'll have to come back in a while.
 Lo siento, amigo, pero el Líder de Gimnasio está fuera de la ciudad. Tendrás que volver más tarde.
 \PN! I heard there was something happening in Cinnabar Island.
-\PN! I heard there was something happening in Cinnabar Island.
+¡\PN! Me enteré de que estaba pasando algo en Isla Canela.
 Anyway, the Gym Leader still hasn't been back.
-Anyway, the Gym Leader still hasn't been back.
+En fin, el líder del gimnasio todavía no ha regresado.
 Nobody knows who he his or where he is. There's no telling when he'll be back.
 Nadie tiene idea de quién es o dónde se fue.
 Good grief, Grandpa! Sleeping here of all places!
@@ -5853,7 +5851,7 @@ Gimnasio de Ciudad Verde
 Gym Leader: Giovanni
 Líder de Gimnasio: Giovanni
 Chirp! Chirp chirp!
-Chirp! Chirp chirp!
+¡Pío! ¡Pío, pío!
 \PN!
 ¡\PN!
 Remember me? I'm the scientist who helped you save \V[144] in Cinnabar Island!
@@ -6656,9 +6654,9 @@ Denegar
 A Skull fossil is displayed. It's fossil of the extinct Pokémon Cranidos.
 Se muestra un fósil de cráneo. Es el fósil del Pokémon extinto Cranidos.
 This Pokémon lived in the Sinnoh region 100 million years ago.
-This Pokémon lived in the Sinnoh region 100 million years ago.
+Este Pokémon vivió en la región de Sinnoh hace 100 millones de años.
 They lived in jungles and used their rock-hard heads to headbutt each other to fight for females.
-They lived in jungles and used their rock-hard heads to headbutt each other to fight for females.
+Vivían en junglas y usaban sus duras cabezas para embestirse entre sí y luchar por las hembras.
 An Armor fossil is displayed. It's fossil of the extinct Pokémon Shieldon.
 Se muestra un fósil de armadura. Es el fósil del Pokémon extinto Shieldon.
 This Pokémon lived in the Sinnoh jungles around 100 million years ago. Its facial hide was extremely hard.
@@ -7231,7 +7229,7 @@ No tienes espacio en tu equipo para guardar el huevo.
 It's an empty Pokémon nest...
 Es un nido Pokémon vacío...
 The angry parent attacked!
-EV030
+¡El padre enfurecido ha atacado!
 People should be flocking back to Saffron now that Team Rocket is gone.
 Nadie entra ni sale de la ciudad, ¡esa es la orden de Giovanni!
 No one's coming in or out the city, That's Giovanni's order! The train station's off-limit.
@@ -8745,13 +8743,13 @@ That's too bad!
 Which Team are you? Mystic, Valor or Instinct?
 ¿A qué Equipo perteneces? ¿Mystic, Valor o Instinct?
 Woops! Wrong game!
-Woops! Wrong game!
+¡Ups! ¡Me equivoqué de juego!
 I kept trying to tap the screen to attack, but it wasn't working!
 ¡Seguía tocando la pantalla para atacar, pero no funcionaba!
 Here take these, I don't need them in this game!
 ¡Toma esto, no los necesito en este juego!
 The angry parent attacked!
-EV030
+¡El padre enfurecido ha atacado!
 Yes
 Sí
 No
@@ -8769,7 +8767,7 @@ Zapdos voló lejos...
 Wow, look at all those badges! I'm impressed. But you're not satisfied by just collecting them, right?
 ¡Wow, mira todas esas medallas! Estoy impresionado. Pero no te conformaras con solo coleccionarlas, ¿verdad?
 Good battle!
-Good battle!
+¡Buen combate!
 People and Pokémon grow from their experiences. Don't get lazy and complacent.
 Las personas y los Pokémon crecen con sus experiencias. No te vuelvas perezoso ni complaciente.
 Do you want a rematch by the way?
@@ -8779,13 +8777,13 @@ I'll be here if you change your mind!
 If you can get through Victory Road, you can go meet the Elite Four!
 Si logras pasar el Camino Victoria, ¡podrás conocer a los Elite Four!
 No! Unbelievable!
-No! Unbelievable!
+¡No! ¡No puede ser!
 I can beat you when it comes to knowledge about Pokémon!
 ¡Te puedo ganar cuando se trata de conocimiento sobre Pokémon!
 I'm feeling great today! I feel like I could boot even the League Champ!
 ¡Me siento genial hoy! ¡Siento que podría vencer incluso al Campeón de la Liga!
 No! Not in this battle!
-No! Not in this battle!
+¡No! ¡No en este combate!
 I just reeled this in, but I've got no use for it. Here, you can have it!
 Acabo de pescar esto, pero no lo necesito. ¡Aquí, puedes quedártelo!
 Just like fishing, it's all over in Pokémon if you give up.
@@ -8795,7 +8793,7 @@ No hay nada allí.
 You shouldn't underestimate the wild Pokémon in these parts.
 No deberías subestimar a los Pokémon salvajes de esta zona.
 Oh! You're much too strong!
-Oh! You're much too strong!
+¡Oh! ¡Eres demasiado fuerte!
 You're just a kid, but you're not to be underestimated either.
 Eres solo un niño, pero tampoco debes ser subestimado.
 Do you want to be my training partner? Let's have another battle!
@@ -8805,7 +8803,7 @@ I don't believe it! You're going to regret this!
 I wonder if you are good enough for me!
 Me pregunto si eres lo suficientemente bueno para mí.
 I lost out!
-I lost out!
+¡Salí perdiendo!
 You're certainly good enough for me. Want to fight again?
 Ciertamente eres lo suficientemente bueno para mí. ¿Quieres pelear otra vez?
 Can't lose if you don't play!
@@ -8815,7 +8813,7 @@ I never wanted to lose to anybody!
 I'll show you just how good you are!
 ¡Te mostraré qué tan bueno eres!
 I'm furious!
-I'm furious!
+¡Estoy furioso!
 How about another fight to make sure you're ready for Victory Road?
 ¿Qué tal otra pelea para asegurarte de que estás listo para el Camino Victoria?
 You're certainly one confident kid!
@@ -8823,13 +8821,13 @@ You're certainly one confident kid!
 Come on! I'll whip you!
 ¡Vamos! ¡Te voy a derrotar!
 I got whipped!
-I got whipped!
+¡Me dieron una paliza!
 You earned the right to go on the Victory Road!
 ¡Te ganaste el derecho de seguir por el Camino Victoria!
 You've made it to the Victory Road. Now let's see if you're worthy!
 Has llegado al Camino Victoria. Ahora veamos si eres digno.
 Oh! So strong!
-Oh! So strong!
+¡Oh! ¡Qué fuerte eres!
 By fighting tough battles, you get stronger! Want to fight again?
 ¡Al pelear batallas difíciles, te vuelves más fuerte! ¿Quieres pelear otra vez?
 Don't worry about it!
@@ -8844,7 +8842,7 @@ No
 C'mon, c'mon. Let's go, let's go, let's go!
 Vamos, vamos. ¡Vamos, vamos, vamos!
 Arrg! Lost! Get lost!
-Arrg! Lost! Get lost!
+¡Argh! ¡Perdí! ¡Lárgate!
 What, what, what? What do you want?
 ¿Qué, qué, qué? ¿Qué quieres?
 Oh, you want to have another fight?
@@ -8862,7 +8860,7 @@ Todavía quedan Pokémon por limpiar de la Ruta Ciclista.
 Nice bike, how's it handle?
 Linda bici, ¿cómo se maneja?
 Shoot!
-Shoot!
+¡Maldición!
 The slope makes it hard to steer!
 ¡La pendiente hace difícil controlar!
 Wanna try another battle?
@@ -8872,19 +8870,19 @@ What's the matter? You don't like battling?
 What kind of puny bike are you riding?
 ¿Qué tipo de bici tan débil usas?
 A bicycle? Never heard of it!
-A bicycle? Never heard of it!
+¿Una bicicleta? ¡Nunca había oído hablar de eso!
 Are you looking for adventure? Want another fight?
 ¿Buscas aventura? ¿Quieres otra pelea?
 Vrrrrrroooom!
 ¡Vrrrrrroooom!
 Smoked!
-Smoked!
+¡Te hice pedazos!
 Well that's no fun!
 ¡Pues eso no es divertido!
 Be a a rebel!
 ¡Sé un rebelde!
 Aaaargh!
-Aaaargh!
+¡Aaaargh!
 Be ready to fight for your beliefs!
 ¡Prepárate para pelear por tus creencias!
 Again?
@@ -8894,7 +8892,7 @@ Downer!
 We're bikers! Highway stars!
 ¡Somos ciclistas! ¡Estrellas de la carretera!
 What the...?
-What the...?
+¿Qué demonios...?
 Good stuff is lying around on the Cycling Road.
 Hay cosas buenas tiradas por la Ruta Ciclista.
 Here's something I found just a bit earlier.
@@ -8902,7 +8900,7 @@ Aquí hay algo que encontré hace un rato.
 There's no money in fighting kids!
 ¡No hay dinero en pelear con niños!
 I'm losing money here!
-I'm losing money here!
+¡Estoy perdiendo dinero aquí!
 We're building a new resting area here beside the Cycling Road.
 Estamos construyendo un nuevo área de descanso junto a la Ruta Ciclista.
 We have to bring dirt from elsewhere by boat and flatten it using this bulldozer. It's a lot of work.
@@ -8932,7 +8930,7 @@ Better luck next time!
 You heading to Fuchsia City?
 ¿Vas hacia Ciudad Fucsia?
 Crash and burn!
-Crash and burn!
+¡Te hice polvo!
 I love racing downhill!
 ¡Me encanta correr cuesta abajo!
 One more fight before you head down?
@@ -8942,7 +8940,7 @@ En garde!
 I need a little exercise!
 Necesito un poco de ejercicio.
 Good workout!
-Good workout!
+¡Buen entrenamiento!
 I'm sure I lost weight there! Want another fight?
 ¡Estoy seguro que bajé de peso ahí! ¿Quieres otra pelea?
 Some other day then!
@@ -8962,13 +8960,13 @@ Bueno, está bien.
 Get ready!
 ¡Prepárate!
 Set ...
-¡Listos...
+Listos...
 Go !!!
-¡Ya!
+¡¡¡Ya!!!
 It's a rule that you always have to be on a bike on the cycling road, but I never liked playing by the rules!
 Está regla dice que siempre tienes que ir en bici en la ruta ciclista, pero nunca me gustó jugar con reglas.
 Whoo!
-Whoo!
+¡Yuju!
 Wanna fight again?
 ¿Quieres pelear otra vez?
 Yes
@@ -8979,7 +8977,7 @@ No
 I'm making my final preparations for the Pokémon League.
 Estoy haciendo los preparativos finales para la Liga Pokémon.
 I blew it!
-I blew it!
+¡Lo arruiné!
 It's going to be tough to win at the League. I need to do some more training.
 Será difícil ganar en la Liga. Necesito entrenar un poco más.
 Want to train together?
@@ -8999,13 +8997,13 @@ Don't say a thing! Let me guess what you're thinking.
 Mmmmmmm...\nI got it! You're on the Pokémon League challenge!
 Mmmmmmm... \n¡Ya lo tengo! ¡Estás en el desafío de la Liga Pokémon!
 You're too much!
-You're too much!
+¡Eres demasiado bueno!
 With your skills, you'll do well at the League. That's what my premonition says.
 Con tus habilidades, te irá bien en la Liga. Eso es lo que dice mi premonición.
 I lost to a trainer named \V[12]. He was really strong... Maybe even enough to hold his own against the Elite Four!
-I lost to a trainer named \V[12]. He was really strong... Maybe even enough to hold his own against the Elite Four!
+Perdí contra un entrenador llamado \V[12]. Era muy fuerte... ¡Quizás incluso lo suficiente como para enfrentarse al Alto Mando!
 Incredible!
-Incredible!
+¡Impresionante!
 You might be able to hold your own against the Elite Four as well!
 ¡Tú también podrías enfrentarte al Alto Mando!
 It would be an honor to battle you again. What do you say?
@@ -9019,29 +9017,29 @@ Me venciste en mi propio juego. ¡Nunca podré superar esta derrota!
 You look pretty strong. Let me battle you!
 Te ves bastante fuerte. ¡Déjame luchar contigo!
 Oh! You're really strong!
-Oh! You're really strong!
+¡Oh! ¡Eres muy fuerte!
 If you prevail on this harsh trek, the truth will be revealed!
 ¡Si superas esta dura travesía, se revelará la verdad!
 Since you've come this far, you must be good. I'm going to give this battle everything I've got!
 Si has llegado tan lejos, debes ser bueno. ¡Voy a darlo todo en esta batalla!
 No! I don't believe this!
-No! I don't believe this!
+¡No! ¡No puedo creerlo!
 You're even stronger than a Gym Leader! Please let me battle you again.
 ¡Eres incluso más fuerte que un Líder de Gimnasio!Por favor, deja que luche contigo otra vez.
 I'll be here if you change your mind!
 ¡Estaré por aquí si cambias de opinión!
 I've defeated eight Gym Leaders, so I was feeling confident. I'll have to try harder next time.
-I've defeated eight Gym Leaders, so I was feeling confident. I'll have to try harder next time.
+He derrotado a ocho líderes de gimnasio, así que tenía bastante confianza. Tendré que esforzarme más la próxima vez.
 Tweet! Tweet! Tetweet!!
-Tweet! Tweet! Tetweet!!
+¡Pío! ¡Pío! ¡Pipío!
 Tweet!
-Tweet!
+¡Pío!
 Bird keepers like me mimic bird whistles to command Pokémon.
 Los Entrenadores de aves como yo imitan silbidos de aves para dar órdenes a los Pokémon.
 By experiencing tough battles, you gain power.
 Al vivir batallas difíciles, obtienes poder.
 Gaah! Life is even tougher!
-Gaah! Life is even tougher!
+¡Aaah! ¡La vida es cada vez más difícil!
 I'm the one who needs to get tougher. Please rebattle me!
 Soy yo quien necesita hacerse más fuerte. ¡Lucha conmigo otra vez!
 To get to Pokémon League, you have to get through Victory Road.
@@ -9608,7 +9606,7 @@ Una pelea de tres por supuesto ¿Qué pensaste que quise decir?!
 I hope you know how to swim, because my water Pokémon are about to completely submerge you!
 Espero que sepas nadar porque mis Pokémon de agua están a punto de sumergirte por completo
 Fine, you win!
-Fine, you win!
+¡Está bien, ganaste!
 Well you certainly know your way around a Pokémon fight!
 Vaya sí que sabes cómo pelear con Pokémon
 Do you want to have another battle?
@@ -9620,7 +9618,7 @@ El Pokémon salvaje huyó de nuevo a las montañas
 I was trying to evolve my Magikarp, but I think something went wrong!
 Intentaba evolucionar a mi Magikarp pero creo que algo salió mal
 I wish I had a real Gyarados!
-I wish I had a real Gyarados!
+¡Ojalá tuviera un Gyarados de verdad!
 Here, I want you to have this!
 Toma quiero que tengas esto
 I'm sure you'll put it to better use than me!
@@ -9628,9 +9626,9 @@ Estoy seguro de que le darás un mejor uso que yo
 Come on! Use \C[1]Strength\C[0]!
 Vamos usa \C[1]Fuerza\C[0]
 Urghh... How is it not working? It always works perfectly on boulders!
-Urghh… ¿Cómo es que no funciona? Siempre funciona perfectamente en rocas
+Urghh... ¿Cómo es que no funciona? Siempre funciona perfectamente en rocas
 Hey! This Snorlax has been blocking the way for days. It's so heavy that nothing can move it.
-Oye este Snorlax ha estado bloqueando el camino durante días Es tan pesado que nada lo puede mover
+¡Oye! Este Snorlax ha estado bloqueando el camino durante días, Es tan pesado que nada lo puede mover.
 I tried everything but it won't budge at all!
 Intenté todo pero no se mueve para nada
 You're going to Lavender Town?
@@ -9640,9 +9638,9 @@ Me temo que tendrás que ir por el Túnel Roca entonces No hay forma de rodearlo
 Maybe there's a way to wake it up...
 Tal vez haya una forma de despertarlo
 Woah! The way is clear!
-Woah el camino está libre
+¡Woah! el camino está libre
 Finally!
-Por fin
+¡Por fin!
 Waking it up with a PokéFlute... I never would've thought of that!
 Despertarlo con una PokéFlauta… nunca se me habría ocurrido
 I guess that Koga was right, brute strength isn't always the best strategy!
@@ -9650,13 +9648,13 @@ Supongo que Koga tenía razón la fuerza bruta no siempre es la mejor estrategia
 You're a real lifesaver! Let me give you something for your trouble.
 Eres un verdadero salvador Déjame darte algo por tu ayuda
 I'll be on my way to Fuchsia city! I'm already late for my training session with Koga!
-Me voy a Ciudad Fucsia Ya llego tarde a mi entrenamiento con Koga
+¡Me voy a Ciudad Fucsia! Ya llego tarde a mi entrenamiento con Koga...
 Thanks for helping out!
-Gracias por la ayuda
+¡Gracias por la ayuda!
 Electricity is my specialty!
-La electricidad es mi especialidad
+¡La electricidad es mi especialidad!
 Woah there!
-Woah there!
+¡Eh, espera!
 Water conducts electricity, so you should zap sea Pokémon!
 El agua conduce la electricidad así que deberías electrocutar Pokémon marinos
 Say, wanna have a rematch?
@@ -9666,23 +9664,23 @@ Zap zap zap!
 That's fine. You can find me here all day!
 Está bien puedes encontrarme aquí todo el día
 Yeah! I got a bite here!
-Sí piqué algo aquí
+¡Sí! ¡Piqué algo aquí!
 Hang on! My line's snagged!
 ¡Espera! ¡Mi sedal se ha enganchado!
 Hey, do you want to have another battle?
-Oye quieres tener otra batalla
+Oye, ¿Quieres tener otra batalla?
 Hang on! My line's snagged again!
 ¡Espera! ¡Mi sedal se ha vuelto a enganchar!
 Oh my! I reeled in a big one!
-Oh cielos pesqué uno grande
+¡Oh cielos! ¡Pesqué uno grande!
 Woah! That was intense!
-Woah! That was intense!
+¡Guau! ¡Eso estuvo intenso!
 With a better rod, I could catch better Pokémon!
 Con una mejor caña podría atrapar mejores Pokémon
 Be patient! Fishing is a waiting game!
 Ten paciencia, pescar es un juego de esperar
 You defeated my army of fish!
-You defeated my army of fish!
+¡Derrotaste a todo mi ejército de peces!
 Are your Pokémon ready to take another dive with me?
 ¿Tus Pokémon están listos para otra zambullida conmigo?
 Your Pokémon better put on their raincoats!
@@ -9692,7 +9690,7 @@ No te preocupes vuelve cuando estés listo y tendremos otra pelea
 You look pretty strong. Let's battle!
 Te ves bastante fuerte vamos a luchar
 I've got nothing on you!
-I've got nothing on you!
+¡No tengo nada que hacer contra ti!
 Hey, you wanna have another battle, maybe?
 Oye quizá quieras tener otra batalla
 You don't know what you're getting yourself into!
@@ -9704,15 +9702,15 @@ You glitched through the walls just to come see me all the way over here?
 Truly admirable. You deserve this!
 Realmente admirable mereces esto
 I was never here. You never saw me!
-Nunca estuve aquí nunca me viste
+Nunca estuve aquí. ¡Nunca me viste!
 Gauhh!
-Gauhh
+¡Gauhh!
 Two against one. Is that fair?
-Dos contra uno eso es justo
+Dos contra uno. ¿Es eso justo?
 You look like you can handle it!
-Parece que puedes con ello
+¡Parece que puedes con ello!
 My darling and I were going to Fuschia City, but we stopped here for a while to enjoy the view!
-Mi amorcito y yo íbamos a Ciudad Fucsia pero nos detuvimos aquí un rato para disfrutar la vista
+Mi amorcito y yo íbamos a Ciudad Fucsia, ¡Pero nos detuvimos aquí un rato para disfrutar la vista!
 pokeflute
 pokeflauta
 Yes
@@ -10074,7 +10072,7 @@ Se descubrió un nuevo Pokémon en lo más profundo de la selva.
 I come here to test out my explosives!
 ¡Vengo aquí a probar mis explosivos!
 BOOM!!!
-BOOM!!!
+¡¡¡BOOOOM!!!
 Here, you can have this.
 Toma, puedes quedarte con esto.
 It's important to have Burn Heals on hand when working with explosives!
@@ -13320,7 +13318,7 @@ No
 No
 [Map276]
 Puuu!
-Puuu!
+¡Puuu!
 It's full of trash.
 Está llena de basura.
 Hey! Where do you think you're going?
@@ -13381,7 +13379,7 @@ Slowpoke evoluciona a Slowbro cuando un Shellder le muerde la cola.
 I wonder if I could get this Shellder to evolve by feeding it a SlowpokeTail.
 Me pregunto si podría hacer evolucionar a este Shellder dándole de comer una Cola de Slowpoke.
 Schwaah!
-Schwaah!
+¡Schwaah!
 I know all about Bug-type Pokémon!
 ¡Lo sé todo sobre los Pokémon de tipo Bicho!
 When I'm older, I want to be a Gym Leader like uncle Kurt!
@@ -15869,7 +15867,7 @@ Want to have a rematch?
 Can you tell me which way is the exit?
 ¿Puedes decirme por dónde está la salida?
 The angry parent attacked!
-EV030
+¡El padre enfurecido ha atacado!
 Hit me with your best shot!
 ¡Dame tu mejor golpe!
 Fired away!
